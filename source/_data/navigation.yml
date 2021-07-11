@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+  side: left
+- name: About
+  link: /about.html
+  side: right
+- name: Blog
+  link: /blog.html
+  side: left
+- name: Us
+  link: /us.html
+  side: right

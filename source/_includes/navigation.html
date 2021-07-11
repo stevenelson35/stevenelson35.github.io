@@ -1,0 +1,16 @@
+<nav>
+  {% for litem in site.data.navigation %}
+    {% if litem.side == 'left' %}
+      <li class="fork"><a href="{{ litem.link }}">
+        {{ litem.name }}
+      </a></li>
+    {% endif %}
+  {% endfor %}
+  {% for ritem in site.data.navigation %}
+    {% if ritem.side == 'right' %}
+      <li class="downloads"><a href="{{ ritem.link }}">
+        {{ ritem.name }}
+      </a></li>
+    {% endif %}
+  {% endfor %}
+</nav>
