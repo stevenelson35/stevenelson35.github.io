@@ -159,7 +159,7 @@ dt {
   left:0;
   top: 0px;
   height: 60px;
-  width: 100%;
+  width: 100vw; 
   position: fixed;
   background: url(../images/nav-bg.gif) #353535;
   border-bottom: 4px solid #434343;
@@ -207,7 +207,7 @@ dt {
 
       &.fork {
         float: left;
-        margin-left: 0px;
+        margin-right: 6px;
       }
 
       &.downloads {
