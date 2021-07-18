@@ -1,5 +1,6 @@
 <nav>
-{% for litem in site.data.navigation %}
+  </br>
+  {% for litem in site.data.navigation %}
     {% if litem.side == 'left' %}
       <li class="fork"><a href="{{ litem.link }}">
         {{ litem.name }}
@@ -13,4 +14,4 @@
       </a></li>
     {% endif %}
   {% endfor %}
-  </nav>
+</nav>
