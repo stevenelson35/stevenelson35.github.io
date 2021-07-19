@@ -36,7 +36,6 @@ div.a {
 <div id="smart-button-container">
       <div style="text-align: center;">
         <div style="margin-bottom: 1.25rem;">
-          <p>Blog</p>
           <select id="item-options"><option value="1k pixels" price="5">1k pixels - 5 USD</option><option value="2k pixels" price="10">2k pixels - 10 USD</option><option value="5k pixels" price="20">5k pixels - 20 USD</option><option value="250k pixels" price="50">250k pixels - 50 USD</option><option value="1million pixels" price="100">1million pixels - 100 USD</option><option value="50million pixels" price="500">50million pixels - 500 USD</option><option value="500 million pixels" price="1000">500 million pixels - 1000 USD</option><option value="all the pixels" price="10000">all the pixels - 10000 USD</option><option value="all the pixels+" price="100000">all the pixels+ - 100000 USD</option></select>
           <select style="visibility: hidden" id="quantitySelect"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option></select>
         </div>
@@ -53,7 +52,7 @@ div.a {
     if (!isNaN(quantity)) {
       quantitySelect.style.visibility = "visible";
     }
-    var orderDescription = '';
+    var orderDescription = 'Blog';
     if(orderDescription === '') {
       orderDescription = 'Item';
     }
