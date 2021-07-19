@@ -27,8 +27,12 @@ div.a {
   <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
   </script>
 </div>
-</div>
 
+</br>
+</br>
+</br>
+<h3>PayPal</h3>
+</br>
 <div id="smart-button-container">
       <div style="text-align: center;">
         <div style="margin-bottom: 1.25rem;">
@@ -49,7 +53,7 @@ div.a {
     if (!isNaN(quantity)) {
       quantitySelect.style.visibility = "visible";
     }
-    var orderDescription = 'Blog';
+    var orderDescription = '';
     if(orderDescription === '') {
       orderDescription = 'Item';
     }
@@ -59,7 +63,7 @@ div.a {
         color: 'blue',
         layout: 'horizontal',
         label: 'paypal',
-        tagline: true
+        tagline: false
       },
       createOrder: function(data, actions) {
         var selectedItemDescription = itemOptions.options[itemOptions.selectedIndex].value;
@@ -121,3 +125,5 @@ div.a {
   }
   initPayPalButton();
     </script>
+</div>
+
