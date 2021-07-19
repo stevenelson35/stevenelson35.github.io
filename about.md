@@ -13,4 +13,5 @@ The blog site {{ site.title }}:
 - Supports comments using [Disqus](https://disqus.com). 
 - Handles subscriptions using [mailchimp](https://mailchimp.com). 
 - Tracks analytics at [Google Analytics](https://analytics.google.com).
+- Accepts donations with [Coinbase Commerce](https://commerce.coinbase.com).
 - And adds posts using [prose.io](https://prose.io).
