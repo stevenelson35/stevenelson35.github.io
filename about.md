@@ -2,7 +2,7 @@
 title: About
 published: true
 ---
-# About page
+# About
 
 This blog is a simple set of posts to share with family and friends.
 
