@@ -13,4 +13,8 @@ comments: true
 
 {{ content }}
 
+{% if page.comments %}
+  {% include disqus.html %}
+{% endif %}
+
 </br>
