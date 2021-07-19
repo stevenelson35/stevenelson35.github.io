@@ -10,7 +10,7 @@ layout: default
 <ul>
 	{% assign filtered_posts = site.posts | where: 'author', page.short_name %}
 	{% for post in filtered_posts %}
-          <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> - <a href="{{ site.url }}{{ post.url }}#disqus_thread">comment</a></li>
+          <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> - <a href="{{ site.url }}{{ post.url }}#disqus_thread"></a></li>
 	{% endfor %}
 </ul>
 <script id="dsq-count-scr" src="//itsallonesong.disqus.com/count.js" async></script>
