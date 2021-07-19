@@ -1,6 +1,8 @@
 title: Travelin' On
 description: A place to post some updates during our summer trip across the country.
 
+url: http://blog.itsallonesong.com
+
 collections:
   authors:
     output: true
