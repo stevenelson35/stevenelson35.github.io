@@ -3,6 +3,8 @@ description: A place to post some updates during our summer trip across the coun
 
 url: https://blog.itsallonesong.com/
 
+markdown: kramdown
+
 collections:
   authors:
     output: true
