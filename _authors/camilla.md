@@ -1,7 +1,7 @@
 ---
 short_name: camilla
 name: Camilla Nelson
-position: Space Veterinarian Farmer
+position: Space Farmer Veterinarian
 ---
 Camilla is all there is to know.
 
