@@ -7,7 +7,7 @@ title: Blog
 	{% for post in site.posts %}
 	<li>
 		<h2><a href="{{ post.url }}#disqus_thread">{{ post.title }}</a></h2>
-		    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> - <a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>
+		<a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>
 		{{ post.excerpt }}
 	</li>
 	{% endfor %}
