@@ -8,9 +8,9 @@ title: Blog
 	<li>
 		{% assign authordata = '' | split:'@' %}
                   {% for author in site.authors %}
-                    {% if page.author contains author.name or author.short_name == page.author %}
+                    {% if post.author contains author.short_name %}
                       {% capture data %}
-        	        <a href="{{ author.url }}">{{ author.name }}</a>
+        	        <a href="{{ site.url }}{{ author.url }}">{{ author.name }}</a>
                        {% endcapture %}
                      {% assign authordata = authordata | push: data %}
                    {% endif %}
