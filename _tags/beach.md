@@ -1,0 +1,4 @@
+---
+name: Beach
+---
+Beach posts
