@@ -10,7 +10,6 @@ collections:
     output: true
   tags:
     output: true
-    permalink: tag/:title/
 
 defaults:
   - scope:
