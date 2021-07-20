@@ -6,7 +6,16 @@ title: Blog
 <ul>
 	{% for post in site.posts %}
 	<li>
-		<h2><a href="{{ post.url }}#disqus_thread">{{ post.title }}</a></h2>
+		{% assign authordata = '' | split:'@' %}
+                  {% for author in site.authors %}
+                    {% if post.authors contains author.username or author.username == post.authors %}
+                      {% capture data %}
+        	        <a href="{{ site.url }}{{ site.baseurl }}/author/{{ author.username }}">{{ author.name }}</a>
+                       {% endcapture %}
+                     {% assign authordata = authordata | push: data %}
+                   {% endif %}
+                 {% endfor %}
+                 <p><h2><a href="{{ post.url }}">{{ post.title }}</a></h2> - Written by {{ authordata | array_to_sentence_string }}</p>
 		<a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>
 		{{ post.excerpt }}
 	</li>
