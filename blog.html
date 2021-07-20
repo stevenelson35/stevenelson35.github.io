@@ -8,15 +8,15 @@ title: Blog
 	<li>
 		{% assign authordata = '' | split:'@' %}
                   {% for author in site.authors %}
-                    {% if post.authors contains author.username or author.username == post.authors %}
+                    {% if post.authors contains author.name or author.short_name == post.authors %}
                       {% capture data %}
         	        <a href="{{ site.url }}{{ site.baseurl }}/author/{{ author.username }}">{{ author.name }}</a>
                        {% endcapture %}
                      {% assign authordata = authordata | push: data %}
                    {% endif %}
                  {% endfor %}
-                 <p><h2><a href="{{ post.url }}">{{ post.title }}</a></h2> - Written by {{ authordata | array_to_sentence_string }}</p>
-		<a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>
+                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+		  Written by {{ authordata | array_to_sentence_string }} - <a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>
 		{{ post.excerpt }}
 	</li>
 	{% endfor %}
