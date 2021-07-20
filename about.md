@@ -6,7 +6,9 @@ published: true
 
 This blog is a simple set of posts to share with family and friends.
 
-The blog site {{ site.title }}:
+{% include createdby.html %} 
+
+{{ site.title }} details:
 - Is hosted on [GitHub](https://www.github.com). 
 - Was created using [Jekyll](https://jekyllrb.com). 
 - Has a domain from [Yahoo! Smallbusiness](https://smallbusiness.yahoo.com). 
