@@ -5,13 +5,9 @@ title: Blog
 
 <ul>
 	{% for post in site.posts %}
-	{{ post.author }}
 	<li>
 		{% assign authordata = '' | split:'@' %}
-                  {% for author in site.authors %}
-		
-		{{ author.short_name }} compare {{ post.author }}
-		
+                  {% for author in site.authors %}	
                     {% if post.author contains author.short_name %}
                       {% capture data %}
         	        <a href="{{ site.url }}{{ author.url }}">{{ author.name }}</a>
