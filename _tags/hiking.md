@@ -1,0 +1,4 @@
+---
+name: hiking
+---
+Hiking posts
