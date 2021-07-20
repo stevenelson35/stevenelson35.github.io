@@ -8,6 +8,9 @@ markdown: kramdown
 collections:
   authors:
     output: true
+  tags:
+    output: true
+    permalink: tag/:title/
 
 defaults:
   - scope:
@@ -22,6 +25,10 @@ defaults:
       layout: "post"
   - scope:
       path: ""
+      type: tags
+    values:
+      layout: "tag"
+  - scope:
+      path: ""
     values:
       layout: "default"
-
