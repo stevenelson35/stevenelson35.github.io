@@ -10,7 +10,7 @@ title: Blog
                   {% for author in site.authors %}
                     {% if post.authors contains author.name or author.short_name == post.authors %}
                       {% capture data %}
-        	        <a href="{{ site.url }}{{ site.baseurl }}/author/{{ author.username }}">{{ author.name }}</a>
+        	        <a href="{{ author.url }}">{{ author.name }}</a>
                        {% endcapture %}
                      {% assign authordata = authordata | push: data %}
                    {% endif %}
