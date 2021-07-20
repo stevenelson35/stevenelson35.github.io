@@ -4,8 +4,13 @@ title: Tags
 
 <div id="archives">
 {% for tag in site.tags %}
+  {{ tag }} tag
+  
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
+    
+    {{ tag_name }} tag name
+    
     <div id="#{{ tag_name | slugize }}"></div>
     <p></p>
 
