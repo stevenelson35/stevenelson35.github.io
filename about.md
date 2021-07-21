@@ -11,7 +11,6 @@ This blog is a simple set of posts to share with family and friends.
 Details: {{ site.title }}
 - Is hosted on [GitHub](https://www.github.com). 
 - Was created using [Jekyll](https://jekyllrb.com).
--- Which uses [Markdown](https://daringfireball.net/projects/markdown/) for text-to-html conversion and [Liquid](https://shopify.github.io/liquid/) to process templates. 
 - Has a domain from [Yahoo! Smallbusiness](https://smallbusiness.yahoo.com). 
 - Supports comments using [Disqus](https://disqus.com). 
 - Provides search using [lunr.js](https://lunrjs.com/).
@@ -20,3 +19,7 @@ Details: {{ site.title }}
 - Accepts crypto with [Coinbase Commerce](https://commerce.coinbase.com).
 - Processes payments with [PayPal](https://paypal.com).
 - And adds posts using [prose.io](https://prose.io).
+
+Jekyll is a blog-aware static site builder that:
+- Performs text-to-html conversion with [Markdown](https://daringfireball.net/projects/markdown/).
+- Processes templates uwing [Liquid](https://shopify.github.io/liquid/). 
