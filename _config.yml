@@ -44,7 +44,20 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "post"
+      - name: "author"
+        field:
+          element: "multiselect"
+          label: "Add Authors"
+          placeholder: "Choose Authors"
+          options:
+            - name: "Camilla"
+              value: "camilla"
+            - name: "Linda"
+              value: "linda"
+            - name: "Steve"
+              value: "steve"
+           value: "steve"
       - name: "tags"
         field:
           element: "multiselect"
@@ -52,7 +65,7 @@ prose:
           placeholder: "Choose Tags"
           options:
             - name: "2021"
-              value: "2021"
+              value: "'2021'"
             - name: "Beach"
               value: "beach"
             - name: "Driving"
@@ -67,3 +80,5 @@ prose:
               value: "train"
             - name: "Vacation"
               value: "vacation"
+          value: "vacation"
+
