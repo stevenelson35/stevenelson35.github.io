@@ -1,6 +1,9 @@
 ---
-layout: blog
-published: false
+author: steve
+tags:
+ - vacation
+ - '2021'
+ - drive
 ---
 ## A New Post
 
