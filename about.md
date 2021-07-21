@@ -22,4 +22,4 @@ The {{ site.title }} site:
 
 Jekyll is a blog-aware static site builder that:
 - Performs text-to-html conversion with [Markdown](https://daringfireball.net/projects/markdown/).
-- Processes templates uwing [Liquid](https://shopify.github.io/liquid/). 
+- Processes templates using [Liquid](https://shopify.github.io/liquid/). 
