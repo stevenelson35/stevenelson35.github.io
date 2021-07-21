@@ -8,9 +8,10 @@ This blog is a simple set of posts to share with family and friends.
 
 {% include createdby.html %} 
 
-{{ site.title }} details:
+Details: {{ site.title }}
 - Is hosted on [GitHub](https://www.github.com). 
-- Was created using [Jekyll](https://jekyllrb.com). 
+- Was created using [Jekyll](https://jekyllrb.com).
+-- Which uses [Markdown](https://daringfireball.net/projects/markdown/) for text-to-html conversion and [Liquid](https://shopify.github.io/liquid/) to process templates. 
 - Has a domain from [Yahoo! Smallbusiness](https://smallbusiness.yahoo.com). 
 - Supports comments using [Disqus](https://disqus.com). 
 - Provides search using [lunr.js](https://lunrjs.com/).
