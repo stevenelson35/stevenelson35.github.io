@@ -8,7 +8,7 @@ This blog is a simple set of posts to share with family and friends.
 
 {% include createdby.html %} 
 
-Details: {{ site.title }}
+{{ site.title }}:
 - Is hosted on [GitHub](https://www.github.com). 
 - Was created using [Jekyll](https://jekyllrb.com).
 - Has a domain from [Yahoo! Smallbusiness](https://smallbusiness.yahoo.com). 
