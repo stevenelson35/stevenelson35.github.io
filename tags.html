@@ -6,8 +6,15 @@ title: Tags
 {% for tag in site.tags %}
   {% assign tag_downcase = tag.name | downcase %}
   {% assign num_posts = 0 %}
+  
+  {{ tag.name }}
+  {{ tag.tag_downcase }}
+  
   <h1>{{ tag.name }}</h1>
   {% for post in site.posts %}
+  
+    {{ post.tags }}
+  
     {% if post.tags contains tag_downcase %}
       {% assign num_posts = num_posts | plus:1 %}
       <li>
@@ -16,8 +23,11 @@ title: Tags
       </li>
     {% endif %}
   {% endfor %}
+  
+  {{ num_posts }}
+  
   {% if num_posts == 0 %}
-    No posts yet.
+  No posts yet.</br>
   {% endif %}
   </br>
 {% endfor %}
