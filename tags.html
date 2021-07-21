@@ -4,11 +4,11 @@ title: Tags
 
 <div id="archives">
 {% for tag in site.tags %}
-  {{ tag.name }}
+  {% assign tag_downcase = tag.name | downcase }}
   <h1>{{ tag.name }}</h1>
   {% for post in site.posts %}
   {{ post.tags }}
-    {% if post.tags contains tag.name %}
+    {% if post.tags contains tag_downcase %}
       <li>
         <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
         {{ post.excerpt }}
