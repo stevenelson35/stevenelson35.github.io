@@ -31,3 +31,52 @@ defaults:
       path: ""
     values:
       layout: "default"
+      
+prose:
+  rooturl: '_posts'
+  siteurl: 'https://blog.itsallonesong.com/'
+  media: 'assets/media'
+  ignore:
+    - index.html
+    - _config.yml
+    - _layouts
+    - _includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "2021"
+              value: "2021"
+            - name: "Beach"
+              value: "beach"
+            - name: "Driving"
+              value: "driving"
+            - name: "Food"
+              value: "food"
+            - name: "Hiking"
+              value: "hiking"
+            - name: "Summer"
+              value: "summer"
+            - name: "Train"
+              value: "train"
+            - name: "Vacation"
+              value: "vacation"
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "text"
+          label: "hidden"
+          value: "page"
+      -name: "permalink"
+        field:
+          element: "text"
+          label: "Permallink"
+          value: ""
