@@ -3,8 +3,6 @@ description: A place to post some updates during our summer trip across the coun
 
 url: https://blog.itsallonesong.com/
 
-markdown: kramdown
-
 collections:
   authors:
     output: true
@@ -69,14 +67,3 @@ prose:
               value: "train"
             - name: "Vacation"
               value: "vacation"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "text"
-          label: "hidden"
-          value: "page"
-      -name: "permalink"
-        field:
-          element: "text"
-          label: "Permallink"
-          value: ""
