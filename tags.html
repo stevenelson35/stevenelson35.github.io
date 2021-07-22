@@ -10,12 +10,13 @@ title: Tags
   {% assign tag_downcase = tag.name | downcase %}
   {% assign num_posts = 0 %}
   
-  <h2>< a href="{{ site.url }}{{ tag.url }}">{{ tag.name }}<a></h2>
+  <h2><a href="{{ site.url }}{{ tag.url }}">{{ tag.name }}<a></h2>
   {% for post in site.posts %}
   
     {% if post.tags contains tag_downcase %}
       {% assign num_posts = num_posts | plus:1 %}
       <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+    </br>
     {% endif %}
   {% endfor %}
   
