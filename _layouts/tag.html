@@ -17,7 +17,8 @@ layout: default
       - by <a href="{{ author.url }}">{{ author.name }}</a>
     {% endif %}
     </br>
-    {{ post.excerpt }}
+    {{- post.excerpt -}}
+    ...
     </li>
   {% endif %}
 {% endfor %}
