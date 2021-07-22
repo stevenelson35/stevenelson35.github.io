@@ -14,13 +14,18 @@ title: Tags
   
     {% if post.tags contains tag_downcase %}
       {% assign num_posts = num_posts | plus:1 %}
-      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> - {{ post.date | date_to_string }}
+      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+      - {{ post.date | date_to_string }}
+      {% assign author = site.authors | where: 'short_name', page.author | first %}
+      {% if author %}
+        - <a href="{{ author.url }}">{{ author.name }}</a>
+      {% endif %}
     </br>
     {% endif %}
   {% endfor %}
   
   {% if num_posts == 0 %}
-    No posts yet.</br></br>
+    No posts yet.</br>
   {% endif %}
   </br>
 </li>
