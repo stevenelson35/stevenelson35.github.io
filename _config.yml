@@ -54,6 +54,7 @@ prose:
           element: "multiselect"
           label: "Add Authors"
           placeholder: "Choose Authors"
+          value: "steve"
           options:
             - name: "Camilla"
               value: "camilla"
@@ -66,6 +67,7 @@ prose:
           element: "multiselect"
           label: "Add Tags"
           placeholder: "Choose Tags"
+          value: "vacation"
           options:
             - name: "2021"
               value: "\"2021\""
