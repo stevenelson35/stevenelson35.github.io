@@ -4,23 +4,23 @@ layout: default
 <h1>{{ page.name }}</h1>
 {% assign tag_downcase = page.name | downcase %}
 
-{{ tag_downcase }}
-
 {% assign num_posts = 0 %}
 {% for post in site.posts %}
 
-{{ post.tags }}
-
   {% if post.tags contains tag_downcase %}
     {% assign num_posts = num_posts | plus:1 %}
-    <li>
+    <ul>
     <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+    {% assign author = site.authors | where: 'short_name', post.author | first %}
+    {% if author %}
+      - by <a href="{{ author.url }}">{{ author.name }}</a>
+    {% endif %}
+    </br>
     {{ post.excerpt }}
-    </li>
+    </ul>
   {% endif %}
 {% endfor %}
 {% if num_posts == 0 %}
 No posts yet.</br>
 {% endif %}
 
-{{ num_posts }}
