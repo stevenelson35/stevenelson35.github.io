@@ -1,21 +1,20 @@
 ---
 title: Tags
 ---
+<h1>{{ page.title }}
 
-<div id="archives">
+<ul>
 {% for tag in site.tags %}
+  <li>
   {% assign tag_downcase = tag.name | downcase %}
   {% assign num_posts = 0 %}
   
-  <h1>{{ tag.name }}</h1>
+  <h2>{{ tag.name }}</h1>
   {% for post in site.posts %}
   
     {% if post.tags contains tag_downcase %}
       {% assign num_posts = num_posts | plus:1 %}
-      <li>
-        <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-        {{ post.excerpt }}
-      </li>
+      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
     {% endif %}
   {% endfor %}
   
@@ -23,5 +22,6 @@ title: Tags
   No posts yet.</br></br>
   {% endif %}
   </br>
+</li>
 {% endfor %}
-</div>
+</ul>
