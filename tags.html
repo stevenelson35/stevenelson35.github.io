@@ -9,7 +9,7 @@ title: Tags
   {% assign tag_downcase = tag.name | downcase %}
   {% assign num_posts = 0 %}
   
-  <h2><a href="{{ site.url }}{{ tag.url }}">{{ tag.name }}<a></h2>
+  <h2><a href="{{ site.url }}{{ tag.url }}">{{ tag.name }}</a></h2>
   {% for post in site.posts %}
   
     {% if post.tags contains tag_downcase %}
@@ -20,7 +20,7 @@ title: Tags
   {% endfor %}
   
   {% if num_posts == 0 %}
-    <p>No posts yet.</p></br></br>
+    No posts yet.</br></br>
   {% endif %}
   </br>
 </li>
