@@ -24,7 +24,7 @@ Hopefully tomorrow's route doesn't have traffic like we found going through Atla
 
 ![20210724_210138.jpg]({{site.baseurl}}/assets/media/20210724_210138.jpg)
 
-Some highlights of the drive were seeing a truck full of watermellons, which reminded my immediately of the Sonny and Cher hour episode with the Bionic Watermellon, and imagining a watermellon falling from the truck.  And then it happened. Right before our eyes.  I'd post a link to the video, but, after rewatching it, it really isn't worth your time.  
+Some highlights of the drive were seeing a truck full of watermelons, which reminded me immediately of the Sonny and Cher hour episode with the Bionic Watermellon, and imagining a watermellon falling from the truck.  And then it happened. Right before our eyes.  I'd post a link to the video, but, after rewatching it, it really isn't worth your time.  
 
 We also saw a truck emblazoned with the word *Serenity*, which reminded me of Seinfeld and how to deal with being stuck in traffic.
 
