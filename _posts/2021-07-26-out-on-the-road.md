@@ -3,8 +3,11 @@ layout: post
 author:
   - steve
 tags:
+  - "2021"
+  - driving
+  - summer
   - vacation
-published: false
+published: true
 title: Out On The Road
 ---
 A full day of driving brings us to Keokuk, IA.
@@ -12,7 +15,6 @@ A full day of driving brings us to Keokuk, IA.
 Lot's of screen time for Camilla today again as we travelled in six states in one day (and Tennessee twice)! [TN, GA, TN, KY, IL, MO, IA].  
 
 ![20210726_062744.jpg]({{site.baseurl}}/assets/media/20210726_062744.jpg)
-
 
 In Peducah, we ate lunch in quiet cemetary next to a subway (again with the lobby closed due to staff shortages).  Suprised how short some of the lives seemed as listed on the headstones.
 ![20210726_062647.jpg]({{site.baseurl}}/assets/media/20210726_062647.jpg)
@@ -26,5 +28,5 @@ We have a non-binding agreement that we will stop at the St. Louis arch or somew
 And we arrived in Keokuk (again, too late to swim).  Maybe someday.  
 ![20210725_185021(1).jpg]({{site.baseurl}}/assets/media/20210725_185021(1).jpg)
 
->
+>She was not quite what you would call refined. She was not quite what you would call unrefined. She was the kind of person that keeps a parrot.
 >Mark Twain
