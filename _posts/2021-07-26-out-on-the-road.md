@@ -15,7 +15,7 @@ Lot's of screen time for Camilla today again as we travelled in six states in on
 
 ![20210726_062744.jpg]({{site.baseurl}}/assets/media/20210726_062744.jpg)
 
-In Peducah, we ate lunch in a quiet cemetary next to a subway (again with the lobby closed due to staff shortages).  We were suprised by how short some of the lives seemed as listed on the headstones.  
+In Peducah, we ate lunch in a quiet cemetary next to a subway (again with the lobby closed due to staff shortages).  We were suprised by how short some of the lives seemed as listed on the headstones.  Like the French brothers who died in 1962 at 21 and 27 years old, and all the people who died after only 30-70 years.  
 ![20210726_062647.jpg]({{site.baseurl}}/assets/media/20210726_062647.jpg)
 
 Driving through the country we see lots of beautiful scenic areas, but, it's hard to take pictures from the car.  Here's one from our stop in Peducah.  
