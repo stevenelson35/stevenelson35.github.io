@@ -5,6 +5,7 @@ author:
 tags:
   - "2021"
   - driving
+  - summer
   - vacation
 published: true
 title: Out On The Road
