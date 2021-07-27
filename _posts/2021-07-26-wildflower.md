@@ -1,7 +1,6 @@
 ---
 layout: post
-author:
-  - steve
+author: steve
 tags:
   - "2021"
   - driving
