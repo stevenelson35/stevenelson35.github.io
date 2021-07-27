@@ -21,7 +21,7 @@ comments: true
   {% if words < 180 %}
     1 min read.
   {% else %}
-    {{ words | divided_by:180 }} mins read.
+    {{ words | divided_by:180 }} mins read ({{ words}} words).
   {% endif %}
   </span>
   <style>
