@@ -11,7 +11,7 @@ title: Wildflower
 ---
 Driving from Keokuk to St. Paul with a stop in Des Moines completed the final day of our three day trek from Oviedo to the Twin Cities.  
 
-Linda enjoyed being reminded that Iowa isn't always the cold gray state that she remembers, and was elated to see the county highways lined by wildflowers and o have a chance to see varieties of plants and wildlife that are rare (if present at all) in Florida, like the red winged blackbird.  
+Linda enjoyed being reminded that Iowa isn't always the cold gray state that she remembers, and was elated to see the county highways lined by wildflowers and to have a chance to see varieties of plants and wildlife that are rare (if present at all) in Florida, like the red winged blackbird.  
 
 ![20210726_092307.jpg]({{site.baseurl}}/assets/media/20210726_092307.jpg)
 ![20210726_204302.jpg]({{site.baseurl}}/assets/media/20210726_204302.jpg)
@@ -31,7 +31,7 @@ Our route passed the American Gothic House, which we had seen on a previous road
 ![20210726_100458.jpg]({{site.baseurl}}/assets/media/20210726_100458.jpg)
 ![20210726_092955.jpg]({{site.baseurl}}/assets/media/20210726_092955.jpg)
 
-In Des Moines, we picked up a rental car and left my car at Linda's sister's house so we'd have a ride back to Oviedo when our travels to the west on Amtrak conclude in Osceola IA in a few weeks.  We had Brueggar's Bagels sandwiches for lunch with Camilla's Uncle Russ and Aunt Lori and Camilla got to see their two cats.  
+In Des Moines, we picked up a rental car and left my car at Linda's sister's house so we'd have a ride back to Oviedo when our travels to the west on Amtrak conclude in Osceola IA in a few weeks.  We had Brueggar's Bagels sandwiches for lunch with Camilla's Uncle Russ and Aunt Lori while Camilla got to see their two cats.  
 
 ![20210726_144704.jpg]({{site.baseurl}}/assets/media/20210726_144704.jpg)
 
