@@ -21,7 +21,7 @@ comments: true
   {% if words < 360 %}
     1 min read.
   {% else %}
-    {% assign mintoread = words | divided_by 180 %}
+    {% assign mintoread = words | divided_by:180 %}
     {{ mintoread }} mins read ({{ words}} words).
   {% endif %}
   </span>
