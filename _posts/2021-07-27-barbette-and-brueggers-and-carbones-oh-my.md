@@ -4,25 +4,24 @@ tags: ["2021", summer, vacation]
 ---
 The plan for our third day was to make an early trip to the city lakes for a walk before meeting family and friends for dinner that evening.
 
-While driving to Uptown along Lake Street, it was difficult to take in all that has changed in the years since I lived in the area.  At thirty mph, it was hard to fully focus on either the gradual changes in new developments on the west end of Lake Street, or the George Floyd murals on the easts end of Lake Street.  The first sight that caught Linda's attention when we turned onto Lake Street from Hiawatha, was the bum of a man on the corner whose pants were hanging a bit low.  
+While driving to Uptown along Lake Street, I tried to take in all that has changed in the years since I lived in the area.  Moving at thirty mph was too fast to have time to focus on either the new construction on the west end of Lake Street, or the George Floyd murals on the easts end of Lake Street.  The first sight that caught Linda's attention when we turned on to Lake Street from Hiawatha, was the bum of a man on the corner whose pants were hanging a bit low.  
 
-After finding parking at the mall north of Lagoon near my old apartment, I was disoriented when trying to find the Bruegger's Bagel shop on Lake -- which had been sold five years earlier for new development.  As a result, we ended up at Barbette on Lake for breakfast instead, since it was the only place nearby that was opened.  There we were able to eat at a table on the street.  
-
+After finding parking at the mall north of Lagoon near my old apartment, I was disoriented when trying to find the Bruegger's Bagel shop on Lake -- which had been sold five years earlier for new development.  As a result, we ended up at Barbette on Lake for breakfast, since it was the only place nearby that was open.
 ![20210727_153812.jpg]({{site.baseurl}}/assets/media/20210727_153812.jpg)
 
 (insert pic of all at barbettes)
 
-Afterwards, we walked to the first playground around Bde Maka Ska (previously known as Lake Calhoun) before surrendering to the heat.  The park and lake were very active with runners, walkers, sailors, and stand up paddel boarders, but there were signs indicating that swimming was prohibited due to the presence of bacteria.  
+Afterwards, we walked to the first playground around Bde Maka Ska (previously known as Lake Calhoun) before surrendering to the heat.  The park and lake were very active with runners, walkers, sailors, and stand up paddle boarders, but there were signs indicating that swimming was prohibited due to the presence of bacteria.  
 
 ![20210727_110300.jpg]({{site.baseurl}}/assets/media/20210727_110300.jpg)
 
 ![20210727_213356.jpg]({{site.baseurl}}/assets/media/20210727_213356.jpg)
 
-As we left the lakes, we drove around to find Dennis and David's new house, but I kept getting confused trying to enter the correct address into google maps.  Eventually we happened to drive by it and Linda recognized it from a picture she had seen briefly months earlier.
+As we left the lakes, we drove around to find a cousin's new house, but I kept getting confused trying to enter the correct address into google maps.  Eventually, Linda recognized the house from a picture she had seen briefly months earlier as we drove by.
 
 On the way back from the lakes, we found a Bruegger's Bagel shop in Edina and stopped for lunch.  Once again, we found that indoor dining wasn't available, so we brought the food back to Chris' home.
 
-At Aunt Christines, the squirrels were brave enough to pilfer the seeds she set out for them from a tray, but, not brave enough to approach Linda when she attempted to offer one seeds from her hand.  We also saw a black squirrel in a tree, which I don't recall having seen before.  The white squirrel that had come to Chris' deck in the past is no longer around.  
+At Aunt Christine's, the squirrels were brave enough to pilfer the seeds she set out for them from a tray, but, not brave enough to approach Linda when she attempted to offer one seeds from her hand.  We also saw a black squirrel in a tree, which I don't recall having seen before.  The white squirrel that had come to Chris' deck in the past is no longer around.  
 
 ![20210727_154041.jpg]({{site.baseurl}}/assets/media/20210727_154041.jpg)
 
