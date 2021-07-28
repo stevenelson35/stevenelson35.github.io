@@ -7,9 +7,9 @@ The plan for our third day was to make an early trip to the city lakes for a wal
 
 While driving to Uptown along Lake Street, I tried to take in all that has changed in the years since I lived in the area.  Moving at thirty mph was too fast to have time to focus on either the new construction on the west end of Lake Street, or the George Floyd murals on the easts end of Lake Street.  Hopefully this won't turn into a driveby vacation.  
 
-The first sight that caught Linda's attention when we turned on to Lake Street from Hiawatha, was the bum of a man on the corner whose pants were hanging a bit low.  
+The first sight that caught Linda's attention when we turned onto Lake Street from Hiawatha, was the bum of a man on the corner whose pants were hanging way too low.  
 
-After finding parking at the mall north of Lagoon near my old apartment, I was disoriented when trying to find the Bruegger's Bagel shop on Lake -- which had been sold five years earlier for new development.  As a result, we ended up at Barbette's for breakfast, since it was the only place nearby that was open.
+After finding parking north of Lagoon near my old apartment, I was disoriented when trying to find the Bruegger's Bagel shop on Lake -- which unbeknownst to me had been sold five years earlier for new development.  As a result, we ended up at Barbette's for breakfast, since it was the only place nearby that was open.
 ![20210727_153812.jpg]({{site.baseurl}}/assets/media/20210727_153812.jpg)
 
 (insert pic of all at barbettes)
