@@ -5,7 +5,7 @@ title: Barbette's and Bruegger's and Carbone's, Oh my!
 ---
 The plan for our third day was to make an early trip to the city lakes for a walk before meeting family and friends for dinner that evening.
 
-While driving to Uptown along Lake Street, I tried to take in all that has changed in the years since I lived in the area.  Moving at thirty mph was too fast to have time to focus on either the new construction on the west end of Lake Street, or the George Floyd murals on the easts end of Lake Street.  Hopefully this won't turn into a driveby vacation.  
+While driving to Uptown along Lake Street, I tried to take in all that has changed in the years since I lived in the area.  Moving at thirty mph was too fast to have time to focus on either the new construction on the west end of Lake Street, or the George Floyd murals on the easts end of Lake Street.  Hopefully once we get to the west coast we'll find more time for the sights than a quick driveby.  
 
 The first sight that caught Linda's attention when we turned onto Lake Street from Hiawatha, was the bum of a man on the corner whose pants were hanging way too low.  
 
