@@ -12,7 +12,7 @@ After finding parking at the mall north of Lagoon near my old apartment, I was d
 
 (insert pic of all at barbettes)
 
-Afterwards, we walked to the first playground around Bde Maka Ska (previously known as Lake Calhoun) before surrendering to the heat.  The park and lake were very active with runners, walkers, sailors, and stand up paddel boarders, but there were signs indicating that swimming was prohibited due to the presence of bacteria.
+Afterwards, we walked to the first playground around Bde Maka Ska (previously known as Lake Calhoun) before surrendering to the heat.  The park and lake were very active with runners, walkers, sailors, and stand up paddel boarders, but there were signs indicating that swimming was prohibited due to the presence of bacteria.  
 
 ![20210727_110300.jpg]({{site.baseurl}}/assets/media/20210727_110300.jpg)
 
@@ -22,7 +22,8 @@ As we left the lakes, we drove around to find Dennis and David's new house, but 
 
 On the way back from the lakes, we found a Bruegger's Bagel shop in Edina and stopped for lunch.  Once again, we found that indoor dining wasn't available, so we brought the food back to Chris' home.
 
-At Aunt Christines, the squirrels were brave enough to pilfer the seeds she set out for them from a tray, but, not brave enough to approach Linda when she attempted to offer one seeds from her hand.  We also saw a black squirrel in a tree, which I don't recall having seen before.  The white squirrel that had come to Chris' deck in the past is no longer around.
+At Aunt Christines, the squirrels were brave enough to pilfer the seeds she set out for them from a tray, but, not brave enough to approach Linda when she attempted to offer one seeds from her hand.  We also saw a black squirrel in a tree, which I don't recall having seen before.  The white squirrel that had come to Chris' deck in the past is no longer around.  
+
 ![20210727_154041.jpg]({{site.baseurl}}/assets/media/20210727_154041.jpg)
 
 We ended the day with pizza at Carbones at an event Chris planned to get anyone together to catch up during our short visit and to meet Linda and Camilla.  The kids started quietly coloring, and soon started playing ring-around-the-rosie and puppy/kitty games.  By the end of the evening, Camilla's knees were filthy from playing the role of the puppy as she crawled on the floor.  
