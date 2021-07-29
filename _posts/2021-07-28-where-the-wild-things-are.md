@@ -13,7 +13,7 @@ Camilla got to see her beloved Flamingo's.
 ![IMG_9669.jpg]({{site.baseurl}}/assets/media/IMG_9669.jpg)
 
 >Do you like my hat?  
->Go Dogs Go!  
+>Go Dog Go!  
 
 ![20210728_194333.jpg]({{site.baseurl}}/assets/media/20210728_194333.jpg)
 
