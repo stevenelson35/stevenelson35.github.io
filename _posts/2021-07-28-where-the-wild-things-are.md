@@ -7,7 +7,7 @@ title: Where The Wild Things Are
 ---
 Linda, Camilla, and Aunt Christine visited the Como Zoo.
 
-Camilla got to see her beloved Flamingo's.  
+Camilla got to see her beloved Flamingos.  
 
 ![IMG_9669.jpg]({{site.baseurl}}/assets/media/IMG_9669.jpg)
 
