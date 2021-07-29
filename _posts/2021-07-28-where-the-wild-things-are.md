@@ -9,10 +9,9 @@ Linda, Camilla, and Aunt Christine visited the Como Zoo.
 
 Camilla got to see her beloved Flamingo's.  
 
-![20210729_094315.jpg]({{site.baseurl}}/assets/media/20210729_092743.jpg)
-
-
 ![IMG_9669.jpg]({{site.baseurl}}/assets/media/IMG_9669.jpg)
+
+![20210729_094315.jpg]({{site.baseurl}}/assets/media/20210729_092743.jpg)
 
 >Do you like my hat?  
 >Go Dog Go!  
