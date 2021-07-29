@@ -9,10 +9,12 @@ title: Where The Wild Things Are
 Linda, Camilla, and Aunt Christine visited the Como Zoo.
 
 Camilla got to see her beloved Flamingo's.  
+
 ![IMG_9669.jpg]({{site.baseurl}}/assets/media/IMG_9669.jpg)
 
 >Do you like my hat?  
->Go Dogs Go!
+>Go Dogs Go!  
+
 ![20210728_194333.jpg]({{site.baseurl}}/assets/media/20210728_194333.jpg)
 
 >There should be a place where only the things you want to happen, happen.  
