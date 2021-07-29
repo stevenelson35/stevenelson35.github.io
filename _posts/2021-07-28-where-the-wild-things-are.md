@@ -2,9 +2,8 @@
 layout: post
 author:
   - steve
-tags:
-  - vacation
-published: false
+tags: ["2021", summer, vacation]
+published: true
 title: Where The Wild Things Are
 ---
 Linda, Camilla, and Aunt Christine visited the Como Zoo.
