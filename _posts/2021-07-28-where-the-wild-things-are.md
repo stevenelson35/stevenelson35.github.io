@@ -11,7 +11,7 @@ Camilla got to see her beloved Flamingo's.
 
 ![IMG_9669.jpg]({{site.baseurl}}/assets/media/IMG_9669.jpg)
 
-![20210729_094315.jpg]({{site.baseurl}}/assets/media/20210729_092743.jpg)
+![20210729_094315.jpg]({{site.baseurl}}/assets/media/20210729_094315.jpg)
 
 >Do you like my hat?  
 >Go Dog Go!  
@@ -21,7 +21,7 @@ Camilla got to see her beloved Flamingo's.
 >There should be a place where only the things you want to happen, happen.  
 >Where the Wild Things Are
 
-![imagejpeg_4(0).jpg]({{site.baseurl}}/assets/media/imagejpeg_4(0).jpg)
+![imagejpeg_0(4).jpg]({{site.baseurl}}/assets/media/imagejpeg_0(4).jpg)
 
 >Let the wild rumpus begin!  
 >Where the Wild Things Are
