@@ -1,7 +1,6 @@
 ---
 layout: post
-author:
-  - steve
+author: steve
 tags: ["2021", summer, vacation]
 published: true
 title: Where The Wild Things Are
