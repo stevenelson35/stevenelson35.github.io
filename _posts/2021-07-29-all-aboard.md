@@ -1,10 +1,8 @@
 ---
 layout: post
-author:
-  - steve
-tags:
-  - vacation
-published: false
+author: steve
+tags: ["20210", summer,train, vacation]
+published: true
 title: All Aboard
 ---
 Yesterday we boarded train 7 on the Empire Builder route to Seattle at Saint Paul's Union Depot.  
@@ -38,6 +36,6 @@ Boarded the train, found room 15 on the bottom floor, made our bunks.
 ![20210729_221305.jpg]({{site.baseurl}}/assets/media/20210729_221305.jpg)
 
 The train departed on time at 10:20p and we went to sleep. At least, Camilla did.
-![20210729_221305.jpg]({{site.baseurl}}/assets/media/20210729_221305.jpg)
+![20210729_221305.jpg]({{site.baseurl}}/assets/media/20210729_221305.jpg)  
 ![20210729_205050(0).jpg]({{site.baseurl}}/assets/media/20210729_205050(0).jpg)
 
