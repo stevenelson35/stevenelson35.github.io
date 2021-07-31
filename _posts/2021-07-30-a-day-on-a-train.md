@@ -1,10 +1,8 @@
 ---
 layout: post
-author:
-  - steve
-tags:
-  - vacation
-published: false
+author: steve
+tags: ["2021", summer, train, vacation]
+published: true
 title: A Day On A Train
 ---
 Friday was our full day on the train with meals in the dining car and a few breaks outside at short stops to stretch and get some fresh air.  
