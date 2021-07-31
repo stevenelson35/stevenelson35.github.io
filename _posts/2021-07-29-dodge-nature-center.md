@@ -1,10 +1,8 @@
 ---
 layout: post
-author:
-  - steve
-tags:
-  - vacation
-published: false
+author: steve
+tags: ["2021", summer, train, vacation]
+published: true
 title: Dodge Nature Center
 ---
 Before departing for our train, we met Jared and Stephanie for dinner and a walk around Dodge Nature Center with my Sister Christine.  
