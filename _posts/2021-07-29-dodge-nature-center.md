@@ -1,7 +1,7 @@
 ---
 layout: post
 author: steve
-tags: ["2021", summer, train, vacation]
+tags: ["2021", summer, vacation]
 published: true
 title: Dodge Nature Center
 ---
