@@ -25,9 +25,9 @@ Before departing for our train, we met Jared and Stephanie for dinner and a walk
 ![20210729_194052.jpg]({{site.baseurl}}/assets/media/20210729_194052.jpg)
 ![20210729_194510.jpg]({{site.baseurl}}/assets/media/20210729_194510.jpg)
 
-The flowers where easier to capture than the animals. They were too fast for me.    
+The flowers were easier to capture than the animals. They were too fast for me.    
 
-Here's a baby turtle just after they went underwater.  
+Here's a baby turtle just after it went underwater.  
 
 ![20210729_194708.jpg]({{site.baseurl}}/assets/media/20210729_194708.jpg)
 
@@ -39,8 +39,3 @@ And here's a pic just after two deer fled into the woods.
 
 >It's not what you look at that matters, it's what you see.
 >Henry David Thoreau
-
-
-
-
-
