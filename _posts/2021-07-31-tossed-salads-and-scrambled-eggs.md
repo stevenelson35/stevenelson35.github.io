@@ -16,15 +16,14 @@ The Empire Builder arrived in Seattle a few hours late, but, fortunately the del
 ![20210731_170851.jpg]({{site.baseurl}}/assets/media/20210731_170851.jpg)
 ![20210731_113415.jpg]({{site.baseurl}}/assets/media/20210731_113415.jpg)
 
-I think today I reached my limit of times I can request a pose for picture for this trip. It may be difficult to get pics from this point on.  
-
+I think today I reached my limit of times I can request a pose for a picture for this trip. It may be difficult to get pics from this point on.  
+  
 ![20210731_170739.jpg]({{site.baseurl}}/assets/media/20210731_170739.jpg)
 ![20210731_171316.jpg]({{site.baseurl}}/assets/media/20210731_171316.jpg)
-
-
+  
 ![20210731_171501.jpg]({{site.baseurl}}/assets/media/20210731_171501.jpg)
 ![20210731_171405.jpg]({{site.baseurl}}/assets/media/20210731_171405.jpg)
-
+  
 ![20210731_202052.jpg]({{site.baseurl}}/assets/media/20210731_202052.jpg)
 ![20210731_184904.jpg]({{site.baseurl}}/assets/media/20210731_184904.jpg)
 ![20210731_185116.jpg]({{site.baseurl}}/assets/media/20210731_185116.jpg)
