@@ -1,13 +1,16 @@
 ---
 author: steve
 tags: ["2021", summer, vacation]
-title: ADay In Seattle
+title: A Day In Seattle
 ---
 During our day in Seattle we walked to the Pike Place Market and the Space Needle.  
 
 Camilla loved run whenever there was open green space, but, predictably said that walking hurt her legs 🤣. That made us glad we brought a stroller along, since it was more hilly downtown than we expected.   
 
 We posed outside the first Starbucks and saw giant seagulls. 
+
+![20210801_101716.jpg]({{site.baseurl}}/assets/media/20210801_101716.jpg)
+
 
 ![20210801_173549.jpg]({{site.baseurl}}/assets/media/20210801_173549.jpg)
 ![20210801_173751.jpg]({{site.baseurl}}/assets/media/20210801_173751.jpg)
@@ -18,13 +21,17 @@ We posed outside the first Starbucks and saw giant seagulls.
 ![20210801_111922.jpg]({{site.baseurl}}/assets/media/20210801_111922.jpg)
 ![20210801_112616(0).jpg]({{site.baseurl}}/assets/media/20210801_112616(0).jpg)
 ![20210801_112833.jpg]({{site.baseurl}}/assets/media/20210801_112833.jpg)
-![20210801_144202.jpg]({{site.baseurl}}/assets/media/20210801_144202.jpg)
+
+
+
+![20210801_202436.jpg]({{site.baseurl}}/assets/media/20210801_202436.jpg)
+
 
 ![20210801_202613.jpg]({{site.baseurl}}/assets/media/20210801_202613.jpg)
 ![20210801_203121.jpg]({{site.baseurl}}/assets/media/20210801_203121.jpg)
 ![20210801_203414.jpg]({{site.baseurl}}/assets/media/20210801_203414.jpg)
 
-![20210801_202436.jpg]({{site.baseurl}}/assets/media/20210801_202436.jpg)
+![20210801_144202.jpg]({{site.baseurl}}/assets/media/20210801_144202.jpg)
 
 ![20210801_154025.jpg]({{site.baseurl}}/assets/media/20210801_154025.jpg)
 ![20210801_203733.jpg]({{site.baseurl}}/assets/media/20210801_203733.jpg)
