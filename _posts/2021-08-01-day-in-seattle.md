@@ -5,7 +5,7 @@ title: A Day In Seattle
 ---
 During our day in Seattle we walked to the Pike Place Market and the Space Needle.  
 
-Camilla loved run whenever there was open green space, but, predictably said that walking hurt her legs 🤣. That made us glad we brought a stroller along, since it was more hilly downtown than we expected.   
+Camilla loved to run whenever there was open green space, but, predictably said that walking hurt her legs 🤣. That made us glad we brought a stroller along, since it was more hilly downtown than we expected.   
 
 We posed outside the first Starbucks and saw giant seagulls. 
 
