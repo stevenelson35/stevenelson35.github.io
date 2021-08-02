@@ -1,6 +1,6 @@
 ---
 author: steve
-tags: ["2021", seattle, summer, vacation]
+tags: ["2021", summer, vacation]
 title: A Day In Seattle
 ---
 During our day in Seattle, we walked to the Pike Place Market, road a ferris wheel, and walked to the Space Needle.  
