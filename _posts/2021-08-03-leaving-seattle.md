@@ -37,9 +37,10 @@ Down some hills (and apparently up some, too).
 
 ![20210802_215917.jpg]({{site.baseurl}}/assets/media/20210802_215917.jpg)
 
-We arrived before a late sunset.  
+We arrived before a late sunset.  Here's the view on the last mile to hour destination.  
 
+![20210802_215648.jpg]({{site.baseurl}}/assets/media/20210802_215648.jpg)
 
+The view from our home for a week in Oceanside.  
 
-
-
+![20210802_192521.jpg]({{site.baseurl}}/assets/media/20210802_192521.jpg)
