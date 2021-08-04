@@ -22,8 +22,8 @@ Where we found a passage.
 
 ![20210803_094255.jpg]({{site.baseurl}}/assets/media/20210803_094255.jpg)
 ![20210803_100104.jpg]({{site.baseurl}}/assets/media/20210803_100104.jpg)
-![20210803_100112.jpg]({{site.baseurl}}/assets/media/20210803_100112.jpg)
-![20210803_100153.jpg]({{site.baseurl}}/assets/media/20210803_100153.jpg)
+![20210804_100112.jpg]({{site.baseurl}}/assets/media/20210804_100112.jpg)
+![20210804_100153.jpg]({{site.baseurl}}/assets/media/20210804_100153.jpg)
 
 Which lead to another beach.  
 
@@ -52,13 +52,12 @@ Here's some pictures from the boardwalk.
 ![20210803_144347.jpg]({{site.baseurl}}/assets/media/20210803_144347.jpg)
 ![20210803_143844.jpg]({{site.baseurl}}/assets/media/20210803_143844.jpg)
 ![20210803_143901.jpg]({{site.baseurl}}/assets/media/20210803_143901.jpg)
-![20210803_061902.jpg]({{site.baseurl}}/assets/media/20210803_061902.jpg)
-![20210803_072532.jpg]({{site.baseurl}}/assets/media/20210803_072532.jpg)
-![20210803_073117.jpg]({{site.baseurl}}/assets/media/20210803_073117.jpg)
-![20210803_073511.jpg]({{site.baseurl}}/assets/media/20210803_073511.jpg)
-![20210803_073204.jpg]({{site.baseurl}}/assets/media/20210803_073204.jpg)
-![20210803_073257.jpg]({{site.baseurl}}/assets/media/20210803_073257.jpg)
-![20210803_073352.jpg]({{site.baseurl}}/assets/media/20210803_073352.jpg)
-![20210803_073549.jpg]({{site.baseurl}}/assets/media/20210803_073549.jpg)
-
+![20210804_061902.jpg]({{site.baseurl}}/assets/media/20210804_061902.jpg)
+![20210804_072532.jpg]({{site.baseurl}}/assets/media/20210804_072532.jpg)
+![20210804_073117.jpg]({{site.baseurl}}/assets/media/20210804_073117.jpg)
+![20210804_073511.jpg]({{site.baseurl}}/assets/media/20210804_073511.jpg)
+![20210804_073204.jpg]({{site.baseurl}}/assets/media/20210804_073204.jpg)
+![20210804_073257.jpg]({{site.baseurl}}/assets/media/20210804_073257.jpg)
+![20210804_073352.jpg]({{site.baseurl}}/assets/media/20210804_073352.jpg)
+![20210804_073549.jpg]({{site.baseurl}}/assets/media/20210804_073549.jpg)
 
