@@ -1,7 +1,7 @@
 ---
 layout: post
 author: steve
-tags: ["2021", summer, vacation]
+tags: ["2021", beach, hike, oregon, summer, vacation]
 published: true
 title: Oceanside Day 1
 ---
