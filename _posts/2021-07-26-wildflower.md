@@ -4,6 +4,7 @@ author: steve
 tags:
   - "2021"
   - driving
+  - iowa
   - summer
   - vacation
 published: true
