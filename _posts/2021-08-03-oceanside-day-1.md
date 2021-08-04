@@ -15,15 +15,15 @@ Here's some pictures from the beach.
 
 ![20210803_083239.jpg]({{site.baseurl}}/assets/media/20210803_083239.jpg)
 ![20210803_093435.jpg]({{site.baseurl}}/assets/media/20210803_093435.jpg)
-![20210803_052750.jpg]({{site.baseurl}}/assets/media/20210803_052750.jpg)
-![20210803_052555.jpg]({{site.baseurl}}/assets/media/20210803_052555.jpg)
+![20210804_052750.jpg]({{site.baseurl}}/assets/media/20210804_052750.jpg)
+![20210804_052555.jpg]({{site.baseurl}}/assets/media/20210804_052555.jpg)
 
 Where we found a passage.  
 
 ![20210803_094255.jpg]({{site.baseurl}}/assets/media/20210803_094255.jpg)
 ![20210803_100104.jpg]({{site.baseurl}}/assets/media/20210803_100104.jpg)
-![20210804_100112.jpg]({{site.baseurl}}/assets/media/20210804_100112.jpg)
-![20210804_100153.jpg]({{site.baseurl}}/assets/media/20210804_100153.jpg)
+![20210803_100112.jpg]({{site.baseurl}}/assets/media/20210803_100112.jpg)
+![20210803_100153.jpg]({{site.baseurl}}/assets/media/20210803_100153.jpg)
 
 Which lead to another beach.  
 
