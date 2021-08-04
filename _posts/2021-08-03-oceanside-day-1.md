@@ -11,7 +11,7 @@ In the morning, Linda spotted a deer outside our bedroom window that had spent t
 
 ![20210803_082026.jpg]({{site.baseurl}}/assets/media/20210803_082026.jpg)
 
-Here's some pictures from the beach.  
+Here are some pictures from the beach.  
 
 ![20210803_083239.jpg]({{site.baseurl}}/assets/media/20210803_083239.jpg)
 ![20210803_093435.jpg]({{site.baseurl}}/assets/media/20210803_093435.jpg)
@@ -36,9 +36,9 @@ On the way back to the beachhouse along the steep single lane road lined with wi
 
 ![20210803_103150.jpg]({{site.baseurl}}/assets/media/20210803_103150.jpg)
 
-After lunch at a Tallamook Mexican restaurant like Haberneros (per Googles description), we walked along a nature boardwalk.  
+After lunch at a Tillamook Mexican restaurant like Haberneros (per Googles description), we walked along a nature boardwalk.  
 
-Here's some pictures from the boardwalk.  
+Here are some pictures from the boardwalk.  
 
 ![20210803_141723.jpg]({{site.baseurl}}/assets/media/20210803_141723.jpg)
 ![20210803_141741.jpg]({{site.baseurl}}/assets/media/20210803_141741.jpg)
