@@ -5,6 +5,7 @@ tags:
   - "2021"
   - driving
   - iowa
+  - minnesota
   - summer
   - vacation
 published: true
