@@ -61,3 +61,4 @@ Here are some pictures from the boardwalk.
 ![20210804_073352.jpg]({{site.baseurl}}/assets/media/20210804_073352.jpg)
 ![20210804_073549.jpg]({{site.baseurl}}/assets/media/20210804_073549.jpg)
 
+![IMG_9833--cropped.jpg]({{site.baseurl}}/assets/media/IMG_9833--cropped.jpg)
