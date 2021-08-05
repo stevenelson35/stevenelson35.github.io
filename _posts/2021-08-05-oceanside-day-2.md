@@ -47,3 +47,17 @@ The walk back from the lighthouse was a bit wet with water from the low clouds t
 
 ![20210804_192758.jpg]({{site.baseurl}}/assets/media/20210804_192758.jpg)
 
+We hiked to see the octopus tree.  
+
+![20210804_153342.jpg]({{site.baseurl}}/assets/media/20210804_153342.jpg)
+
+![20210804_192404.jpg]({{site.baseurl}}/assets/media/20210804_192404.jpg)
+
+![20210804_153522.jpg]({{site.baseurl}}/assets/media/20210804_153522.jpg)
+
+And we saw a friend of the bee that stung me yesterday.  
+
+![20210804_153238.jpg]({{site.baseurl}}/assets/media/20210804_153238.jpg)
+
+![20210804_154130.jpg]({{site.baseurl}}/assets/media/20210804_154130.jpg)
+
