@@ -59,5 +59,26 @@ And we saw a friend of the bee that stung me yesterday.
 
 ![20210804_153238.jpg]({{site.baseurl}}/assets/media/20210804_153238.jpg)
 
+![20210804_193109.jpg]({{site.baseurl}}/assets/media/20210804_193109.jpg)
+
 ![20210804_154130.jpg]({{site.baseurl}}/assets/media/20210804_154130.jpg)
 
+Then Camilla lead us on a hike through the woods on a trail to the largest Sitka Spruce in Oregon.  
+
+![20210804_193318.jpg]({{site.baseurl}}/assets/media/20210804_193318.jpg)
+
+![20210804_160011.jpg]({{site.baseurl}}/assets/media/20210804_160011.jpg)
+
+![20210804_160040.jpg]({{site.baseurl}}/assets/media/20210804_160040.jpg)
+
+The next image is of the big 750-800 year old Sitka Spruce, at 48 feet circumference.  
+
+![20210804_193900.jpg]({{site.baseurl}}/assets/media/20210804_193900.jpg)
+
+![20210804_160721.jpg]({{site.baseurl}}/assets/media/20210804_160721.jpg)
+
+![20210804_193714.jpg]({{site.baseurl}}/assets/media/20210804_193714.jpg)
+
+![20210804_155105.jpg]({{site.baseurl}}/assets/media/20210804_155105.jpg)
+
+![20210804_161035.jpg]({{site.baseurl}}/assets/media/20210804_161035.jpg)
