@@ -27,4 +27,23 @@ And Linda befriended a seagull that was missing a foot.
 
 At the lighthouse, it was too foggy to see the ocean over the cliffs, so, we climbed some rocks.  
 
+![IMG_9861--cropped.jpg]({{site.baseurl}}/assets/media/IMG_9861--cropped.jpg)
+
+![IMG_9865--cropped.jpg]({{site.baseurl}}/assets/media/IMG_9865--cropped.jpg)
+
+![20210804_192040.jpg]({{site.baseurl}}/assets/media/20210804_192040.jpg)
+
+And Camilla ran.  
+
+![20210804_192643.jpg]({{site.baseurl}}/assets/media/20210804_192643.jpg)
+
+![20210804_192130.jpg]({{site.baseurl}}/assets/media/20210804_192130.jpg)
+
+![20210804_192211.jpg]({{site.baseurl}}/assets/media/20210804_192211.jpg)
+
+The walk back from the lighthouse was a bit wet with water from the low clouds that were blowing past us.  
+
+![20210804_192448.jpg]({{site.baseurl}}/assets/media/20210804_192448.jpg)
+
+![20210804_192758.jpg]({{site.baseurl}}/assets/media/20210804_192758.jpg)
 
