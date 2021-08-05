@@ -5,7 +5,7 @@ tags: ["2021", minnesota, summer, vacation]
 published: true
 title: Dodge Nature Center
 ---
-Before departing for our train, we met Jared and Stephanie for dinner and a walk around Dodge Nature Center with my Sister Christine.  
+Before departing for our train, we met Jared and Stephanie for dinner and a walk around Dodge Nature Center with my sister Christine.  
 
 ![20210730_165432.jpg]({{site.baseurl}}/assets/media/20210730_165432.jpg)
 
