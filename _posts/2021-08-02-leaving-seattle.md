@@ -1,7 +1,7 @@
 ---
 layout: post
 author: steve
-tags: ["2021", beach, drive, seattle, summer, vacation]
+tags: ["2021", beach, drive, oregon, seattle, summer, vacation]
 published: true
 title: Leaving Seattle
 ---
