@@ -5,7 +5,7 @@ tags: ["2021", beach, hiking, Oregon, summer, vacation]
 published: true
 title: Oceanside Day 2
 ---
-In the morning, Linda and Camilla went to the beach and in the afternoon I joined them to go hiking at Cape Meare's Lighthouse.  
+In the morning, Linda and Camilla went to the beach.  In the afternoon, I joined them to go hiking at Cape Meare's Lighthouse.  
 
 It was a foggy day with low clouds.  
 
@@ -73,10 +73,10 @@ The next image is of the big 750-800 year old Sitka Spruce, at 48 feet circumfer
 
 ![20210804_193900.jpg]({{site.baseurl}}/assets/media/20210804_193900.jpg)
 
-![20210804_160721.jpg]({{site.baseurl}}/assets/media/20210804_160721.jpg)
-
 ![20210804_193714.jpg]({{site.baseurl}}/assets/media/20210804_193714.jpg)
 
 ![20210804_155105.jpg]({{site.baseurl}}/assets/media/20210804_155105.jpg)
 
 ![20210804_161035.jpg]({{site.baseurl}}/assets/media/20210804_161035.jpg)
+
+![20210804_160721.jpg]({{site.baseurl}}/assets/media/20210804_160721.jpg)
