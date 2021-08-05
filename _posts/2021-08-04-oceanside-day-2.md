@@ -1,10 +1,8 @@
 ---
 layout: post
-author:
-  - steve
-tags:
-  - vacation
-published: false
+author: steve
+tags: ["2021", beach, hiking, Oregon, summer, vacation] 
+published: true
 title: Oceanside Day 2
 ---
 In the morning, Linda and Camilla went to the beach and in the afternoon I joined them to go hiking at Cape Meare's Lighthouse.  
