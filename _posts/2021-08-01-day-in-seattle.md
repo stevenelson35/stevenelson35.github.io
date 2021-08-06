@@ -19,7 +19,7 @@ We posed outside the first Starbucks and saw giant seagulls.
 ![20210801_173922.jpg]({{site.baseurl}}/assets/media/20210801_173922.jpg)
 ![20210801_174158.jpg]({{site.baseurl}}/assets/media/20210801_174158.jpg)
 ![20210801_111922.jpg]({{site.baseurl}}/assets/media/20210801_111922.jpg)
-![20210801_112616(0).jpg]({{site.baseurl}}/assets/media/20210801_112616(0).jpg)
+![20210801_112616-0.jpg]({{site.baseurl}}/assets/media/20210801_112616-0.jpg)
 ![20210801_112833.jpg]({{site.baseurl}}/assets/media/20210801_112833.jpg)
 
 

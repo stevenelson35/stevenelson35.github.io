@@ -26,7 +26,7 @@ We have a non-binding agreement that we will stop at the St. Louis arch or somew
 ![20210726_062425.jpg]({{site.baseurl}}/assets/media/20210726_062425.jpg)
 
 Eventually, we arrived in Keokuk (again, too late to swim).  Maybe someday.  
-![20210725_185021(1).jpg]({{site.baseurl}}/assets/media/20210725_185021(1).jpg)
+![20210725_185021-1.jpg]({{site.baseurl}}/assets/media/20210725_185021-1.jpg)
 
 >She was not quite what you would call refined. She was not quite what you would call unrefined. She was the kind of person that keeps a parrot.
 >Mark Twain

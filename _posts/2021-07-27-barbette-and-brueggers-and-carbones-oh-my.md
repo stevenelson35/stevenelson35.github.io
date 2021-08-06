@@ -33,6 +33,6 @@ We ended the day with pizza at Carbones at an event Chris planned to get anyone 
 
 ![20210727_212431.jpg]({{site.baseurl}}/assets/media/20210727_212431.jpg)
 
-![IMG_3804(1).jpg]({{site.baseurl}}/assets/media/IMG_3804(1).jpg)
+![IMG_3804-1.jpg]({{site.baseurl}}/assets/media/IMG_3804-1.jpg)
 
 ![20210727_212723.jpg]({{site.baseurl}}/assets/media/20210727_212723.jpg)
