@@ -33,7 +33,7 @@ Linda found some life in the pools of water in the rocks.  Mostly bivalves and b
 
 ![20210805_135824.jpg]({{site.baseurl}}/assets/media/20210805_135824.jpg)
 
-I ventured to a further cave around the corniner hoping to find more sea creatures.  
+I ventured to a further cave around the corner hoping to find more sea creatures.  
 
 ![20210805_135915.jpg]({{site.baseurl}}/assets/media/20210805_135915.jpg)
 
@@ -43,7 +43,7 @@ I ventured to a further cave around the corniner hoping to find more sea creatur
 
 And only found this sea creature.  
 
-![20210805_093721.jpg]({{site.baseurl}}/assets/media/20210805_093721.jpg)
+![20210806_093721.jpg]({{site.baseurl}}/assets/media/20210806_093721.jpg)
 
 ![20210805_140340.jpg]({{site.baseurl}}/assets/media/20210805_140340.jpg)
 
