@@ -1,0 +1,51 @@
+{%- assign pieces = content | split: '<img src="' -%}
+{%- for piece in pieces -%}
+  {%- if forloop.first == true -%}
+    {{ piece }}
+  {%- else -%}
+    {%- if piece contains '" alt="' -%}
+      {%- assign url = piece | split: '" alt="' | first -%}
+      {%- assign alt = piece | split: '" alt="' | shift | join: '" alt="' | split: '"' | first -%}
+      {%- assign rest = piece | split: '" alt="' | shift | join: '" alt="' | split: '"' | shift | join: '"' -%}
+      {%- assign url-filename = url | split: '.' | pop | join: '.' -%}
+      {%- assign url-extension = url | split: '.' | last -%}
+      {%- if url-extension == "gif" -%}
+        <img src="{{ url }}" alt={{alt}} />
+      {%- else -%}
+      <a href="{{ url }}" target="_blank">
+      <img
+        srcset="{{ url-filename }}-640.{{ url-extension }} 640w,
+            {{ url-filename }}-768.{{ url-extension }} 768w,
+            {{ url-filename }}-1024.{{ url-extension }} 1024w,
+            {{ url-filename }}-1366.{{ url-extension }} 1366w,
+            {{ url-filename }}-1600.{{ url-extension }} 1600w,
+            {{ url-filename }}-1920.{{ url-extension }} 1920w,
+            {{ url-filename }}-2048.{{ url-extension }} 2048w"
+        sizes="100vw"
+        style="max-width:100%;"
+        src="{{ url }}" alt="{{ alt }}" /></a>
+      {%- endif -%}
+    {%- else -%}
+      {%- assign url = piece | split: '"' | first -%}
+      {%- assign rest = piece | split: '"' | shift | join: '"' -%}
+      {%- assign url-filename = url | split: '.' |  pop | join: '.' -%}
+      {%- assign url-extension = url | split: '.' | last -%}
+      {%- if url-extension == "gif" -%}
+        <img src="{{ url }}" />
+      {%- else -%}
+      <a href="{{ url }}" target="_blank">
+      <img
+        srcset="{{ url-filename }}-640.{{ url-extension }} 640w,
+            {{ url-filename }}-768.{{ url-extension }} 768w,
+            {{ url-filename }}-1024.{{ url-extension }} 1024w,
+            {{ url-filename }}-1366.{{ url-extension }} 1366w,
+            {{ url-filename }}-1600.{{ url-extension }} 1600w,
+            {{ url-filename }}-1920.{{ url-extension }} 1920w,
+            {{ url-filename }}-2048.{{ url-extension }} 2048w"
+        sizes="100vw"
+        style="max-width:100%;"
+        src="{{ url }}" alt="{{ alt }}" /></a>
+      {%- endif -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
