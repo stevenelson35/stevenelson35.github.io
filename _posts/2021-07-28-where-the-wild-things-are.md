@@ -21,7 +21,7 @@ Camilla got to see her beloved Flamingos.
 >There should be a place where only the things you want to happen, happen.  
 >Where the Wild Things Are
 
-![imagejpeg_0(4).jpg]({{site.baseurl}}/assets/media/imagejpeg_0(4).jpg)
+![imagejpeg_0_4.jpg]({{site.baseurl}}/assets/media/imagejpeg_0_4.jpg)
 
 >Let the wild rumpus begin!  
 >Where the Wild Things Are
