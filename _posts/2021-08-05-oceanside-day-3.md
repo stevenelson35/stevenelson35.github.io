@@ -61,6 +61,6 @@ And only found this sea creature.
 
 ![20210805_145850.jpg]({{site.baseurl}}/assets/media/20210805_145850.jpg)
 
-The day remaind cloudy.  
+The day remained cloudy.  
 
 ![20210805_143146.jpg]({{site.baseurl}}/assets/media/20210805_143146.jpg)
