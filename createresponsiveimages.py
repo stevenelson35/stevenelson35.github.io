@@ -4,7 +4,7 @@ import subprocess
 
 YAML_FILE = "processed.md"
 FOLDERS = {
-    "assets/media/":[2048,1920,1600,1366,1024,768,640]
+    "assets/media/":[2048,1920,1600,1366,1024,768,640],
     "assets/images/":[2048,1920,1600,1366,1024,768,640]
     }
 
