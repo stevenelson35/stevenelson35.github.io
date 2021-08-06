@@ -10,7 +10,7 @@ We'll be leaving Florida the day after Camilla celebrated Christmas in July on h
 
 The first leg of our travels has us driving north for three days with hotel stops in Ooltewah, TN and Keokuk, IA on Saturday and Sunday, respectively.  
 
-Over the next four weeks, highlights will include seeing family in Des Moines, the Twin Cities, and Berkley while we explore the western half of the United States by train.  If we find time, we'll post updates to this blog.
+Over the next four weeks, highlights will include seeing family in Des Moines, the Twin Cities, Seattle, and Berkley while we explore the western half of the United States by train.  If we find time, we'll post updates to this blog.
 
 Let the adventure begin!  
 
