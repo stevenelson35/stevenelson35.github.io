@@ -1,5 +1,7 @@
 ---
 images:
+- bullet.png
+- map-summer-2021-rev01.png
 - bullet-2048.png
 - bullet-1920.png
 - bullet-1600.png
