@@ -12,11 +12,6 @@
       {%- assign pathparts = url-filename | split: '/' -%}
       {%- assign filename-no-extension = pathparts | last -%}
       {%- assign pathparts-no-filename = pathparts | remove: filename-no-extension -%}
-{{ pathparts-no-filename }}
-      {%- assign pathparts-no-filename1 = pathparts | compact -%}
-{{ pathparts-no-filename1 }}
-      {%- assign pathparts-no-filename2 = pathparts-no-filename | compact -%}
-{{ pathparts-no-filename2 }}
 
 {%- assign path-no-filename = "" -%}
 {%- assign i = 0 -%}
@@ -37,19 +32,19 @@
   {%- endif -%}
 {%- endfor -%}
 
-      {%- assign path-640 = path-no-filename | append: '/640/' -%}
-      {%- assign path-768 = path-no-filename | append: '/768/' -%}
-      {%- assign path-1024 = path-no-filename | append: '/1024/' -%}
-      {%- assign path-1366 = path-no-filename | append: '/1366/' -%}
-      {%- assign path-1600 = path-no-filename | append: '/1600/' -%}
-      {%- assign path-1920 = path-no-filename | append: '/1920/' -%}
-      {%- assign path-2048 = path-no-filename | append: '/2048/' -%}
+      {%- assign path-640 = path-no-filename | append: '640/' -%}
+      {%- assign path-768 = path-no-filename | append: '768/' -%}
+      {%- assign path-1024 = path-no-filename | append: '1024/' -%}
+      {%- assign path-1366 = path-no-filename | append: '1366/' -%}
+      {%- assign path-1600 = path-no-filename | append: '1600/' -%}
+      {%- assign path-1920 = path-no-filename | append: '1920/' -%}
+      {%- assign path-2048 = path-no-filename | append: '2048/' -%}
       {%- if url-extension == "gif" -%}
         <img src="{{ url }}" alt={{alt}} />
       {%- else -%}
       <a href="{{ url }}" target="_blank">
       <img
-        srcset="{{ path-640 }}{{filename-no-extension }}-640.{{ url-extension }} 640w,
+        srcset="{{ path-640 }}{{ filename-no-extension }}-640.{{ url-extension }} 640w,
            {{ path-768 }}{{ filename-no-extension }}-768.{{ url-extension }} 768w,
            {{ path-1024 }}{{ filename-no-extension }}-1024.{{ url-extension }} 1024w,
            {{ path-1366 }}{{ filename-no-extension }}-1366.{{ url-extension }} 1366w,
@@ -68,24 +63,38 @@
       {%- assign pathparts = url-filename | split: '/' -%}
       {%- assign filename-no-extension = pathparts | last -%}
       {%- assign pathparts-no-filename = pathparts | remove: filename-no-extension -%}
-{{ pathparts-no-filename }}
-      {%- assign pathparts-no-filename2 = pathparts-no-filename | compact -%}
-{{ pathparts-no-filename2 }}
-      {%- assign path-no-filename = pathparts-no-filename2 | join: ',' -%}
-{{ path-no-filename }}
-      {%- assign path-640 = path-no-filename | append: '/640/' -%}
-      {%- assign path-768 = path-no-filename | append: '/768/' -%}
-      {%- assign path-1024 = path-no-filename | append: '/1024/' -%}
-      {%- assign path-1366 = path-no-filename | append: '/1366/' -%}
-      {%- assign path-1600 = path-no-filename | append: '/1600/' -%}
-      {%- assign path-1920 = path-no-filename | append: '/1920/' -%}
-      {%- assign path-2048 = path-no-filename | append: '/2048/' -%}
+{%- assign path-no-filename = "" -%}
+{%- assign i = 0 -%}
+{%- assign iend = pathparts.size -%}
+{{ i }}
+{{ iend }}
+
+{%- for tok in pathparts -%}
+  {{ tok }}
+  {%- assign i = i | plus:1 -%}
+  {{i}}
+  {%- if i > 1 -%}
+    {%- if i < iend -%}
+      {{ tok }}
+      {%- assign path-no-filename = path-no-filename | append: tok | append: "/" -%}
+      {{ path-no-filename }}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+
+      {%- assign path-640 = path-no-filename | append: '640/' -%}
+      {%- assign path-768 = path-no-filename | append: '768/' -%}
+      {%- assign path-1024 = path-no-filename | append: '1024/' -%}
+      {%- assign path-1366 = path-no-filename | append: '1366/' -%}
+      {%- assign path-1600 = path-no-filename | append: '1600/' -%}
+      {%- assign path-1920 = path-no-filename | append: '1920/' -%}
+      {%- assign path-2048 = path-no-filename | append: '2048/' -%}
       {%- if url-extension == "gif" -%}
         <img src="{{ url }}" />
       {%- else -%}
       <a href="{{ url }}" target="_blank">
       <img
-        srcset="{{ path-640 }}{{filename-no-extension }}-640.{{ url-extension }} 640w,
+        srcset="{{ path-640 }}{{ filename-no-extension }}-640.{{ url-extension }} 640w,
            {{ path-768 }}{{ filename-no-extension }}-768.{{ url-extension }} 768w,
            {{ path-1024 }}{{ filename-no-extension }}-1024.{{ url-extension }} 1024w,
            {{ path-1366 }}{{ filename-no-extension }}-1366.{{ url-extension }} 1366w,
