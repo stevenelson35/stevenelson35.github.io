@@ -13,24 +13,19 @@
       {%- assign filename-no-extension = pathparts | last -%}
       {%- assign pathparts-no-filename = pathparts | remove: filename-no-extension -%}
 
-{%- assign path-no-filename = "/" -%}
-{%- assign i = 0 -%}
-{%- assign iend = pathparts.size -%}
-{{ i }}
-{{ iend }}
-
-{%- for tok in pathparts -%}
-  {{ tok }}
-  {%- assign i = i | plus:1 -%}
-  {{i}}
-  {%- if i > 1 -%}
-    {%- if i < iend -%}
-      {{ tok }}
-      {%- assign path-no-filename = path-no-filename | append: tok | append: "/" -%}
-      {{ path-no-filename }}
-    {%- endif -%}
-  {%- endif -%}
-{%- endfor -%}
+      {%- assign path-no-filename = "/" -%}
+      {%- assign i = 0 -%}
+      {%- assign iend = pathparts.size -%}
+      
+      {%- for tok in pathparts -%}
+        {{ tok }}
+        {%- assign i = i | plus:1 -%}
+        {%- if i > 1 -%}
+          {%- if i < iend -%}
+            {%- assign path-no-filename = path-no-filename | append: tok | append: "/" -%}
+          {%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
 
       {%- assign path-640 = path-no-filename | append: '640/' -%}
       {%- assign path-768 = path-no-filename | append: '768/' -%}
@@ -63,24 +58,20 @@
       {%- assign pathparts = url-filename | split: '/' -%}
       {%- assign filename-no-extension = pathparts | last -%}
       {%- assign pathparts-no-filename = pathparts | remove: filename-no-extension -%}
-{%- assign path-no-filename = "/" -%}
-{%- assign i = 0 -%}
-{%- assign iend = pathparts.size -%}
-{{ i }}
-{{ iend }}
 
-{%- for tok in pathparts -%}
-  {{ tok }}
-  {%- assign i = i | plus:1 -%}
-  {{i}}
-  {%- if i > 1 -%}
-    {%- if i < iend -%}
-      {{ tok }}
-      {%- assign path-no-filename = path-no-filename | append: tok | append: "/" -%}
-      {{ path-no-filename }}
-    {%- endif -%}
-  {%- endif -%}
-{%- endfor -%}
+      {%- assign path-no-filename = "/" -%}
+      {%- assign i = 0 -%}
+      {%- assign iend = pathparts.size -%}
+      
+      {%- for tok in pathparts -%}
+        {{ tok }}
+        {%- assign i = i | plus:1 -%}
+        {%- if i > 1 -%}
+          {%- if i < iend -%}
+            {%- assign path-no-filename = path-no-filename | append: tok | append: "/" -%}
+          {%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
 
       {%- assign path-640 = path-no-filename | append: '640/' -%}
       {%- assign path-768 = path-no-filename | append: '768/' -%}
