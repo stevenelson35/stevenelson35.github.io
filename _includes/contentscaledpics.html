@@ -13,7 +13,7 @@
       {%- assign filename-no-extension = pathparts | last -%}
       {%- assign pathparts-no-filename = pathparts | remove: filename-no-extension -%}
 {{ pathparts-no-filename }}
-      {%- assign path-no-filename = pathparts-no-filename | join: "//" -%}
+      {%- assign path-no-filename = pathparts-no-filename | join: ',' -%}
       {%- assign path-640 = path-no-filename | append: '/640/' -%}
       {%- assign path-768 = path-no-filename | append: '/768/' -%}
       {%- assign path-1024 = path-no-filename | append: '/1024/' -%}
@@ -32,7 +32,7 @@
            {{ path-1366 }}{{ filename-no-extension }}-1366.{{ url-extension }} 1366w,
            {{ path-1600 }}{{ filename-no-extension }}-1600.{{ url-extension }} 1600w,
            {{ path-1920 }}{{ filename-no-extension }}-1920.{{ url-extension }} 1920w,
-           {{ path-2048 }}{{ filename-no-extension }}-2048.{{ url-extension }} 2048w"
+           {{ pathparts-no-filename | join: '/' }}2048/{{ filename-no-extension }}-2048.{{ url-extension }} 2048w"
         sizes="100vw"
         style="max-width:100%;"
         src="{{ url }}" alt="{{ alt }}" /></a>
@@ -46,7 +46,7 @@
       {%- assign filename-no-extension = pathparts | last -%}
       {%- assign pathparts-no-filename = pathparts | remove: filename-no-extension -%}
 {{ pathparts-no-filename }}
-      {%- assign path-no-filename = pathparts-no-filename | join: "//" -%}
+      {%- assign path-no-filename = pathparts-no-filename | join: ',' -%}
       {%- assign path-640 = path-no-filename | append: '/640/' -%}
       {%- assign path-768 = path-no-filename | append: '/768/' -%}
       {%- assign path-1024 = path-no-filename | append: '/1024/' -%}
@@ -65,7 +65,7 @@
            {{ path-1366 }}{{ filename-no-extension }}-1366.{{ url-extension }} 1366w,
            {{ path-1600 }}{{ filename-no-extension }}-1600.{{ url-extension }} 1600w,
            {{ path-1920 }}{{ filename-no-extension }}-1920.{{ url-extension }} 1920w,
-           {{ path-2048 }}{{ filename-no-extension }}-2048.{{ url-extension }} 2048w"
+           {{ pathparts-no-filename | join: '/' }}2048/{{ filename-no-extension }}-2048.{{ url-extension }} 2048w"
         sizes="100vw"
         style="max-width:100%;"
         src="{{ url }}" alt="{{ alt }}" /></a>
