@@ -13,11 +13,11 @@
       {%- assign filename-no-extension = pathparts | last -%}
       {%- assign pathparts-no-filename = pathparts | remove: filename-no-extension -%}
 {{ pathparts-no-filename }}
-      {%- assign pathparts-no-filename2 = pathparts-no-filename | compact -%}
+      {%- assign pathparts-no-filename2 = pathparts-no-filename | remove: pathparts-no-filename[0] -%}
 {{ pathparts-no-filename2 }}
-      {%- assign pathparts-no-filename3 = pathparts-no-filename2 | join: ',' -%}
+      {%- assign pathparts-no-filename3 = pathparts-no-filename2 | remove: pathparts-no-filename2.last -%}
 {{ pathparts-no-filename3 }}
-      {%- assign path-no-filename = pathparts-no-filename2 | join: '/' -%}
+      {%- assign path-no-filename = pathparts-no-filename3 | join: '/' -%}
 {{ path-no-filename }}
       {%- assign path-640 = path-no-filename | append: '/640/' -%}
       {%- assign path-768 = path-no-filename | append: '/768/' -%}
