@@ -13,6 +13,8 @@
       {%- assign filename-no-extension = pathparts | last -%}
       {%- assign pathparts-no-filename = pathparts | remove: filename-no-extension -%}
 {{ pathparts-no-filename }}
+      {%- assign pathparts-no-filename1 = pathparts | compact -%}
+{{ pathparts-no-filename1 }}
       {%- assign pathparts-no-filename2 = pathparts-no-filename | compact -%}
 {{ pathparts-no-filename2 }}
       {%- assign path-no-filename = pathparts-no-filename2 | join: ',' -%}
