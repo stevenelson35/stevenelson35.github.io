@@ -11,7 +11,7 @@
       {%- assign url-extension = url | split: '.' | last -%}
       {%- assign pathparts = url-filename | split: '/' -%}
       {%- assign filename-no-extension = pathparts | last -%}
-      {%- assign path-no-filename = pathparts | remove: filename-no-extension | compact | join: '/' -%}
+      {%- assign path-no-filename = pathparts | remove: filename-no-extension | compact | join: ',' -%}
 {{ path-no-filename }}
       {%- assign path-640 = path-no-filename | append: '/640/' -%}
       {%- assign path-768 = path-no-filename | append: '/768/' -%}
@@ -43,9 +43,8 @@
       {%- assign url-extension = url | split: '.' | last -%}
       {%- assign pathparts = url-filename | split: '/' -%}
       {%- assign filename-no-extension = pathparts | last -%}
-      {%- assign pathparts-no-filename = pathparts | remove: filename-no-extension | compact -%}
-{{ pathparts-no-filename }}
-      {%- assign path-no-filename = pathparts-no-filename | join: ',' -%}
+      {%- assign path-no-filename = pathparts | remove: filename-no-extension | compact | join: '/' -%}
+{{ path-no-filename}}
       {%- assign path-640 = path-no-filename | append: '/640/' -%}
       {%- assign path-768 = path-no-filename | append: '/768/' -%}
       {%- assign path-1024 = path-no-filename | append: '/1024/' -%}
