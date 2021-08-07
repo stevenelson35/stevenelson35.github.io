@@ -19,7 +19,7 @@
       {%- assign path-1024 = path-no-filename | append: '/1024/' -%}
       {%- assign path-1366 = path-no-filename | append: '/1366/' -%}
       {%- assign path-1600 = path-no-filename | append: '/1600/' -%}
-      {%- assign path-1920 = path-no-filename | append: '/1920/' -%}
+      {%- assign path-1920 = path-no-filename | join: 'z' | append: '/1920/' -%}
       {%- assign path-2048 = path-no-filename | append: '/2048/' -%}
       {%- if url-extension == "gif" -%}
         <img src="{{ url }}" alt={{alt}} />
@@ -32,7 +32,7 @@
            {{ path-1366 }}{{ filename-no-extension }}-1366.{{ url-extension }} 1366w,
            {{ path-1600 }}{{ filename-no-extension }}-1600.{{ url-extension }} 1600w,
            {{ path-1920 }}{{ filename-no-extension }}-1920.{{ url-extension }} 1920w,
-           {{ pathparts-no-filename | join: '/' }}2048/{{ filename-no-extension }}-2048.{{ url-extension }} 2048w"
+           {{ pathparts-no-filename | join: 'w' }}2048/{{ filename-no-extension }}-2048.{{ url-extension }} 2048w"
         sizes="100vw"
         style="max-width:100%;"
         src="{{ url }}" alt="{{ alt }}" /></a>
@@ -65,7 +65,7 @@
            {{ path-1366 }}{{ filename-no-extension }}-1366.{{ url-extension }} 1366w,
            {{ path-1600 }}{{ filename-no-extension }}-1600.{{ url-extension }} 1600w,
            {{ path-1920 }}{{ filename-no-extension }}-1920.{{ url-extension }} 1920w,
-           {{ pathparts-no-filename | join: '/' }}2048/{{ filename-no-extension }}-2048.{{ url-extension }} 2048w"
+           {{ pathparts-no-filename | join: 'q' }}2048/{{ filename-no-extension }}-2048.{{ url-extension }} 2048w"
         sizes="100vw"
         style="max-width:100%;"
         src="{{ url }}" alt="{{ alt }}" /></a>
