@@ -13,7 +13,7 @@
       {%- assign filename-no-extension = pathparts | last -%}
       {%- assign pathparts-no-filename = pathparts | remove: filename-no-extension -%}
 {{ pathparts-no-filename }}
-      {%- assign path-no-filename = pathparts-no-filename | join: "/" -%}
+      {%- assign path-no-filename = pathparts-no-filename | join: "//" -%}
       {%- assign path-640 = path-no-filename | append: '/640/' -%}
       {%- assign path-768 = path-no-filename | append: '/768/' -%}
       {%- assign path-1024 = path-no-filename | append: '/1024/' -%}
@@ -46,7 +46,7 @@
       {%- assign filename-no-extension = pathparts | last -%}
       {%- assign pathparts-no-filename = pathparts | remove: filename-no-extension -%}
 {{ pathparts-no-filename }}
-      {%- assign path-no-filename = pathparts-no-filename | join: "/" -%}
+      {%- assign path-no-filename = pathparts-no-filename | join: "//" -%}
       {%- assign path-640 = path-no-filename | append: '/640/' -%}
       {%- assign path-768 = path-no-filename | append: '/768/' -%}
       {%- assign path-1024 = path-no-filename | append: '/1024/' -%}
