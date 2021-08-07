@@ -13,7 +13,7 @@
       {%- assign filename-no-extension = pathparts | last -%}
       {%- assign pathparts-no-filename = pathparts | remove: filename-no-extension -%}
 
-{%- assign path-no-filename = "" -%}
+{%- assign path-no-filename = "/" -%}
 {%- assign i = 0 -%}
 {%- assign iend = pathparts.size -%}
 {{ i }}
@@ -63,7 +63,7 @@
       {%- assign pathparts = url-filename | split: '/' -%}
       {%- assign filename-no-extension = pathparts | last -%}
       {%- assign pathparts-no-filename = pathparts | remove: filename-no-extension -%}
-{%- assign path-no-filename = "" -%}
+{%- assign path-no-filename = "/" -%}
 {%- assign i = 0 -%}
 {%- assign iend = pathparts.size -%}
 {{ i }}
