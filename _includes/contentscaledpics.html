@@ -12,7 +12,7 @@
       {%- assign pathparts = url-filename | split: '/' -%}
       {%- assign filename-no-extension = pathparts | last -%}
       {%- assign pathparts-no-filename = pathparts | remove: filename-no-extension -%}
-      {%- assign path-no-filename = pathparts-no-filename | join '/' -%}
+      {%- assign path-no-filename = pathparts-no-filename | join: '/' -%}
       {%- assign path-640 = path-no-filename | append: '/640/' -%}
       {%- assign path-768 = path-no-filename | append: '/768/' -%}
       {%- assign path-1024 = path-no-filename | append: '/1024/' -%}
@@ -41,18 +41,29 @@
       {%- assign rest = piece | split: '"' | shift | join: '"' -%}
       {%- assign url-filename = url | split: '.' |  pop | join: '.' -%}
       {%- assign url-extension = url | split: '.' | last -%}
+      {%- assign pathparts = url-filename | split: '/' -%}
+      {%- assign filename-no-extension = pathparts | last -%}
+      {%- assign pathparts-no-filename = pathparts | remove: filename-no-extension -%}
+      {%- assign path-no-filename = pathparts-no-filename | join: '/' -%}
+      {%- assign path-640 = path-no-filename | append: '/640/' -%}
+      {%- assign path-768 = path-no-filename | append: '/768/' -%}
+      {%- assign path-1024 = path-no-filename | append: '/1024/' -%}
+      {%- assign path-1366 = path-no-filename | append: '/1366/' -%}
+      {%- assign path-1600 = path-no-filename | append: '/1600/' -%}
+      {%- assign path-1920 = path-no-filename | append: '/1920/' -%}
+      {%- assign path-2048 = path-no-filename | append: '/2048/' -%}
       {%- if url-extension == "gif" -%}
         <img src="{{ url }}" />
       {%- else -%}
       <a href="{{ url }}" target="_blank">
       <img
-        srcset="{{ url-filename }}-640.{{ url-extension }} 640w,
-            {{ url-filename }}-768.{{ url-extension }} 768w,
-            {{ url-filename }}-1024.{{ url-extension }} 1024w,
-            {{ url-filename }}-1366.{{ url-extension }} 1366w,
-            {{ url-filename }}-1600.{{ url-extension }} 1600w,
-            {{ url-filename }}-1920.{{ url-extension }} 1920w,
-            {{ url-filename }}-2048.{{ url-extension }} 2048w"
+        srcset="{{ path-640 }}{{filename-no-extension }}-640.{{ url-extension }} 640w,
+           {{ path-768 }}{{ filename-no-extension }}-768.{{ url-extension }} 768w,
+           {{ path-1024 }}{{ filename-no-extension }}-1024.{{ url-extension }} 1024w,
+           {{ path-1366 }}{{ filename-no-extension }}-1366.{{ url-extension }} 1366w,
+           {{ path-1600 }}{{ filename-no-extension }}-1600.{{ url-extension }} 1600w,
+           {{ path-1920 }}{{ filename-no-extension }}-1920.{{ url-extension }} 1920w,
+           {{ path-2048 }}{{ filename-no-extension }}-2048.{{ url-extension }} 2048w"
         sizes="100vw"
         style="max-width:100%;"
         src="{{ url }}" alt="{{ alt }}" /></a>
