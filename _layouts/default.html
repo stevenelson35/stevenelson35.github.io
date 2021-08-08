@@ -30,7 +30,7 @@
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         </div>
 
-        {{ content }}
+        {% include contentscaledpics.html %}
         
         {% include footer.html %}
         {% include analytics.html %}
