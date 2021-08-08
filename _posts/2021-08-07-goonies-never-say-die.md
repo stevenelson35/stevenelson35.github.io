@@ -11,7 +11,7 @@ Washington Park incuded tennis courts, trails, and a zoo.  We parked by the play
 
 ![20210807_092607.jpg]({{site.baseurl}}/assets/media/20210807_092607.jpg)
 
-![20210807_092546.jpg]({{site.baseurl}}/assets/media/20210807_.092546jpg)
+![20210807_092546.jpg]({{site.baseurl}}/assets/media/20210807_092546.jpg)
 
 Where Camilla ran.  
 
