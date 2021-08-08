@@ -22,6 +22,7 @@ and ran.
 ![20210807_194300.jpg]({{site.baseurl}}/assets/media/20210807_194300.jpg)
 
 and ran.  
+
 ![20210807_194358.jpg]({{site.baseurl}}/assets/media/20210807_194358.jpg)
 
 and ran some more.  
@@ -37,7 +38,6 @@ On the way to the Japanese garden, we stopped at a rose garden for a quick sniff
 At the Japanese garden, we checked in and carried a stroller up the entrance stairs.  
 
 ![20210807_194808.jpg]({{site.baseurl}}/assets/media/20210807_194808.jpg)
-
 
 To the main courtyard.  
 
@@ -64,7 +64,7 @@ And the view of Portland.
 
 ![20210807_194925.jpg]({{site.baseurl}}/assets/media/20210807_194925.jpg)
 
-Before leaving through bamboo alley (guarded by lions).  
+Before leaving through the bamboo alley (guarded by lions).  
 
 ![20210807_195752.jpg]({{site.baseurl}}/assets/media/20210807_195752.jpg)
 
