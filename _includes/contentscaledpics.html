@@ -34,7 +34,7 @@
       {%- assign path-1920 = path-no-filename | append: '1920/' -%}
       {%- assign path-2048 = path-no-filename | append: '2048/' -%}
       {%- if url-extension == "gif" -%}
-        <img src="{{ url }}" alt={{alt}} />
+        <img src="{{ url }}" alt={{alt}} 
       {%- else -%}
       <a href="{{ url }}" target="_blank">
       <img
@@ -47,7 +47,7 @@
            {{ path-2048 }}{{ filename-no-extension }}-2048.{{ url-extension }} 2048w"
         sizes="100vw"
         style="max-width:100%;"
-        src="{{ url }}" alt="{{ alt }}" /></a>
+        src="{{ url }}" alt="{{ alt }}" 
       {%- endif -%}
 {{ rest }}
     {%- else -%}
@@ -80,7 +80,7 @@
       {%- assign path-1920 = path-no-filename | append: '1920/' -%}
       {%- assign path-2048 = path-no-filename | append: '2048/' -%}
       {%- if url-extension == "gif" -%}
-        <img src="{{ url }}" />
+        <img src="{{ url }}" 
       {%- else -%}
       <a href="{{ url }}" target="_blank">
       <img
@@ -93,7 +93,7 @@
            {{ pathparts-no-filename | join: 'q' }}2048/{{ filename-no-extension }}-2048.{{ url-extension }} 2048w"
         sizes="100vw"
         style="max-width:100%;"
-        src="{{ url }}" alt="{{ alt }}" /></a>
+        src="{{ url }}" alt="{{ alt }}" 
       {%- endif -%}
 {{ rest }}
     {%- endif -%}
