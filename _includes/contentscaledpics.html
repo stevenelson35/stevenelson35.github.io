@@ -8,7 +8,6 @@
       {%- assign alt = piece | split: '" alt="' | shift | join: '" alt="' | split: '"' | first -%}
       {%- assign rest = piece | split: '" alt="' | shift | join: '" alt="' | split: '"' | shift | join: '"' -%}
       {%- assign rest1 = rest | remove: "/>" -%}
-      {{ rest1 }}
       {%- assign rest2 = "/></a>" | append: rest1 -%}
       {%- assign url-filename = url | split: '.' | pop | join: '.' -%}
       {%- assign url-extension = url | split: '.' | last -%}
@@ -57,7 +56,6 @@
       {%- assign url = piece | split: '"' | first -%}
       {%- assign rest = piece | split: '"' | shift | join: '"' -%}
       {%- assign rest1 = rest | remove: "/>" -%}
-      {{ rest1 }}
       {%- assign rest2 = "/></a>" | append: rest1 -%}
       {%- assign url-filename = url | split: '.' |  pop | join: '.' -%}
       {%- assign url-extension = url | split: '.' | last -%}
