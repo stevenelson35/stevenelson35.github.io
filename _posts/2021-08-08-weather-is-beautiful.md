@@ -5,7 +5,7 @@ tags: ["2021", oregon, summer, vacation]
 published: true
 title: The Weather Is Beautiful
 ---
-On our last full day in Oceanside, the weather was beautiful.  We ate lunch in the village, went hiking back at Cape Mearse, played at the beach, and had dinner in the village.  
+On our last full day in Oceanside, the weather was beautiful.  We ate lunch in the village, went hiking back at Cape Mears, played at the beach, and had dinner in the village.  
 
 The one restaurant open for breakfast and lunch until 3pm is a short walk down the hill from our beach house.  
 
