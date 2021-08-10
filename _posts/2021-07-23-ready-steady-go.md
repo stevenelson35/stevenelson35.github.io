@@ -6,7 +6,7 @@ Tomorrow we set sail for unknown shores as the first day of our month long trip 
 
 We'll be leaving Florida the day after Camilla celebrated Christmas in July on her last day of school with her class.  When we return from vacation, she will begin VPK in a new class at the same school.  
 
-![Camilla in a red Christmas dress with white cape sticking her tongue out]({{ site.url }}assets/media/20210723_192543.jpg "Camilla: Christmas in July")
+![Camilla in a red Christmas dress with white cape sticking her tongue out]({{ site.url }}assets/media/20210723_192543.jpg)
 
 The first leg of our travels has us driving north for three days with hotel stops in Ooltewah, TN and Keokuk, IA on Saturday and Sunday, respectively.  
 
