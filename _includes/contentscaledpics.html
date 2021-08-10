@@ -48,7 +48,6 @@
            {{ path-1920 }}{{ filename-no-extension }}-1920.{{ url-extension }} 1920w,
            {{ path-2048 }}{{ filename-no-extension }}-2048.{{ url-extension }} 2048w"
         sizes="100vw"
-        style="max-width:100%;"
         src="{{ url }}" alt="{{ alt }}" 
       {%- endif -%}
       {{ rest2 }}
@@ -96,7 +95,6 @@
            {{ path-1920 }}{{ filename-no-extension }}-1920.{{ url-extension }} 1920w,
            {{ pathparts-no-filename | join: 'q' }}2048/{{ filename-no-extension }}-2048.{{ url-extension }} 2048w"
         sizes="100vw"
-        style="max-width:100%;"
         src="{{ url }}" alt="{{ alt }}" 
       {%- endif -%}
       {{ rest2 }}
