@@ -40,7 +40,7 @@ And had a private escort through construction.
 
 ![20210810_080731.jpg]({{site.baseurl}}/assets/media/20210810_080731.jpg)
 
-![20210810_080621.jpg]({{site.baseurl}}/assets/media/20210810_080621.jpg)
+![20210810_080627.jpg]({{site.baseurl}}/assets/media/20210810_080627.jpg)
 
 And were tired when we got to Arcata.  
 
