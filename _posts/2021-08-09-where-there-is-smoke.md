@@ -26,21 +26,21 @@ Eventually we got to California.
 
 And drove some more.  
 
-![20210809_075700.jpg]({{site.baseurl}}/assets/media/20210809_075700.jpg)
+![20210810_075700.jpg]({{site.baseurl}}/assets/media/20210810_075700.jpg)
 
 And drove through the Six Rivers National Forest.  
 
-![20210809_080417.jpg]({{site.baseurl}}/assets/media/20210809_080417.jpg)
+![20210810_080417.jpg]({{site.baseurl}}/assets/media/20210810_080417.jpg)
 
 And had a private escort through construction.  
 
-![20210809_080231.jpg]({{site.baseurl}}/assets/media/20210809_080231.jpg)
+![20210810_080231.jpg]({{site.baseurl}}/assets/media/20210810_080231.jpg)
 
-![20210809_080521.jpg]({{site.baseurl}}/assets/media/20210809_080521.jpg)
+![20210810_080521.jpg]({{site.baseurl}}/assets/media/20210810_080521.jpg)
 
-![20210809_080731.jpg]({{site.baseurl}}/assets/media/20210809_080731.jpg)
+![20210810_080731.jpg]({{site.baseurl}}/assets/media/20210810_080731.jpg)
 
-![20210809_080621.jpg]({{site.baseurl}}/assets/media/20210809_080621.jpg)
+![20210810_080621.jpg]({{site.baseurl}}/assets/media/20210810_080621.jpg)
 
 And were tired when we got to Arcata.  
 
