@@ -7,7 +7,7 @@ title: Mr. Monk Goes On Vacation
 ---
 We drove the rest of the way to San Francisco today and ate wood fired pizza around the block from our hotel.  
 
-The drive today was shorter from Arcata to San Francisco.  Some of the roads were winding and we saw some big trees.  
+The drive today from Arcata to San Francisco was shorter than the day before.  Some of the roads were winding and we saw some big trees.  
 
 ![202108010_222015.jpg]({{site.baseurl}}/assets/media/20210810_222015.jpg)
 
@@ -23,7 +23,8 @@ We passed Vallejo.
 
 ![202108010_221550.jpg]({{site.baseurl}}/assets/media/20210810_221550.jpg)
 
-Once we got near San Francisco we saw the first black smoke in the sky.  We're not sure if this was from a fire or not.  Previously we only saw gray hazy sky when we thought we were near fires.  
+Once we got near San Francisco we saw the black smoke in the sky for the first time on our trip. We're not sure if this smoke was from a fire or not. 
+Previously we only saw gray hazy sky when we thought we were near fires.  
 
 ![202108010_221424.jpg]({{site.baseurl}}/assets/media/20210810_221424.jpg)
 
@@ -45,5 +46,5 @@ And walked to get pizza before picking up some groceries at the market.
 
 ![202108010_220351.jpg]({{site.baseurl}}/assets/media/20210810_220351.jpg)
 
-![202108010_181641.jpg]({{site.baseurl}}/assets/media/20210810_.181641jpg)
+![202108010_181641.jpg]({{site.baseurl}}/assets/media/20210810_181641.jpg)
 
