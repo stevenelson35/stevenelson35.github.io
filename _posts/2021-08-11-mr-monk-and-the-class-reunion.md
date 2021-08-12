@@ -9,7 +9,7 @@ On our first full day in San Francisco, Linda and Camilla drove to Berkeley to s
 
 For lunch, we ate at the pub on the corner near our hotel.  
 
-![202108011_154448.jpg]({{site.baseurl}}/assets/media/20210810_154448.jpg)
+![202108011_154448.jpg]({{site.baseurl}}/assets/media/20210811_154448.jpg)
 
 Later in the day, I walked to the Powell Street Station and took the Bay Area Rapid Transit (BART) to Berkeley, too.  I saw some trolley's along the half mile walk.  
 
@@ -21,7 +21,7 @@ I found my way to the station pretty easily, following the signs.
 
 ![202108011_154648.jpg]({{site.baseurl}}/assets/media/20210811_154648.jpg)
 
-![202108011_151702.jpg]({{site.baseurl}}/assets/media/20210811_151792.jpg)
+![202108011_151702.jpg]({{site.baseurl}}/assets/media/20210811_151702.jpg)
 
 Linda seemed surprised that I got on the correct train and got off at the correct stop.  
 
@@ -33,5 +33,5 @@ But, she trusted me help get them back to San Francisco on the BART later that e
 
 ![202108011_214927.jpg]({{site.baseurl}}/assets/media/20210811_214927.jpg)
 
->It's a jungle out there.
+>It's a jungle out there.  
 >Monk
