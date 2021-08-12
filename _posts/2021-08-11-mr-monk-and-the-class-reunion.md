@@ -11,7 +11,7 @@ For lunch, we ate at the pub on the corner near our hotel.
 
 ![202108011_154448.jpg]({{site.baseurl}}/assets/media/20210811_154448.jpg)
 
-Later in the day, I walked to the Powell Street Station and took the Bay Area Rapid Transit (BART) to Berkeley, too.  I saw some trolley's along the half mile walk.  
+Later in the day, I walked to the Powell Street Station and took the Bay Area Rapid Transit (BART) to Berkeley, too.  I saw some trolleys along the half mile walk.  
 
 ![202108011_151450.jpg]({{site.baseurl}}/assets/media/20210811_151450.jpg)
 
