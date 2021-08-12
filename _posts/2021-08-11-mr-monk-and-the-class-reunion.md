@@ -17,7 +17,7 @@ Later in the day, I walked to the Powell Street Station and took the Bay Area Ra
 
 ![202108011_154606.jpg]({{site.baseurl}}/assets/media/20210811_154606.jpg)
 
-I found my way to the station pretty easily, following the signs.  
+I found my way to the station pretty easily by simply following the signs.  
 
 ![202108011_154648.jpg]({{site.baseurl}}/assets/media/20210811_154648.jpg)
 
@@ -29,9 +29,10 @@ Linda seemed surprised that I got on the correct train and got off at the correc
 
 ![202108011_155051.jpg]({{site.baseurl}}/assets/media/20210811_155051.jpg)
 
-But, she trusted me help get them back to San Francisco on the BART later that evening.  
+But, she trusted me to help get them back to San Francisco on the BART later that evening.  
 
 ![202108011_214927.jpg]({{site.baseurl}}/assets/media/20210811_214927.jpg)
 
->It's a jungle out there.  
+>It's a jungle out there.
+
 >Monk
