@@ -51,8 +51,6 @@ Below are simply pictures of flowers only. No humans were disturbed to capture t
 
 ![20210812_214005.jpg]({{site.baseurl}}/assets/media/20210812_214005.jpg)
 
-![20210812_.jpg]({{site.baseurl}}/assets/media/20210812_.jpg)
-
 >A natural beauty should be preserved like a monument in nature.  
 >Neil Young  
 >Harvest Moon  
