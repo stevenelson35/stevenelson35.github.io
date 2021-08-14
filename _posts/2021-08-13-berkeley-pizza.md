@@ -5,9 +5,9 @@ tags: ["2021", california, summer, vacation]
 published: true
 title: Berkeley Pizza
 ---
-On our last day in the Bay Area we went to Berkely for pizza at one of Linda's brothers house.  
+On our last day in the Bay Area we went to Berkeley for pizza at Linda's brother's.  
 
-First I had to get some caffeine before work and saw a familiar name on a hotel roof sign.    
+First I had to get some caffeine before work and saw a familiar name on a hotel roof sign during my walk around the block.    
 
 ![20210814_082243.jpg]({{site.baseurl}}/assets/media/20210814_082243.jpg)
 
@@ -19,7 +19,7 @@ After work we walked to the Powell Street Station and saw the California state f
 
 ![20210814_082440.jpg]({{site.baseurl}}/assets/media/20210814_082440.jpg)
 
-And we say some trolley cars.  
+We also saw some trolley cars.  
 
 ![20210814_082520.jpg]({{site.baseurl}}/assets/media/20210814_082520.jpg)
 
