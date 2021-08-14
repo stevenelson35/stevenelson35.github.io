@@ -68,7 +68,7 @@ We stopped for lunch at the Pelicon Inn pub and ran in the grass.
 
 ![20210812_204130.jpg]({{site.baseurl}}/assets/media/20210812_204130.jpg)
 
-Wild dill weed grows wild along the roadside in California.  Linda says "Dill is good".  
+Dill weed grows wild along the roadside in California.  Linda says "Dill is good".  
 
 At Golden Gate Park, we walked to the Conservatory of Flowers.  
 
@@ -82,5 +82,5 @@ At Golden Gate Park, we found the carousel.
 
 >The mountains are calling and I must go.  
 >
->When we try to pick out anything by itself, we find it hitched to everything else in the universe.
+>When we try to pick out anything by itself, we find it hitched to everything else in the universe.  
 >John Muir
