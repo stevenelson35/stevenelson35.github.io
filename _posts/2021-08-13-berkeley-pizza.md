@@ -11,11 +11,11 @@ First I had to get some caffeine before work and saw a familiar name on a hotel 
 
 ![20210814_082243.jpg]({{site.baseurl}}/assets/media/20210814_082243.jpg)
 
-And found my way back to our hotel.  
+I found my way back to our hotel.  
 
 ![20210814_082351.jpg]({{site.baseurl}}/assets/media/20210814_082351.jpg)
 
-After work we walked to the Powell Street Station and saw the California state flag on the way.  
+After work we walked to the Powell Street Station and saw the California state flag on the way. I think it is Linda's favorite flag. It has a bear on it.  
 
 ![20210814_082440.jpg]({{site.baseurl}}/assets/media/20210814_082440.jpg)
 
