@@ -44,7 +44,7 @@ And found what __might__ be the same bench where I proposed to Linda on the hill
 
 2016  
 
-![IMG_0027-cropped-4x3.jpg]({{site.baseurl}}/assets/mediaIMG_0027-cropped-4x3.jpg)
+![IMG_0027-cropped-4x3.jpg]({{site.baseurl}}/assets/media/IMG_0027-cropped-4x3.jpg)
 
 ![20210812_105757.jpg]({{site.baseurl}}/assets/media/20210812_105757.jpg)
 
