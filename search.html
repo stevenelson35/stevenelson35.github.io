@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="/assets/js/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="/assets/css/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <title>Search</title>
+
+  </head>
+  <body>
+    <div id="header">
+      <nav>
+  
+    
+      <li class="fork"><a href="/">
+        Home
+      </a></li>
+    
+  
+    
+      <li class="fork"><a href="/blog.html">
+        Blog
+      </a></li>
+    
+  
+    
+  
+    
+  
+  
+    
+  
+    
+  
+    
+      <li class="downloads"><a href="/us.html">
+        Us
+      </a></li>
+    
+  
+    
+      <li class="downloads"><a href="/tags.html">
+        Tags
+      </a></li>
+    
+  
+</nav>
+
+    </div><!-- end header -->
+
+    <div class="wrapper">
+      <section>
+        <div id="title">
+          <h1>Travelin' On</h1>
+          <p>A place to post some updates during our summer trip across the country.</p>
+        </div>
+
+        <style>
+div.a {
+  text-align: center;
+}
+</style>
+<div class="a">
+  <h3>Enter search text and press enter</h3>
+  </br>
+</div>
+<script src="https://blog.itsallonesong.com//assets/js/lunr.js"></script>
+
+<script>
+
+var documents = [{
+    "id": 0,
+    "url": "https://blog.itsallonesong.com//about.html",
+    "title": "About",
+    "body": "AboutThis blog is a simple set of posts to share with family and friends. {% include createdby. html %} The {{ site. title }} site:  Is hosted on GitHub.  Was created using Jekyll.  Has a domain from Yahoo! Smallbusiness.  Supports comments using Disqus.      (strange ads; ok for free trial)    Provides search using lunr. js.  Handles subscriptions using mailchimp.  Tracks traffic using Google Analytics.  Accepts crypto with Coinbase Commerce.  Processes payments with PayPal.  And adds posts using prose. io.      (pretty flaky; find another editor)   Jekyll is a blog-aware static site builder that:  Performs text-to-html conversion with Markdown.  Processes templates using Liquid. "
+    }, {
+    "id": 1,
+    "url": "https://blog.itsallonesong.com//blog.html",
+    "title": "Blog",
+    "body": "Latest Posts	{% for post in site. posts %}			{% assign authordata = '' | split:'@' %}         {% for author in site. authors %}	          {% if post. author contains author. short_name %}           {% capture data %}    	    {{ author. name }}            {% endcapture %}           {% assign authordata = authordata | push: data %}          {% endif %}         {% endfor %}         {{ post. title }}: 		 Written by {{ authordata | array_to_sentence_string }} - 		{{ post. excerpt }}		{% endfor %}"
+    }, {
+    "id": 2,
+    "url": "https://blog.itsallonesong.com//",
+    "title": "Travelin' On",
+    "body": "{{  Hello World!  | downcase }}&lt;/br&gt;"
+    }, {
+    "id": 3,
+    "url": "https://blog.itsallonesong.com//search.html",
+    "title": "Search",
+    "body": " Enter search text and press enter:  &lt;/br&gt;{% include search-lunr. html %} "
+    }, {
+    "id": 4,
+    "url": "https://blog.itsallonesong.com//share.html",
+    "title": "share",
+    "body": "{% include share. html %} "
+    }, {
+    "id": 5,
+    "url": "https://blog.itsallonesong.com//subscribe.html",
+    "title": "Subscribe",
+    "body": "Subscribe to be notified of updates&lt;/br&gt;   		        "
+    }, {
+    "id": 6,
+    "url": "https://blog.itsallonesong.com//support.html",
+    "title": "support",
+    "body": "{% include support. html %} "
+    }, {
+    "id": 7,
+    "url": "https://blog.itsallonesong.com//tags.html",
+    "title": "Tags",
+    "body": "{{ page. title }}{% for tag in site. tags %}  {% assign tag_downcase = tag. name | downcase %} {% assign num_posts = 0 %}  {{ tag. name }}:  {% for post in site. posts %}   {% if post. tags contains tag_downcase %}   {% assign num_posts = num_posts | plus:1 %}   {{ post. date | date_to_string }}   - {{ post. title }}   &lt;/br&gt;  {% endif %} {% endfor %}  {% if num_posts == 0 %}  No posts yet. &lt;/br&gt; {% endif %} &lt;/br&gt;{% endfor %}"
+    }, {
+    "id": 8,
+    "url": "https://blog.itsallonesong.com//us.html",
+    "title": "Us",
+    "body": "Our Family	{% for author in site. authors %}			{{ author. name }}: 		{{ author. position }}: 		{{ author. content | markdownify }} 		&lt;/br&gt;	{% endfor %}"
+    }, {
+    "id": 9,
+    "url": "https://blog.itsallonesong.com//robots.txt",
+    "title": "",
+    "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
+    }, {
+    "id": 10,
+    "url": "https://blog.itsallonesong.com//2021/08/13/berkeley-pizza.html",
+    "title": "Berkeley Pizza",
+    "body": "2021/08/13 - On our last day in the Bay Area we went to Berkeley for pizza at Linda’s brother’s. First I had to get some caffeine before work and saw a familiar name on a hotel roof sign during my walk around the block.  I found my way back to our hotel.  After work we walked to the Powell Street Station and saw the California state flag on the way. I think it is Linda’s favorite flag. It has a bear on it.  We also saw some trolley cars.  In Berkeley Camilla requested to have her picture taken in this alcove.  On the way home, Linda and Camilla watched the lights of the city from the bay bridge.  "
+    }, {
+    "id": 11,
+    "url": "https://blog.itsallonesong.com//2021/08/12/simply-flowers.html",
+    "title": "Simply Flowers",
+    "body": "2021/08/12 - This post shows some of the flowers and plants we saw at the Conservatory of Flowers in San Francisco at Golden Gate Park. Below are simply pictures of flowers only. No humans were disturbed to capture these photos.            Listen to Natural Beauty  A natural beauty should be preserved like a monument in nature.  Neil Young  Harvest Moon - Natural Beauty "
+    }, {
+    "id": 12,
+    "url": "https://blog.itsallonesong.com//2021/08/12/return-to-muir-woods.html",
+    "title": "Return To Muir Woods",
+    "body": "2021/08/12 - A break from work left a day to go to Muir Woods and the Golden Gate Park. We started the day by taking the BART to Berkeley to pick up our car and two of Camilla’s cousins.  Camilla requested a picture in this painted alcove.  Then we drove to Muir Woods.  While having a snack before hiking the trails, we saw a friendly chipmunk (an animal we don’t see much in Oviedo).  Then we hiked.     And found what might be the same bench on the side trail where I proposed to Linda. 2021 2016     Before getting in the car we saw a big squirrel.  We stopped for lunch at the Pelicon Inn pub and ran in the grass.  Dill weed grows wild along the roadside in California.  Linda says “Dill is good”. At Golden Gate Park, we walked to the Conservatory of Flowers.  At Golden Gate Park, we found the carousel.   The mountains are calling and I must go.  When we try to pick out anything by itself, we find it hitched to everything else in the universe. John Muir "
+    }, {
+    "id": 13,
+    "url": "https://blog.itsallonesong.com//2021/08/11/mr-monk-and-the-class-reunion.html",
+    "title": "Mr. Monk And The Class Reunion",
+    "body": "2021/08/11 - On our first full day in San Francisco, Linda and Camilla drove to Berkeley to see Linda’s brother’s family. For lunch, we ate at the pub on the corner near our hotel.  Later in the day, I walked to the Powell Street Station and took the Bay Area Rapid Transit (BART) to Berkeley, too.  I saw some trolleys along the half mile walk.  I found my way to the station pretty easily by simply following the signs.  Linda seemed surprised that I got on the correct train and got off at the correct stop.  But, she trusted me to help get them back to San Francisco on the BART later that evening.   It’s a jungle out there.  Monk "
+    }, {
+    "id": 14,
+    "url": "https://blog.itsallonesong.com//2021/08/10/mr-monk-goes-on-vacation.html",
+    "title": "Mr. Monk Goes On Vacation",
+    "body": "2021/08/10 - We drove the rest of the way to San Francisco today and ate wood fired pizza around the block from our hotel. The drive today from Arcata to San Francisco was shorter than the day before.  Some of the roads were winding and we saw some big trees.  We drove quickly past many wineries and noticed some names that we recognized like Kendall Jackson Winery, Francis Ford Coppola Winery, and Nelson Family Vineyards but didn’t get any pictures.  We passed Vallejo.  Once we got near San Francisco we saw the black smoke in the sky for the first time on our trip. We’re not sure if this smoke was from a fire or not. Previously we only saw gray hazy sky when we thought we were near fires.  We passed Alcatraz, saw the San Francisco skyline, and crossed over a famous bridge.   And finally arrived at our hotel.  And walked to get pizza before picking up some groceries at the market.  "
+    }, {
+    "id": 15,
+    "url": "https://blog.itsallonesong.com//2021/08/09/where-there-is-smoke.html",
+    "title": "Where There's Fire",
+    "body": "2021/08/09 - We had a long drive from Oceanside, OR to Arcata, CA today. Arcata was a change of plans from our intended stop in Klamath Falls since there are fires in the area. Since the coastal road to Arcata had potential closures, we took the long way through a national forest. We left Oceanside.  And drove.  Saw some hazy smokey skies.  Eventually we got to California.  And drove some more.  And drove through the Six Rivers National Forest.  And had a private escort through construction.   And were tired when we got to Arcata.  "
+    }, {
+    "id": 16,
+    "url": "https://blog.itsallonesong.com//2021/08/08/weather-is-beautiful.html",
+    "title": "The Weather Is Beautiful",
+    "body": "2021/08/08 - On our last full day in Oceanside, the weather was beautiful.  We ate lunch in the village, went hiking back at Cape Meares, played at the beach, and had dinner in the village. The one restaurant open for breakfast and lunch until 3pm is a short walk down the hill from our beach house.   These are some of the wild flowers and berries along the walk.   The building next to where we are staying has been overtaken by vegetation.  Our hike was slightly muddy.    But Camilla had fun and at one point did her chicken call.   At the beach Linda explored the shallow water looking for sea creatures.   And Camilla and I joined her after we were done playing in the sand.    The weather is here. Wish you were beautiful. Jimmy Buffet "
+    }, {
+    "id": 17,
+    "url": "https://blog.itsallonesong.com//2021/08/07/goonies-never-say-die.html",
+    "title": "Goonies Never Say Die",
+    "body": "2021/08/07 - In Portland we went to Washington Park where Camilla played on a playground, saw a rose garden, and toured the Japanese gardens.  Then we drove to Cannon Beach before returning to Oceanside. Washington Park incuded tennis courts, trails, and a zoo.  We parked by the playground.  Where Camilla ran.  and ran.  and ran.  and ran some more.  On the way to the Japanese garden, we stopped at a rose garden for a quick sniff.  At the Japanese garden, we checked in and carried a stroller up the entrance stairs.  To the main courtyard.  Walked through the bamboo alley guarded by lions.  And looked down to a rock garden.  Saw a waterfall and coi pond.  And the bridge.  And the view of Portland.  Before leaving through the bamboo alley (guarded by lions).  And checking out the bonsai garden.   At Cannon Beach it was a bit rainy and crowded with tourists, so we didn’t stay long after hunting down a sweet treat at a chocolate store.  "
+    }, {
+    "id": 18,
+    "url": "https://blog.itsallonesong.com//2021/08/06/rainy-oceanside.html",
+    "title": "Rainy Oceanside",
+    "body": "2021/08/06 - There was a light rain most of the day before we left for a night in Portland where we saw blue skies and sunshine for the first time in a while. Linda and Camilla got in some good screen time during the rain (and Linda worked to prepare the beach house for our departure in a few days). I made it down to one of the two village restaurants that are open in the morning for coffee.  I saw these flowers on the way back up the hillside.  And that was the only picture for the day.  In the afternoon Linda drove us to Portland where we ate at the hotel and attempted to swim in the pool (but were too tired). "
+    }, {
+    "id": 19,
+    "url": "https://blog.itsallonesong.com//2021/08/05/oceanside-day-3.html",
+    "title": "Oceanside Day 3",
+    "body": "2021/08/05 - We went to the beach at low tide to explore a little further past the tunnel hoping to find a cave of sea creatures. The day started with low clouds.  Here is our beach house for the week.  Which is up the hillside from the village.  Here’s the second beach we can get to after going through the tunnel we discovered on the first day at Oceanside.    Linda found some life in the pools of water in the rocks.  Mostly bivalves and barnacles, but, also this.  I ventured to a further cave around the corner hoping to find more sea creatures.   And only found this sea creature.      The day remained cloudy.  "
+    }, {
+    "id": 20,
+    "url": "https://blog.itsallonesong.com//2021/08/04/oceanside-day-2.html",
+    "title": "Oceanside Day 2",
+    "body": "2021/08/04 - In the morning, Linda and Camilla went to the beach.  In the afternoon, I joined them to go hiking at Cape Meare’s Lighthouse. It was a foggy day with low clouds.  Camilla sat on a log.  A big log.  And Linda befriended a seagull that was missing a foot.  At the lighthouse, it was too foggy to see the ocean over the cliffs, so, we climbed some rocks.   And Camilla ran.   The walk back from the lighthouse was a bit wet with water from the low clouds that were blowing past us.  We hiked to see the octopus tree.   And we saw a friend of the bee that stung me yesterday.   Then Camilla lead us on a hike through the woods on a trail to the largest Sitka Spruce in Oregon.   The next image is of the big 750-800 year old Sitka Spruce, at 48 feet circumference.    "
+    }, {
+    "id": 21,
+    "url": "https://blog.itsallonesong.com//2021/08/03/oceanside-day-1.html",
+    "title": "Oceanside Day 1",
+    "body": "2021/08/03 - On our first full day in Oceanside, we walked down to the village for breakfast, explored the beach, and drove to Rockaway Trail Head to see the oldest Cedar in Oregon. In the morning, Linda spotted a deer outside our bedroom window that had spent the night in the tall grass beside the beachhouse.  Here are some pictures from the beach.  Where we found a passage.  Which lead to another beach.  On the way back to the beachhouse along the steep single lane road lined with wildflowers, just before we were going to sample some wild blackberries – I got stung on the temple by a bee.  After lunch at a Tillamook Mexican restaurant like Haberneros (per Googles description), we walked along a nature boardwalk. Here are some pictures from the boardwalk.   "
+    }, {
+    "id": 22,
+    "url": "https://blog.itsallonesong.com//2021/08/02/leaving-seattle.html",
+    "title": "Leaving Seattle",
+    "body": "2021/08/02 - We picked up a rental car, saw Linda’s Aunt and Uncle for lunch, and drove to Oceanside Oregon today. This was the first day we had to get things done in the morning since we needed to checkout of the hotel. Camilla wore her flamingo dress :).  As we left the hotel, we met a robot cleaning the hallway carpet.  Beep, Boop.  We walked to a bus stop to get a ride to the rental car.  I carried the car seat, so we glad I had found a slight short cut up the King Street Station stairs to the bus stop about two blocks away.  Linda had paid for the bus tickets online by phone, but, it didn’t seem like the bus driver cared to confirm payment, since we just walked on.  We drove north to a restaurant near Washington State University to go to lunch.  We drove around near the campus for an hour siteseeing and failing to find a parking spot to get out and explore the area on foot.  Getting stuck waiting for the bridge made us decide to cut the driving tour short so we could get gas and make it to the restuarant on time.  After lunch, we headed south towards Portland.  And then west to Oceanside.  Which sent us through a tunnel under some homes.  Down some hills (and apparently up some, too).  We arrived before a late sunset.  Here’s the view on the last mile to hour destination.  And here’s the view from our home-for-a-week in Oceanside.  "
+    }, {
+    "id": 23,
+    "url": "https://blog.itsallonesong.com//2021/08/01/day-in-seattle.html",
+    "title": "A Day In Seattle",
+    "body": "2021/08/01 - During our day in Seattle we walked to the Pike Place Market and the Space Needle. Camilla loved to run whenever there was open green space, but, predictably said that walking hurt her legs 🤣. That made us glad we brought a stroller along, since it was more hilly downtown than we expected. We posed outside the first Starbucks and saw giant seagulls.    "
+    }, {
+    "id": 24,
+    "url": "https://blog.itsallonesong.com//2021/07/31/tossed-salads-and-scrambled-eggs.html",
+    "title": "Tossed Salads and Scrambled Eggs",
+    "body": "2021/07/31 - The Empire Builder arrived in Seattle a few hours late, but, fortunately the delay was just long enough that when we arrived at our hotel across the street from the King Street Station, we were able to do an early check-in.  I think today I reached my limit of times I can request a pose for a picture for this trip. It may be difficult to get pics from this point on.   "
+    }, {
+    "id": 25,
+    "url": "https://blog.itsallonesong.com//2021/07/30/a-day-on-a-train.html",
+    "title": "A Day On A Train",
+    "body": "2021/07/30 - Friday was our full day on the train with meals in the dining car and a few breaks outside at short stops to stretch and get some fresh air.   "
+    }, {
+    "id": 26,
+    "url": "https://blog.itsallonesong.com//2021/07/29/dodge-nature-center.html",
+    "title": "Dodge Nature Center",
+    "body": "2021/07/29 - Before departing for our train, we met Jared and Stephanie for dinner and a walk around Dodge Nature Center with my sister Christine.    The flowers were easier to capture than the animals. They were too fast for me. Here’s a baby turtle just after it went underwater.  And here’s a pic just after two deer fled into the woods.   It’s not what you look at that matters, it’s what you see. Henry David Thoreau "
+    }, {
+    "id": 27,
+    "url": "https://blog.itsallonesong.com//2021/07/29/all-aboard.html",
+    "title": "All Aboard!",
+    "body": "2021/07/29 - Yesterday we boarded train 7 on the Empire Builder route to Seattle at Saint Paul’s Union Depot.  Aunt Christine dropped us off at 9:20p for our 10:20p departure.  And we waited in the Empire Builder Lounge for our boarding call.  When the train arrived, we went to Gate C to board the train.  Walked to our train car, number 0730.  Boarded the train, found room 15 on the bottom floor, made our bunks.  The train departed on time at 10:20p and we went to sleep. At least, Camilla did.  "
+    }, {
+    "id": 28,
+    "url": "https://blog.itsallonesong.com//2021/07/28/where-the-wild-things-are.html",
+    "title": "Where The Wild Things Are",
+    "body": "2021/07/28 - Linda, Camilla, and Aunt Christine visited the Como Zoo. Camilla got to see her beloved Flamingos.   Do you like my hat?Go Dog Go!  There should be a place where only the things you want to happen, happen. Where the Wild Things Are  Let the wild rumpus begin!Where the Wild Things Are "
+    }, {
+    "id": 29,
+    "url": "https://blog.itsallonesong.com//2021/07/27/barbette-and-brueggers-and-carbones-oh-my.html",
+    "title": "Barbette's and Bruegger's And Carbone's, Oh My!",
+    "body": "2021/07/27 - The plan for our third day was to make an early trip to the city lakes for a walk before meeting family and friends for dinner that evening. While driving to Uptown along Lake Street, I tried to take in all that has changed in the years since I lived in the area.  Moving at thirty mph was too fast to have time to focus on either the new construction on the west end of Lake Street, or the George Floyd murals on the easts end of Lake Street.  Hopefully once we get to the west coast we’ll find more time for the sights than a quick driveby. The first sight that caught Linda’s attention when we turned onto Lake Street from Hiawatha, was the bum of a man on the corner whose pants were hanging way too low. After finding parking north of Lagoon near my old apartment, I was disoriented when trying to find the Bruegger’s Bagel shop on Lake – which unbeknownst to me had been sold five years earlier for new development.  As a result, we ended up at Barbette’s for breakfast, since it was the only place nearby that was open.  Afterwards, we walked to the first playground around Bde Maka Ska (previously known as Lake Calhoun) before surrendering to the heat.  The park and lake were very active with runners, walkers, sailors, and stand up paddle boarders, but there were signs indicating that swimming was prohibited due to the presence of bacteria.  As we left the lakes, we drove around to find a cousin’s new house, but I kept getting confused trying to enter the correct address into google maps.  Eventually, Linda recognized the house from a picture she had seen briefly months earlier as we drove by. On the way back from the lakes, we found a Bruegger’s Bagel shop in Edina and stopped for lunch.  Once again, we found that indoor dining wasn’t available, so we brought the food back to Chris’ home. At Aunt Christine’s, the squirrels were brave enough to pilfer the seeds she set out for them from a tray, but, not brave enough to approach Linda when she attempted to offer one seeds from her hand.  We also saw a black squirrel in a tree, which I don’t recall having seen before.  The white squirrel that had come to Chris’ deck in the past is no longer around.  We ended the day with pizza at Carbones at an event Chris planned to get anyone together to catch up during our short visit and to meet Linda and Camilla.  The kids started quietly coloring, and soon started playing ring-around-the-rosie and puppy/kitty games.  By the end of the evening, Camilla’s knees were filthy from playing the role of the puppy as she crawled on the floor.   "
+    }, {
+    "id": 30,
+    "url": "https://blog.itsallonesong.com//2021/07/26/wildflower.html",
+    "title": "Wildflower",
+    "body": "2021/07/26 - Driving from Keokuk to St. Paul with a stop in Des Moines completed the final day of our three day trek from Oviedo to the Twin Cities. Linda enjoyed being reminded that Iowa isn’t always the cold gray state that she remembers, and was elated to see the county highways lined by wildflowers and to have a chance to see varieties of plants and wildlife that are rare (if present at all) in Florida, like the red winged blackbird.  While we stopped to look around, we were passed by truck hauling an enourmous windmill blade.  Our route passed the American Gothic House, which we had seen on a previous road trip.  It is closed on Mondays, so, we just posed for some pictures outside and admired the wildflower gardens in the surrounding area.  In Des Moines, we picked up a rental car and left my car at Linda’s sister’s house so we’d have a ride back to Oviedo when our travels to the west on Amtrak conclude in Osceola IA in a few weeks.  We had Brueggar’s Bagels sandwiches for lunch with Camilla’s Uncle Russ and Aunt Lori while Camilla got to see their two cats.  On the way up 35N to St. Paul, Linda showed Camilla cattails at the Iowa Welcome Center near the border with Minnesota.  We also saw many windmills with blades like the one we saw on the flatbead earlier in the day.  Once we arrived at Aunt Christine’s place in West St. Paul, Camilla went right back to work drawing while we enjoyed being outside listening to the birds without the Florida heat and humidity.   Cats are intended to teach us that not everything in nature has a purpose. Garrison Keillor "
+    }, {
+    "id": 31,
+    "url": "https://blog.itsallonesong.com//2021/07/25/out-on-the-road.html",
+    "title": "Out On The Road",
+    "body": "2021/07/25 - A full day of driving brings us to Keokuk, IA. Lot’s of screen time for Camilla today again as we travelled in six states in one day (and Tennessee twice)! [TN, GA, TN, KY, IL, MO, IA].  In Peducah, we ate lunch in a quiet cemetary next to a subway (again with the lobby closed due to staff shortages).  We were suprised by how short some of the lives seemed as listed on the headstones.  Like the French brothers who died in 1962 at 21 and 27 years old, and all the people who died after only 30-70 years. Driving through the country we see lots of beautiful scenic areas, but, it’s hard to take pictures from the car.  Here’s one from our stop in Peducah. We have a non-binding agreement that we will stop at the St. Louis arch or somewhere with a good view of it on our way back south.  Camilla may have seen it as we drove by quickly. We may also stop in Hannibal to see Mark Twain on our drive south, too. Eventually, we arrived in Keokuk (again, too late to swim).  Maybe someday.  She was not quite what you would call refined. She was not quite what you would call unrefined. She was the kind of person that keeps a parrot. Mark Twain "
+    }, {
+    "id": 32,
+    "url": "https://blog.itsallonesong.com//2021/07/24/hurry-up-and-wait.html",
+    "title": "Hurry Up and Wait",
+    "body": "2021/07/24 - One day of driving complete and two more to go on the first stretch of our journey. It didn’t take long for Camilla to get started watching videos. She also spent some time coloring and singing about space and the states. She is going to get a lot of carseat time this trip.  It took three stops before everyone had breakfast on the road since some restaurants’ lobbies were closed due to being short staffed.  The drive-thrus lines looked too long to wait.  Eventually we decided we’d just have to wait so we could get back on the road.  Hopefully tomorrow’s route doesn’t have traffic like we found going through Atlanta – which added an hour and a half to our expected drive time.  We were on the road (including only short stops) for twelve hours (9. 5 hours expected drive time).  No time for the pool, but, we took a little walk to get a snack by our hotel before the sun was down.  Some highlights of the drive were seeing a truck full of watermelons, which reminded me immediately of the Sonny and Cher hour episode with the Bionic Watermellon, and imagining a watermellon falling from the truck.  And then it happened. Right before our eyes.  I’d post a link to the video, but, after rewatching it, it really isn’t worth your time. We also saw a truck emblazoned with the word Serenity, which reminded me of Seinfeld and how to deal with being stuck in traffic.  Serenity Now!Seinfeld "
+    }, {
+    "id": 33,
+    "url": "https://blog.itsallonesong.com//2021/07/23/ready-steady-go.html",
+    "title": "Ready Steady Go",
+    "body": "2021/07/23 - Tomorrow we set sail for unknown shores as the first day of our month long trip across the country begins. We’ll be leaving Florida the day after Camilla celebrated Christmas in July on her last day of school with her class.  When we return from vacation, she will begin VPK in a new class at the same school.  The first leg of our travels has us driving north for three days with hotel stops in Ooltewah, TN and Keokuk, IA on Saturday and Sunday, respectively. Over the next four weeks, highlights will include seeing family in Des Moines, the Twin Cities, Seattle, and Berkley while we explore the western half of the United States by train.  If we find time, we’ll post updates to this blog. Let the adventure begin!  We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time. T. S. Eliot "
+    }];
+
+var idx = lunr(function () {
+    this.ref('id')
+    this.field('title')
+    this.field('body')
+
+    documents.forEach(function (doc) {
+        this.add(doc)
+    }, this)
+});
+function lunr_search(term) {
+    document.getElementById('lunrsearchresults').innerHTML = '<ul></ul>';
+    if(term) {
+        document.getElementById('lunrsearchresults').innerHTML = "<p>Search results for '" + term + "'</p>" + document.getElementById('lunrsearchresults').innerHTML;
+        //put results on the screen.
+        var results = idx.search(term);
+        if(results.length>0){
+            //console.log(idx.search(term));
+            //if results
+            for (var i = 0; i < results.length; i++) {
+                // more statements
+                var ref = results[i]['ref'];
+                var url = documents[ref]['url'];
+                var title = documents[ref]['title'];
+                var body = documents[ref]['body'].substring(0,160)+'...';
+                document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><br /><span class='body'>"+ body +"</span><br /><span class='url'>"+ url +"</span></a></li>";
+            }
+        } else {
+            document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = "<li class='lunrsearchresult'>No results found...</li>";
+        }
+    }
+    return false;
+}
+</script>
+<style>
+    #lunrsearchresults {padding-top: 0.2rem;}
+    .lunrsearchresult {padding-bottom: 1rem;}
+    .lunrsearchresult .title {color: #ffcc00;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+<style>
+div.a {
+  text-align: center;
+}
+</style>
+<div class="a">
+  <form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <p><input type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value="" placeholder="search" /></p>
+  </form>
+</div>
+</br>
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+
+
+        
+        </br></br></br></br>
+<hr>
+<style>
+div.a {
+  text-align: center;
+}
+</style>
+<div class="a">
+<a href="https://blog.itsallonesong.com/subscribe.html">Subscribe</a> - <a href="https://blog.itsallonesong.com/search.html">Search Site</a> - <a href="https://blog.itsallonesong.com/share.html">Share Site</a> - <a href="https://blog.itsallonesong.com/support.html">Support</a>
+ - <a href="https://blog.itsallonesong.com/about.html">About</a>
+</div>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BQSTX8VV93"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BQSTX8VV93');
+</script>
+
+      </section>
+    </div>
+  </body>
+</html>
