@@ -11,15 +11,16 @@ We started the day by taking the BART to Berkeley to pick up our car and two of 
 
 ![20210812_195029.jpg]({{site.baseurl}}/assets/media/20210812_195029.jpg)
 
-And drove to Muir Woods.  
+Then we drove to Muir Woods.  
 
 ![20210812_195234.jpg]({{site.baseurl}}/assets/media/20210812_195234.jpg)
 
-While having a snack before hiking the trails, we say a friendly chipmunk (an animal we don't see in Oviedo).  
+While having a snack before hiking the trails, we saw a friendly chipmunk (an animal we don't see much in Oviedo).  
 
 ![20210812_195558.jpg]({{site.baseurl}}/assets/media/20210812_195558.jpg)
 
-The we hiked.  
+Then we hiked.  
+
 ![20210812_102829.jpg]({{site.baseurl}}/assets/media/20210812_102829.jpg)
 
 ![20210812_195341.jpg]({{site.baseurl}}/assets/media/20210812_195341.jpg)
@@ -36,7 +37,7 @@ The we hiked.
 
 ![20210812_200505.jpg]({{site.baseurl}}/assets/media/20210812_200505.jpg)
 
-And found what __might__ be the same bench where I proposed to Linda on the hillside trail.  
+And found what __might__ be the same bench on the side trail where I proposed to Linda.  
 
 2021  
 
