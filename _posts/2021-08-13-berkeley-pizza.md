@@ -25,6 +25,10 @@ We also saw some trolley cars.
 
 ![20210814_082621.jpg]({{site.baseurl}}/assets/media/20210814_082621.jpg)
 
+In Berkeley Camilla requested to have her picture taken in this alcove.  
+
+![IMG_0002-cropped.jpg]({{site.baseurl}}/assets/media/IMG_0002-cropped.jpg)
+
 On the way home, Linda and Camilla watched the lights of the city from the bay bridge.  
 
 ![20210814_082756.jpg]({{site.baseurl}}/assets/media/20210814_082756.jpg)
