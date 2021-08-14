@@ -51,7 +51,7 @@ Below are simply pictures of flowers only. No humans were disturbed to capture t
 
 ![20210812_214005.jpg]({{site.baseurl}}/assets/media/20210812_214005.jpg)
 
-<a href="https://www.youtube.com/watch?v=GqQlt9K4g6I" target="_blank">Listen to Natueral Beauty</a>
+<a href="https://www.youtube.com/watch?v=GqQlt9K4g6I" target="_blank">Listen to Natural Beauty</a>
 
 >A natural beauty should be preserved like a monument in nature.
 >
