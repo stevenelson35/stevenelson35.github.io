@@ -7,7 +7,7 @@ title: On The Train Again
 ---
 Today we boarded the California Zephyr route from Emeryville, CA to Osceola IA.
 
-In the morning when I got the car from the parking garage, I noticed a monarch butterfly on a building as I drove the car around the block to pickup Linda and Camilla at the hotel.  
+In the morning when I got the car from the parking garage, I noticed a monarch butterfly on a building as I drove the car around the block to pick up Linda and Camilla at the hotel.  
 
 ![20210814_070719.jpg]({{site.baseurl}}/assets/media/20210814_070719.jpg)
 
@@ -63,13 +63,13 @@ Before we made more stops.
 
 ![20210814_155243.jpg]({{site.baseurl}}/assets/media/20210814_155243.jpg)
 
-Before Linda noticed we were passing wild horses.  
+Linda noticed we were passing wild horses.  
 
 ![20210814_182755.jpg]({{site.baseurl}}/assets/media/20210814_182755.jpg)
 
 ![20210814_182847.jpg]({{site.baseurl}}/assets/media/20210814_182847.jpg)
 
-And finally had dinner.  
+And later we had dinner.  
 
 ![20210814_184333.jpg]({{site.baseurl}}/assets/media/20210814_184333.jpg)
 
