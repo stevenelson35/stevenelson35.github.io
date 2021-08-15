@@ -1,7 +1,7 @@
 ---
 layout: post
 author: steve
-tags: ["2021", california, summer, vacation]
+tags: ["2021", california, summer, train, vacation]
 published: true
 title: On The Train Again
 ---
