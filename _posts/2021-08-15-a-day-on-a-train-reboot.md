@@ -17,7 +17,7 @@ And went to breakfast.
 
 ![20210815_104056.jpg]({{site.baseurl}}/assets/media/20210815_104056.jpg)
 
-We saw lots of people rafting on the Colorado River. And enough bums that the conductor suggested that today the river was actually moon river.  
+We saw lots of people rafting on the Colorado River. And enough bums (lots and lots) that the conductor suggested that today a better name for the river was Moon River.  
 
 ![20210815_094747.jpg]({{site.baseurl}}/assets/media/20210815_094747.jpg)
 
