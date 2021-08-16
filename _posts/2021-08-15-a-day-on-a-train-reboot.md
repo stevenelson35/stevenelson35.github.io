@@ -31,7 +31,7 @@ It was a day for looking out the window.
 
 ![20210815_100107.jpg]({{site.baseurl}}/assets/media/20210815_100107.jpg)
 
-And saw an eagle.  
+We saw an eagle.  
 
 ![20210815_100526-0.jpg]({{site.baseurl}}/assets/media/20210815_100526-0.jpg)
 
@@ -83,7 +83,7 @@ Sometimes she didn't know what to draw.
 
 ![20210815_205438.jpg]({{site.baseurl}}/assets/media/20210815_205438.jpg)
 
-But she didn't let us do much napping.  
+She didn't let us do much napping.  
 
 ![20210815_203055.jpg]({{site.baseurl}}/assets/media/20210815_203055.jpg)
 
@@ -125,7 +125,7 @@ At some point we saw a small old power plant.
 
 And a small damn.  
 
-![20210815_205803.jpg]({{site.baseurl}}/assets/media/20210815_205802.jpg)
+![20210815_205803.jpg]({{site.baseurl}}/assets/media/20210815_205803.jpg)
 
 And a bigger damn.  
 
