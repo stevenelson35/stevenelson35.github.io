@@ -26,4 +26,8 @@ Jekyll is a blog-aware static site builder that:
 - Performs text-to-html conversion with [Markdown](https://daringfireball.net/projects/markdown/).
 - Processes templates using [Liquid](https://shopify.github.io/liquid/).  
 
-Images are processed using python to create multiple sized copies and the appropriate resolution is selected by the viewing devices browser's preference (possibly based on screen resolution and network performance).  A full resolution image can be accessed by clicking on an image.  
+Images are processed using a python script to create multiple sized copies.  
+  
+The appropriate resolution image is selected for displaying in a blog post by the viewing device's browser preferences (possibly based on screen resolution and network performance).  
+  
+A full resolution image can be accessed by clicking on an image.  
