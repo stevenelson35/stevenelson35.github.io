@@ -27,3 +27,6 @@ The train made a quick stop for us to depart, since Osceola is an unmanned depot
 
 The next stop was Bruegger's Bagels for breakfast.
 
+Later Camilla played in a park while Linda went shopping at a nearby HyVee.
+
+![20210821_113821.jpg]({{site.baseurl}}/assets/media/20210821_113821.jpg)
