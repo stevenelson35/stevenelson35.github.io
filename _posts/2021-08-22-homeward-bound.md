@@ -5,7 +5,7 @@ tags: ["2021", driving, summer, vacation]
 published: true
 title: Homeward Bound
 ---
-The last stretch of our trek home  
+The last stretch of our trek home started north of Atlanta.  
 
 Camilla did some breakfast stretches.  
 
