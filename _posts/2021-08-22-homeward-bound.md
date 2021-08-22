@@ -13,5 +13,5 @@ Camilla did some breakfast stretches.
 
 And then tried to burn some energy twirling before starting our last long car ride.  
 
-![20210822_100521.jpg]({{site.baseurl}}/assets/media/20210822_100521.jpg)
+![20210822_100501.jpg]({{site.baseurl}}/assets/media/20210822_100501.jpg)
 
