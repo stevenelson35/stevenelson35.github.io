@@ -9,7 +9,7 @@ The last stretch of our trek home
 
 Camilla did some breakfast stretches.  
 
-![20210822_100421jpg]({{site.baseurl}}/assets/media/20210821_100421.jpg)
+![20210822_100421jpg]({{site.baseurl}}/assets/media/20210822_100421.jpg)
 
 And then tried to burn some energy twirling before starting our last long car ride.  
 
