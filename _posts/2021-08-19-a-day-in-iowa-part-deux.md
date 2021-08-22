@@ -19,13 +19,13 @@ We saw a white-tailed bunny.
 
 ![20210821_131832.jpg]({{site.baseurl}}/assets/media/20210821_131832.jpg)
 
-We learned that Camilla likes to plug her ears and close her eyes when she humms.  
+We learned that Camilla likes to plug her ears and close her eyes when she hums.  
 
 ![20210821_132445.jpg]({{site.baseurl}}/assets/media/20210821_132445.jpg)
 
 ![20210821_132318.jpg]({{site.baseurl}}/assets/media/20210821_132318.jpg)
 
-In the evening we started to pack up for an early departure the next morning for our drive south towards home.  
+In the evening we started to pack up for an early departure the next morning for our drive south toward home.  
 
 Camilla said goodbye to Romeo.  
 
