@@ -15,6 +15,6 @@ Camilla took advantage of our gas station Subway lunch to do some stretches.
 
 ![20210821_134556.jpg]({{site.baseurl}}/assets/media/20210821_134556.jpg)
 
-At our hotel near Atlanta I new we were close to home as I saw the familiar behavior return that I've grown to accept as normal: girls with screens.  
+At our hotel near Atlanta I knew we were close to home as I saw the familiar behavior return that I've grown to accept as normal: girls with screens.  
 
 ![20210822_100324.jpg]({{site.baseurl}}/assets/media/20210822_100324.jpg)

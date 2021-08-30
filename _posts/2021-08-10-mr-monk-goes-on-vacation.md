@@ -1,7 +1,7 @@
 ---
 layout: post
 author: steve
-tags: ["2021", california, summer, vacation]
+tags: ["2021", california, driving, summer, vacation]
 published: true
 title: Mr. Monk Goes On Vacation
 ---

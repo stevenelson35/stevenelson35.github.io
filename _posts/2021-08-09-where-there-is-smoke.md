@@ -1,7 +1,7 @@
 ---
 layout: post
 author: steve
-tags: ["2021", california, oregon, summer, vacation]
+tags: ["2021", california, driving, oregon, summer, vacation]
 published: true
 title: Where There's Fire
 ---
