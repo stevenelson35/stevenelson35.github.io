@@ -5,7 +5,7 @@ tags: ["2021", summer]
 published: true
 title: Fairy Doors At Leu
 ---
-The Sunday after our vacation, we found all the Enchanted Fairy doors at Leu Gardens.  
+The Sunday after our vacation, we found all the enchanted Fairy doors at Leu Gardens.  
 
 Linda and Camilla are still tired of taking pictures from our trip, so, this is the only Fairy door photo with people in it in this post.  
 
