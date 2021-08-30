@@ -17,7 +17,7 @@ And then tried to burn some energy twirling before starting our last long car ri
 
 We stopped at the Florida Welcome Center to use the restroom and inquire about the advertised cheap amusement park tickets, but, passed since it required a time share presentation. However, we did see this humungous banana spider outside the building.  
 
-![20210822_203528.jpg]({{site.baseurl}}/assets/media/220210822_203528.jpg)
+![20210822_203528.jpg]({{site.baseurl}}/assets/media/20210822_203528.jpg)
 
 Later we stopped at Panera for our last lunch on the road fifty miles from Camilla City.  
 
