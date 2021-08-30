@@ -15,7 +15,7 @@ And then tried to burn some energy twirling before starting our last long car ri
 
 ![20210822_100501.jpg]({{site.baseurl}}/assets/media/20210822_100501.jpg)
 
-We stopped at the Florida Welcome Center to use the restroom and inquire about the advertised cheap amusement park tickets, but, passed since it required a time share presentation. However, we did see this humungous banana spider outside the building.  
+We stopped at the Florida Welcome Center to use the restroom and inquire about the advertised cheap amusement park tickets, but, passed on the deals since it required viewing a time share presentation. However, we did see this humungous banana spider outside the building.  
 
 ![20210822_203528.jpg]({{site.baseurl}}/assets/media/20210822_203528.jpg)
 
