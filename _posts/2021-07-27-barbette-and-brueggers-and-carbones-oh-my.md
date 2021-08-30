@@ -1,7 +1,7 @@
 ---
 author: steve
 tags: ["2021", minnesota, summer, vacation]
-title: Barbette's and Bruegger's And Carbone's, Oh My! 
+title: Barbette's And Bruegger's And Carbone's, Oh My! 
 ---
 The plan for our third day was to make an early trip to the city lakes for a walk before meeting family and friends for dinner that evening.  
 
