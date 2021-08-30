@@ -15,7 +15,7 @@ The rest of the pictures show the remaining 19 of the 20 Fairy doors and a coupl
 
 ![20210829_094839.jpg]({{site.baseurl}}/assets/media/20210829_094839.jpg)
 
-![20210829_095156.jpg]({{site.baseurl}}/assets/media/20210829_195156.jpg)
+![20210829_095156.jpg]({{site.baseurl}}/assets/media/20210829_095156.jpg)
 
 ![20210829_095318.jpg]({{site.baseurl}}/assets/media/20210829_095318.jpg)
 
