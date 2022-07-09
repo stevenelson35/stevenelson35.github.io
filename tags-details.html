@@ -19,7 +19,7 @@ title: Tags Details
       - <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
     {% assign author = site.authors | where: 'short_name', post.author | first %}
       {% if author %}
-       </br> - by <a href="{{ author.url }}">{{ author.name }}</a>
+       </br>by <a href="{{ author.url }}">{{ author.name }}</a>
       {% endif %}
 
       {{ post.excerpt }}
