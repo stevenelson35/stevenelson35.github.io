@@ -16,9 +16,8 @@ title: Blog
                    {% endif %}
                  {% endfor %}
                  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-		  Written by {{ authordata | array_to_sentence_string }} - <a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>
+		  Written by {{ authordata | array_to_sentence_string }}
 		{{ post.excerpt }}
 	</li>
 	{% endfor %}
 </ul>
-<script id="dsq-count-scr" src="//itsallonesong.disqus.com/count.js" async></script>

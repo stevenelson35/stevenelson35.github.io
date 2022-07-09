@@ -12,8 +12,7 @@ The {{ site.title }} site:
 - Is hosted on [GitHub](https://www.github.com). 
 - Was created using [Jekyll](https://jekyllrb.com).
 - Has a domain from [Yahoo! Smallbusiness](https://smallbusiness.yahoo.com). 
-- Supports comments using [Disqus](https://disqus.com).  
-    - (strange ads; ok for free trial)
+- Supports comments using [CommentBox](https://commentbox.io).  
 - Provides search using [lunr.js](https://lunrjs.com/).
 - Handles subscriptions using [mailchimp](https://mailchimp.com). 
 - Tracks traffic using [Google Analytics](https://analytics.google.com).
