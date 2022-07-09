@@ -19,7 +19,7 @@ comments: true
       Categories: 
       {% for category in categories %}
         <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-        {% if forloop.last %}, {% endif %}
+        {% if forloop.last == true %}, {% endif %}
       {% endfor %}
     {% endif %}
   </div>
@@ -28,7 +28,7 @@ comments: true
   Tags:
   {% for tag in post.tags.tags %}
     <a href="{{ site.url }}{{ tag.url }}">{{ tag.name }}</a>
-    {% if forloop.last %}, {% endif %}
+    {% if forloop.last == true %}, {% endif %}
   {% endfor %}
 {% endif %}
   </br>
