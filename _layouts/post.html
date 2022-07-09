@@ -9,19 +9,28 @@ comments: true
   {% if author %}
    - <a href="{{ author.url }}">{{ author.name }}</a>
   {% endif %}
-
-  </br>
   <div class="post-categories">
     {% if post %}
       {% assign categories = post.categories %}
     {% else %}
       {% assign categories = page.categories %}
     {% endif %}
-    {% for category in categories %}
-      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-      {% unless forloop.last %}&nbsp;{% endunless %}
-    {% endfor %}
+    {% if categories.size > 0 %}
+      Categories: 
+      {% for category in categories %}
+        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+        {% if forloop.last %}, {% endif %}
+      {% endfor %}
+    {% endif %}
   </div>
+</br>
+{% if post.tags.size > 0 %}
+  Tags:
+  {% for tag in post.tags.tags %}
+    <a href="{{ site.url }}{{ tag.url }}">{{ tag.name }}</a>
+    {% if forloop.last %}, {% endif %}
+  {% endfor %}
+{% endif %}
   </br>
 
   <!-- reading time estimate -->
