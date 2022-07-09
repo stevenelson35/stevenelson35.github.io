@@ -1,6 +1,7 @@
 ---
 author: steve
 tags: ["2021", summer, vacation]
+categories: ["summer vacation 2021"]
 ---
 Tomorrow we set sail for unknown shores as the first day of our month long trip across the country begins.  
 

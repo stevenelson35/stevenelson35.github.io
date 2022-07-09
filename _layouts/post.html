@@ -11,6 +11,18 @@ comments: true
   {% endif %}
   
   </br>
+  <div class="post-categories">
+    {% if post %}
+      {% assign categories = post.categories %}
+    {% else %}
+      {% assign categories = page.categories %}
+    {% endif %}
+    {% for category in categories %}
+    <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
+  </div>
+  </br>
 
   <!-- reading time estimate -->
   <span class="read-time" title="Estimated read time">
@@ -45,6 +57,9 @@ comments: true
   <h3>Comment on Post</h3>
   <div class="commentbox"></div>
   <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-  <script>commentBox('5654613860548608-proj')</script>
+  <script>commentBox('5654613860548608-proj', {
+    backgroundColor: '#111',
+    textColor: '#eee'
+})</script>
   
 </br>
