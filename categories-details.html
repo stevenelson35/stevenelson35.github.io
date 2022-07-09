@@ -1,8 +1,8 @@
 ---
-title: Categories
+title: Categories Details
 ---
 
-<h1>{{ page.title }}</h1> - <a href="{{ site.url }}categories-details.html">[details]</a>
+<h1>{{ page.title }}</h1>
 
 <div id="archives">
 {% for category in site.categories %}
@@ -17,6 +17,12 @@ title: Categories
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
+    {% assign author = site.authors | where: 'short_name', post.author | first %}
+    {% if author %}
+     </br> - by <a href="{{ author.url }}">{{ author.name }}</a>
+    {% endif %}
+
+    {{ post.excerpt }}
     {% endfor %}
   </div>
 {% endfor %}
