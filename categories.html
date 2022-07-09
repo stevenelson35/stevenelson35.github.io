@@ -19,7 +19,6 @@ permalink: /categories/
           {{ post.date | date_to_string }}
           - <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
         </br>
-        {% endif %}
       {% endfor %}
       
       {% if num_posts == 0 %}
