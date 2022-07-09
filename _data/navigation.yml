@@ -2,11 +2,11 @@
   link: /
   side: left
 - name: Blog
-  link: /blog.html
+  link: /blog-latest.html
   side: left
 - name: Us
   link: /us.html
   side: right
 - name: Tags
-  link: /tags.html
+  link: /tags/
   side: right
