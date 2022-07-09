@@ -2,6 +2,7 @@
 author: steve
 tags: ["2021", seattle, summer, vacation]
 title: A Day In Seattle
+categories: ["summer vacation 2021"]
 ---
 During our day in Seattle we walked to the Pike Place Market and the Space Needle.  
 

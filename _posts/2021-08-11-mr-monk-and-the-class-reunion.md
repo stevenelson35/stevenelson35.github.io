@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", california, summer, vacation]
 published: true
 title: Mr. Monk And The Class Reunion
+categories: ["summer vacation 2021"]
 ---
 On our first full day in San Francisco, Linda and Camilla drove to Berkeley to see Linda's brother's family.  
 

@@ -8,6 +8,7 @@ tags:
   - vacation
 published: true
 title: Hurry Up and Wait
+categories: ["summer vacation 2021"]
 ---
 One day of driving complete and two more to go on the first stretch of our journey.
 

@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", iowa, summer, vacation]
 published: true
 title: A Day In Iowa Part Deux
+categories: ["summer vacation 2021"]
 ---
 Today we said goodbye to Russ and Lori and had dinner with Patrick. 
 

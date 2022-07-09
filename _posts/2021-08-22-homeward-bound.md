@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", driving, summer, vacation]
 published: true
 title: Homeward Bound
+categories: ["summer vacation 2021"]
 ---
 The last stretch of our trek home started north of Atlanta.  
 

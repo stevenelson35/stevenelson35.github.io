@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", oregon, summer, vacation]
 published: true
 title: Goonies Never Say Die
+categories: ["summer vacation 2021"]
 ---
 In Portland we went to Washington Park where Camilla played on a playground, saw a rose garden, and toured the Japanese gardens.  Then we drove to Cannon Beach before returning to Oceanside.  
 

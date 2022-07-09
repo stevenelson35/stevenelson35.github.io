@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", minnesota, summer, vacation]
 published: true
 title: Dodge Nature Center
+categories: ["summer vacation 2021"]
 ---
 Before departing for our train, we met Jared and Stephanie for dinner and a walk around Dodge Nature Center with my sister Christine.  
 

@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", beach, oregon, summer, vacation]
 published: true
 title: Oceanside Day 3
+categories: ["summer vacation 2021"]
 ---
 We went to the beach at low tide to explore a little further past the tunnel hoping to find a cave of sea creatures.  
 

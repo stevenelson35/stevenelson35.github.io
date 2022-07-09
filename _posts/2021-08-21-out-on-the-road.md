@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", driving, summer, vacation]
 published: true
 title: Out On The Road
+categories: ["summer vacation 2021"]
 ---
 Today we drove from Mount Vernon to Atlanta.  
 

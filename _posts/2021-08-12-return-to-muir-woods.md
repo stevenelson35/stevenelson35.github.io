@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", california, summer, vacation]
 published: true
 title: Return To Muir Woods
+categories: ["summer vacation 2021"]
 ---
 A break from work left a day to go to Muir Woods and the Golden Gate Park.  
 

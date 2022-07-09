@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", minnesota, summer,train, vacation]
 published: true
 title: All Aboard!
+categories: ["summer vacation 2021"]
 ---
 Yesterday we boarded train 7 on the Empire Builder route to Seattle at Saint Paul's Union Depot.  
 

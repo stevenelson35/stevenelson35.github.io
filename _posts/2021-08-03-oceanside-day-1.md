@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", beach, hiking, oregon, summer, vacation]
 published: true
 title: Oceanside Day 1
+categories: ["summer vacation 2021"]
 ---
 On our first full day in Oceanside, we walked down to the village for breakfast, explored the beach, and drove to Rockaway Trail Head to see the oldest Cedar in Oregon.  
 

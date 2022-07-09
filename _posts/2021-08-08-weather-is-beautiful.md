@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", oregon, summer, vacation]
 published: true
 title: The Weather Is Beautiful
+categories: ["summer vacation 2021"]
 ---
 On our last full day in Oceanside, the weather was beautiful.  We ate lunch in the village, went hiking back at Cape Meares, played at the beach, and had dinner in the village.  
 

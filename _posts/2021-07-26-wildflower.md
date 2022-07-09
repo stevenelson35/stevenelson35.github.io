@@ -10,6 +10,7 @@ tags:
   - vacation
 published: true
 title: Wildflower
+categories: ["summer vacation 2021"]
 ---
 Driving from Keokuk to St. Paul with a stop in Des Moines completed the final day of our three day trek from Oviedo to the Twin Cities.  
 

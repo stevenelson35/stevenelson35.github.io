@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", oregon, summer, vacation]
 published: true
 title: Rainy Oceanside
+categories: ["summer vacation 2021"]
 ---
 There was a light rain most of the day before we left for a night in Portland where we saw blue skies and sunshine for the first time in a while.  
 

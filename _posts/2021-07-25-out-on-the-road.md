@@ -9,6 +9,7 @@ tags:
   - vacation
 published: true
 title: Out On The Road
+categories: ["summer vacation 2021"]
 ---
 A full day of driving brings us to Keokuk, IA.  
 

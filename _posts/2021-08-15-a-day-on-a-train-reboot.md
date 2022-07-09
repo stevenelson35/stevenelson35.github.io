@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", summer, train, vacation]
 published: true
 title: A Day On A Train Reboot
+categories: ["summer vacation 2021"]
 ---
 We spent all day today on the California Zephyr on our way east.  
 

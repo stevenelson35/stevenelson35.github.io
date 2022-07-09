@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", iowa, summer, train, vacation]
 published: true
 title: End Of The Line
+categories: ["summer vacation 2021"]
 ---
 Today we departed the California Zephyr in Osceola Iowa.  
 

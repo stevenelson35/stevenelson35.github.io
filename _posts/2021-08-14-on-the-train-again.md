@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", california, summer, train, vacation]
 published: true
 title: On The Train Again
+categories: ["summer vacation 2021"]
 ---
 Today we boarded the California Zephyr route from Emeryville, CA to Osceola IA.
 

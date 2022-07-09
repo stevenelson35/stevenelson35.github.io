@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", iowa, summer, vacation]
 published: true
 title: One Fair Day
+categories: ["summer vacation 2021"]
 ---
 We ate fair food, saw animals, and rode fair rides at the Iowa State Fair. 
 

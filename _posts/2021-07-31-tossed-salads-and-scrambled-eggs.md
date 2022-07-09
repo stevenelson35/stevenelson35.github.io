@@ -2,6 +2,7 @@
 author: steve
 tags: ["2021", seattle, summer, train, vacation]
 title: Tossed Salads and Scrambled Eggs
+categories: ["summer vacation 2021"]
 ---
 The Empire Builder arrived in Seattle a few hours late, but, fortunately the delay was just long enough that when we arrived at our hotel across the street from the King Street Station, we were able to do an early check-in.  
 

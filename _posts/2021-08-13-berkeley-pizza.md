@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", california, summer, vacation]
 published: true
 title: Berkeley Pizza
+categories: ["summer vacation 2021"]
 ---
 On our last day in the Bay Area we went to Berkeley for pizza at Linda's brother's.  
 

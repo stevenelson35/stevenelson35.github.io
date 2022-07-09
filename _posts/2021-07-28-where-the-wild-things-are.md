@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", minnesota, summer, vacation]
 published: true
 title: Where The Wild Things Are
+categories: ["summer vacation 2021"]
 ---
 Linda, Camilla, and Aunt Christine visited the Como Zoo.
 

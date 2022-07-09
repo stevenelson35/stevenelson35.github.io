@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", california, driving, oregon, summer, vacation]
 published: true
 title: Where There's Fire
+categories: ["summer vacation 2021"]
 ---
 We had a long drive from Oceanside, OR to Arcata, CA today. Arcata was a change of plans from our intended stop in Klamath Falls since there are fires in the area. Since the coastal road to Arcata had potential closures, we took the long way through a national forest.  
 

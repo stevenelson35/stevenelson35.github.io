@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", beach, drive, oregon, seattle, summer, vacation]
 published: true
 title: Leaving Seattle
+categories: ["summer vacation 2021"]
 ---
 We picked up a rental car, saw Linda's Aunt and Uncle for lunch, and drove to Oceanside Oregon today.
 

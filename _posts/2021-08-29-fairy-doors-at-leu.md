@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", summer]
 published: true
 title: Fairy Doors At Leu
+categories: ["farraginous"]
 ---
 The Sunday after our vacation, we found all the enchanted Fairy doors at Leu Gardens.  
 

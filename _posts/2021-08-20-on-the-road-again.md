@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", driving, iowa, summer, vacation]
 published: true
 title: On The Road Again
+categories: ["summer vacation 2021"]
 ---
 We started our three day journey back to Oviedo today.  
 

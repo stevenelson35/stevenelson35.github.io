@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", california, driving, summer, vacation]
 published: true
 title: Mr. Monk Goes On Vacation
+categories: ["summer vacation 2021"]
 ---
 We drove the rest of the way to San Francisco today and ate wood fired pizza around the block from our hotel.  
 

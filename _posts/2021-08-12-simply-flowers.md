@@ -4,6 +4,7 @@ author: steve
 tags: ["2021", california, summer, vacation]
 published: true
 title: Simply Flowers
+categories: ["summer vacation 2021"]
 ---
 This post shows some of the flowers and plants we saw at the Conservatory of Flowers in San Francisco at Golden Gate Park.  
 
