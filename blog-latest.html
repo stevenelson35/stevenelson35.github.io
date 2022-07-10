@@ -6,7 +6,7 @@ title: Blog Latest
 </br>
 </br>
 <ul>
-	{% for post in site.posts limit:3 %}
+	{% for post in site.posts limit:4 %}
 	<li>
 		{% assign authordata = '' | split:'@' %}
                   {% for author in site.authors %}	
@@ -23,6 +23,5 @@ title: Blog Latest
 	</li>
 	{% endfor %}
 </ul>
-</br>
 </br>
 <a href="{{ site.url }}blog.html">[see all posts]</a>
