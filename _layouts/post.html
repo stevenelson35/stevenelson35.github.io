@@ -17,16 +17,14 @@ comments: true
     {% if categories.size > 0 %}
       Categories: 
       {% for category in categories %}
-        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-        {% if forloop.last != true %}, {% endif %}
+        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>{% if forloop.last != true %}, {% endif %}
       {% endfor %}
     {% endif %}
   </div>
 {% if page.tags.size > 0 %}
   Tags:
   {% for tag in page.tags %}
-    <a href="{{ site.url }}tags/{{ tag }}.html" style="margin-right:0px"; >{{ tag }}</a>
-    {% if forloop.last != true %}, {% endif %}
+    <a href="{{ site.url }}tags/{{ tag }}.html" style="margin-right:0px"; >{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
   {% endfor %}
 {% endif %}
   </br>
