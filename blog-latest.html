@@ -2,10 +2,10 @@
 title: Blog Latest
 ---
 <h1>Latest Posts</h1>
-<a href="{{ site.url }}blog.html">[see all]</a>
+<a href="{{ site.url }}blog.html">[see all posts]</a>
 </br>
 <ul>
-	{% for post in site.posts limit:6 %}
+	{% for post in site.posts limit:3 %}
 	<li>
 		{% assign authordata = '' | split:'@' %}
                   {% for author in site.authors %}	
