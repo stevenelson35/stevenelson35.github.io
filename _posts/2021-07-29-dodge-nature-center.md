@@ -38,5 +38,6 @@ And here's a pic just after two deer fled into the woods.
 
 ![20210730_170452.jpg]({{site.baseurl}}/assets/media/20210730_170452.jpg)
 
->It's not what you look at that matters, it's what you see.
->Henry David Thoreau
+>It's not what you look at that matters, it's what you see.  
+
+- Henry David Thoreau

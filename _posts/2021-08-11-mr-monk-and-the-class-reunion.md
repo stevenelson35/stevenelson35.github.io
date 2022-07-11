@@ -34,6 +34,6 @@ But, she trusted me to help get them back to San Francisco on the BART later tha
 
 ![202108011_214927.jpg]({{site.baseurl}}/assets/media/20210811_214927.jpg)
 
->It's a jungle out there.
+>It's a jungle out there.  
 
->Monk
+- Monk  

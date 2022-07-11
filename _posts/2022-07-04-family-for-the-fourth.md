@@ -6,5 +6,5 @@ published: true
 title: Family For The Fourth
 categories: ["farraginous"]
 ---
-Aunt Christine stayed the weekend in Oviedo on her way to Sanibel.
+Aunt Christine stayed the weekend in Oviedo on her way to Sanibel.  
 

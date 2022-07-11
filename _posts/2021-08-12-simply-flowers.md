@@ -54,12 +54,6 @@ Below are simply pictures of flowers only. No humans were disturbed to capture t
 
 <a href="https://www.youtube.com/watch?v=GqQlt9K4g6I" target="_blank">Click here to Listen to Natural Beauty</a>
 
->A natural beauty should be preserved like a monument in nature.
->
->Neil Young
->
->Harvest Moon - Natural Beauty
+>A natural beauty should be preserved like a monument in nature.  
 
-
-
-
+- Neil Young, Harvest Moon - Natural Beauty  

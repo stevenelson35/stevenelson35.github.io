@@ -16,4 +16,5 @@ Over the next four weeks, highlights will include seeing family in Des Moines, t
 Let the adventure begin!  
 
 >We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.  
->T.S. Eliot  
+
+- T.S. Eliot  

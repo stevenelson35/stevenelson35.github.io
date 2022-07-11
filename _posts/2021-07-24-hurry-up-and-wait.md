@@ -29,7 +29,5 @@ Some highlights of the drive were seeing a truck full of watermelons, which remi
 We also saw a truck emblazoned with the word *Serenity*, which reminded me of Seinfeld and how to deal with being stuck in traffic.
 
 >Serenity Now!  
->Seinfeld
 
-
-
+- Seinfeld  

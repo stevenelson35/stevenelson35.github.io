@@ -48,5 +48,5 @@ Once we arrived at Aunt Christine's place in West St. Paul, Camilla went right b
 ![20210726_212109.jpg]({{site.baseurl}}/assets/media/20210726_212109.jpg)
 
 >Cats are intended to teach us that not everything in nature has a purpose.  
->Garrison Keillor
 
+- Garrison Keillor  

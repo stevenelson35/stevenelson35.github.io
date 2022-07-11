@@ -68,6 +68,7 @@ And Camilla and I joined her after we were done playing in the sand.
 
 ![20210808_203416.jpg]({{site.baseurl}}/assets/media/20210808_203416.jpg)
 
->The weather is here.
->Wish you were beautiful.
->Jimmy Buffet
+>The weather is here.  
+>Wish you were beautiful.  
+
+- Jimmy Buffet  

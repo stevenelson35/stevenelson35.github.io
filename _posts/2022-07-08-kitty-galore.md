@@ -6,7 +6,7 @@ published: true
 title: Kitty Galore
 categories: ["farraginous"]
 ---
-Pics of just the kittens  =^.^=  =^.^=  =^.^=.
+Pics of just the kittens.  =^.^=  
 
 ![20220625_155652.jpg]({{site.baseurl}}/assets/media/20220625_155652.jpg)
 
@@ -35,6 +35,6 @@ Pics of just the kittens  =^.^=  =^.^=  =^.^=.
 ![20220710_131957.jpg]({{site.baseurl}}/assets/media/20220710_131957.jpg)
 
 
->You can turn off the charm. I'm immune.
+>You can turn off the charm. I'm immune.  
 
->Pussy Galore, Goldfinger
+- Pussy Galore, Goldfinger  

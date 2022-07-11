@@ -77,6 +77,3 @@ And later we had dinner.
 It'll be a long ride.  
 
 ![california-zephyr-august-14-2021.jpg]({{site.baseurl}}/assets/media/california-zephyr-august-14-2021.jpg)
-
-
-

@@ -14,7 +14,7 @@ Once there was a turtle crossing the road...
 Once there was a frog in the bike shed...
 ![20220710_123315.jpg]({{site.baseurl}}/assets/media/20220710_123315.jpg)
 
-![20220619_122045.jpg]({{site.baseurl}}/assets/media/20220619_122045.jpg)
+![20220710_122850.jpg]({{site.baseurl}}/assets/media/20220710_122850.jpg)
 
 This bug was at Manatee Park. He asked if he could get a ride back home to Red Bug Lake Road ;P.
 ![20220619_122045.jpg]({{site.baseurl}}/assets/media/20220619_122045.jpg)
@@ -25,6 +25,6 @@ This bug was at Manatee Park. He asked if he could get a ride back home to Red B
 
 ![20220605_082842.jpg]({{site.baseurl}}/assets/media/20220605_082842.jpg)
 
->Once there was a mushroom who walk into a bar.
->The bartender said: "We don't serve your kind."
->The mushroom said: "What's the matter; I'm a fungi?"
+>Once there was a mushroom who walk into a bar.  
+>The bartender said: "We don't serve your kind."  
+>The mushroom said: "What's the matter; I'm a fungi?"  
