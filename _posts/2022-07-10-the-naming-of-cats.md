@@ -6,7 +6,7 @@ published: true
 title: The Naming Of Cats
 categories: ["farraginous"]
 ---
-Pics of the kittens and us and tnotes on their *everyday names*.
+Pics of the kittens and us and notes on their *everyday names*.
 
 Each kitten has been named at least once by Camilla.  
 
