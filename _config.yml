@@ -3,6 +3,8 @@ description: A place to post updates along our journey.
 
 url: https://blog.itsallonesong.com/
 
+incremental: true
+
 collections:
   authors:
     output: true
