@@ -65,7 +65,7 @@ When you notice a cat in profound meditation,
      The reason, I tell you, is always the same:  
 His mind is engaged in a rapt contemplation  
      Of the thought, of the thought, of the thought of his name:  
-          His ineffable effablev  
+          His ineffable effable  
           Effanineffable  
 Deep and inscrutable singular name.  
 ```
