@@ -5,6 +5,10 @@ url: https://blog.itsallonesong.com/
 
 incremental: true
 
+exclude: [node_modules, README.md]
+
+keep_files: [assets/images, assets/media]
+
 collections:
   authors:
     output: true
