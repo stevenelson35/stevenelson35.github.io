@@ -3,11 +3,11 @@ description: A place to post updates along our journey.
 
 url: https://blog.itsallonesong.com/
 
-#incremental: true
+incremental: true
 
 exclude: [node_modules, create-pics, README.md]
 
-#keep_files: [assets/images, assets/media]
+keep_files: [assets/images, assets/media]
 
 collections:
   authors:

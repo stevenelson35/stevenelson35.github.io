@@ -36,6 +36,12 @@ Pics of just the kittens  =^.^=.
 
 ![20220708_210804.jpg]({{site.baseurl}}/assets/media/20220708_210804.jpg)
 
+![20220711_223053.jpg]({{site.baseurl}}/assets/media/20220711_223053.jpg)
+
+![20220712_054406.jpg]({{site.baseurl}}/assets/media/20220712_054406.jpg)
+
+![20220712_052902.jpg]({{site.baseurl}}/assets/media/20220712_052902.jpg)
+
 ![20220710_131957.jpg]({{site.baseurl}}/assets/media/20220710_131957.jpg)
 
 >You can turn off the charm. I'm immune.  
