@@ -36,9 +36,9 @@ Someone brought three kittens to Linda's work. They have invaded our home :).
 
 ![20220710_123847.jpg]({{site.baseurl}}/assets/media/20220710_123847.jpg)
 
-![20220711_103642-cropped.jpg]({{site.baseurl}}/assets/media/20220711_103642-cropped.jpg)
+![20220711_103724-cropped.jpg]({{site.baseurl}}/assets/media/20220711_103724-cropped.jpg)
 
-![S20220711_103642-cropped.jpg]({{site.baseurl}}/assets/media/20220711_103642-cropped.jpg)
+![20220711_103642-cropped.jpg]({{site.baseurl}}/assets/media/20220711_103642-cropped.jpg)
 
 >“It is a very inconvenient habit of kittens (Alice had once made the remark) that whatever you say to them, they always purr.”  
 
