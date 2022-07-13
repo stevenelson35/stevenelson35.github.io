@@ -29,4 +29,4 @@ This bug was at Manatee Park. He asked if he could get a ride back home to Red B
 
 >The bartender said: "We don't serve your kind."  
 
->The mushroom said: "What's the matter; I'm a fungi?"  
+>The mushroom said: "What's the matter? I'm a fungi!"  
