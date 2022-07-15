@@ -35,10 +35,10 @@ There was a model of Perseverance, one of the Mars rovers, which seemed larger t
 
 ![20220714_205258.jpg]({{site.baseurl}}/assets/media/20220714_205258.jpg)
 
-Camilla was excited being at the center; running around doing all the activities.  However, the place seemed in need of attention / donations.  Many of the displays were broken. Even this somple one.
+Camilla was excited being at the center; running around doing all the activities.  However, the place seemed in need of attention / donations.  Many of the displays were broken. Even this simple one.
 ![20220714_205151.jpg]({{site.baseurl}}/assets/media/20220714_205151.jpg)
 
-Other than learning about the stars of the night sky (which I will forget in a day), learning one advanced Lego technique was the highlight for me.  That I will remember forever :).
+Other than learning about the stars of the night sky (which I will forget in a day), learning one advanced Lego technique was the highlight for me.  That, I will remember forever :).
 
 After leaving the Science Museum, Camilla asked *"may I watch your phone for a little bit"* (which is common when getting into the car), but this time she claimed:
 
