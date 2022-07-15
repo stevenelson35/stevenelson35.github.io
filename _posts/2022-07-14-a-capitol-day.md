@@ -15,6 +15,8 @@ At the Science Center, in the Star Theater planetarium, when the speaker asked w
 ![20220714_204404.jpg]({{site.baseurl}}/assets/media/20220714_204404.jpg)
 
 ![20220714_204305.jpg]({{site.baseurl}}/assets/media/20220714_204305.jpg)
+> When it is darkest, men see the stars. 
+- Ralph Waldo Emerson
 
 Linda touched a snake Gopher Snake (aka bullsnake), the largest type of snake found in Iowa.
 ![20220714_142348.jpg]({{site.baseurl}}/assets/media/20220714_142348.jpg)
