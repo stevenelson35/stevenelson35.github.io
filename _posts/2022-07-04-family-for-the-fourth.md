@@ -12,7 +12,7 @@ Chris and Camilla kept busy with crafts.
 ![20220703_160512.jpg]({{site.baseurl}}/assets/media/20220703_160512.jpg)
 
 We also took a quick tour of the Oviedo birds: chickens, peacock, and sandhill cranes.
-![20220714_084510.jpg]({{site.baseurl}}/assets/media/20220714_084510.jpg)
+![20220703_113241.jpg]({{site.baseurl}}/assets/media/20220703_113241.jpg)
 
 ![20220703_112901.jpg]({{site.baseurl}}/assets/media/20220703_112901.jpg)
 
@@ -29,8 +29,7 @@ We also took a quick tour of the Oviedo birds: chickens, peacock, and sandhill c
 ![IMG_1077-cropped.jpg]({{site.baseurl}}/assets/media/IMG_1077-cropped.jpg)
 
 Chris also wanted a picture by the Oviedo "Nelson and Company" water tower (no relation).
-
-![20220703_113241.jpg]({{site.baseurl}}/assets/media/20220703_113241.jpg)
+![20220714_084510.jpg]({{site.baseurl}}/assets/media/20220714_084510.jpg)
 
 ![20220714_084831.jpg]({{site.baseurl}}/assets/media/20220714_084831.jpg)
 
