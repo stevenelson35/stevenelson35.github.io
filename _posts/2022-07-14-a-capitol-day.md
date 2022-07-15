@@ -6,20 +6,20 @@ published: true
 title: A Capitol Day
 categories: ["summer vacation 2022"]
 ---
-Spaghetti Works lunch, Science Museum of Iowa, and the state Capitol.
+Des Moines food, Science Center of Iowa, and a quick tour of the State Capitol.
 
 We knocked off the two *must eats* in Des Moines for breakfast and lunch on our first day: *Bruegger's Bagels* and *Spaghetti Works*.
 ![20220714_204115.jpg]({{site.baseurl}}/assets/media/20220714_204115.jpg)
 
-At the Science Museum, we learned what the difference is between a constellation and an asterism.  Then when the speaker asked what a specific asterism looked like, Camilla said 'a giraffe' -- which was the correct answer for *Cameloparalis*.
+At the Science Center, in the Star Theater planetarium, when the speaker asked what a specific asterism looked like, Camilla said *a giraffe?* -- and she had the correct answer. It was the asterism *Cameloparalis*.
 ![20220714_204404.jpg]({{site.baseurl}}/assets/media/20220714_204404.jpg)
 
 ![20220714_204305.jpg]({{site.baseurl}}/assets/media/20220714_204305.jpg)
 
-Then Linda touched a snake.
+Linda touched a snake Gopher Snake (aka bullsnake), the largest type of snake found in Iowa.
 ![20220714_142348.jpg]({{site.baseurl}}/assets/media/20220714_142348.jpg)
 
-And Camilla touched a snake and told the care taker that she had touched a python when the zoo came to her school this spring.  I did not touch the snake.
+Camilla also touched the snake. She told the care taker that she had touched a python when the zoo came to her school this spring.  I did not touch the snake ;).
 ![20220714_142351.jpg]({{site.baseurl}}/assets/media/20220714_142351.jpg)
 
 We saw a snapping turtle eat lunch.
@@ -28,17 +28,17 @@ We saw a snapping turtle eat lunch.
 And Linda and Camilla built satellites.
 ![20220714_204956.jpg]({{site.baseurl}}/assets/media/20220714_204956.jpg)
 
-There was a model of Perseverance, one of the Mars rovers, which seemed larger than I had thought it was.
+There was a model of Perseverance, one of the Mars rovers, which seemed larger than I had imagined.
 ![20220714_205116.jpg]({{site.baseurl}}/assets/media/20220714_205116.jpg)
 
 ![20220714_205258.jpg]({{site.baseurl}}/assets/media/20220714_205258.jpg)
 
-Camilla like running around and doing all the activities, but, it seemed like many of the displays were broken. Even this one.
+Camilla was excited being at the center; running around doing all the activities.  However, the place seemed in need of attention / donations.  Many of the displays were broken. Even this somple one.
 ![20220714_205151.jpg]({{site.baseurl}}/assets/media/20220714_205151.jpg)
 
-Learning one advanced Lego technique was the highlight for me (other than the asterisms, which I'll forget tomorrow).
+Other than learning about the stars of the night sky (which I will forget in a day), learning one advanced Lego technique was the highlight for me.  That I will remember forever :).
 
-After leaving the Science Museum, Camilla asked "may I watch your phone for a little bit" (which is common when getting into the car), but this time she claimed:
+After leaving the Science Museum, Camilla asked *"may I watch your phone for a little bit"* (which is common when getting into the car), but this time she claimed:
 
 > my brain can't stop thinking about education
  
@@ -51,7 +51,7 @@ Next we went to the State Capitol.
 
 ![20220714_163308.jpg]({{site.baseurl}}/assets/media/20220714_163308.jpg)
 
-At the Capitol, we saw the dolls of all the First Ladies and the First First Man.
+At the State Capitol, we saw the dolls of all the First Ladies and the First First Man.
 ![20220714_163438.jpg]({{site.baseurl}}/assets/media/20220714_163438.jpg)
 
 ![20220714_210135.jpg]({{site.baseurl}}/assets/media/20220714_210135.jpg)

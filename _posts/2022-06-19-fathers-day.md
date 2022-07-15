@@ -9,21 +9,20 @@ published: true
 title: Fathers Day 2022
 categories: ["farraginous"]
 ---
-Fathers Day 2022 returning from a weekend on Sanibel with my parents.  
+We took a weekend trip to Sanibel for Fathers Day 2022 to see my parents.  
 
-Planning to make it south before lunch, Camilla dressed comfortably for the ride.
+We got an early start driving on Friday morning, Camilla dressed comfortably for the ride.  
 ![20220712_093254.jpg]({{site.baseurl}}/assets/media/20220712_093254.jpg)
 
-Since flamingo's are Camilla's favorite bird, we went to the Lazy Flamingo for lunch (wearing flamingo shirt).
+Since flamingo's are still Camilla's favorite bird, we went to the Lazy Flamingo for lunch and I wore a flamingo shirt.  
 ![IMG_0025.jpg]({{site.baseurl}}/assets/media/IMG_0025.jpg)
 
 ![IMG_0027.jpg]({{site.baseurl}}/assets/media/IMG_0027.jpg)
 
-Followed by a quick swim.
-
+We need to get Camilla back in swim lessons again.  
 ![IMG_0039.jpg]({{site.baseurl}}/assets/media/IMG_0039.jpg)
 
-After driving down Friday, we made sure to get out to the beach Saturday before it got too hot.
+To avoid the heat, we made sure to get out to the beach Saturday morning before it got too hot.
 ![20220619_062242.jpg]({{site.baseurl}}/assets/media/20220619_062242.jpg)
 
 ![20220619_062310.jpg]({{site.baseurl}}/assets/media/20220619_062310.jpg)
@@ -36,14 +35,14 @@ After driving down Friday, we made sure to get out to the beach Saturday before 
 
 ![20220619_063256.jpg]({{site.baseurl}}/assets/media/20220619_063256.jpg)
 
-Camilla dressed for dinner.
+Camilla dressed for dinner -- in a Frozen Anna dress.  
 ![IMG_0050.jpg]({{site.baseurl}}/assets/media/IMG_0050.jpg)
 
 ![IMG_0059.jpg]({{site.baseurl}}/assets/media/IMG_0059.jpg)
 
 ![20220618_175009.jpg]({{site.baseurl}}/assets/media/20220618_175009.jpg)
 
-Camilla gave Grandpa a Fathers Day gift on the pool patio.
+Camilla gave Grandpa a Fathers Day gift on the pool patio.  
 ![20220712_094443.jpg]({{site.baseurl}}/assets/media/20220712_094443.jpg)
 
 ![20220619_111734.jpg]({{site.baseurl}}/assets/media/20220619_111734.jpg)
@@ -55,6 +54,6 @@ Even Posey made the trip with us ;).
 
 ![IMG_0070.jpg]({{site.baseurl}}/assets/media/IMG_0070.jpg)
 
-A quick stop at Manatee park revealed -- no manatees, but, this red bug instead.
+A quick stop at Manatee park revealed -- no manatees.  But, this red bug was pretty neat!
 
 ![20220619_121937.jpg]({{site.baseurl}}/assets/media/20220619_121937.jpg)
