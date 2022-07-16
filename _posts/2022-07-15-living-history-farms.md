@@ -14,9 +14,9 @@ The [Living History Farms](http://lhf.org 'Living History Farms') was near the h
 
 ![20220715_233808.jpg]({{site.baseurl}}/assets/media/20220715_233808.jpg)
 
-One home had some Norwegian decorative tools  hanging on the wall.
+One home had some Norwegian decorative tools hanging on the wall.
 
-At one time, the tools may have been used for flattening clothes (ironing), but here they were a carved gift to a fiance --since the home depicted a period after the iron had been invented.
+At one time, the tools may have been used for flattening clothes (ironing), but here they were a carved gift to a fiance called a *mangle board* --since the home depicted a period after the iron had been invented.
 ![20220715_234227.jpg]({{site.baseurl}}/assets/media/20220715_234227.jpg)
 
 The main street in the town had buildings for drugs, a law office, and a millinery (pictured below).  There were also a bank, newspaper, general store, and a blacksmith.
