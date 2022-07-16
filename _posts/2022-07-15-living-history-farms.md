@@ -20,7 +20,7 @@ At one time, the tools may have been used for flattening clothes (ironing), but 
 ![20220715_234227.jpg]({{site.baseurl}}/assets/media/20220715_234227.jpg)
 
 The main street in the town had buildings for drugs, a law office, and a millinery (pictured below).  There were also a bank, newspaper, general store, and a blacksmith.
-![20220715_093621.jpg.jpg]({{site.baseurl}}/assets/media/20220715_093621.jpg.jpg)
+![20220715_093621.jpg]({{site.baseurl}}/assets/media/20220715_093621.jpg)
 
 A the end of the main street was a church.  Linda remembered being a bridesmaid for a friends wedding in this church a long long time ago ;).
 ![20220715_094706.jpg]({{site.baseurl}}/assets/media/20220715_094706.jpg)
