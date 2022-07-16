@@ -56,8 +56,7 @@ And found a piglet named *Peanut* at the last farm.
 
 - Laura Ingalls Wilder
 
-> We saw some horsey's.  
-> We washed our hands.  
+> We saw some horsey's. We washed our hands.  
 
 - Camilla
 
