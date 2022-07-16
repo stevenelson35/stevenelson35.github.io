@@ -34,6 +34,10 @@ Camilla liked talking to the dress maker in the building containing two women-ow
 
 ![20220715_095536.jpg]({{site.baseurl}}/assets/media/20220715_095536.jpg)
 
+> The real things haven't changed. It is still best to be honest and truthful; to make the most of what we have; to be happy with simple pleasures; and have courage when things go wrong.
+
+- Laura Ingalls Wilder
+
 Further from the main street was a Veterinary Infirmary.
 ![20220715_104941.jpg]({{site.baseurl}}/assets/media/20220715_104941.jpg)
 
@@ -48,6 +52,12 @@ And found a piglet named *Peanut* at the last farm.
 
 ![20220715_234108.jpg]({{site.baseurl}}/assets/media/20220715_234108.jpg)
 
-> We saw some horsey's.
+> Persons appear to us according to the light we throw upon them from our own minds.  
+
+- Laura Ingalls Wilder
+
+> We saw some horsey's.  
 > We washed our hands.  
- - Camilla
+
+- Camilla
+
