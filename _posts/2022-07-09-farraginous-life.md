@@ -6,7 +6,7 @@ published: true
 title: Farraginous Life
 categories: ["farraginous"]
 ---
-Pictures of animals, flowers, insects, and fungi.
+Pictures of animals, flowers, insects, and fungi.  
 
 Once there was a turtle crossing the road...
 ![20220524_163913.jpg]({{site.baseurl}}/assets/media/20220524_163913.jpg)

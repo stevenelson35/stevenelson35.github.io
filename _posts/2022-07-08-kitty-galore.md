@@ -6,7 +6,7 @@ published: true
 title: Kitty Galore
 categories: ["farraginous"]
 ---
-Pics of just the kittens  =^.^=.
+Pics of just the kittens  =^.^=.  
 
 ![20220625_155652.jpg]({{site.baseurl}}/assets/media/20220625_155652.jpg)
 
