@@ -21,10 +21,10 @@ Linda's sister Lori arrived at the surprise party after returning from a cruise.
 
 ![20220717_172654.jpg]({{site.baseurl}}/assets/media/20220717_172654.jpg)
 
-Sending out an blog update email to my (ten) subscribers could have potentially revealed the surprise, since it included posts detailing our days in Iowa before the party.  Fortunately, Lori has enough email that the blog update email wasn't found before the event.  
+Sending out a blog update email to my (ten) subscribers could have potentially revealed the surprise, since it included posts detailing our days in Iowa before the party.  Fortunately, Lori has enough email that the blog update email wasn't found before the event.  
 ![20220717_172042.jpg]({{site.baseurl}}/assets/media/20220717_172042.jpg)
 
-The winery is in St. Charlse, IA, which is near Winterset, IA.  And Winterset is the town where John Wayne.  
+The winery is in St. Charles, IA, which is near Winterset, IA --and Winterset is the town where John Wayne was born.  
 
 > "Get off your horse and drink your milk."
 
