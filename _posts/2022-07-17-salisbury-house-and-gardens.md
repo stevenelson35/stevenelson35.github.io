@@ -20,7 +20,7 @@ The house was modeled after the King's House in Salisbury, England.
 
 ![20220717_122900.jpg]({{site.baseurl}}/assets/media/20220717_122900.jpg)
 
-Edith was an Art History major and the house has many paintings on display. The painter with the most paintings in the house was Ghent, who seemed to paint in a *blurry* style, so I didn't take any pictures of hers work ;P.  
+Edith was an Art History major and the house has many paintings on display. The painter with the most paintings in the house was Ghent, who seemed to paint in a *blurry* style, so I didn't take any pictures of her work ;P.  
 
 Photos of other paintings are below.  
 
@@ -28,7 +28,9 @@ Photos of other paintings are below.
 ![20220717_121731.jpg]({{site.baseurl}}/assets/media/20220717_121731.jpg)
 
 *Saint Catherine of Alexandria*' painting (below).  
-Her miracle was that after sentenced to a slow death by spiked roller, the torture devices wheel broke and beheaded her so she received an instantaneous death.  
+
+Saint Catherine's miracle was that after being sentenced to a slow death by spiked roller, the torture device's wheel broke and beheaded her so she received an instantaneous death.  
+
 ![20220717_121906.jpg]({{site.baseurl}}/assets/media/20220717_121906.jpg)
 
 ![20220717_122009.jpg]({{site.baseurl}}/assets/media/20220717_122009.jpg)
@@ -64,7 +66,7 @@ Here are some pics of the bathrooms.
 
 ![20220717_110502.jpg]({{site.baseurl}}/assets/media/20220717_110502.jpg)
 
-One of Weeks' businesses was one of the first companies to refuse to sell its products to shops that would offer discounts on their products.  The case went to the supreme court before it was lost.  
+One of Carl's businesses was one of the first companies to refuse to sell its products to shops that would offer discounts on their products.  The case went to the supreme court before it was lost.  
 
 ![20220717_110246.jpg]({{site.baseurl}}/assets/media/20220717_110246.jpg)
 
