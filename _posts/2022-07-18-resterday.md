@@ -8,7 +8,7 @@ categories: ["summer vacation 2022"]
 ---
 Monday was a day of rest.
 
-My apologies in advance for creating a blog post on a day where nothing much was done.  Perhaps these picture of Camilla and some flowers will suffice.  
+My apologies in advance for creating a blog post on a day where nothing much was done.  Perhaps these pictures of Camilla and some flowers will suffice.  
 
 > Either write something worth reading or do something worth writing.
 
