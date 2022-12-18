@@ -25,7 +25,7 @@ This bug was at Manatee Park. He asked if he could get a ride back home to Red B
 
 ![20220605_082842.jpg]({{site.baseurl}}/assets/media/20220605_082842.jpg)
 
->Once there was a mushroom who walk into a bar.  
+>Once there was a mushroom who walked into a bar.  
 
 >The bartender said: "We don't serve your kind."  
 
