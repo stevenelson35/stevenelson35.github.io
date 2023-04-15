@@ -51,6 +51,8 @@ I hope this helps! Let me know if you have any other questions.
   
 ## Other links
 
+[Open My Flrida Business : Veterinary Services](http://openmyfloridabusiness.gov/business/54/veterinary-services/)  
+
 [Sharp Sheets : How to Open a Veterinary Clinic](https://sharpsheets.io/blog/how-to-open-a-veterinary-clinic/)  
 
 [TRUIC : How to Start a Veterinary Practice](https://howtostartanllc.com/business-ideas/veterinary)  
