@@ -20,14 +20,14 @@ I hope this helps! Let me know if you have any other questions.
 
 Starting a veterinary clinic can be a challenging but rewarding experience. Here are some steps you can follow to start a veterinary practice in Central Florida for cats and dogs:  
 
-1.Plan your business: A clear plan is essential for success as an entrepreneur. You should research and identify your target market, competition, and business model.  
-1.Form a legal entity: You can choose to form a limited liability company (LLC), corporation, or other legal entity for your veterinary practice.  
-1.Register for taxes: You will need to register for a variety of state and federal taxes before you can open for business.  
-1.Open a business bank account & credit card: You will need to open a separate bank account for your business with your new legal entity name.  
-1.Set up business accounting: You will need to set up accounting for your business to keep track of expenses, income, and profits.  
-1.Obtain necessary permits and licenses: You will need to obtain all necessary permits and licenses required by your state and local government.  
-1.Get business insurance: You will need insurance coverage for your veterinary practice.
-1.Get medical equipment and supplies: You will need medical and surgical equipment, lab equipment, kennel equipment, IT supplies, software, and furniture to start a veterinary clinic.  
+1. Plan your business: A clear plan is essential for success as an entrepreneur. You should research and identify your target market, competition, and business model.  
+1. Form a legal entity: You can choose to form a limited liability company (LLC), corporation, or other legal entity for your veterinary practice.  
+1. Register for taxes: You will need to register for a variety of state and federal taxes before you can open for business.  
+1. Open a business bank account & credit card: You will need to open a separate bank account for your business with your new legal entity name.  
+1. Set up business accounting: You will need to set up accounting for your business to keep track of expenses, income, and profits.  
+1. Obtain necessary permits and licenses: You will need to obtain all necessary permits and licenses required by your state and local government.  
+1. Get business insurance: You will need insurance coverage for your veterinary practice.
+1. Get medical equipment and supplies: You will need medical and surgical equipment, lab equipment, kennel equipment, IT supplies, software, and furniture to start a veterinary clinic.  
   
 I hope this helps! Let me know if you have any other questions.  
 
