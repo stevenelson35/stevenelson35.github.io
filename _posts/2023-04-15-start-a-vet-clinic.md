@@ -13,7 +13,7 @@ This posts includes links to info about starting a veterinary practice.
 
 Here are some resources that can help you start a veterinary clinic:  
 
-1. [TRUiC](https://truic.com/) provides a list of 10 steps to follow when starting a veterinary practice.  
+1. [TRUiC](https://howtostartanllc.com/business-ideas/veterinary) provides a list of 10 steps to follow when starting a veterinary practice.  
 1. [ezyVet](https://www.ezyvet.com/) provides information on business planning, administrative setup, and tools of the trade.  
 1. [SharpSheets]((https://sharpsheets.io/blog/how-to-open-a-veterinary-clinic/)  ) provides a checklist of 8 steps to follow when opening a veterinary clinic.  
 1. [Vetport](https://www.vetport.com/) suggests using veterinary software programs to help simplify everyday processes and help with inventory management, making and tracking appointments, client registrations, managing finances and staff.  
@@ -64,7 +64,7 @@ I hope these suggestions help! Let me know if you have any other questions.
   
 ## Other links  
 
-[Open My Flrida Business : Veterinary Services](http://openmyfloridabusiness.gov/business/54/veterinary-services/)  
+[Open My Florida Business : Veterinary Services](http://openmyfloridabusiness.gov/business/54/veterinary-services/)  
 
 [Sharp Sheets : How to Open a Veterinary Clinic](https://sharpsheets.io/blog/how-to-open-a-veterinary-clinic/)  
 
