@@ -32,9 +32,9 @@ Starting a veterinary clinic can be a challenging but rewarding experience. Here
 1. Get medical equipment and supplies: You will need medical and surgical equipment, lab equipment, kennel equipment, IT supplies, software, and furniture to start a veterinary clinic.  
   
 I hope this helps! Let me know if you have any other questions.  
-
+  
 There are many good locations in Central Florida for a new veterinary clinic. Some of the popular locations include Casselberry, Waterford Lakes, Orlando, and Leesburg1. You can also consider Oviedo which is a growing city with a population of over 40,000 people.  
-
+  
 I hope this helps! Let me know if you have any other questions.  
 
 There are many factors to consider when opening a veterinary clinic. Here are some of them:  
@@ -48,6 +48,7 @@ There are many factors to consider when opening a veterinary clinic. Here are so
 1. Business projections based on market research.  
 1. Financial forecasting will help you judge the clinic’s potential and the range of revenue you can expect as the practice launches.  
 1. Location is one of the larger investments a veterinary has to do in the initial stage of planning. One must consider various factors while planning the location: You would like to open the practice at a location that is easily accessible by your larger client base.  
+  
 I hope this helps! Let me know if you have any other questions.  
 
 
@@ -59,6 +60,11 @@ Here are some suggestions for the name of the veterinary clinic:
 1. Furry Friends Veterinary Clinic  
 1. Animal Care Clinic of Central Florida  
 I hope these suggestions help! Let me know if you have any other questions.  
+
+One way to find a location for a veterinary clinic that is not near an existing one is to use a [vet locator tool](https://www.aspcapetinsurance.com/vet-locator/vet-clinics-by-zip-code/?zipCode=32765) such as the one provided by ASPCA Pet Insurance. You can search using your Zip Code or browse by state.  
+  
+I hope this helps! Let me know if you have any other questions.  
+
 
 
   
