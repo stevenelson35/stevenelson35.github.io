@@ -5,9 +5,11 @@ categories: ["vet 2023"]
 ---
 # How to Start a Veterinary Practice
 
-This posts includes links to info about starting a veterinary practice.
+This posts includes links to info about starting a veterinary practice.  
 
-## From Bing Chat
+![Screenshot_20220710-123457_Gallery.jpg]({{site.baseurl}}/assets/media/Screenshot_20220710-123457_Gallery.jpg)
+
+## From Bing Chat  
 
 Here are some resources that can help you start a veterinary clinic:  
 
@@ -49,7 +51,7 @@ There are many factors to consider when opening a veterinary clinic. Here are so
 I hope this helps! Let me know if you have any other questions.  
 
   
-## Other links
+## Other links  
 
 [Open My Flrida Business : Veterinary Services](http://openmyfloridabusiness.gov/business/54/veterinary-services/)  
 
@@ -81,12 +83,12 @@ Start a veterinary practice by following these 10 steps:
 1.  Start Marketing
 1. Become a Tail-Wagging Success: 8 Essential Tips for Starting a Veterinary Practice
 
-## Equipment
+## Equipment  
 
 [Anatech Diagnostics : Pick the practice management system that’s right for your veterinary practice](https://www.antechdiagnostics.com/about/new-veterinary-practice/?utm_source=bing&utm_medium=cpc&utm_campaign=npp_vet_clinic&msclkid=78db4cb6ca6a1037cde3288dc3d45153)
 
 
-## General Business Info
+## General Business Info  
 
 [Smart Sheets : How to Estimate TAM, SAM, and SOM for your startup](https://sharpsheets.io/blog/how-to-estimate-total-addressable-market-for-your-business/)  
 
