@@ -50,6 +50,17 @@ There are many factors to consider when opening a veterinary clinic. Here are so
 1. Location is one of the larger investments a veterinary has to do in the initial stage of planning. One must consider various factors while planning the location: You would like to open the practice at a location that is easily accessible by your larger client base.  
 I hope this helps! Let me know if you have any other questions.  
 
+
+Here are some suggestions for the name of the veterinary clinic:  
+
+1. Paws and Claws Veterinary Clinic  
+1. Central Florida Pet Clinic  
+1. Dr. Kenney and Dr. West’s Pet Clinic  
+1. Furry Friends Veterinary Clinic  
+1. Animal Care Clinic of Central Florida  
+I hope these suggestions help! Let me know if you have any other questions.  
+
+
   
 ## Other links  
 
