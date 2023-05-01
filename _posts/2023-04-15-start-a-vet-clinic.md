@@ -3,7 +3,7 @@ author: steve
 tags: ["2023", vet]
 categories: ["vet 2023"]
 ---
-# How to Start a Veterinary Practice
+How to Start a Veterinary Practice
 
 This posts includes links to info about starting a veterinary practice.  
 
