@@ -1,4 +1,4 @@
 ---
 name: vet
 ---
-vet posts
+Vet posts
