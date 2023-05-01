@@ -18,8 +18,8 @@ The {{ site.title }} site:
 - Tracks traffic using [Google Analytics](https://analytics.google.com).
 - Accepts crypto with [Coinbase Commerce](https://commerce.coinbase.com).
 - Processes payments with [PayPal](https://paypal.com).
-- And adds posts using [prose.io](https://prose.io).  
-    - (pretty flaky; find another editor)  
+- Adds posts sometimes using [prose.io](https://prose.io).  
+- And Embeds youtube links w/o plugin by [jekyll-embed-video](https://github.com/nathancy/jekyll-embed-video).
   
 Jekyll is a blog-aware static site builder that:
 - Performs text-to-html conversion with [Markdown](https://daringfireball.net/projects/markdown/).
