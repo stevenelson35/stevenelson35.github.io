@@ -7,7 +7,7 @@ youtubeId: 1RjC5JvpQfI
 Nav computer issues meant our shorter driving day wasn't that short after all.
 
 The *Holiday Inn Express* in *Edgewood, MD*, had a pancake robot.  
-</br>
+<br/>
 
 {% include youtubePlayer.html id=page.youtubeId %}
 (5 seconds)
@@ -16,7 +16,7 @@ We stopped at a rest stop.
 <br/>
 ![Steve at Rest Stop]({{ site.url }}assets/media/20230619_213240.jpg)
 
-We caught a glimpse of some of the sights of *Washington, D.C.*.  
+We caught a glimpse of some of the sights of *Washington, D.C.*  
 <br/>
 ![Washington Monument]({{ site.url }}assets/media/20230619_191012.jpg)
 ![Linda and DC]({{ site.url }}assets/media/20230619_191646.jpg)
