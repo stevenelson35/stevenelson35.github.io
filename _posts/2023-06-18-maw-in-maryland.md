@@ -2,7 +2,7 @@
 author: steve
 tags: ["2023", summer, vacation, driving, stamford]
 categories: ["summer vacation 2023"]
-youtubeId: SPr0timDGKE
+youtubeId: 1RjC5JvpQfI
 ---
 Nav computer issues meant our shorter driving day wasn't that short after all.
 
