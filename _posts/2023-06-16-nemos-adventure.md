@@ -1,5 +1,6 @@
 ---
 author: steve
+title: Nemo's Adventure
 tags: ["2023", summer, vacation, driving]
 categories: ["summer vacation 2023"]
 youtubeId: 5-DY5-rfDBA
@@ -18,7 +19,7 @@ Our trip includes stops in:
 - Montreal, Quebec, Canada.
 - Niagara Falls, Ontario, Canada.
 
-We said goodbye to the Teddy and Ivory who will stay home alone for two weeks..  
+We said goodbye to the Teddy and Ivory who will stay home alone for two weeks.  
 
 ![Kittens in suitcase 1]({{ site.url }}assets/media/20230619_175608.jpg)
 
