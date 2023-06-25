@@ -35,11 +35,12 @@ At this point, my French consists of what I've learned from Peppa Pig years ago:
 
 [Peppa Pig - Ballet](https://www.youtube.com/watch?time_continue=4&v=Zlp3Aif6jJA&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=Mjg2NjY&feature=emb_logo)
 
-After dinner at Salsa's on I-95, we stayed at a very clean `Red Roof Inn` in Darien, GA. Camilla's friend Isla shared her roses after the recital.
+After dinner at Salsa's on I-95, we stayed at a very clean *Red Roof Inn* in Darien, GA. Camilla's friend Isla shared her roses after the recital.
 
 ![Camilla and roses and red roof inn sign]({{ site.url }}assets/media/20230619_180231.jpg)
 
 And the driving begins!
 
 > Just keep swimming
+
 - Nemo
