@@ -2,7 +2,7 @@
 author: steve
 tags: ["2023", summer, vacation, driving]
 categories: ["summer vacation 2023"]
-youtubeId: 1RjC5JvpQfI
+youtubeId: SPr0timDGKE
 ---
 A long day of driving meant rest stops and fast food.
 
@@ -25,7 +25,7 @@ Later she drew a picture in the car while taking a break from hours of youtubing
 
 ![Kittens drawing]({{ site.url }}assets/media/20230619_212508.jpg)
 
-After a long day of driving, we had Papa John's for dinner at the `Holiday Inn Express` in `Edgewood, MD` which was near a vet clinic and a `Red Roof Inn`.
+After a long day of driving, we had Papa John's for dinner at the *Holiday Inn Express* in *Edgewood, MD* which was near a vet clinic and a *I think Red Roof Inn*.
 ![Vet clinic]({{ site.url }}assets/media/20230619_212302.jpg)
 ![Red Roof Inn Sign]({{ site.url }}assets/media/20230619_212637.jpg)
 
@@ -33,14 +33,22 @@ Sometimes Camilla likes to be carried. Fortunately, she can still fit in a bag.
 ![Camilla at Hotel]({{ site.url }}assets/media/20230619_213120.jpg)
 
 (Canadian) French 101:
-> Bonjour, Eh (Good morning/Hello) 
+> Bonjour, Eh (Good morning/Hello)
+
 - A standard greeting used in both formal and informal settings.
-> Bonsoir, Eh (Good evening) 
+  
+> Bonsoir, Eh (Good evening)
+
 - A greeting used in the evening in both formal and informal situations.
-> Salut, Eh (Hi/Bye) 
+  
+> Salut, Eh (Hi/Bye)
+
 - An informal greeting or farewell.
-> Au revoir, Eh (Goodbye) 
+  
+> Au revoir, Eh (Goodbye)
+
 - A polite way to say goodbye.
+  
 > Merci, Eh (Thank you) 
 - To express gratitude.
 
