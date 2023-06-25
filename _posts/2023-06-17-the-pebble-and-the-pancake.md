@@ -8,7 +8,7 @@ A long day of driving meant rest stops and fast food.
 
 ![Family at Rest stop]({{ site.url }}assets/media/20230619_190421.jpg)
 
-Not long after getting on the road, our windshield found a pebble. And later, we noticed this crack which we got fixed a few days later in Stamford at Safelite.
+Not long after getting on the road, our windshield found a pebble. And later, we noticed this crack which we got fixed a few days later in *Stamford* at *Safelite*.
 
 
 ![Windshield]({{ site.url }}assets/media/20230619_212918.jpg)
@@ -22,16 +22,16 @@ After breakfast at McDonald's and lunch at Subway, Camilla did a little dance.
 (15 seconds)
 
 Later she drew a picture in the car while taking a break from hours of youtubing.
-</br>
+<br/>
 ![Kittens drawing]({{ site.url }}assets/media/20230619_212508.jpg)
 
 After a long day of driving, we had Papa John's for dinner at the *Holiday Inn Express* in *Edgewood, MD* which was near a vet clinic and a *Red Roof Inn*.
-</br>
+<br/>
 ![Vet clinic]({{ site.url }}assets/media/20230619_212302.jpg)
 ![Red Roof Inn Sign]({{ site.url }}assets/media/20230619_212637.jpg)
 
 Sometimes Camilla likes to be carried. Fortunately, she can still fit in a bag.  
-</br>
+<br/>
 ![Camilla at Hotel]({{ site.url }}assets/media/20230619_213120.jpg)
 
 (Canadian) French 101:
