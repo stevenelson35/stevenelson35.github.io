@@ -22,14 +22,16 @@ After breakfast at McDonald's and lunch at Subway, Camilla did a little dance.
 (15 seconds)
 
 Later she drew a picture in the car while taking a break from hours of youtubing.
-
+</br>
 ![Kittens drawing]({{ site.url }}assets/media/20230619_212508.jpg)
 
-After a long day of driving, we had Papa John's for dinner at the *Holiday Inn Express* in *Edgewood, MD* which was near a vet clinic and a *I think Red Roof Inn*.
+After a long day of driving, we had Papa John's for dinner at the *Holiday Inn Express* in *Edgewood, MD* which was near a vet clinic and a *Red Roof Inn*.
+</br>
 ![Vet clinic]({{ site.url }}assets/media/20230619_212302.jpg)
 ![Red Roof Inn Sign]({{ site.url }}assets/media/20230619_212637.jpg)
 
-Sometimes Camilla likes to be carried. Fortunately, she can still fit in a bag.
+Sometimes Camilla likes to be carried. Fortunately, she can still fit in a bag.  
+</br>
 ![Camilla at Hotel]({{ site.url }}assets/media/20230619_213120.jpg)
 
 (Canadian) French 101:
@@ -49,6 +51,7 @@ Sometimes Camilla likes to be carried. Fortunately, she can still fit in a bag.
 
 - A polite way to say goodbye.
   
-> Merci, Eh (Thank you) 
+> Merci, Eh (Thank you)
+
 - To express gratitude.
 
