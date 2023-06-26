@@ -48,7 +48,7 @@ After the museum, we walked across *Central Park* to and Camilla chased some pig
 {% include youtubePlayer.html id=page.youtubeId %}
 <br/>
 
-We had dinner at on the third floor of [Sarafina's Fabulous Pizza](https://www.serafinarestaurant.com/) before taking a taxi back to *Grand Central Station* for a train back to *Stamford* where Julie picked us up after a long, hot day.  
+We had dinner on the third floor of [Sarafina's Fabulous Pizza](https://www.serafinarestaurant.com/) before taking a taxi back to *Grand Central Station* for a train back to *Stamford* where Julie picked us up after a long, hot day.  
 <br/>
 
 ![Camilla Sarah at Dessert]( {{ site.url }}assets/media/20230625_234806.jpg )
