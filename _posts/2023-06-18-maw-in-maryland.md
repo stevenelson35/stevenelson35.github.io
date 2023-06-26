@@ -54,12 +54,60 @@ We saw the *New York City* skyline as we drove through *New Jersey* and then con
 
 ![NYC Skyline 2]({{ site.url }}assets/media/20230618_144720.jpg)
 
-</br>
-When we arrived in *Stamford, CT* Camilla got to see her cousins Emily and Sarah and her Aunt and Uncle, *Julie and Brian*.  
+<br/>
+When we arrived in *Stamford, CT* Camilla got to see her cousins *Emily* and *Sarah* and her Aunt and Uncle, *Julie* and *Brian*.  
+
+<br/>
+![Emily Camilla and Sarah at MacArthur]( {{ site.url }}assets/media/20230625_113857.jpg )
+<br/>
+After a settling in, we went to dinner in Stamford and walked near a harbor with swings and a sandbox.  
+<br/>
+![Emily Camilla and Sarah in Stamford on Swing]( {{ site.url }}assets/media/20230625_114454.jpg )
+<br/>
+![Emily and Julie in Stamford on Swing]( {{ site.url }}assets/media/20230625_114336.jpg )
+<br/>
+![Camilla in Stamford]( {{ site.url }}assets/media/20230625_115231.jpg )
+<br/>
+![Sarah and Camilla buliding castles]( {{ site.url }}assets/media/20230625_114622.jpg )
+<br/>
+![Emily Camilla and Sarah in Stamford]( {{ site.url }}assets/media/20230625_114821.jpg )
+<br/>
+![Linda Steve Julie and Brian in Stamford]( {{ site.url }}assets/media/20230625_115125.jpg )
+<br/>
+There is a trolley in Stamford.  
+<br/>
+![Stamford Trolley]( {{ site.url }}assets/media/20230625_115420.jpg )
+<br/>
+![Emily Camilla and Sarah in Stamford on Swing again]( {{ site.url }}assets/media/20230625_115552.jpg )
+<br/>
+![Emily Camilla and Sarah in Stamford making faces]( {{ site.url }}assets/media/20230625_11575.jpg )
 <br/>
 
-After dinner we walked along a park in Stamford.
+French Lesson : `noms d’animaux`  
+> âne
 
-TODO
+- donkey
+
+> taureau
+
+- bull
+
+> chèvre
+
+- goat
+
+> chienne / chien (feminine/masculine)
+
+- dog
+
+> chatte / chat (feminine/masculine)
+
+- cat
+
+> oiselle / oiseau (feminine/masculine)
+
+- bird
+
+  
 
 
