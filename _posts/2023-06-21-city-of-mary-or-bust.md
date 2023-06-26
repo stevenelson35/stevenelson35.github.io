@@ -16,7 +16,7 @@ Along our drive we stopped at a New York rest stop shop.
 
 We saw some hills on the route north.  
 
-![New York Scenario]( {{ site.url }}assets/media/20230621_141536jpg )
+![New York Scenario]( {{ site.url }}assets/media/20230621_141536.jpg )
 <br/>
 
 I saw a number of *blue jays* at a rest stop, but they would not stay still for a picture. I did get this picture of one of their homes instead, though.  
