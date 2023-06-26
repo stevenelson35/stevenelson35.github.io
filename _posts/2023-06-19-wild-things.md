@@ -47,3 +47,39 @@ Someone else likes *bulls*.
 ![Goats at Nature Center again]( {{ site.url }}assets/media/20230625_124712.jpg )
 
 <br/>
+
+![Girls and Horse at Nature Center]( {{ site.url }}assets/media/IMG_7959.jpg )
+
+<br/>
+
+![Sarah and Emily and Camilla on Couch]( {{ site.url }}assets/media/sarah-emily-camilla-couch.jpg )
+
+<br/>
+
+French Lesson : Animal Names : `noms d’animaux`  
+
+> âne
+
+- donkey
+
+> taureau
+
+- bull
+
+> chèvre
+
+- goat
+
+> chienne / chien (feminine/masculine)
+
+- dog
+
+> chatte / chat (feminine/masculine)
+
+- cat
+
+> oiselle / oiseau (feminine/masculine)
+
+- bird
+
+
