@@ -73,7 +73,7 @@ After a settling in, we went to dinner in Stamford and walked near a harbor with
 <br/>
 ![Emily Camilla and Sarah in Stamford]( {{ site.url }}assets/media/20230625_114821.jpg )
 <br/>
-![Linda Steve Julie and Brian in Stamford]( {{ site.url }}assets/media/20230625_115125.jpg )
+![Linda Steve Julie and Brian in Stamford]( {{ site.url }}assets/media/20230625_115121.jpg )
 <br/>
 There is a trolley in Stamford.  
 <br/>
@@ -81,7 +81,7 @@ There is a trolley in Stamford.
 <br/>
 ![Emily Camilla and Sarah in Stamford on Swing again]( {{ site.url }}assets/media/20230625_115552.jpg )
 <br/>
-![Emily Camilla and Sarah in Stamford making faces]( {{ site.url }}assets/media/20230625_11575.jpg )
+![Emily Camilla and Sarah in Stamford making faces]( {{ site.url }}assets/media/20230625_115756.jpg )
 <br/>
 
 French Lesson : Family : `Noms de famille`  
