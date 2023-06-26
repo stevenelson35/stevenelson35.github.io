@@ -18,6 +18,7 @@ We stopped at a rest stop.
 
 We caught a glimpse of some of the sights of *Washington, D.C.*  
 <br/>
+
 ![Washington Monument]({{ site.url }}assets/media/20230619_191012.jpg)
 ![Linda and DC]({{ site.url }}assets/media/20230619_191646.jpg)
 
@@ -37,7 +38,7 @@ One example was that Google Maps suggested a route to exit a highway and then im
 Camilla thought these powerlines looked like cats. :)  
 <br/>
 
-![Powerline Cats]({{ site.url }}assets/media/20230619_214948.jpg)
+![Powerline Cats]({{ site.url }}assets/media/20230625_231516.jpg)
 
 Grabbed lunch at the *Joe Biden* rest stop in *Delaware*.  
 
@@ -55,7 +56,7 @@ We saw the *New York City* skyline as we drove through *New Jersey* and then con
 ![NYC Skyline 2]({{ site.url }}assets/media/20230618_144720.jpg)
 
 <br/>
-When we arrived in *Stamford, CT* Camilla got to see her cousins *Emily* and *Sarah* and her Aunt and Uncle, *Julie* and *Brian*.  
+When we arrived in *Stamford, CT* Camilla got to see her cousins *Emily* and *Sarah* and her Aunt and Uncle *Julie* and *Brian*.  
 
 <br/>
 ![Emily Camilla and Sarah at MacArthur]( {{ site.url }}assets/media/20230625_113857.jpg )
@@ -83,31 +84,44 @@ There is a trolley in Stamford.
 ![Emily Camilla and Sarah in Stamford making faces]( {{ site.url }}assets/media/20230625_11575.jpg )
 <br/>
 
-French Lesson : `noms d’animaux`  
-> âne
+French Lesson : Family : `Noms de famille`  
 
-- donkey
+> maman
 
-> taureau
+- mom
 
-- bull
+> papa
 
-> chèvre
+- dad
 
-- goat
+> sœur
 
-> chienne / chien (feminine/masculine)
+- sister
 
-- dog
+> frère
 
-> chatte / chat (feminine/masculine)
+- brother
 
-- cat
+> cousin
 
-> oiselle / oiseau (feminine/masculine)
+- cousin
 
-- bird
+> tante
 
-  
+- aunt
+
+> oncle
+
+- uncle
+
+> grand-mère
+
+- grandmother
+
+> grand-père
+
+- grandfather
+
+
 
 
