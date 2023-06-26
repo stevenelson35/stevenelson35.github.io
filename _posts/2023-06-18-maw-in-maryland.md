@@ -22,7 +22,7 @@ We caught a glimpse of some of the sights of *Washington, D.C.*
 ![Washington Monument]({{ site.url }}assets/media/20230619_191012.jpg)
 ![Linda and DC]({{ site.url }}assets/media/20230619_191646.jpg)
 
-In *Maryland* we drove throw the *Baltimore Harbor Tunnel* and saw this chimney.  
+In *Maryland* we drove through the *Baltimore Harbor Tunnel* and saw this chimney.  
 <br/>
 
 ![Baltimore Harbor Tunnel]({{ site.url }}assets/media/20230619_212142.jpg)
