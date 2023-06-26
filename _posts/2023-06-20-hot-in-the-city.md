@@ -8,14 +8,12 @@ youtubeId: x9GWC5O2hGI
 We spent a day at the American Museum of Natural History in NYC.  
 
 Sarah and Camilla had to get up early for the day.  
-
 <br/>
 
 ![Sarah Camilla Breakfast]( {{ site.url }}assets/media/camilla-sarah-breakfast.jpg )
 <br/>
 
 Julie drove us to the depot in *Greenwich, CT* to catch a train to *Grand Central Station*.  
-
 <br/>
 
 ![Sarah Camilla Linda at Depot]( {{ site.url }}assets/media/20230625_232648.jpg )
@@ -33,7 +31,6 @@ We took a taxi to the [American Museum of Natural History](http://amnh.org) and 
 <br/>
 
 We also saw the *Allison and Roberto Mignone Halls of Gems and Minerals* exhibit sponsored by Julie's prior boss and took a picture with the elephants.  
-
 <br/>
 
 ![Sarah and Camilla at Gems]( {{ site.url }}assets/media/20230625_233711.jpg )
@@ -49,8 +46,10 @@ After the museum, we walked across *Central Park* to and Camilla chased some pig
 <br/>
 
 {% include youtubePlayer.html id=page.youtubeId %}
+<br/>
 
 We had dinner at on the third floor of [Sarafina's Fabulous Pizza](https://www.serafinarestaurant.com/) before taking a taxi back to *Grand Central Station* for a train back to *Stamford* where Julie picked us up after a long, hot day.  
+<br/>
 
 ![Camilla Sarah at Dessert]( {{ site.url }}assets/media/20230625_234806.jpg )
 <br/>
