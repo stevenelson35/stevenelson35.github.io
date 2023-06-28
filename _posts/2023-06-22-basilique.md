@@ -30,8 +30,10 @@ It was designed by an Irish-American from New York who is the only person buried
 <br/>
 
 While we were doing a self guided tour, a choir group from Minnesota was practicing.  
+<br/>
 
 {% include youtubePlayer.html id=page.youtubeId %}
+<br/>
 
 So we had to be quiet.  
 <br/>
@@ -55,7 +57,7 @@ Outside the Basilica we looked at a statue and toured the Bank of Montreal.
 ![Family at Statue]( {{ site.url }}assets/media/20230622_131907.jpg )
 <br/>
 
-We went back to the condo and checked out the two rooftop pools and indoor pool and gym.  All were being put to good use by the young local professional residents.  
+Then we went back to the condo and checked out the two rooftop pools and the indoor pool and gym.  All the facilities were being put to good use by the young local professional residents.  Montreal has a reputation for being host to influencers and tech companies that established sites there during the development of the multimedia city region.  
 
 ![Pools]( {{ site.url }}assets/media/20230626_213544.jpg )
 <br/>
@@ -64,9 +66,9 @@ Later in the evening we returned to the Basilica for the light show [AURUA](http
 
 The AURA Experience immerses you in a captivating visual and musical universe, presented upon one of the most sublime canvases imaginable: the French-inspired, Gothic Revival architectural interior of Notre-Dame Basilica of Montréal.
 
-It was quite an expericience, but a little loud for Camilla, whose ears I covered with my hands while she hummed along.  
+The light and music show was quite an experience.  It was little loud for Camilla, so I covered her ears with my hands while she hummed along.  
 
-After a hot day of walking around Montreal and often carrying Camilla, I had a migraine that lasted through the night.  Finally after 6am I had some relief -- possibly helped by seeing this restful face.  
+After a hot day of walking around Montreal and often carrying Camilla, I had a migraine that lasted through the night.  Finally after 6am the next morning I had some relief -- possibly helped by seeing this restful face.  
 
 ![Camilla Sleeping]( {{ site.url }}assets/media/20230626_213224.jpg )
 <br/>
