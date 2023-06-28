@@ -20,7 +20,7 @@ It was designed by an Irish-American from New York who is the only person buried
 ![Basilica Interior 1]( {{ site.url }}assets/media/20230622_110858.jpg )
 <br/>
 
-![Basilica Interior 3]( {{ site.url }}assets/media/20230622_112605-rotated.jpg )
+![Basilica Interior 3]( {{ site.url }}assets/media/20230622_112605.jpg )
 <br/>
 
 ![Basilica Interior 2]( {{ site.url }}assets/media/20230622_110913.jpg )
