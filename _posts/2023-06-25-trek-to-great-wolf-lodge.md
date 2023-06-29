@@ -1,0 +1,33 @@
+---
+author: steve
+tags: ["2023", summer, vacation, driving, niagara]
+categories: ["summer vacation 2023"]
+youtubeId: seEvmr9tOUw
+---
+It took a day to drive from Montreal to Niagara Falls.  
+
+Camilla wrapped up her Netflix viewing before we set out for a day in the car.  
+<br/>
+
+![Camilla Netflix]( {{ site.url }}assets/media/20230627_032934.jpg )
+<br/>
+
+We made one stop for lunch at a Canadian rest stop and took advantage it for a photo shoot.  
+<br/>
+
+![Camilla at Subway rest stop]( {{ site.url }}assets/media/20230627_033216.jpg )
+<br/>
+
+![Camilla and moose]( {{ site.url }}assets/media/20230627_033336.jpg )
+<br/>
+
+![Camilla Linda and Steve and moose]( {{ site.url }}assets/media/20230627_033336.jpg )
+<br/>
+
+Camilla was excited to arrive at the Great Wolf Lodge and join the dance party.  
+<br/>
+{% include youtubePlayer.html id=page.youtubeId %}
+<br/>
+
+![Steve Wolf Den Bunk]( {{ site.url }}assets/media/IMG_0491.jpg )
+<br/>
