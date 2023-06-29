@@ -73,7 +73,7 @@ Canada Lessons:
 
 > Provinces
 
-- Ontario : Capitla Toronto
+- Ontario : Toronto
 - Quebec : Quebec City (largest Montreal)
 - Nova Scotia : Halifax
 - New Brunswick : Fredericton (largest Moncton)
