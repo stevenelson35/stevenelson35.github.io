@@ -23,10 +23,10 @@ It was designed by an Irish-American from New York who is the only person buried
 ![Basilica Interior 3]( {{ site.url }}assets/media/20230622_112605.jpg )
 <br/>
 
-![Basilica Interior 2]( {{ site.url }}assets/media/20230622_110913.jpg )
+![Basilica Rose Window]( {{ site.url }}assets/media/20230626_211848.jpg )
 <br/>
 
-![Basilica Rose Window]( {{ site.url }}assets/media/20230626_211848.jpg )
+![Basilica Interior 2]( {{ site.url }}assets/media/20230622_110913.jpg )
 <br/>
 
 While we were doing a self guided tour, a choir group from Minnesota was practicing.  
@@ -83,7 +83,7 @@ French and Metric Notes:
 
 - Exit
 
-> Sortie
+> Arrêt
 
 - Stop
 
