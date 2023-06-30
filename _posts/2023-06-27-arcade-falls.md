@@ -26,10 +26,14 @@ Camilla's favorite games were a virtual car ride, a motorbike game, and air hock
 ![Camilla and Linda Air Hockey]( {{ site.url }}assets/media/20230630_123741.jpg )
 <br/>
 
+Linda's favorite game was a stacking game. It was a bit too addictive, so in the future we'll have to watch her around arcades with that game. 
+<br/>
+
 ![Steve Linda and Camilla Great Wolf Lodge]( {{ site.url }}assets/media/20230630_124214.jpg )
 <br/>
 
-At the arcade, each game played credits a number of virtual tickets you can exchange for a prize.  Camilla's goal was to get a blow pop sucker.  She got one and the blue teeth in this picture is proof.  
+At the arcade, you earn virtual tickets for each game played that you can exchange for a prize.  Camilla's goal was to get a blow pop sucker.  She got one and the blue teeth in this picture is proof.  
+
 <br/>
 ![Camilla Blue Teeth]( {{ site.url }}assets/media/20230630_124404.jpg )
 <br/>
