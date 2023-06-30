@@ -6,8 +6,6 @@ youtubeId: qTSDEwZjJDA
 ---
 We spent one full day at Great Wolf Lodge swimming, sliding, and playing MagicQuest in the hotel.  
 
-<br/>
-
 ![Great Wolf Lodge]( {{ site.url }}assets/media/20230627_035250.jpg )
 <br/>
 
