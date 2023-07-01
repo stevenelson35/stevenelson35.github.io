@@ -59,7 +59,7 @@ We considered eating at the rotating tower restaurant to see the falls from abov
 ![Camilla and Tower]( {{ site.url }}assets/media/20230630_131623.jpg )
 <br/>
 
-There was a sign describing Louis Hennepin, who may be the person after which the county in Minnesota I grew up in was named.
+There was a sign describing Louis Hennepin, who may be the person after which the county in Minnesota I grew up in was named. He brought two great falls to the attention of Europe: *Niagara Falls" and *Saint Anthony Falls* (Minneapolis).
 <br/>
 
 ![Camilla and Hennepin Sign]( {{ site.url }}assets/media/20230630_131724.jpg )
