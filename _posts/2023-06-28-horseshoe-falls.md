@@ -47,9 +47,6 @@ We skipped the second tunnel view (which was identical) so we didn't have to wai
 ![Viewing Platform After Behind The Falls]( {{ site.url }}assets/media/20230630_200318.jpg )
 <br/>
 
-![View from Viewing Platform Behind The Falls]( {{ site.url }}assets/media/20230630_200437.jpg )
-<br/>
-
 ![Camilla and Linda at Viewing Platform]( {{ site.url }}assets/media/20230630_195345.jpg )
 <br/>
 
@@ -60,6 +57,9 @@ Here's a short video of the view from the viewing platform.
 <br/>
 
 ![Linda Taking a Photo of Horseshoe Falls]( {{ site.url }}assets/media/20230630_195853.jpg )
+<br/>
+
+![View from Viewing Platform Behind The Falls]( {{ site.url }}assets/media/20230630_200437.jpg )
 <br/>
 
 Camilla took some photos, including the selfie below.  
