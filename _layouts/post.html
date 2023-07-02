@@ -4,10 +4,23 @@ comments: true
 ---
 <h1>{{ page.title }}</h1>
   {{ page.date | date_to_string }} 
-  {% assign author = site.authors | where: 'short_name', page.author | first %}
-  {% if author %}
-   - <a href="{{ author.url }}">{{ author.name }}</a>
-  {% endif %}
+  {% if author.size > 1 % }
+    {% assign authordata = '' | split:'@' %}
+      {% for author in site.authors %}	
+        {% if post.author contains author.short_name %}
+          {% capture data %}
+        <a href="{{ site.url }}{{ author.url }}">{{ author.name }}</a>
+           {% endcapture %}
+         {% assign authordata = authordata | push: data %}
+       {% endif %}
+    {% endfor %}
+    - {{ authordata | array_to_sentence_string }}
+  {% else }
+    {% assign author = site.authors | where: 'short_name', page.author | first %}
+    {% if author %}
+     - <a href="{{ author.url }}">{{ author.name }}</a>
+    {% endif %}
+  {% endif }
   <div class="post-categories">
     {% if post %}
       {% assign categories = post.categories %}
