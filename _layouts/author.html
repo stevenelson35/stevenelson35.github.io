@@ -9,8 +9,9 @@ regenerate: true
 
 <h2>Posts</h2>
 <ul>
-	{% assign filtered_posts = site.posts | where: 'author' contains page.short_name %}
-	{% for post in filtered_posts %}
-          <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+	{% for post in site.posts %} 
+	  {% if post.author contains page.short_name %} 
+            <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+	  {% endif %} 
 	{% endfor %}
 </ul>
