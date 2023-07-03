@@ -19,7 +19,7 @@ Our trip includes stops in:
 - Montreal, Quebec, Canada.
 - Niagara Falls, Ontario, Canada.
 
-We said goodbye to the Teddy and Ivory who will stay home alone for two weeks.  
+We said goodbye to the cats, Teddy and Ivory, who will stay home alone for two weeks (with a robot litter box, a robot feeder, and care from a daily human health inspector and photographer).  
 
 ![Kittens in suitcase 1]({{ site.url }}assets/media/20230619_175608.jpg)
 
