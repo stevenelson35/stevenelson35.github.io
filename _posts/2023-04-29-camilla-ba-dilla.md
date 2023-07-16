@@ -1,7 +1,7 @@
 ---
 author: steve
 tags: ["2023", camilla, video]
-categories: ["Camilla-ba-dilla Videos"]
+categories: ["camilla-ba-dilla-videos"]
 youtubeId: 652GKOipULM
 ---
 Introducing Camilla-Ba-Dilla!

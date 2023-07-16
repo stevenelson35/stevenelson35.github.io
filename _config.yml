@@ -93,6 +93,8 @@ prose:
               value: "vacation"
             - name: "Vet"
               value: "vet"
+            - name: "Video"
+              value: "video"
             - name: "Camilla"
               value: "camilla"
 

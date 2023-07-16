@@ -1,4 +1,4 @@
 ---
-name: camilla
+name: Camilla
 ---
 Camilla posts
