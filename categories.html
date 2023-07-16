@@ -13,7 +13,7 @@ regenerate: true
   {% for category in site.categories %}
     <li>
       {% capture category_name %}{{ category | first }}{% endcapture %}
-      <div id="#{{ category_name | slugize }}"></div>
+      <div id="{{ category_name | slugize }}"></div>
       {% assign num_posts = 0 %}
       <h2>{{ category_name  }}</h2>
       {% for post in site.categories[category_name] %}
