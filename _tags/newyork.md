@@ -1,4 +1,4 @@
 ---
-name: New York
+name: NewYork
 ---
 New York City posts
