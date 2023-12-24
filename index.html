@@ -91,43 +91,79 @@ img {
   padding-bottom: 8px;
   padding-top: 2px;
 }
+ul.image_wrapper {
+  position: relative;
+  list-style-type: none;
+}
+.overlay {
+ position: absolute; 
+ background: rgba(57, 57, 57, 0.5);
+
+ /* center overlay text */
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.overlay_1 {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 1rem;
+}
 </style>
 <section class="row">
-  <div class="column-36r">
-    <a href="https://blog.itsallonesong.com/blog-winter-vacation-2023.html">2023 Winter Vacation</a>
+  <div class="column-4c">
   </div>
-  <div class="column-16c">
+  <div class="column-2c">
+    <ul class="ul.image_wrapper">
+      <a href="https://blog.itsallonesong.com/blog-winter-vacation-2023.html"><img src="/assets/images/map-summer-2023-rev01.png" alt="Winter 2023 Map" /></a>
+      <div class="overlay overlay_1">
+            <a href="https://blog.itsallonesong.com/blog-winter-vacation-2023.html">2023 Winter Vacation</a>
+         </div>
+    </ul>
   </div>
-  <div class="column-26l">
-    <a href="https://blog.itsallonesong.com/blog-winter-vacation-2023.html"><img src="/assets/images/map-summer-2023-rev01.png" alt="Winter 2023 Map" /></a>
-  </div>
-
-  <div class="column-36r">
-    <a href="https://blog.itsallonesong.com/blog-summer-vacation-2023.html">2023 Summer Vacation</a>
-  </div>
-  <div class="column-16c">
-  </div>
-  <div class="column-26l">
-    <a href="https://blog.itsallonesong.com/blog-summer-vacation-2023.html"><img src="/assets/images/map-summer-2023-rev01.png" alt="Summer 2023 Map" /></a>
+  <div class="column-4c">
   </div>
   
-  <div class="column-36r">
-    <a href="https://blog.itsallonesong.com/blog-summer-vacation-2022.html">2022 Summer Vacation</a>
+  <div class="column-4c">
   </div>
-  <div class="column-16c">
+  <div class="column-2c">
+    <ul class="ul.image_wrapper">
+      <a href="https://blog.itsallonesong.com/blog-summer-vacation-2023.html"><img src="/assets/images/map-summer-2023-rev01.png" alt="Summer 2023 Map" /></a>
+      <div class="overlay overlay_1">
+            <a href="https://blog.itsallonesong.com/blog-summer-vacation-2023.html">2023 Summer Vacation</a>
+         </div>
+    </ul>
   </div>
-  <div class="column-26l">
-    <a href="https://blog.itsallonesong.com/blog-summer-vacation-2022.html"><img src="/assets/images/map-summer-2022.png" alt="Summer 2022 Map" /></a>
+  <div class="column-4c">
   </div>
 
-  <div class="column-36r">
-    <a href="https://blog.itsallonesong.com/blog-summer-vacation-2021.html">2021 Summer Vacation</a>
+  <div class="column-4c">
   </div>
-  <div class="column-16c">
+  <div class="column-2c">
+    <ul class="ul.image_wrapper">
+      <a href="https://blog.itsallonesong.com/blog-summer-vacation-2022.html"><img src="/assets/images/map-summer-2022.png" alt="Summer 2022 Map" /></a>
+      <div class="overlay overlay_1">
+            <a href="https://blog.itsallonesong.com/blog-summer-vacation-2022.html">2022 Summer Vacation</a>
+      </div>
+    </ul>
   </div>
-  <div class="column-26l">
-    <a href="https://blog.itsallonesong.com/blog-summer-vacation-2021.html"><img src="/assets/images/map-summer-2021-rev01.png" alt="Summer 2022 Map" /></a>
-  </div> 
+  <div class="column-4c">
+  </div>
+
+  <div class="column-4c">
+  </div>
+  <div class="column-2c">
+    <ul class="ul.image_wrapper">
+      <a href="https://blog.itsallonesong.com/blog-summer-vacation-2021.html"><img src="/assets/images/map-summer-2022.png" alt="Summer 2021 Map" /></a>
+      <div class="overlay overlay_1">
+            <a href="https://blog.itsallonesong.com/blog-summer-vacation-2021.html">2021 Summer Vacation</a>
+         </div>
+    </ul>
+  </div>
+  <div class="column-4c">
+  </div>
 </section>
 <div class="a">
   <a href="{{ site.url }}blog-camilla-ba-dilla-videos.html">{{ "Camilla-Ba-Dilla Video Posts" | downcase }}</a>
