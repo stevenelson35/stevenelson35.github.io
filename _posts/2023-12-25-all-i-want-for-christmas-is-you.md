@@ -1,7 +1,7 @@
 ---
 author: steve
-tags: ["2023", summer, vacation, driving]
-categories: ["summer vacation 2023"]
+tags: ["2023", winter, vacation, driving]
+categories: ["winter vacation 2023"]
 ---
 Merry Christmas!
 
