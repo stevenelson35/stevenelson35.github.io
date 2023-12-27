@@ -6,6 +6,6 @@ categories: ["winter vacation 2023"]
 
 TBD
 
-> "The cold never bothered by anyway."
+> "The cold never bothered me anyway."
 
 - Elsa
