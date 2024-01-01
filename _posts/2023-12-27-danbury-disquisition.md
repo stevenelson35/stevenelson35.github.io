@@ -5,52 +5,40 @@ categories: ["winter vacation 2023"]
 ---
 We went for a morning swim in Danbury.  
 
-</br>
-![Camilla Hot Tub]({{ site.url }}assets/media/20231231_101836.jpg)
-</br>
+![Camilla Hot Tub]({{ site.url }}assets/media/20231231_101836.jpg)  
 
 It was a rare opportunity to see Camilla without glasses.  
-</br>
-![Camilla Hot TGub No Glasses]({{ site.url }}assets/media/20231231_102104.jpg)
-</br>
+
+![Camilla Hot TGub No Glasses]({{ site.url }}assets/media/20231231_102104.jpg)  
 
 Our first task in Danbury was to stop by L.L.Bean.  
 
 We exchanged Linda's Christmas boots and bought Camilla a jacket (since we forgot her new winter jacket at home in Florida).  
-<br/>
-![LLBean Family]({{ site.url }}assets/media/20231231_102254.jpg)
-<br/>
+
+![LLBean Family]({{ site.url }}assets/media/20231231_102254.jpg)  
 
 While looking at homes and schools in Danbury and the surrounding area, we stopped at a park.  
 
-<br/>
-![Camilla Danbury Park]({{ site.url }}assets/media/20231231_102535.jpg)
-<br/>
+![Camilla Danbury Park]({{ site.url }}assets/media/20231231_102535.jpg)  
 
 And Camilla met a friend.  
 
-<br/>
-![Camilla Friend]({{ site.url }}assets/media/20231231_102619.jpg)
-<br/>
+![Camilla Friend]({{ site.url }}assets/media/20231231_102619.jpg)  
 
 The schools looked nice.  
 
-<br/>
-![School]({{ site.url }}assets/media/20231231_102811.jpg)
-<br/>
+![School]({{ site.url }}assets/media/20231231_102811.jpg)  
 
 Of the small towns around Danbury, Ridgefield had the nicest main street.  
-<br/>
-![Ridgefield]({{ site.url }}assets/media/20231231_102913.jpg)
-<br/>
+
+![Ridgefield]({{ site.url }}assets/media/20231231_102913.jpg)  
+
 Which inluded a nice public library.  
-<br/>
-![Ridgefield Library]({{ site.url }}assets/media/20231231_103041.jpg)
-<br/>
+
+![Ridgefield Library]({{ site.url }}assets/media/20231231_103041.jpg)  
+
 Once it got dark, it was too difficult to continue exploring on the dark winding hilly roads, so we made our way to Dentel's for the rest of the week.  
 
 Sarah joined Camilla for some coloring before bedtime.  
 
-<br/>
-![Camilla and Sarah]({{ site.url }}assets/media/20231231_103211.jpg)
-<br/>
+![Camilla and Sarah]({{ site.url }}assets/media/20231231_103211.jpg)  
