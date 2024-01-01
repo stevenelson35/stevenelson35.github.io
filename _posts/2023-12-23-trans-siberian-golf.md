@@ -5,7 +5,7 @@ categories: ["winter vacation 2023"]
 youtubeId: IGF0GrjEoBA
 ---
 
-We kicked off our winter break with the gift of Trans-Siberian Ochestra tickets from Linda's work.  
+We kicked off our winter break with the gift of Trans-Siberian Orchestra tickets from Linda's work.  
 
 Thanks Dr. Williams!  
 
@@ -16,17 +16,19 @@ Camilla had a blast dancing (even though it was a bit loud).
 Saturday we went bowling and mini golfing with Patrick while he was in town from Iowa.  
 
 Linda was the bowling champion with her best score of 151; including 2 strikes and a number of spares. Patrick was runner up.  
-<br/>
-![Camilla Congo River]({{ site.url }}assets/media/20231231_083910.jpg)
-<br/>
-![Linda and Patrick Congo River]({{ site.url }}assets/media/20231231_095818.jpg)
-<br/>
-![Camilla Congo River Putting]({{ site.url }}assets/media/20231231_084008.jpg)
-<br/>
+
+![Camilla Congo River]({{ site.url }}assets/media/20231231_083910.jpg)  
+
+
+![Linda and Patrick Congo River]({{ site.url }}assets/media/20231231_095818.jpg)  
+
+![Camilla Congo River Putting]({{ site.url }}assets/media/20231231_084008.jpg)  
+
 We left golfing half-way through because it was getting late and it was very busy and slow playing.  
-<br/>
-![Camilla and Yoda Christmas]({{ site.url }}assets/media/20231231_095702.jpg)
-<br/>
+
+![Camilla and Yoda Christmas]({{ site.url }}assets/media/20231231_095702.jpg)   
+
+
 > “And what good's a life that leaves nothing behind/Not a thought or a dream that might echo in time.”  
 
 - Trans-Siberian Orchestra  
