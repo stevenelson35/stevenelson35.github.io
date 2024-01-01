@@ -1,6 +1,6 @@
 ---
 author: steve
-tags: ["2023", winter, vacation, driving]
+tags: ["2023", winter, vacation, stamford]
 categories: ["winter vacation 2023"]
 ---
 Our first task in Danbury was to stop by L.L.Bean.  
