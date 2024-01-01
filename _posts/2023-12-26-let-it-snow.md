@@ -7,11 +7,6 @@ categories: ["winter vacation 2023"]
 Woke up it was a Cracker Barrel morning!  
 
 <br/>
-
-> Woke up it was a Chelsea morning!  
-
-- Neil Diamond. 
-<br/>
 ![Cracker Barrel Morning]({{ site.url }}assets/media/20231231_100047.jpg)
 <br/>
 It was a long day of driving and we were beginning to think it would be too warm to see snow during this road trip.  
@@ -38,6 +33,10 @@ We finally arrived in Danbury, CT.
 <br/>
 ![Camilla Hotel]({{ site.url }}assets/media/20231231_100553.jpg)
 <br/>
+
+> Woke up it was a Chelsea morning!  
+
+- Neil Diamond. 
 
 > "The cold never bothered me anyway."
 
