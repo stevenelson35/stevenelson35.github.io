@@ -5,7 +5,9 @@ categories: ["winter vacation 2023"]
 youtubeId: IGF0GrjEoBA
 ---
 
-We kicked off our winter break with the gift of Trans-Siberian Ochestra tickets from Linda's work (Thanks Dr. Williams!).  
+We kicked off our winter break with the gift of Trans-Siberian Ochestra tickets from Linda's work.  
+
+(Thanks Dr. Williams!).  
 
 Camilla had a blast dancing (even though it was a bit loud).  
 <br/>
