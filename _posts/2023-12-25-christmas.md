@@ -10,7 +10,7 @@ Merry Christmas!
 {% include youtubePlayer.html id=page.youtubeId %}
 <br/>
 
-Christmas morning stars shown through the clouds with a nearly full moon.
+Christmas morning stars shown through the clouds with a nearly full moon.  
 <br/>
 ![Christmas Stars]({{ site.url }}assets/media/20231225_013048.jpg)
 <br/>
@@ -18,11 +18,11 @@ It took quite a while to finish packing up. In fact, we didn't actually get on t
 <br/>
 ![Camilla Christmas Waiting]({{ site.url }}assets/media/20231231_083033.jpg)
 <br/>
-> The waiting is the hardest part.
+> The waiting is the hardest part.  
 
-- Tom Petty
+- Tom Petty.  
 <br/>
-Ivory was already watching for our return before we left.  
+Ivory was already watching for our return before we left.   
 <br/>
 ![Ivory Christmas]({{ site.url }}assets/media/20231225_105854.jpg)
 <br/>
@@ -31,6 +31,6 @@ And then we finally left.
 ![Christmas leaving]({{ site.url }}assets/media/20231231_083141.jpg)
 <br/>
 
-> All I want for Christmas is you!
+> All I want for Christmas is you!  
 
-- Mariah Carey , xoxo 
+- Mariah Carey , xoxo  
