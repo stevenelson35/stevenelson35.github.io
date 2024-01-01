@@ -1,6 +1,6 @@
 ---
 author: steve
-tags: ["2023", winter, vacation, driving]
+tags: ["2023", winter, vacation, driving, stamford]
 categories: ["winter vacation 2023"]
 ---
 
