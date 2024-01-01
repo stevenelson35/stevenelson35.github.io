@@ -4,11 +4,13 @@ tags: ["2023", winter, vacation, driving]
 categories: ["winter vacation 2023"]
 ---
 
-Woke up it was a Cracker Barrel morning!
-<br/>
-> Woke up it was a Chelsea morning!
+Woke up it was a Cracker Barrel morning!  
 
-- Neil Diamond
+<br/>
+
+> Woke up it was a Chelsea morning!  
+
+- Neil Diamond. 
 <br/>
 ![Cracker Barrel Morning]({{ site.url }}assets/media/20231231_100047.jpg)
 <br/>
