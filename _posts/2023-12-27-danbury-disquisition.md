@@ -3,6 +3,17 @@ author: steve
 tags: ["2023", winter, vacation, stamford]
 categories: ["winter vacation 2023"]
 ---
+We went for a morning swim in Danbury.  
+
+</br>
+![Camilla Hot Tub]({{ site.url }}assets/media/20231231_101836.jpg)
+</br>
+
+It was a rare opportunity to see Camilla without glasses.  
+</br>
+![Camilla Hot TGub No Glasses]({{ site.url }}assets/media/20231231_102104.jpg)
+</br>
+
 Our first task in Danbury was to stop by L.L.Bean.  
 
 We exchanged Linda's Christmas boots and bought Camilla a jacket (since we forgot her new winter jacket at home in Florida).  
