@@ -8,7 +8,9 @@ We took a day to return to Ridgefield to gather more info about the homes and sc
 Camilla started the day with a little tablet time while waiting for us to leave.  
 
 ![Camilla Tablet]({{ site.url }}assets/media/20231231_103611.jpg)
-
+</br>
+![Camilla Sweater]({{ site.url }}assets/media/20231228_093338.jpg)
+<br/>
 ![Departing]({{ site.url }}assets/media/20231231_104259.jpg)
 
 In Ridgefield we had breakfast at Dimitri's diner before driving around the area and checking out the homes, schools, and grocery store.  
