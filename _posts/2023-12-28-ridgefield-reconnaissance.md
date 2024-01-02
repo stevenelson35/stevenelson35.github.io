@@ -17,7 +17,7 @@ In Ridgefield we had breakfast at Dimitri's diner before driving around the area
 
 Eventually we made our way to the Norwalk and stopped at the [Maritime Aquarium](https://www.maritimeaquarium.org/).   
 
-*Meerkats*0  
+*Meerkats*  
 
 ![Meerkats!]({{ site.url }}assets/media/20231231_104450.jpg)  
 
