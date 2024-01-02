@@ -9,7 +9,7 @@ We went for a morning swim in Danbury.
 
 It was a rare opportunity to see Camilla without glasses.  
 
-![Camilla Hot TGub No Glasses]({{ site.url }}assets/media/20231231_102104.jpg)  
+![Camilla Hot Tub No Glasses]({{ site.url }}assets/media/20231231_102104.jpg)  
 
 Our first task in Danbury was to stop by L.L.Bean.  
 
@@ -25,15 +25,15 @@ And Camilla met a friend.
 
 ![Camilla Friend]({{ site.url }}assets/media/20231231_102535.jpg)  
 
-The schools looked nice.  
+The [schools](https://www.ridgefield.org/) looked nice.  
 
 ![School]({{ site.url }}assets/media/20231231_102811.jpg)  
 
-Of the small towns around Danbury, Ridgefield had the most inviting main street.  
+Of the small towns around Danbury, [Ridgefieldy(https://www.ridgefieldct.gov/https://blog.itsallonesong.com/winter%20vacation%202023/2023/12/27/danbury-disquisition.html) had the most inviting main street.  
 
 ![Ridgefield]({{ site.url }}assets/media/20231231_102913.jpg)  
 
-Which inluded a busy public library.  
+Which inluded a busy public [library](https://ridgefieldlibrary.org/).  
 
 ![Ridgefield Library]({{ site.url }}assets/media/20231231_103041.jpg)  
 
