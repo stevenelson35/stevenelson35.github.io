@@ -15,7 +15,7 @@ Camilla started the day with a little tablet time while waiting for us to leave.
 
 In Ridgefield we had breakfast at [Dimitri's Diner](https://www.dimitrisdiner.com/) before driving around the area and checking out the homes, schools, and grocery store.  
 
-Eventually we made our way to the Norwalk and stopped at the [Maritime Aquarium](https://www.maritimeaquarium.org/).   
+Eventually we made our way to Norwalk and stopped at the [Maritime Aquarium](https://www.maritimeaquarium.org/).   
 
 *Meerkats*  
 
