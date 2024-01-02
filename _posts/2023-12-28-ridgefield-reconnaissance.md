@@ -37,13 +37,13 @@ Jellies
 
 ![Jellies!]({{ site.url }}assets/media/20231231_104931.jpg)  
 
-In the evening, we met Dentel's at the [The Lil Pub](http://thelittlepub.com) in Greenwhich for dinner.  
+In the evening, we met Dentel's at the [Little Pub](http://littlepub.com) in Greenwhich for dinner.  
 
 ![Lil Pub]({{ site.url }}assets/media/20231231_105108.jpg)  
 
 ![Lil Pub Girls]({{ site.url }}assets/media/20231231_105235.jpg)  
 
-Christmas at Dentel's.  
+*Christmas at Dentel's*  
 
 ![Girls Christmas]({{ site.url }}assets/media/20231231_105337.jpg)  
 
