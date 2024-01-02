@@ -1,6 +1,6 @@
 ---
 author: steve
-tags: ["2023", winter, vacation, driving]
+tags: ["2023", winter, vacation, stamford]
 categories: ["winter vacation 2023"]
 ---
 We took a day to return to Ridgefield to gather more info about the homes and schools.  
