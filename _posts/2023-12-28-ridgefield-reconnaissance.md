@@ -13,7 +13,7 @@ Camilla started the day with a little tablet time while waiting for us to leave.
 
 ![Departing]({{ site.url }}assets/media/20231231_104259.jpg)  
 
-In Ridgefield we had breakfast at Dimitri's diner before driving around the area and checking out the homes, schools, and grocery store.  
+In Ridgefield we had breakfast at [Dimitri's Diner](https://www.dimitrisdiner.com/) before driving around the area and checking out the homes, schools, and grocery store.  
 
 Eventually we made our way to the Norwalk and stopped at the [Maritime Aquarium](https://www.maritimeaquarium.org/).   
 
@@ -58,4 +58,6 @@ In the evening, we met Dentel's at the [Little Pub](http://littlepub.com) in Gre
 *Ridgefield References*  
 - [Ridgefield Library](https://ridgefieldlibrary.org/)
 - [Ridgefield Schools](https://www.ridgefield.org/)
-- [Ridgdfield Government](https://www.ridgefieldct.gov/) 
+- [Ridgdfield Government](https://www.ridgefieldct.gov/)
+- [Dimitri's Diner](https://www.dimitrisdiner.com/)
+- [Stop and Shop](https://stores.stopandshop.com/ct/ridgefield/125-danbury-road) 
