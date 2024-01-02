@@ -27,7 +27,7 @@ We walked back to the *Target* parking lot to return to Dentel's.
 
 ![Linda and Camilla Stamford]({{ site.url }}assets/media/20231231_111226.jpg)  
 
-We had *Chopt* salads for dinner.  a
+We had *Chopt* salads for dinner.  
 
 ![Camilla and Emily]({{ site.url }}assets/media/20231231_111307.jpg)  
 
@@ -35,7 +35,7 @@ We had *Chopt* salads for dinner.  a
 
 > I believe that for his escape he took advantage of the migration of a flock of wild birds.  
 
-- Antoine de Saint-Exupery, `The Little Prince`.
+- Antoine de Saint-Exupery, *The Little Prince*.
 
 > History in its broadest aspect is a record of man's migrations from one environment to another.  
 
