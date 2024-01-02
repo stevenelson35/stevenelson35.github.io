@@ -29,7 +29,7 @@ The [schools](https://www.ridgefield.org/) looked nice.
 
 ![School]({{ site.url }}assets/media/20231231_102811.jpg)  
 
-Of the small towns around Danbury, [Ridgefield] (https://www.ridgefieldct.gov/) had the most inviting main street.  
+Of the small towns around Danbury, [Ridgefield](https://www.ridgefieldct.gov/) had the most inviting main street.  
 
 ![Ridgefield]({{ site.url }}assets/media/20231231_102913.jpg)  
 
