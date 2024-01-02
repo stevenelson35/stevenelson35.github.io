@@ -15,25 +15,25 @@ Camilla started the day with a little tablet time while waiting for us to leave.
 
 In Ridgefield we had breakfast at Dimitri's diner before driving around the area and checking out the homes, schools, and grocery store.  
 
-Eventually we made our way to Norwalk and stopped at the aquarium.  
+Eventually we made our way to the Norwalk and stopped at the [Maritime Aquarium](https://www.maritimeaquarium.org/).   
 
-Meerkats  
+*Meerkats*0  
 
 ![Meerkats!]({{ site.url }}assets/media/20231231_104450.jpg)  
 
-Otter
+*Otter*
 
 ![Otters!]({{ site.url }}assets/media/20231231_104605.jpg)  
 
-Turtle  
+*Turtle*  
 
 ![Turtle!]({{ site.url }}assets/media/20231231_104742.jpg)  
 
-Shark  
+*00Shark*  
 
 ![Shark!]({{ site.url }}assets/media/20231231_104823.jpg)  
 
-Jellies  
+*Jellies*  
 
 ![Jellies!]({{ site.url }}assets/media/20231231_104931.jpg)  
 
