@@ -4,7 +4,7 @@ tags: ["2023", winter, vacation, driving, stamford]
 categories: ["winter vacation 2023"]
 ---
 
-Woke up it was a Cracker Barrel morning!  
+Woke up, it was a Cracker Barrel mornin'!  
 
 ![Cracker Barrel Morning]({{ site.url }}assets/media/20231231_100047.jpg)   
 
@@ -32,7 +32,7 @@ We finally arrived in Danbury, CT.
 
 ![Camilla Hotel]({{ site.url }}assets/media/20231231_100553.jpg)  
 
-> Woke up it was a Chelsea morning!  
+> Woke up, it was a Chelsea mornin'!  
 
 - Neil Diamond. 
 
