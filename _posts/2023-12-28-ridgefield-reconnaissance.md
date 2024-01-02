@@ -54,3 +54,8 @@ In the evening, we met Dentel's at the [Little Pub](http://littlepub.com) in Gre
 > No.  
 
 - Man at *Stop and Shop* interjecting when I asked Linda and Camilla: `Rainbow Goldfish. Did I get to vote on this?`
+
+*Ridgefield References*  
+- [Ridgefield Library](https://ridgefieldlibrary.org/)
+- [Ridgefield Schools](https://www.ridgefield.org/)
+- [Ridgdfield Government](https://www.ridgefieldct.gov/) 
