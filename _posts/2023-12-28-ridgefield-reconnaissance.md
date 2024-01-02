@@ -29,7 +29,7 @@ Eventually we made our way to Norwalk and stopped at the [Maritime Aquarium](htt
 
 ![Turtle!]({{ site.url }}assets/media/20231231_104742.jpg)  
 
-*00Shark*  
+*Shark*  
 
 ![Shark!]({{ site.url }}assets/media/20231231_104823.jpg)  
 
