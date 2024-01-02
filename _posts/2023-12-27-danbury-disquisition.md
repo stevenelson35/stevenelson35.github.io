@@ -19,25 +19,25 @@ We exchanged Linda's Christmas boots and bought Camilla a jacket (since we forgo
 
 While looking at homes and schools in Danbury and the surrounding area, we stopped at a park.  
 
-![Camilla Danbury Park]({{ site.url }}assets/media/20231231_102535.jpg)  
+![Camilla Danbury Park]({{ site.url }}assets/media/20231231_102619.jpg)  
 
 And Camilla met a friend.  
 
-![Camilla Friend]({{ site.url }}assets/media/20231231_102619.jpg)  
+![Camilla Friend]({{ site.url }}assets/media/20231231_102535.jpg)  
 
 The schools looked nice.  
 
 ![School]({{ site.url }}assets/media/20231231_102811.jpg)  
 
-Of the small towns around Danbury, Ridgefield had the nicest main street.  
+Of the small towns around Danbury, Ridgefield had the most inviting main street.  
 
 ![Ridgefield]({{ site.url }}assets/media/20231231_102913.jpg)  
 
-Which inluded a nice public library.  
+Which inluded a busy public library.  
 
 ![Ridgefield Library]({{ site.url }}assets/media/20231231_103041.jpg)  
 
-Once it got dark, it was too difficult to continue exploring on the dark winding hilly roads, so we made our way to Dentel's for the rest of the week.  
+Once it got dark, it was too difficult to continue exploring on the winding, hilly roads, so we made our way to Dentel's for the rest of the week.  
 
 Sarah joined Camilla for some coloring before bedtime.  
 
