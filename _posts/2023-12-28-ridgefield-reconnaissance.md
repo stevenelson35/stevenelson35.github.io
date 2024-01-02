@@ -17,21 +17,33 @@ In Ridgefield we had breakfast at Dimitri's diner before driving around the area
 
 Eventually we made our way to Norwalk and stopped at the aquarium.  
 
+Meerkats  
+
 ![Meerkats!]({{ site.url }}assets/media/20231231_104450.jpg)  
+
+Otter
 
 ![Otters!]({{ site.url }}assets/media/20231231_104605.jpg)  
 
+Turtle  
+
 ![Turtle!]({{ site.url }}assets/media/20231231_104742.jpg)  
+
+Shark  
 
 ![Shark!]({{ site.url }}assets/media/20231231_104823.jpg)  
 
+Jellies  
+
 ![Jellies!]({{ site.url }}assets/media/20231231_104931.jpg)  
 
-In the evening, we met Dentel's at the Lil Pub in Greenwhich for dinner.  
+In the evening, we met Dentel's at the [The Lil Pub](http://thelittlepub.com) in Greenwhich for dinner.  
 
 ![Lil Pub]({{ site.url }}assets/media/20231231_105108.jpg)  
 
 ![Lil Pub Girls]({{ site.url }}assets/media/20231231_105235.jpg)  
+
+Christmas at Dentel's.  
 
 ![Girls Christmas]({{ site.url }}assets/media/20231231_105337.jpg)  
 
@@ -41,4 +53,4 @@ In the evening, we met Dentel's at the Lil Pub in Greenwhich for dinner.
 
 > No.  
 
-- Man at Stop and Shop's interjection when I asked Linda and Camilla: `Rainbow Goldfish. Did I get to vote on this?`.
+- Man at *Stop and Shop* interjecting when I asked Linda and Camilla: `Rainbow Goldfish. Did I get to vote on this?`
