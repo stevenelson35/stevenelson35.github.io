@@ -9,9 +9,11 @@ Our first day in Iowa consisted of going to Brueggar's Bagels, a shopping mall, 
 First we went to the Jordan Creek shopping mall, which is a large, successful mall that has apparently contributed to the closing of other malls in the area. 
 
 Camilla danced a bit in *The Gap*.  
+
 ![Camilla Gap]({{ site.url }}assets/media/20240103_083341.jpg)  
 
 Camilla danced a lot in *Barnes and Noble*.  
+
 ![Camilla BN Dance]({{ site.url }}assets/media/20240102_115700.jpg)  
 
 <br/>
