@@ -4,7 +4,7 @@ tags: ["2023", winter, vacation, iowa]
 categories: ["winter vacation 2023"]
 youtubeId: 7Z0iX2YQKjc
 ---
-Our first day in Iowa consisted of going to Brueggar's Bagel, a shopping mall, the Volvo store, the Botanical Garden, and dinner at Cool Basil.  
+Our first day in Iowa consisted of going to Brueggar's Bagels, a shopping mall, the Volvo store, the Botanical Garden, and dinner at Cool Basil.  
 
 First we went to the Jordan Creek shopping mall, which is a large, successful mall that has apparently contributed to the closing of other malls in the area. 
 
@@ -20,7 +20,7 @@ Camilla danced a lot in *Barnes and Noble*.
 
 ![Camilla Dad BN]({{ site.url }}assets/media/20240102_120315.jpg)  
 
-After meeting Lori for lunch at *Brueggar's Bagel*, we took a detour to the *Volvo* store because a `Check Engine Emission` light lit up on the dash on our way to the *Des Moines Botanical Garden*.  
+After meeting Lori for lunch at *Brueggar's Bagels*, we took a detour to the *Volvo* store because a `Check Engine Emission` light lit up on the dash on our way to the *Des Moines Botanical Garden*.  
 
 ![Botanical Garden]({{ site.url }}assets/media/20240102_155632.jpg)  
 
