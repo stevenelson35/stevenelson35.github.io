@@ -27,7 +27,7 @@ We walked back to the *Target* parking lot to return to Dentel's.
 
 ![Linda and Camilla Stamford]({{ site.url }}assets/media/20231231_111226.jpg)  
 
-We had *Chopt* salads for dinner.  
+We had *Chopt* salads for dinner and Camilla and Emily bedazzled their faces.   
 
 ![Camilla and Emily]({{ site.url }}assets/media/20231231_111307.jpg)  
 
