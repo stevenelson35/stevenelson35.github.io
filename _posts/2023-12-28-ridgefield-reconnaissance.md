@@ -37,7 +37,7 @@ Eventually we made our way to Norwalk and stopped at the [Maritime Aquarium](htt
 
 ![Jellies!]({{ site.url }}assets/media/20231231_104931.jpg)  
 
-In the evening, we met Dentel's at the [Little Pub](http://littlepub.com) in Greenwhich for dinner.  
+In the evening, we met Dentel's at the [Little Pub](http://littlepub.com) in Greenwhich for dinner.  Some waiters wore black t-shirts with yellow Star Wars lettering *Little Pub* beside a Mandalorian helmet.  
 
 ![Lil Pub]({{ site.url }}assets/media/20231231_105108.jpg)  
 
