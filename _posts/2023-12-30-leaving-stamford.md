@@ -31,13 +31,13 @@ At the end of the day we ate at *Luigi's* in *DuBois, PA*.
 ![Luigi's]({{ site.url }}assets/media/20240101_125637.jpg)  
 
 
-> So goodbye yellow brick road
-> Where the dogs of society howl
-> You can't plant me in your penthouse
-> I'm going back to my plough
-> Back to the howling old owl in the woods
-> Hunting the horny-back toad
-> Oh, I've finally decided my future lies
-> Beyond the yellow brick road
+> So goodbye yellow brick road  
+> Where the dogs of society howl  
+> You can't plant me in your penthouse  
+> I'm going back to my plough  
+> Back to the howling old owl in the woods  
+> Hunting the horny-back toad  
+> Oh, I've finally decided my future lies  
+> Beyond the yellow brick road  
 
-- Elton John & Bernie Taupin
+- Elton John & Bernie Taupin  
