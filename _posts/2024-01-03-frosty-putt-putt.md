@@ -5,6 +5,8 @@ categories: ["winter vacation 2023"]
 ---
 In Iowa we played indoor mini-putt, met baby Bowen, and Camilla made a snowman.  
 
+In the morning when unplugging her car, Linda noticed that it appears that someone *keyed* her new car right above the electric plug connector. We figure it likely was the person in the large pickup that parked right next to her the night before at dinner where she had purposely parked in the farthest spaces in the lot away from all the other cars.  Not so Iowa nice :(.  
+
 At *Pins and Putts* we played nine holes of indoor mini golf.  
 
 ![Linda Putting]({{ site.url }}assets/media/20240103_225705.jpg)  
