@@ -1,4 +1,4 @@
----
+q1---
 author: steve
 tags: ["2023", winter, vacation, driving]
 categories: ["winter vacation 2023"]
@@ -13,13 +13,13 @@ Camilla didn't say this on the trip, but she said it:
 
 - Camilla-ba-dilla  
 
-We stayed at the Douboletree which we had stayed at in the past, but, this time we realize it is a dump.  
+We stayed at the DoubleTree which we had stayed at in the past, but, this time we realized that it is a dump.  
 
 We remembered that last time it was cheap, had a nice pool, large rooms with balconies with couches overlooking the lobby, but was a bit dark.  
 
-This time we noticed that the darkness was hiding the fact that it was very dirty. And this time, the hot tub was polluted by bodily fluids. It was very green in color and had brown floating suds.  
+This time we noticed that the darkness was hiding the fact that it was very dirty. Also, this time we found that the hot tub was polluted by bodily fluids -- the water was very green in color and had brown floating suds. ;p  
 
-Better to forget that experience and remember the beautiful arch (which we have never stopped to see up close -- yet).  
+It is better to forget that experience and remember the beautiful arch we drove past earlier in the day. Some day maybe I can convince Linda and Camilla to stop and see it up close. That hasn"t happened... yet.   
 
 ![Arch]({{ site.url }}assets/media/20240104_202221.jpg)  
 
