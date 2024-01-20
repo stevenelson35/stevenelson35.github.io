@@ -29,7 +29,5 @@ Camilla missed her cats.
 
 We all had missed the furry members of the family.  
 
-![Family with Pets]({{ site.url }}assets/media/IMG_1366(1).jpg)  
-
-![]({{ site.url }}assets/media/.jpg)  
+![Family with Pets]({{ site.url }}assets/media/IMG_1366.jpg)  
 
