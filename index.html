@@ -18,15 +18,16 @@ img {
   margin: 1rem 0rem 0rem 1rem;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   grid-template-rows: repeat(4, 9rem);
 }
 .map {
-  grid-column: 2;
-}
-.image_wrapper {
+  grid-column: 3;
+  padding: 0;
 }
 .overlay {
+  grid-column: 2/4;
+  padding: 0;
  /* center overlay text */
  display: flex;
  align-items: center;
@@ -39,36 +40,28 @@ img {
 </style>
 <section class="maps">
   <div class="map" style="grid-row:1;">
-    <div class="image_wrapper">
       <a href="https://blog.itsallonesong.com/blog-winter-vacation-2023.html"><img src="/assets/images/map-summer-2023-rev01.png" alt="Winter 2023 Map" /></a>
       <div class="overlay overlay_1">
             <a href="https://blog.itsallonesong.com/blog-winter-vacation-2023.html">2023 Winter Vacation</a>
       </div>
-    </div>
   </div>
   <div class="map" style="grid-row:2;">
-    <div class="image_wrapper">
       <a href="https://blog.itsallonesong.com/blog-summer-vacation-2023.html"><img src="/assets/images/map-summer-2023-rev01.png" alt="Summer 2023 Map" /></a>
       <div class="overlay overlay_1">
             <a href="https://blog.itsallonesong.com/blog-summer-vacation-2023.html">2023 Summer Vacation</a>
-         </div>
-    </div>
+      </div>
   </div>
   <div class="map" style="grid-row:3;">
-    <div class="image_wrapper">
       <a href="https://blog.itsallonesong.com/blog-summer-vacation-2022.html"><img src="/assets/images/map-summer-2022.png" alt="Summer 2022 Map" /></a>
       <div class="overlay overlay_1">
             <a href="https://blog.itsallonesong.com/blog-summer-vacation-2022.html">2022 Summer Vacation</a>
       </div>
-    </div>
   </div>
   <div class="map" style="grid-row:4;">
-    <div class="image_wrapper">
       <a href="https://blog.itsallonesong.com/blog-summer-vacation-2021.html"><img src="/assets/images/map-summer-2022.png" alt="Summer 2021 Map" /></a>
       <div class="overlay overlay_1">
          <a href="https://blog.itsallonesong.com/blog-summer-vacation-2021.html">2021 Summer Vacation</a>
       </div>
-    </div>
   </div>
 </section>
 <div class="a">
