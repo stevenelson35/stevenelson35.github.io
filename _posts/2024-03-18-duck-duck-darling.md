@@ -70,7 +70,7 @@ And more birds.
 
 ![Sharon Linda and Camilla Leaving Trail]({{ site.url }}assets/media/20240323_102903.jpg)  
 
-Dad didn't come on the long trail, but did get out to see some birds nin the estuary off the road.  
+Dad didn't come on the long trail, but did get out to see some birds in the estuary off the road.  
 
 ![Linda and Jerry at Ding Darling]({{ site.url }}assets/media/20240323_103340.jpg)  
 
