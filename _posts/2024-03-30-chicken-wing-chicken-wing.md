@@ -2,6 +2,7 @@
 author: steve
 tags: ["2024", spring]
 categories: ["farraginous"]
+youtubeId: OD_Bz9vOeEw
 ---
 Linda's friend invited us to tour her friends chicken farm in Winter Springs.  
 
@@ -13,7 +14,7 @@ Camilla got to see the clinic cats while we waited for Linda to finish up work.
 
 ![Camilla and Linda in Office]({{ site.url }}assets/media/20240407_111741.jpg)  
 
-The chicken farm is an educational farm called `Cluckn Something Somethin`.  
+The chicken farm is an educational farm called *Cluck'n Crazy Farms*.  
 
 ![Chicken Farm]({{ site.url }}assets/media/20240407_113944.jpg)  
 
@@ -39,13 +40,61 @@ The second tortoise was smaller.
 
 ![Spotted Chicken]({{ site.url }}assets/media/20240407_140118.jpg)  
 
-![Red Chicken]({{ site.url }}assets/media/20240407_140307.jpg)  
-
 ![Red Chicken Closeup]({{ site.url }}assets/media/20240407_140423.jpg)  
+
+![Camilla Feeding Tortoise]({{ site.url }}assets/media/20240330_132903.jpg)  
+
+Linda held some chickens.  
+
+![Linda holding Chicken]({{ site.url }}assets/media/20240413_182655.jpg)  
+
+![Linda holding Chicken with Camilla]({{ site.url }}assets/media/20240413_183007.jpg)  
+
+Even Camilla held some chickens.  
+
+![Camilla holding Chicken]({{ site.url }}assets/media/20240413_182655.jpg)  
+
+![Specled Chicken]({{ site.url }}assets/media/20240413_182751.jpg)  
+
+![White Chicken with Black Tail]({{ site.url }}assets/media/20240413_182900.jpg)  
+
+![Brown Chicken with Baby]({{ site.url }}assets/media/20240413_183507.jpg)  
+
+![Cluckn Crazy Farms Sign]({{ site.url }}assets/media/20240413_183737.jpg)  
+
+![Flower]({{ site.url }}assets/media/20240413_183617.jpg)  
+
+Camilla got to see some baby chickens.  
+
+![Camillia Looking at a Chick]({{ site.url }}assets/media/20240413_184939.jpg)  
+
+![Camillia and Linda Looking at a Chick]({{ site.url }}assets/media/20240413_184647.jpg)  
+
+She also got to pet a baby chick!  
+
+![Camilla Petting Chick]({{ site.url }}assets/media/20240330_134942.jpg)  
 
 Camilla got to see a worm thing.  
 
 ![Camilla and Worm]({{ site.url }}assets/media/20240407_113817.jpg)  
+
+They also had *Emu*! Two of them!  
+
+![Camilla Feeding Emu]({{ site.url }}assets/media/20240413_185428.jpg)  
+
+![Linda Feeding Emu]({{ site.url }}assets/media/20240413_185601.jpg)  
+
+![Camilla Feeding Emu]({{ site.url }}assets/media/20240413_185738.jpg)  
+
+![Steve Feeding Emu]({{ site.url }}assets/media/20240413_185341.jpg)  
+
+![Camilla Feeding Emu]({{ site.url }}assets/media/20240413_185853.jpg)  
+
+<br/>
+{% include youtubePlayer.html id=page.youtubeId %}
+<br/>
+
+![Two Emu]({{ site.url }}assets/media/20240413_190334.jpg)  
 
 ![Steve and Metal Chicken Sculpture]({{ site.url }}assets/media/20240407_131710.jpg)  
 
