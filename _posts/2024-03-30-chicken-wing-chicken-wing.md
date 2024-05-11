@@ -46,7 +46,7 @@ The second tortoise was smaller.
 
 Linda held some chickens.  
 
-![Linda holding Chicken]({{ site.url }}assets/media/20240413_182655.jpg)  
+![Linda holding Chicken]({{ site.url }}assets/media/20240413_183052.jpg)  
 
 ![Linda holding Chicken with Camilla]({{ site.url }}assets/media/20240413_183007.jpg)  
 
