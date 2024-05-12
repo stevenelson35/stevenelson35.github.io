@@ -7,7 +7,7 @@ How to Start a Veterinary Practice
 
 This posts includes links to info about starting a veterinary practice.  
 
-![Screenshot_20220710-123457_Gallery.jpg]({{site.pics_url}}/assets/media/Screenshot_20220710-123457_Gallery.jpg)
+![Screenshot_20220710-123457_Gallery.jpg]({{site.pics_url}}/Screenshot_20220710-123457_Gallery.jpg)
 
 ## From Bing Chat  
 

@@ -8,7 +8,7 @@ Camilla was anxious to get home to her cats.
 
 We had our last hotel breakfast before getting on the road for an easy final leg of our vacation being just 5.5 hours of drivetime at 9:30am.  
 
-![Camilla and Steve at Breakfast]( {{ site.pics_url }}assets/media/20230701_225613.jpg )
+![Camilla and Steve at Breakfast]( {{ site.pics_url }}20230701_225613.jpg )
 <br/>
 
 Did it really take three hours to drive the remaining 65 miles to leave South Carolina?
@@ -18,7 +18,7 @@ Traffic was bad from the start of the day and didn't let up.  We attempted takin
 Eventually -- we made it home!  
 <br/>
 
-![Camilla Linda Steve Frank and Teddy Home from 2023 Summer Vacation]( {{ site.pics_url }}assets/media/20230701_223513.jpg )
+![Camilla Linda Steve Frank and Teddy Home from 2023 Summer Vacation]( {{ site.pics_url }}20230701_223513.jpg )
 <br/>
 
 Camilla was excited to see her bedroom.  She danced. :)  

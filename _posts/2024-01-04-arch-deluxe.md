@@ -5,7 +5,7 @@ categories: ["winter vacation 2023"]
 ---
 We drove through St. Louis from Iowa to Mt. Vernon, IL.  
 
-![Arch and Building]({{ site.pics_url }}assets/media/20240105_203437.jpg)  
+![Arch and Building]({{ site.pics_url }}20240105_203437.jpg)  
 
 Camilla didn't say this on the trip, but she said it:
 
@@ -21,7 +21,7 @@ This time we noticed that the darkness was hiding the fact that it was very dirt
 
 It is better to forget that experience and remember the beautiful arch we drove past earlier in the day. Some day maybe I can convince Linda and Camilla to stop and see it up close. That hasn"t happened... yet.   
 
-![Arch]({{ site.pics_url }}assets/media/20240104_202221.jpg)  
+![Arch]({{ site.pics_url }}20240104_202221.jpg)  
 
 > We were planning to drive ten hours tomorrow, but we delayed.  
 

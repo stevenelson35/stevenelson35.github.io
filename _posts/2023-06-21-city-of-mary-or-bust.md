@@ -11,37 +11,37 @@ Montreal is named after Mount Royal, the triple-peaked hill around which the ear
 Along our drive we stopped at a New York rest stop shop.  
 <br/>
 
-![Linda and Camilla at New York Shop]( {{ site.pics_url }}assets/media/20230626_084044.jpg )
+![Linda and Camilla at New York Shop]( {{ site.pics_url }}20230626_084044.jpg )
 <br/>
 
 We saw some hills on the route north.  
 
-![New York Scenario]( {{ site.pics_url }}assets/media/20230621_141536.jpg )
+![New York Scenario]( {{ site.pics_url }}20230621_141536.jpg )
 <br/>
 
 I saw a number of *blue jays* at a rest stop, but they would not stay still for a picture. I did get this picture of one of their homes instead, though.  
 
-![Blue Jay Hole]( {{ site.pics_url }}assets/media/20230626_084710.jpg )
+![Blue Jay Hole]( {{ site.pics_url }}20230626_084710.jpg )
 <br/>
 
 Here is where we crossed the border to Canada.  
 
-![Canada Border Crossing]( {{ site.pics_url }}assets/media/20230626_084924.jpg )
+![Canada Border Crossing]( {{ site.pics_url }}20230626_084924.jpg )
 <br/>
 
 But still had a ways to drive before reaching Montreal.  Of course, all the signs were now in French and distance and speed are listed as *kilometers* and *kilometers per hour*, respectively.  
 
-![Montreal Sign]( {{ site.pics_url }}assets/media/20230626_085119.jpg )
+![Montreal Sign]( {{ site.pics_url }}20230626_085119.jpg )
 <br/>
 
 We arrived at downtown Montreal by crossing this bridge.  
 
-![Montreal Bridge]( {{ site.pics_url }}assets/media/20230621_162939.jpg )
+![Montreal Bridge]( {{ site.pics_url }}20230621_162939.jpg )
 <br/>
 
 And stayed at an *Airbnb* in a luxury condo building which had posted in the elevator that *Airbnb* and related rental services are illegal.  Our host assured us she had an agreement with the condo board.  
 
-![View from Condo]( {{ site.pics_url }}assets/media/20230626_085417.jpg )
+![View from Condo]( {{ site.pics_url }}20230626_085417.jpg )
 <br/>
 
 French Lesson:
