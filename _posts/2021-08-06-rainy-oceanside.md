@@ -12,6 +12,6 @@ Linda and Camilla got in some good screen time during the rain (and Linda worked
 
 I made it down to one of the two village restaurants that are open in the morning for coffee.  I saw these flowers on the way back up the hillside.  And that was the only picture for the day.  
 
-![20210806_100313.jpg]({{site.baseurl}}/assets/media/20210806_100313.jpg)
+![20210806_100313.jpg]({{site.pics_url}}/assets/media/20210806_100313.jpg)
 
 In the afternoon Linda drove us to Portland where we ate at the hotel and attempted to swim in the pool (but were too tired).

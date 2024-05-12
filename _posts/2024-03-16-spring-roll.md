@@ -8,7 +8,7 @@ On Saturday we started spring break with a friend's birthday party at a roller s
 
 Before the party there was a short lesson.  
 
-![Camilla Skate Lesson]({{ site.url }}assets/media/20240410_215914.jpg)  
+![Camilla Skate Lesson]({{ site.pics_url }}assets/media/20240410_215914.jpg)  
 
 She got the hang of it pretty quick!  
 
@@ -16,7 +16,7 @@ She got the hang of it pretty quick!
 {% include youtubePlayer.html id=page.youtubeId %}
 <br/>
 
-![Camilla Roller Skating]({{ site.url }}assets/media/20240410_215635.jpg)  
+![Camilla Roller Skating]({{ site.pics_url }}assets/media/20240410_215635.jpg)  
 
 After Linda finished work, we drove south to see my parents in Sanibel.  
 

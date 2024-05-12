@@ -7,11 +7,11 @@ We took a day to return to Ridgefield to gather more info about the homes and sc
 
 Camilla started the day with a little tablet time while waiting for us to leave.  
 
-![Camilla Tablet]({{ site.url }}assets/media/20231231_103611.jpg)  
+![Camilla Tablet]({{ site.pics_url }}assets/media/20231231_103611.jpg)  
 
-![Camilla Sweater]({{ site.url }}assets/media/20231228_093338.jpg)  
+![Camilla Sweater]({{ site.pics_url }}assets/media/20231228_093338.jpg)  
 
-![Departing]({{ site.url }}assets/media/20231231_104259.jpg)  
+![Departing]({{ site.pics_url }}assets/media/20231231_104259.jpg)  
 
 In Ridgefield we had breakfast at [Dimitri's Diner](https://www.dimitrisdiner.com/) before driving around the area and checking out the homes, schools, and grocery store.  
 
@@ -19,37 +19,37 @@ Eventually we made our way to Norwalk and stopped at the [Maritime Aquarium](htt
 
 *Meerkats*  
 
-![Meerkats!]({{ site.url }}assets/media/20231231_104450.jpg)  
+![Meerkats!]({{ site.pics_url }}assets/media/20231231_104450.jpg)  
 
 *Otter*
 
-![Otters!]({{ site.url }}assets/media/20231231_104605.jpg)  
+![Otters!]({{ site.pics_url }}assets/media/20231231_104605.jpg)  
 
 *Turtle*  
 
-![Turtle!]({{ site.url }}assets/media/20231231_104742.jpg)  
+![Turtle!]({{ site.pics_url }}assets/media/20231231_104742.jpg)  
 
 *Shark*  
 
-![Shark!]({{ site.url }}assets/media/20231231_104823.jpg)  
+![Shark!]({{ site.pics_url }}assets/media/20231231_104823.jpg)  
 
 *Jellies*  
 
-![Jellies!]({{ site.url }}assets/media/20231231_104931.jpg)  
+![Jellies!]({{ site.pics_url }}assets/media/20231231_104931.jpg)  
 
 In the evening, we met Dentel's at the [Little Pub](http://littlepub.com) in Greenwhich for dinner.  Some waiters wore black t-shirts with yellow Star Wars lettering *Little Pub* beside a Mandalorian helmet.  
 
-![Lil Pub]({{ site.url }}assets/media/20231231_105108.jpg)  
+![Lil Pub]({{ site.pics_url }}assets/media/20231231_105108.jpg)  
 
-![Lil Pub Girls]({{ site.url }}assets/media/20231231_105235.jpg)  
+![Lil Pub Girls]({{ site.pics_url }}assets/media/20231231_105235.jpg)  
 
 *Christmas at Dentel's*  
 
-![Girls Christmas]({{ site.url }}assets/media/20231231_105337.jpg)  
+![Girls Christmas]({{ site.pics_url }}assets/media/20231231_105337.jpg)  
 
-![Girls Emily's Room]({{ site.url }}assets/media/20231231_105655.jpg)  
+![Girls Emily's Room]({{ site.pics_url }}assets/media/20231231_105655.jpg)  
 
-![Girl Christmas with Miley]({{ site.url }}assets/media/20231231_105605.jpg)  
+![Girl Christmas with Miley]({{ site.pics_url }}assets/media/20231231_105605.jpg)  
 
 > No.  
 

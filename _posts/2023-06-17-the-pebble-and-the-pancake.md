@@ -6,15 +6,15 @@ youtubeId: SPr0timDGKE
 ---
 A long day of driving meant rest stops and fast food.
 
-![Family at Rest stop]({{ site.url }}assets/media/20230619_190421.jpg)
+![Family at Rest stop]({{ site.pics_url }}assets/media/20230619_190421.jpg)
 
 Not long after getting on the road, our windshield found a pebble. And later, we noticed this crack which we got fixed a few days later in *Stamford* at *Safelite*.
 
 
-![Windshield]({{ site.url }}assets/media/20230619_212918.jpg)
-![Subway]({{ site.url }}assets/media/20230619_190616.jpg)
-![Linda at Subway]({{ site.url }}assets/media/20230619_190708.jpg)
-![Leaving Subway]({{ site.url }}assets/media/20230619_190838.jpg)
+![Windshield]({{ site.pics_url }}assets/media/20230619_212918.jpg)
+![Subway]({{ site.pics_url }}assets/media/20230619_190616.jpg)
+![Linda at Subway]({{ site.pics_url }}assets/media/20230619_190708.jpg)
+![Leaving Subway]({{ site.pics_url }}assets/media/20230619_190838.jpg)
 
 After breakfast at McDonald's and lunch at Subway, Camilla did a little dance.
 
@@ -24,18 +24,18 @@ After breakfast at McDonald's and lunch at Subway, Camilla did a little dance.
 Later she drew a picture in the car while taking a break from hours of youtubing.
 <br/>
 
-![Kittens drawing]({{ site.url }}assets/media/20230619_212508.jpg)
+![Kittens drawing]({{ site.pics_url }}assets/media/20230619_212508.jpg)
 
 After a long day of driving, we had Papa John's for dinner at the *Holiday Inn Express* in *Edgewood, MD* which was near a vet clinic and a *Red Roof Inn*.
 <br/>
 
-![Vet clinic]({{ site.url }}assets/media/20230619_212302.jpg)
-![Red Roof Inn Sign]({{ site.url }}assets/media/20230619_212637.jpg)
+![Vet clinic]({{ site.pics_url }}assets/media/20230619_212302.jpg)
+![Red Roof Inn Sign]({{ site.pics_url }}assets/media/20230619_212637.jpg)
 
 Sometimes Camilla likes to be carried. Fortunately, she can still fit in a bag.  
 <br/>
 
-![Camilla at Hotel]({{ site.url }}assets/media/20230619_213120.jpg)
+![Camilla at Hotel]({{ site.pics_url }}assets/media/20230619_213120.jpg)
 
 (Canadian) French 101:
 > Bonjour, Eh (Good morning/Hello)

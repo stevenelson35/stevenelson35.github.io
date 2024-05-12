@@ -7,7 +7,7 @@ youtubeId: 5-DY5-rfDBA
 ---
 We began our summer road trip after a Ballet Camp Recital of Nemo's Adventure.  
 
-![Screen Grab of Ballet Recital Video]({{ site.url }}assets/media/ballet-20230619_184806-cropped.jpg)
+![Screen Grab of Ballet Recital Video]({{ site.pics_url }}assets/media/ballet-20230619_184806-cropped.jpg)
 
 Here's a short video of the last 30 seconds of the ballet recital where Camilla and friends are doing a final dance and leaving the stage.
 
@@ -21,9 +21,9 @@ Our trip includes stops in:
 
 We said goodbye to the cats, Teddy and Ivory, who will stay home alone for two weeks (with a robot litter box, a robot feeder, and care from a daily human health inspector and photographer).  
 
-![Kittens in suitcase 1]({{ site.url }}assets/media/20230619_175608.jpg)
+![Kittens in suitcase 1]({{ site.pics_url }}assets/media/20230619_175608.jpg)
 
-![Kittens in suitcase 2]({{ site.url }}assets/media/20230619_175336.jpg)
+![Kittens in suitcase 2]({{ site.pics_url }}assets/media/20230619_175336.jpg)
 
 
 The trip will include a lot of driving and may require learning some French.  
@@ -38,7 +38,7 @@ At this point, my French consists of what I've learned from Peppa Pig years ago:
 
 After dinner at Salsa's on I-95, we stayed at a very clean *Red Roof Inn* in Darien, GA. Camilla's friend Isla shared her roses after the recital.
 
-![Camilla and roses and red roof inn sign]({{ site.url }}assets/media/20230619_180231.jpg)
+![Camilla and roses and red roof inn sign]({{ site.pics_url }}assets/media/20230619_180231.jpg)
 
 And the driving begins!
 

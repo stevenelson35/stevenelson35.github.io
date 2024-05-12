@@ -9,62 +9,62 @@ The *Stamford Museum & Nature Center* is where the wild things are -- or at leas
 The day started with a puppy hug and a cake pop before heading to the [Stamford Museum & Nature Center](http://stamfordmuseum.org).  
 <br/>
 
-![Camilla and Miley]( {{ site.url }}assets/media/20230625_123432.jpg )
+![Camilla and Miley]( {{ site.pics_url }}assets/media/20230625_123432.jpg )
 <br/>
 
-![Camilla and Cake Pop]( {{ site.url }}assets/media/20230625_123532.jpg )
+![Camilla and Cake Pop]( {{ site.pics_url }}assets/media/20230625_123532.jpg )
 <br/>
 
 Skipping to the Nature Center.  
 <br/>
 
-![Emily and Camilla and Sarah at Nature Center]( {{ site.url }}assets/media/20230625_123711.jpg )
+![Emily and Camilla and Sarah at Nature Center]( {{ site.pics_url }}assets/media/20230625_123711.jpg )
 
 <br/>
 
 Someone likes *otters*.  
 <br/>
 
-![Otter at Nature Center]( {{ site.url }}assets/media/20230625_123832.jpg )
+![Otter at Nature Center]( {{ site.pics_url }}assets/media/20230625_123832.jpg )
 
 <br/>
 
 Someone else likes *bulls*.  
 <br/>
 
-![Linda and Bull at Nature Center]( {{ site.url }}assets/media/20230625_124049.jpg )
+![Linda and Bull at Nature Center]( {{ site.pics_url }}assets/media/20230625_124049.jpg )
 
 <br/>
 
-![Donkey at Nature Center again]( {{ site.url }}assets/media/20230625_124537.jpg )
+![Donkey at Nature Center again]( {{ site.pics_url }}assets/media/20230625_124537.jpg )
 
 <br/>
 
-![Emily and Camilla and Sarah at Nature Center]( {{ site.url }}assets/media/20230625_124342.jpg )
+![Emily and Camilla and Sarah at Nature Center]( {{ site.pics_url }}assets/media/20230625_124342.jpg )
 
 <br/>
 
-![Goats at Nature Center]( {{ site.url }}assets/media/20230625_124712.jpg )
+![Goats at Nature Center]( {{ site.pics_url }}assets/media/20230625_124712.jpg )
 
 <br/>
 
-![Girls and Horse at Nature Center]( {{ site.url }}assets/media/IMG_7959.jpg )
+![Girls and Horse at Nature Center]( {{ site.pics_url }}assets/media/IMG_7959.jpg )
 
 <br/>
 
-![Emily and Sarah and Camilla at Park on Swing]( {{ site.url }}assets/media/20230625_232056.jpg )
+![Emily and Sarah and Camilla at Park on Swing]( {{ site.pics_url }}assets/media/20230625_232056.jpg )
 
 <br/>
 
-![Emily and Sarah and Camilla at Park in Nest]( {{ site.url }}assets/media/20230625_232217.jpg )
+![Emily and Sarah and Camilla at Park in Nest]( {{ site.pics_url }}assets/media/20230625_232217.jpg )
 
 <br/>
 
-![Camilla at Park]( {{ site.url }}assets/media/20230625_232751.jpg )
+![Camilla at Park]( {{ site.pics_url }}assets/media/20230625_232751.jpg )
 
 <br/>
 
-![Sarah and Emily and Camilla on Couch]( {{ site.url }}assets/media/sarah-emily-camilla-couch.jpg )
+![Sarah and Emily and Camilla on Couch]( {{ site.pics_url }}assets/media/sarah-emily-camilla-couch.jpg )
 
 <br/>
 

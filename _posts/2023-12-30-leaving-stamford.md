@@ -12,23 +12,23 @@ Camilla took advantage of the fact that it had finally stopped raining long enou
 
 Camilla said goodbye to Sarah and Brian.  
 
-![Camilla and Sarah Goodbye]({{ site.url }}assets/media/20231231_150112.jpg)  
+![Camilla and Sarah Goodbye]({{ site.pics_url }}assets/media/20231231_150112.jpg)  
 
-![Camilla and Brian Goodbye]({{ site.url }}assets/media/20231231_150330.jpg)  
+![Camilla and Brian Goodbye]({{ site.pics_url }}assets/media/20231231_150330.jpg)  
 
 And we had lunch at the *Stamford Diner* with Julie and Emily before heading west.  
 
-![Stamford Diner]({{ site.url }}assets/media/20240101_125453.jpg)  
+![Stamford Diner]({{ site.pics_url }}assets/media/20240101_125453.jpg)  
 
 Our route took us through *Pennsylvania*.  
 
-![Pennsylvania]({{ site.url }}assets/media/20240101_125840.jpg)  
+![Pennsylvania]({{ site.pics_url }}assets/media/20240101_125840.jpg)  
 
-![Pennsylvania Hills]({{ site.url }}assets/media/20240101_125948.jpg)  
+![Pennsylvania Hills]({{ site.pics_url }}assets/media/20240101_125948.jpg)  
 
 At the end of the day we ate at *Luigi's* in *DuBois, PA*.  
 
-![Luigi's]({{ site.url }}assets/media/20240101_125637.jpg)  
+![Luigi's]({{ site.pics_url }}assets/media/20240101_125637.jpg)  
 
 > So goodbye yellow brick road
 

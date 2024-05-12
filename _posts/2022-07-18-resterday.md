@@ -16,17 +16,17 @@ My apologies in advance for creating a blog post on a day where nothing much hap
 
 We left the house around 2pm today to get a late lunch and go shopping.  
 
-![20220718_190412.jpg]({{site.baseurl}}/assets/media/20220718_190412.jpg)
+![20220718_190412.jpg]({{site.pics_url}}/assets/media/20220718_190412.jpg)
 
 As we left the house, Camilla explored the large Hibiscus-like flowers in the front yard while we waited for everyone to be ready to leave.  
 
-![20220718_190310.jpg]({{site.baseurl}}/assets/media/20220718_190310.jpg)
+![20220718_190310.jpg]({{site.pics_url}}/assets/media/20220718_190310.jpg)
 
 > Lost time is never found again.  
 
 - Benjamin Franklin
 
-![20220718_190513.jpg]({{site.baseurl}}/assets/media/20220718_190513.jpg)
+![20220718_190513.jpg]({{site.pics_url}}/assets/media/20220718_190513.jpg)
 
 Camilla got two dresses and a pink bow headband at the mall.  
 

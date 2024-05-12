@@ -16,25 +16,25 @@ The black & white kitten has been named *Frankie Jr.* (after our black & white d
 
 The three color kitten has been consistently named *Ivory*.
 
-![20220625_160643.jpg]({{site.baseurl}}/assets/media/20220625_160643.jpg)
+![20220625_160643.jpg]({{site.pics_url}}/assets/media/20220625_160643.jpg)
 
-![20220704_124721.jpg]({{site.baseurl}}/assets/media/20220704_124721.jpg)
+![20220704_124721.jpg]({{site.pics_url}}/assets/media/20220704_124721.jpg)
 
-![20220710_134027.jpg]({{site.baseurl}}/assets/media/20220710_134027.jpg)
+![20220710_134027.jpg]({{site.pics_url}}/assets/media/20220710_134027.jpg)
 
-![20220702_171520.jpg]({{site.baseurl}}/assets/media/20220702_171520.jpg)
+![20220702_171520.jpg]({{site.pics_url}}/assets/media/20220702_171520.jpg)
 
-![20220704_124717.jpg]({{site.baseurl}}/assets/media/20220704_124717.jpg)
+![20220704_124717.jpg]({{site.pics_url}}/assets/media/20220704_124717.jpg)
 
-![20220710_120247.jpg]({{site.baseurl}}/assets/media/20220710_120247.jpg)
+![20220710_120247.jpg]({{site.pics_url}}/assets/media/20220710_120247.jpg)
 
-![20220616_173353.jpg]({{site.baseurl}}/assets/media/20220616_173353.jpg)
+![20220616_173353.jpg]({{site.pics_url}}/assets/media/20220616_173353.jpg)
 
-![20220704_124839.jpg]({{site.baseurl}}/assets/media/20220704_124839.jpg)
+![20220704_124839.jpg]({{site.pics_url}}/assets/media/20220704_124839.jpg)
 
-![20220710_132816.jpg]({{site.baseurl}}/assets/media/20220710_132816.jpg)
+![20220710_132816.jpg]({{site.pics_url}}/assets/media/20220710_132816.jpg)
 
-![20220524_072742.jpg]({{site.baseurl}}/assets/media/20220524_072742.jpg)
+![20220524_072742.jpg]({{site.pics_url}}/assets/media/20220524_072742.jpg)
 
 ```
 The Naming of Cats is a difficult matter,  

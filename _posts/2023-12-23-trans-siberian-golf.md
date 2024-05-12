@@ -17,16 +17,16 @@ Saturday we went bowling and mini golfing with Patrick while he was in town from
 
 Linda was the bowling champion with her best score of 151; including 2 strikes and a number of spares. Patrick was runner up.  
 
-![Camilla Congo River]({{ site.url }}assets/media/20231231_083910.jpg)  
+![Camilla Congo River]({{ site.pics_url }}assets/media/20231231_083910.jpg)  
 
 
-![Linda and Patrick Congo River]({{ site.url }}assets/media/20231231_095818.jpg)  
+![Linda and Patrick Congo River]({{ site.pics_url }}assets/media/20231231_095818.jpg)  
 
-![Camilla Congo River Putting]({{ site.url }}assets/media/20231231_084008.jpg)  
+![Camilla Congo River Putting]({{ site.pics_url }}assets/media/20231231_084008.jpg)  
 
 We left golfing half-way through because it was getting late and it was very busy and slow playing.  
 
-![Camilla and Yoda Christmas]({{ site.url }}assets/media/20231231_095702.jpg)   
+![Camilla and Yoda Christmas]({{ site.pics_url }}assets/media/20231231_095702.jpg)   
 
 
 > “And what good's a life that leaves nothing behind/Not a thought or a dream that might echo in time.”  

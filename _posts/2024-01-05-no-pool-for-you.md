@@ -8,11 +8,11 @@ We drove from Mt. Vernon, IL to McDonough, GA.
 
 The parking lot of the DoubleTree was stacked with truck cabs.  
 
-![Car]({{ site.url }}assets/media/20240105_203609.jpg)  
+![Car]({{ site.pics_url }}assets/media/20240105_203609.jpg)  
 
 On the route we passed a sign that looked like it was for the Beatles.  
 
-![Beatles]({{ site.url }}assets/media/20240105_203714.jpg)  
+![Beatles]({{ site.pics_url }}assets/media/20240105_203714.jpg)  
 
 Apparently in 1963, before the Beattles were big, George Harrison would visit his sister in [Benton, IL](https://www.atlasobscura.com/places/george-harrison-commemorative-mural) and they have a commemorative mural near the highway as shown in the picture above.  
 
@@ -28,7 +28,7 @@ The pool was closed.
 
 So, we spent a few minutes in the fitness center before turning in for an early night.  
 
-![Camilla Eliptical]({{ site.url }}assets/media/20240105_203848.jpg)  
+![Camilla Eliptical]({{ site.pics_url }}assets/media/20240105_203848.jpg)  
 
 > No soup for you!  
 

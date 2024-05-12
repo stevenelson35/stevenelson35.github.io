@@ -6,10 +6,10 @@ youtubeId: Smwblyzv2K8
 ---
 On our first full day in Montreal we made two visits to the *Basilique Notre-Dame de Montréal*.  
 
-![Basilica Exterior]( {{ site.url }}assets/media/20230626_211338.jpg )
+![Basilica Exterior]( {{ site.pics_url }}assets/media/20230626_211338.jpg )
 <br/>
 
-![Basilica Front Exterior]( {{ site.url }}assets/media/20230626_211513.jpg )
+![Basilica Front Exterior]( {{ site.pics_url }}assets/media/20230626_211513.jpg )
 <br/>
 
 The [Notre-Dame Basilica](https://www.basiliquenotredame.ca/en) has an interior that is amongst the most dramatic in the world and regarded as a masterpiece of Gothic Revival architecture.  
@@ -17,16 +17,16 @@ The [Notre-Dame Basilica](https://www.basiliquenotredame.ca/en) has an interior 
 It was designed by an Irish-American from New York who is the only person buried in the Basilica's crypt.  
 
 
-![Basilica Interior 1]( {{ site.url }}assets/media/20230622_110858.jpg )
+![Basilica Interior 1]( {{ site.pics_url }}assets/media/20230622_110858.jpg )
 <br/>
 
-![Basilica Interior 3]( {{ site.url }}assets/media/20230622_112605.jpg )
+![Basilica Interior 3]( {{ site.pics_url }}assets/media/20230622_112605.jpg )
 <br/>
 
-![Basilica Rose Window]( {{ site.url }}assets/media/20230626_211848.jpg )
+![Basilica Rose Window]( {{ site.pics_url }}assets/media/20230626_211848.jpg )
 <br/>
 
-![Basilica Interior 2]( {{ site.url }}assets/media/20230622_110913.jpg )
+![Basilica Interior 2]( {{ site.pics_url }}assets/media/20230622_110913.jpg )
 <br/>
 
 While we were doing a self guided tour, a choir group from Minnesota was practicing.  
@@ -38,28 +38,28 @@ While we were doing a self guided tour, a choir group from Minnesota was practic
 So we had to be quiet.  
 <br/>
 
-![Quiet Sign at Basilica]( {{ site.url }}assets/media/20230626_211958.jpg )
+![Quiet Sign at Basilica]( {{ site.pics_url }}assets/media/20230626_211958.jpg )
 <br/>
 
 Camilla rested while listening to the music.  
 
-![Camilla Listening to Choir at Basilica]( {{ site.url }}assets/media/20230626_212957.jpg )
+![Camilla Listening to Choir at Basilica]( {{ site.pics_url }}assets/media/20230626_212957.jpg )
 <br/>
 
-![Organ Pipes at Basilica]( {{ site.url }}assets/media/20230626_212159.jpg )
+![Organ Pipes at Basilica]( {{ site.pics_url }}assets/media/20230626_212159.jpg )
 <br/>
 
 Outside the Basilica we looked at a statue and toured the Bank of Montreal.  
 
-![Camilla and Linda at Statue]( {{ site.url }}assets/media/20230626_214537.jpg )
+![Camilla and Linda at Statue]( {{ site.pics_url }}assets/media/20230626_214537.jpg )
 <br/>
 
-![Family at Statue]( {{ site.url }}assets/media/20230622_131907.jpg )
+![Family at Statue]( {{ site.pics_url }}assets/media/20230622_131907.jpg )
 <br/>
 
 Then we went back to the condo and checked out the two rooftop pools and the indoor pool and gym.  All the facilities were being put to good use by the young local professional residents.  Montreal has a reputation for being host to influencers and tech companies that established sites there during the development of the multimedia city region.  
 
-![Pools]( {{ site.url }}assets/media/20230626_213544.jpg )
+![Pools]( {{ site.pics_url }}assets/media/20230626_213544.jpg )
 <br/>
 
 Later in the evening we returned to the Basilica for the light show [AURUA](https://www.aurabasiliquemontreal.com/en).  
@@ -70,7 +70,7 @@ The light and music show was quite an experience.  It was little loud for Camill
 
 After a hot day of walking around Montreal and often carrying Camilla, I had a migraine that lasted through the night.  Finally after 6am the next morning I had some relief -- possibly helped by seeing this restful face.  
 
-![Camilla Sleeping]( {{ site.url }}assets/media/20230626_213224.jpg )
+![Camilla Sleeping]( {{ site.pics_url }}assets/media/20230626_213224.jpg )
 <br/>
 
 French and Metric Notes:  
