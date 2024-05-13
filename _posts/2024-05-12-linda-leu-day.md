@@ -5,39 +5,39 @@ categories: ["farraginous"]
 ---
 On Mother's Day we went to Leu Gardens after Camilla's swim lesson.   
 
-we forgot to bring a brush, so Camilla wasn't able to come her hair, but we did remember to bring sun hats.  
+We forgot to bring a brush, so Camilla wasn't able to comb her hair after swimming, but we did remember to bring sun hats.  
 
-But first we stopped at Panera for lunch and to pose by a tree.  
+First we stopped at Panera for lunch and to pose by a tree.  
 
 ![Panera Camilla]({{ site.pics_url }}20240512_192908.jpg)
 
-At the end of the trip to Leu Gardens we took a family photo. Here's some foreshadowing. ;)  
+At the end of the trip to Leu Gardens we took a family photo (foreshadowing).  
 
 ![Mother's Day Family Pic Cropped]({{ site.pics_url }}20240512_214651.jpg)
 
-This was the last day of the **Glass** sculpture exhibit at Leu Gardens. Here's an example of the type of sculptures that were scattered throughout the gardens.
+This was the last day of the **Glass In Flight** sculpture exhibit at Leu Gardens. Here's an example of the type of sculptures that were scattered throughout the gardens.
 
 ![Glass Sculpture]({{ site.pics_url }}20240512_194230.jpg)
 
-We didn't put much effort into finding all the sculptures even though there was a map. We just wondered around and saw what we saw.  
-
-![Praying Mantis Glass Sculpture]({{ site.pics_url }}20240512_212028.jpg)
+We didn't put much effort into finding all the sculptures even though there was a map. We just wandered around and saw what we saw.  
 
 We saw one bird. Here it is.  
 
 ![Bird at Leu Gardens]({{ site.pics_url }}20240512_193146.jpg)
 
-In one shady gazebo we took a Mother Daughter pic in honor of Mother's Day.  At least that was an acceptable reason for me to convince them to look at the camera without being too annoyed.  
+![Praying Mantis Glass Sculpture]({{ site.pics_url }}20240512_212028.jpg)
+
+In one shady gazebo we took a *mother daughter* photo in honor of Mother's Day.  At least that was an acceptable reason for me to convince Linda and Camilla to look at the camera without being too annoyed.  
 
 ![Linda and Camilla]({{ site.pics_url }}20240512_193442.jpg)
 
-We even took one rare pic without Camilla's glasses.  
+We even took one rare photo without Camilla's glasses.  
 
 ![Linda and Camilla without glasses]({{ site.pics_url }}20240512_193637.jpg)
 
 ![Another Purple Flower]({{ site.pics_url }}20240512_193813.jpg)
 
-We saw one tree with peeling bark that was green.  
+We saw one tree with peeling green bark.  
 
 ![Green Peeling Bark]({{ site.pics_url }}20240512_142033.jpg)
 
@@ -45,11 +45,11 @@ One flower in the vegetable garden was stealing some flower stuff.
 
 ![Butterfly on Flower]({{ site.pics_url }}20240512_193909.jpg)
 
-On the fence of the vegetable garden Linda identified some blackberries -- that were just starting to ripen.  
+On the fence of the vegetable garden Linda identified some blackberries that were just starting to ripen.  
 
 ![Blackberry]({{ site.pics_url }}20240512_194021.jpg)
 
-Fortunately there are a lot of trees at Leu Garden. One time we were out of tree cover Camilla ran to the next shady spot. Probably not so much as to protect herself from the sun or heat, but, just because she likes to run.  
+Fortunately there are a lot of trees at Leu Garden. One time when we were out of tree cover Camilla ran to the next shady spot. Probably not so much as to protect herself from the sun or heat, but, just because she likes to run.  
 
 And I took some pics of flowers, trees, and ocassionally Camilla and Linda when they would allow it.  
 
