@@ -49,9 +49,9 @@ On the fence of the vegetable garden Linda identified some blackberries that wer
 
 ![Blackberry]({{ site.pics_url }}20240512_194021.jpg)
 
-Fortunately there are a lot of trees at Leu Garden. One time when we were out of tree cover Camilla ran to the next shady spot to stay out of the sun. In reality, she probably was just looking for an opportunity to run. She likes to run and doesn't like to stand still very often.  
+Fortunately there are a lot of trees at Leu Garden. One time when we were out of tree cover, Camilla ran to the next shady spot to stay out of the sun. In reality, she probably was just looking for an opportunity to run. She likes to run and doesn't like to stand still very often.  
 
-During our walk aroudnm the gardens, I took some pics of flowers, trees, and ocassionally Camilla and Linda.  
+During our walk arou d the gardens, I took some pics of flowers, trees, and ocassionally Camilla and Linda.  
 
 Here's a Magnolia Flower.  
 
