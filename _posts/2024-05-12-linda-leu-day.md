@@ -61,7 +61,7 @@ Here's a tree.
 
 ![Tree]({{ site.pics_url }}20240512_194128.jpg)
 
-Most pictures I have of Linda and Camilla are of them walking away from me, like this: 
+Most pictures I have of Linda and Camilla are of them walking away from me, like this. 
 
 ![Linda and Camilla Walking]({{ site.pics_url }}20240512_212353.jpg)
 
