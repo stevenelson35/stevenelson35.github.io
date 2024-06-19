@@ -9,7 +9,7 @@ This blog is a simple set of posts to share with family and friends.
 {% include createdby.html %} 
 
 The {{ site.title }} site:
-- Is hosted on [GitHub](https://www.github.com). 
+- Is hosted on [GitHub](https://www.github.com) with images hosted on [Turbify](https://www.turbify.com/services). 
 - Was created using [Jekyll](https://jekyllrb.com).
 - Has a domain from [Turbify](https://www.turbify.com/services). 
 - Supports comments using [CommentBox](https://commentbox.io).  
