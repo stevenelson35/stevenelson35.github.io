@@ -41,7 +41,7 @@ We saw one tree with peeling green bark.
 
 ![Green Peeling Bark]({{ site.pics_url }}20240512_142033.jpg)
 
-A butterly was stealing some flower stuff from a flower in the vegetable garden.  
+A butterfly was stealing some flower stuff from a flower in the vegetable garden.  
 
 ![Butterfly on Flower]({{ site.pics_url }}20240512_193909.jpg)
 
@@ -51,7 +51,7 @@ On the fence of the vegetable garden Linda identified some blackberries that wer
 
 Fortunately there are a lot of trees at Leu Garden. One time when we were out of tree cover, Camilla ran to the next shady spot to stay out of the sun. In reality, she probably was just looking for an opportunity to run. She likes to run and doesn't like to stand still very often.  
 
-During our walk arou d the gardens, I took some pics of flowers, trees, and ocassionally Camilla and Linda.  
+During our walk around the gardens, I took some pics of flowers, trees, and ocassionally Camilla and Linda.  
 
 Here's a Magnolia Flower.  
 
