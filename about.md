@@ -9,9 +9,9 @@ This blog is a simple set of posts to share with family and friends.
 {% include createdby.html %} 
 
 The {{ site.title }} site:
-- Is hosted on [GitHub](https://www.github.com). 
+- Is hosted on [GitHub](https://www.github.com) with images hosted on [Turbify](https://www.turbify.com/services). 
 - Was created using [Jekyll](https://jekyllrb.com).
-- Has a domain from [Verizon small business essentials](https://www.verizon.com/business/small-business-essentials). 
+- Has a domain from [Turbify](https://www.turbify.com/services). 
 - Supports comments using [CommentBox](https://commentbox.io).  
 - Provides search using [lunr.js](https://lunrjs.com/).
 - Handles subscriptions using [mailchimp](https://mailchimp.com). 
