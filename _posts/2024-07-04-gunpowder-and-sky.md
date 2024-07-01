@@ -13,4 +13,4 @@ Today's the Fourth of July.
 >And when they light up our town I just think
 >What a waste of gunpowder and sky.  
 
-- Amy Mann
+- Aimee Mann
