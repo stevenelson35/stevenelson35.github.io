@@ -7,9 +7,21 @@ Today's the Fourth of July.
 
 After a hotel breakfast at Embassy Suites, we were on our way to Williamsburg.  
 
-![Camilla at a Rest Stop]({{ site.pics_url }}20240704_132629.jpg)
+We stopped at a rest stop.  
+![Camilla at a Rest Stop]({{ site.pics_url }}20240704_13262.jpg)
 
-After checking in, we inspected the waterpark to have an idea what was in store for tomorrow.  
+![Camilla at a Rest Stop]({{ site.pics_url }}20240709_202917.jpg)  
+
+And finally got to the *Great Wolf Lodge*.  
+![Camilla at a Rest Stop]({{ site.pics_url }}20240709_203209.jpg)  
+
+![Camilla at a Rest Stop]({{ site.pics_url }}20240709_203304.jpg)  
+
+Checked in.  
+
+![Camilla at a Rest Stop]({{ site.pics_url }}20240709_203807.jpg)   
+
+And inspected the waterpark to have an idea what was in store for tomorrow.  
 
 ![Camilla at a Rest Stop]({{ site.pics_url }}20240704_163714.jpg)
 
