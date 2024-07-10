@@ -21,9 +21,12 @@ Nobody was interested in taking a pre-vacation family photo, but, instead just w
 
 ![Linda and Steve and Camilla Walking to the Car]({{ site.pics_url }}20240703_141124.jpg)
 
->She packed my bags last night  
->pre-flight  
+>She packed my bags last night
+
+>pre-flight
+
 >Zero hour
->9:00 a.m.
+
+>9:00 a.m.  
 
 - Elton John
