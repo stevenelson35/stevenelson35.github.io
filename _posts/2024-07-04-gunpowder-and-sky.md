@@ -32,13 +32,12 @@ Camilla wasn't interested in fireworks anyway.  Instead, she enjoyed some popcor
 ![Camilla at a Rest Stop]({{ site.pics_url }}20240704_192444.jpg)
 
 
+>Today's the fourth of July.  
 
+>Another June has gone by.  
 
+>And when they light up our town I just think  
 
-
->Today's the fourth of July.
->Another June has gone by
->And when they light up our town I just think
->What a waste of gunpowder and sky.  
+>what a waste of gunpowder and sky.  
 
 - Aimee Mann
