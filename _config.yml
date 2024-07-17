@@ -11,11 +11,29 @@ exclude: [node_modules, create-pics, README.md]
 
 keep_files: [assets/images, assets/media]
 
+collections_dir: all_collections
+
 collections:
   authors:
     output: true
   tags:
     output: true
+  notes:
+    output: true
+    order:
+      - cplusplus.md
+      - bazel.md
+      - conan.md
+      - docker.md
+      - nix.md
+      - python.md
+      - wsl.md
+      - ubuntu.md
+  personal:
+    output: true
+    order:
+      - resume.md
+      - projects.md
 
 defaults:
   - scope:

@@ -1,0 +1,16 @@
+---
+title: Notes
+layout: defaultscaled
+---
+<h1>Notes</h1>
+
+<ul>
+	{% for note in site.notes %}
+	<li>
+		<h2><a href="{{ note.url }}">{{ note.name }}</a></h2>
+		<h3>{{ note.description }}</h3>
+		<p>{{ note.content | markdownify }}</p>
+	</li>
+	</br>
+	{% endfor %}
+</ul>
