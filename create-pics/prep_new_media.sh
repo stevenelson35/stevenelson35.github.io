@@ -11,6 +11,7 @@ python3 ./createresponsivemedia.py
 
 cp -r ./assets ../.
 rm ../assets/media/processed.md
-rm -r assets
+#rm -r assets
+mv ./asset /mnt/c/repos/create-pics/new-pics-out/.
 
 echo done.
