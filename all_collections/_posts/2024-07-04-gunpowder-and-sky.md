@@ -8,7 +8,8 @@ Today's the Fourth of July.
 After a hotel breakfast at Embassy Suites, we were on our way to Williamsburg.  
 
 We stopped at a rest stop.  
-![Camilla at a Rest Stop]({{ site.pics_url }}20240704_13262.jpg)
+
+![Camilla at a Rest Stop]({{ site.pics_url }}20240704_13262.jpg)  
 
 ![Camilla at a Rest Stop]({{ site.pics_url }}20240709_202917.jpg)  
 
@@ -27,9 +28,9 @@ And inspected the waterpark to have an idea what was in store for tomorrow.
 
 It rained a bit and we weren't sure if there would be a full fire works display in Williamsburg or not due to weather.  We heard a few explosions, but didn't see anything from the hotel.  
 
-Camilla wasn't interested in fireworks anyway.  Instead, she enjoyed some popcorn and table time.  
+Camilla wasn't interested in fireworks anyway.  Instead, she enjoyed some popcorn and tablet time :).  
 
-![Camilla at a Rest Stop]({{ site.pics_url }}20240704_192444.jpg)
+![Camilla at a Rest Stop]({{ site.pics_url }}20240704_192444.jpg)  
 
 
 >Today's the fourth of July.  
