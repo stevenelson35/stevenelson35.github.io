@@ -13,7 +13,7 @@ On July 3rd, we picked her up a few minutes early from camp to get on the road.
 
 ![Linda and Steve Pre-Flight]({{ site.pics_url }}IMG_2025.jpg)
 
-I was given one chance to get a pre-vacation family photo before leaving the Orlando Museom of Art.  
+I was given one chance to get a pre-vacation family photo before leaving the Orlando Museom of Art.  Here it is ;).  
 
 ![Linda and Steve and Camilla Pre-Flight]({{ site.pics_url }}20240709_202722.jpg)  
 
