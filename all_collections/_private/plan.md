@@ -11,5 +11,7 @@ Timeboxed regular activities:
 - 60min per week geography research.
 
 Non-regular activies:
+- Update resume.
+- Update LinkedIn.
 - Gather location / cost information.
 
