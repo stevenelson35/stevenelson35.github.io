@@ -1,0 +1,15 @@
+---
+title: Private Pages
+layout: defaultscaled
+---
+<h1>Private</h1>
+
+<ul>
+	{% for private_page in site.private %}
+	<li>
+		<h2><a href="{{ private_page.url }}">{{ private_page.name }}</a></h2>
+		<h3>{{ private_page.description }}</h3>
+	</li>
+	</br>
+	{% endfor %}
+</ul>
