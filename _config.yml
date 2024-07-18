@@ -38,7 +38,7 @@ collections:
     output: true
     order:
       - plan.md
-      - status.md
+      - action.md
 
 defaults:
   - scope:
