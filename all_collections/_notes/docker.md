@@ -2,7 +2,9 @@
 name: Docker Notes
 description: Notes and references for using Docker.
 ---
-References:
+<h1>{{page.name}}</h1>
+
+<h3>References</h3>
 
 - [Docker Docs](https://docs.docker.com/)
 
