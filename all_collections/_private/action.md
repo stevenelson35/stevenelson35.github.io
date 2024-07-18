@@ -2,7 +2,7 @@
 name: Action
 description: A list of actions taken and plan status.
 ---
-Actions:
+<h1>{{page.name}}</h1>
 
 |Date|Description|Status|Complete Y/N|
 |---|---|---|---|
