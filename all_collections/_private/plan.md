@@ -2,7 +2,7 @@
 name: Plan
 description: A plan for changes.
 ---
-Plan:
+<h1>{{page.name}}</h1>
 
 Timeboxed regular activities:
 - 30min per weekday company research.
