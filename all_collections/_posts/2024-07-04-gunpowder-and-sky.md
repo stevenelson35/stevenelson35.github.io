@@ -14,6 +14,7 @@ We stopped at a rest stop.
 ![Camilla at a Rest Stop]({{ site.pics_url }}20240709_202917.jpg)  
 
 And finally got to the *Great Wolf Lodge*.  
+
 ![Camilla at a Rest Stop]({{ site.pics_url }}20240709_203209.jpg)  
 
 ![Camilla at a Rest Stop]({{ site.pics_url }}20240709_203304.jpg)  
