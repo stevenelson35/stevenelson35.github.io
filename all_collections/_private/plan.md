@@ -12,6 +12,7 @@ Timeboxed regular activities:
 
 Non-regular activies:
 - Update resume.
+  - consider [RenderCV](https://github.com/sinaatalay/rendercv) 
 - Update LinkedIn.
 - Gather location / cost information.
 
