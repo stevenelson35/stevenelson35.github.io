@@ -46,13 +46,15 @@ The first major challenge we faced was obtaining the information necessary to ac
 
 Defeating the dragon was difficult and took Linda's expert skills.  
 
-![Magic Quest]({{ site.pics_url }}20240709_214108.jpg)  
-
-![Magic Quest]({{ site.pics_url }}20240706_092853.jpg)  
+![Magic Quest]({{ site.pics_url }}20240706_094523.jpg) 
 
 ![Magic Quest]({{ site.pics_url }}20240706_093810.jpg) 
 
-![Magic Quest]({{ site.pics_url }}20240706_094523.jpg) 
+![Magic Quest]({{ site.pics_url }}20240706_092853.jpg)  
+
+It took many attempts, but, eventually Linda figured out how to help Camilla defeat the dragon and finish the quest.  
+
+![Magic Quest]({{ site.pics_url }}20240709_214108.jpg)  
 
 Camilla made the leader board displayed on the wall.  
 
