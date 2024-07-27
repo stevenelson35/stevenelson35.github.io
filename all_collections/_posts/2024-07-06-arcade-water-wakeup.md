@@ -12,27 +12,23 @@ Camilla loves Magic Quest, which she played last year.  It involves walking arou
 
 Camilla is ready for the quest with her wand and wolf ears.  
 
-![Camilla Wand and Wolf Ears]({{ site.pics_url }}20240706_101501(0).jpg)  
-
+![Camilla Wand and Wolf Ears]({{ site.pics_url }}20240706_101501.jpg)  
 
 This is how you point a wand.
 
-![Camilla Wanding]({{ site.pics_url }}20240706_090304.jpg)  
+![Magic Quest]({{ site.pics_url }}20240709_213526.jpg)  
+
+![Magic Quest]({{ site.pics_url }}20240709_213631.jpg)  
 
 There are many wands you can select from the store with various *upgrades*.  
 
 ![Magic Quest Wands]({{ site.pics_url }}20240709_215835.jpg)  
 
-
 Often you have to go to a kiosk to get directions for what to find next as you progress through the stages of the quest.  
 
 ![Magic Quest Kiosk]({{ site.pics_url }}20240709_215130.jpg)  
 
-Here are some highlights from the quest.  
-
-![Magic Quest]({{ site.pics_url }}20240709_213526.jpg)  
-
-![Magic Quest]({{ site.pics_url }}20240709_213631.jpg)  
+We enjoy the quest with Camilla because you get a lot of walking in as you traverse the three floors (usually using the stairs) to repeatedly travel through each hallway where the game items are on display.  Here are some highlights from the quest.  
 
 ![Magic Quest]({{ site.pics_url }}20240709_213704.jpg)  
 
@@ -43,6 +39,10 @@ Here are some highlights from the quest.
 ![Magic Quest]({{ site.pics_url }}20240709_214828.jpg)  
 
 ![Magic Quest]({{ site.pics_url }}20240709_214906.jpg)  
+
+The first major challenge we faced was obtaining the information necessary to activate the dragon from the dragon picture before attempting to confront it.  The trick was to watch the order of the lights on the picture so you can select them properly to unlock the dragon fight upstairs.  
+
+![Camilla Wanding Dragon Picture]({{ site.pics_url }}20240706_090304.jpg)  
 
 Defeating the dragon was difficult and took Linda's expert skills.  
 
@@ -58,4 +58,14 @@ Camilla made the leader board displayed on the wall.
 
 ![Magic Quest]({{ site.pics_url }}20240709_215040.jpg)  
 
+Later we played some arcade games. Camilla likes to race the motor bikes.  
 
+![Linda and Camilla Biking Arcade]({{ site.pics_url }}20240709_215625.jpg)  
+
+![Camilla Arcade]({{ site.pics_url }}20240709_215240.jpg)  
+
+I couldn't find a good song reference for the day, so, since we woke up and defeated a fire breathing dragon and played in an arcade, maybe this song with David Bowie is appropriate?  Also, I think Linda likes Arcade Fire maybe.  
+
+> Arcade Fire - Wakeup w/ David Bowie  
+
+{% include youtubePlayer.html id=page.youtubeId %}
