@@ -6,7 +6,7 @@ youtubeId: z6c9Ejfu-iU
 ---
 Woke up early to get wet and play Magic Quest and go to the arcade.  
 
-Camilla loves Magic Quest, which she played last year.  It involves walking around each floor of the hotel and pointing a wand at various items to proceed through the quest to ultimately fight a dragon.  This quest was in the land of **Vellara**.  Here's a map:
+Camilla loves Magic Quest. She played it fof the first time last year at the Great Wolf Lodge in Niagara. It involves walking around each floor of the hotel and pointing a wand at various items to proceed through the quest to ultimately fight a dragon.  This quest was in the land of **Vellara**.  Here's a map:
 
 ![World Of Vellara]({{ site.pics_url }}20240709_213227.jpg)  
 
@@ -28,7 +28,7 @@ Often you have to go to a kiosk to get directions for what to find next as you p
 
 ![Magic Quest Kiosk]({{ site.pics_url }}20240709_215130.jpg)  
 
-We enjoy the quest with Camilla because you get a lot of walking in as you traverse the three floors (usually using the stairs) to repeatedly travel through each hallway where the game items are on display.  Here are some highlights from the quest.  
+We enjoy the quest with Camilla because you walk alot as you traverse the three floors (usually using the stairs) to repeatedly pass through each hallway where the game items are on display.  Some highlights from the quest are in the pictures below.  
 
 ![Magic Quest]({{ site.pics_url }}20240709_213704.jpg)  
 
@@ -40,7 +40,8 @@ We enjoy the quest with Camilla because you get a lot of walking in as you trave
 
 ![Magic Quest]({{ site.pics_url }}20240709_214906.jpg)  
 
-The first major challenge we faced was obtaining the information necessary to activate the dragon from the dragon picture before attempting to confront it.  The trick was to watch the order of the lights on the picture so you can select them properly to unlock the dragon fight upstairs.  
+The first major challenge we faced was learning the code to activate the dragon. After struggling to select the symbols in the correct order to crack the code, another guest pointed out that the code symbol order is revealed when you activate the the dragon picture on a lower floor. You just hat pay attention to the order that the lights are
+ lit. However, once you've activated the dragon paiinting, you cannot see the clue again. Fortunately, someone told us the order so we could continue the quest.  
 
 ![Camilla Wanding Dragon Picture]({{ site.pics_url }}20240706_090304.jpg)  
 
@@ -66,7 +67,7 @@ Later we played some arcade games. Camilla likes to race the motor bikes.
 
 ![Camilla Arcade]({{ site.pics_url }}20240709_215240.jpg)  
 
-I couldn't find a good song reference for the day, so, since we woke up and defeated a fire breathing dragon and played in an arcade, maybe this song with David Bowie is appropriate?  Also, I think Linda likes Arcade Fire maybe.  
+I couldn't find a good song reference for the day, so, since we woke up and defeated a fire breathing dragon and played in an arcade, I thought that maybe this song with David Bowie is appropriate by title alone.  Also, I think Linda likes Arcade Fire. Maybe.  
 
 > Arcade Fire - Wakeup w/ David Bowie  
 
