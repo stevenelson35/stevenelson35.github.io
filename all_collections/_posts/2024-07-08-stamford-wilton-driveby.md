@@ -49,8 +49,6 @@ Along the way walked under a tree that had branches growing downward that were t
 
 ![Camilla Tree Newport]({{ site.pics_url }}20240709_225715.jpg)  
 
-![Camilla Tree Newport]({{ site.pics_url }}20240709_225604.jpg)  
-
 ![Camilla Tree Newport]({{ site.pics_url }}20240709_232618.jpg)  
 
 The restaurant we went to had sailing and buffalo decorations on the walls.  
@@ -60,9 +58,7 @@ The restaurant we went to had sailing and buffalo decorations on the walls.
 There was a familiar ice cream shop, *Kilwins*, that we recognized from Winter Park.  
 ![Kilwins Newport]({{ site.pics_url }}20240709_231303.jpg)  
 
-We stopped for ice cream.  
-
-![Ice Cream]({{ site.pics_url }}20240709_231346.jpg)  
+We stopped for ice cream.    
 
 ![Linda and Camilla with Ice Cream]({{ site.pics_url }}20240709_231451.jpg)  
 
