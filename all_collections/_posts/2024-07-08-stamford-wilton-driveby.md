@@ -53,14 +53,13 @@ The low evening sun made for interesting shadows.
 
 ![Camilla Tree Newport]({{ site.pics_url }}20240709_232618.jpg)  
 
-The restaurant we went to had sailing and buffalo decorations on the walls.  
-
-![Dinner in Newport with Buffalo]({{ site.pics_url }}20240708_184529.jpg)  
+The restaurant we went to had sailing decorations and a buffalo on the walls. 
 
 There was a familiar ice cream shop, *Kilwins*, that we recognized from Winter Park.  
+
 ![Kilwins Newport]({{ site.pics_url }}20240709_231303.jpg)  
 
-We stopped for ice cream.    
+We stopped for ice cream.  
 
 ![Linda and Camilla with Ice Cream]({{ site.pics_url }}20240709_231451.jpg)  
 
