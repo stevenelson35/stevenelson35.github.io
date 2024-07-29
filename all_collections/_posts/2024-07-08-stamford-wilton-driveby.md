@@ -45,9 +45,11 @@ It was time for dinner when we got to Newport, so we walked to dinner past this 
 
 ![Walking to Dinner in Newport at Bank]({{ site.pics_url }}20240709_225124.jpg)  
 
-Along the way walked under a tree that had branches growing downward that were trimmed about head height.  The low evening sun made for interesting shadows.  
+Along the way walked under a tree that had branches growing downward that were trimmed about head height.  
 
 ![Camilla Tree Newport]({{ site.pics_url }}20240709_225715.jpg)  
+
+The low evening sun made for interesting shadows.  
 
 ![Camilla Tree Newport]({{ site.pics_url }}20240709_232618.jpg)  
 
