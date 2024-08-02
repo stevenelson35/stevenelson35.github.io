@@ -136,9 +136,7 @@ Camilla likes to look out into the distance. What is she thinking about?
 
 ![Camilla Pondering the Sea by a Wall at Topiary]({{ site.pics_url }}20240710_124943.jpg)  
 
-![Camilla on Rock at Topiary]({{ site.pics_url }}20240710_124946.jpg)  
-
-![Camilla on Rock]({{ site.pics_url }}20240710_124946.jpg)  
+![Camilla on Rock at Topiary]({{ site.pics_url }}20240710_124946.jpg)   
 
 ![Steve Camilla and Linda Pose at Topiary]({{ site.pics_url }}20240720_102128.jpg)  
 
