@@ -17,6 +17,8 @@ The park behind the garden had an elephant statue from India representing a spec
 
 ![Camilla Smelling Flowers]({{ site.pics_url }}20240721_112021.jpg)  
 
+![Linda and Camilla with Elephant]({{ site.pics_url }}20240710_062528.jpg)  
+
 Hydrangea were very common in Newport. Linda said she read the title of an article that said Hydrangea are doing very well in the Northeast this year. She didn't read the article, so, we don't know why that is the case.  Maybe the heat?
 
 ![Flowers]({{ site.pics_url }}20240721_112057.jpg)  
@@ -93,7 +95,7 @@ The main bath tub had four knobs to control water. These supplied hot and cold f
 
 ![Bath Tub]({{ site.pics_url }}20240724_075810.jpg)  
 
-The family members often changed clothes up to seven times a day, bathing between changing, and possibly napping. To bath the lower half to freshen up, they could use these smaller soaking tubs.  
+The family members often changed clothes up to seven times a day, bathing between changing, and possibly napping. To bathe the lower half to freshen up, they could use these smaller soaking tubs.  
 
 ![Lower Half Bath]({{ site.pics_url }}20240724_075723.jpg)  
 
@@ -109,7 +111,6 @@ There was a great open patio off the main floor from which you could see the bac
 
 ![Camilla Dancing on Patio]({{ site.pics_url }}20240724_075556.jpg)  
 
-
 ![Breakers Building Corner]({{ site.pics_url }}20240709_114952.jpg)  
 
 ![Camilla Dancing Outside]({{ site.pics_url }}20240724_080256.jpg) 
@@ -117,12 +118,9 @@ There was a great open patio off the main floor from which you could see the bac
 ![Breakers Building Corner and Driveway]({{ site.pics_url }}20240709_115516.jpg)  
 
 Outside there was a herd of elephants from India like the one we saw walking back from breakfast earlier in the day.  
-
 ![Elephant Close Up]({{ site.pics_url }}20240709_115828.jpg)  
 
 ![Elephant Herd]({{ site.pics_url }}20240709_115944.jpg)  
-
-![Linda and Camilla with Elephant]({{ site.pics_url }}20240710_062528.jpg)  
 
 The backyard bordered the cliffs to the sea. On the other side of the fence was a *The Clif Walk* which extends a few miles along the coast.  
 
@@ -136,7 +134,7 @@ The side of the house had a mossy railing.
 
 ![Mossy Railing]({{ site.pics_url }}20240724_081501.jpg)  
 
-We walked back around the front of the house to exit and follow the road on the right of the house down to *The Cliff Walk* so we could walk in front of *The Breakers* and eventually reach the park near our car.  
+We walked back around the front of the house to exit and follow the road on the right of the house down to the *Cliff Walk* so we could walk in front of *The Breakers* and eventually reach the park near our car.  
 
 ![Camilla and Linda Walking in The Breakers Front Yard]({{ site.pics_url }}20240724_081543.jpg)  
 
@@ -150,7 +148,7 @@ We looked over the sea from the cliffs.
 
 ![Cliffs]({{ site.pics_url }}20240724_081922.jpg)  
 
-Linda and Camilla Walked down forty steps to the see from the park along *The Cliff Walk*.  
+Linda and Camilla Walked down forty steps to the sea from the park along the *Cliff Walk*.  
 
 ![Linda and Camilla 40 steps]({{ site.pics_url }}20240724_083233.jpg)  
 
