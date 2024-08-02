@@ -5,7 +5,7 @@ categories: ["summer vacation 2024"]
 ---
 We explored Sachuesst Point and a topiary garden.  
 
-Sachuest Point National Wildlife Refuge has 2.5 miles of nature trails bordering a rocky shore and beach. It is a small penninsula off of the Aquidneck Island where Newport is found. The grassy park is home to many deer, rabbits, and birds.  
+Sachuest Point National Wildlife Refuge has 2.5 miles of nature trails bordering a rocky shore and beach. It is a small penninsula off of the Aquidneck Island where Newport is found. When looking at a map, Camilla suggested it looks like an ostrich. The grassy park is home to many deer, rabbits, and birds.  
 
 The entrance to the trail had a sign clearly warning of tics.  
 
@@ -138,51 +138,27 @@ Camilla likes to look out into the distance. What is she thinking about?
 
 ![Camilla on Rock at Topiary]({{ site.pics_url }}20240710_124946.jpg)  
 
-
 ![Camilla on Rock]({{ site.pics_url }}20240710_124946.jpg)  
-
-
-
-
 
 ![Steve Camilla and Linda Pose at Topiary]({{ site.pics_url }}20240720_102128.jpg)  
 
 There was a big old tree near the house at the topiary site.  
 ![Camilla Big Tree]({{ site.pics_url }}20240710_132040.jpg)  
 
-
 ![Cammilla Pondering]({{ site.pics_url }}20240731_081003.jpg)  
 
+Camilla and Linda posed on the rock. It was a quiet space in the shade with a nice view.  
 
-![]({{ site.pics_url }}.jpg)  
+![Camilla Without Glass on Rock]({{ site.pics_url }}20240731_081708.jpg)  
 
-![]({{ site.pics_url }}.jpg)  
+![Linda Holding Camilla on Rock]({{ site.pics_url }}20240731_081439.jpg)  
 
-![]({{ site.pics_url }}.jpg)  
+![Camilla Without Glass on Rock]({{ site.pics_url }}20240731_081755.jpg)  
 
+![Linda Holding Camilla on Rock]({{ site.pics_url }}20240731_081354.jpg)  
 
-![]({{ site.pics_url }}.jpg)  
-
-![]({{ site.pics_url }}.jpg)  
-
-![]({{ site.pics_url }}.jpg)  
-
-
-![]({{ site.pics_url }}.jpg)  
-
-![]({{ site.pics_url }}.jpg)  
-
-![]({{ site.pics_url }}.jpg)  
-
-
-![]({{ site.pics_url }}.jpg)  
-
-![]({{ site.pics_url }}.jpg)  
-
-![]({{ site.pics_url }}.jpg)  
+![Camilla Without Glass on Roc]({{ site.pics_url }}20240731_081840.jpg)  
 
 ![Steve and Old Tree]({{ site.pics_url }}20240731_081301.jpg)  
 
-![]({{ site.pics_url }}.jpg)  
-
-![]({{ site.pics_url }}.jpg)  
+![Linda and Camilla on Rock Hugging]({{ site.pics_url }}20240731_081601.jpg)  
