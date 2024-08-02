@@ -7,7 +7,7 @@ We explored Sachuesst Point and a topiary garden.
 
 Sachuest Point National Wildlife Refuge has 2.5 miles of nature trails bordering a rocky shore and beach. It is a small penninsula off of the Aquidneck Island where Newport is found. When looking at a map, Camilla suggested it looks like an ostrich. The grassy park is home to many deer, rabbits, and birds.  
 
-The entrance to the trail had a sign clearly warning of tics.  
+The entrance to the trail had a sign clearly warning of ticks.  
 
 ![Camilla and Linda and Tic Sign]({{ site.pics_url }}20240730_075132.jpg)  
 
@@ -116,7 +116,7 @@ We also passed this tree.  It may have been asking the question that Linda has o
 
 ![Y Tree]({{ site.pics_url }}20240731_074816.jpg)  
 
-At the topiary garden, Linda quickly spotted this tic.  
+At the topiary garden, Linda quickly spotted this tick.  
 
 ![Tic]({{ site.pics_url }}20240731_075027.jpg)  
 
@@ -144,7 +144,6 @@ There was a big old tree near the house at the topiary site.
 ![Camilla Big Tree]({{ site.pics_url }}20240710_132040.jpg)  
 
 ![Cammilla Pondering]({{ site.pics_url }}20240731_081003.jpg)  
-
 Camilla and Linda posed on the rock. It was a quiet space in the shade with a nice view.  
 
 ![Camilla Without Glass on Rock]({{ site.pics_url }}20240731_081708.jpg)  
@@ -157,6 +156,6 @@ Camilla and Linda posed on the rock. It was a quiet space in the shade with a ni
 
 ![Camilla Without Glass on Roc]({{ site.pics_url }}20240731_081840.jpg)  
 
-![Steve and Old Tree]({{ site.pics_url }}20240731_081301.jpg)  
+![Steve and Old Tree]({{ site.pics_url }}20240731_081301.jpg) 
 
 ![Linda and Camilla on Rock Hugging]({{ site.pics_url }}20240731_081601.jpg)  
