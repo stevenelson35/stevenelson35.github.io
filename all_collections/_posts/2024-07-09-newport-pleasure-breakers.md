@@ -5,7 +5,6 @@ categories: ["summer vacation 2024"]
 ---
 We toured *The Breakers* and cliff walk on our first full day in Newport, Rhode Island.    
 
-
 We walked to a nice, cheap, small Greek diner for breakfast. On the way back to our hotel, we walked along streets with old houses, flowers, and a community garden.  
 
 ![Garden Sign]({{ site.pics_url }}20240709_092852.jpg)  
@@ -159,25 +158,23 @@ Camilla pondered many things looking down to the sea.
 
 ![Cliff Walk Waters]({{ site.pics_url }}20240709_135005.jpg)  
 
+![Linda and Camilla at Bottom of Cliffs High Up]({{ site.pics_url }}20240724_212911.jpg)  
 
+Once we got back to our hotel, we walked to the marina to see some birds, flowers, and the *Lobster Shack*.  
 
-![]({{ site.pics_url }}.jpg)  
+The seagulls were surprisingly large compared to what we see at the beaches in Florida.  
 
-![]({{ site.pics_url }}.jpg)  
+![Seagull]({{ site.pics_url }}20240724_210959.jpg)  
 
+![Camilla and Lobster Shack]({{ site.pics_url }}20240724_211841.jpg)  
 
+![Camilla Posing With Flowers]({{ site.pics_url }}20240724_211440.jpg)  
 
-![]({{ site.pics_url }}.jpg)  
+Later we drove to a store across from the International Tennis Hall of Fame Museum. We didn't look inside, but, recognized it by all the flags near the entrance. 
 
-![]({{ site.pics_url }}.jpg)  
+![Tennis Hall Of Fame]({{ site.pics_url }}20240724_212356.jpg)  
 
-![]({{ site.pics_url }}.jpg)  
+![FLowers]({{ site.pics_url }}20240724_212149.jpg)  
 
-![]({{ site.pics_url }}.jpg)  
-
-![]({{ site.pics_url }}.jpg)  
-
-
-![]({{ site.pics_url }}.jpg)  
-
+![Linda and Camilla at Bottom of Cliffs]({{ site.pics_url }}20240724_212615.jpg)  
 
