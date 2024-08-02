@@ -27,8 +27,6 @@ And may have packed the shells she found yesterday.
 
 ![Shells]({{ site.pics_url }}20240729_221534.jpg)  
 
-![Shells]({{ site.pics_url }}20240729_221534.jpg)  
-
 And then we were on our way!  
 
 ![On our way]({{ site.pics_url }}20240729_221937.jpg)  
@@ -41,7 +39,7 @@ One small town we drove through in Connecticut had a McDonalds with an older arc
 
 ![McDonalds]({{ site.pics_url }}20240729_220131.jpg)  
 
-One small city we stopped for a restroom in was near Sandy Hook.  
+We stopped for a restroom in a small town near Sandy Hook.  
 
 Once we got to Danbury we saw the familiar mall intersection with Dick's and LL Bean (not shown).  
 
@@ -49,11 +47,11 @@ Once we got to Danbury we saw the familiar mall intersection with Dick's and LL 
 
 We took a detour up Pine Mountain Road to see what that was like, since from google maps it looks like a great place to have a house near large forests. The road didn't look very inviting in person, though.  
 
-We drove from Danbury through Ridgefield to Stamford. Along the way we drove around Ridge Field High School.  
+We drove from Danbury through Ridgefield to Stamford. Along the way we drove around Ridgefield High School.  
 
 ![Ridge Field High School]({{ site.pics_url }}20240729_215841.jpg)  
 
-We recognized this Ridgefield Veterinary that may not be operational.  
+We recognized this Ridgefield Veterinary that we saw last year which may not be operational.  
 
 ![]({{ site.pics_url }}20240729_215702.jpg) 
 
