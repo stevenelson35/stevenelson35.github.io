@@ -17,6 +17,8 @@ The park behind the garden had an elephant statue from India representing a spec
 
 ![Camilla Smelling Flowers]({{ site.pics_url }}20240721_112021.jpg)  
 
+Hydrangea were very common in Newport. Linda said she read the title of an article that said Hydrangea are doing very well in the Northeast this year. She didn't read the article, so, we don't know why that is the case.  Maybe the heat?
+
 ![Flowers]({{ site.pics_url }}20240721_112057.jpg)  
 
 ![Rose]({{ site.pics_url }}20240721_112137.jpg)  
@@ -44,6 +46,8 @@ Then we headed for *The Beakers* along a sidewalk near a mossy fence.
 ![Mossy Fence]({{ site.pics_url }}20240709_103900.jpg)  
 
 ![Linda and Camilla Entering The Breakers]({{ site.pics_url }}20240721_113200.jpg)  
+
+*The Breakers* was built as a summer cottage of the Vanderbilt family.  
 
 ![Linda and Camilla in Front of The Breakers]({{ site.pics_url }}20240721_113308.jpg)  
 
