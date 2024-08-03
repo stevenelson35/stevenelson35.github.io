@@ -168,7 +168,7 @@ Camilla pondered many things looking down to the sea.
 
 Once we got back to our hotel, we walked to the marina to see some birds, flowers, and the *Lobster Shack*. We didn't eat at the *Lobster Sack*, but did find lobster rolls at another restaurant in Newport.  
 
-The seagulls were surprisingly large compared to what we see at the beaches in Florida.  There isn't anything in this picture to give a reference for the size of this seagull. Just imagine that the post in the picture the seagull is standing on is as big as the moon.  
+The seagulls were surprisingly large compared to what we see at the beaches in Florida.  There isn't anything in this picture to give a reference for the size of this seagull. Just imagine that the post in the picture the seagull is standing on is as big as an elephant - a small elephant.  
 
 ![Seagull]({{ site.pics_url }}20240724_210959.jpg)  
 
@@ -176,7 +176,7 @@ The seagulls were surprisingly large compared to what we see at the beaches in F
 
 ![Camilla Posing With Flowers]({{ site.pics_url }}20240724_211440.jpg)  
 
-Later we drove to a store across from the International Tennis Hall of Fame Museum. We didn't look inside, but, recognized it by all the flags near the entrance. 
+Later we drove to a store across from the International Tennis Hall of Fame Museum. We didn't look inside, but, recognized it by all the flags above the entrance. 
 
 ![Tennis Hall Of Fame]({{ site.pics_url }}20240724_212356.jpg)  
 
