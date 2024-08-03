@@ -3,9 +3,9 @@ author: steve
 tags: ["2024", summer, vacation]
 categories: ["summer vacation 2024"]
 ---
-We toured *The Breakers* and cliff walk on our first full day in Newport, Rhode Island.    
+We toured *The Breakers* and *Cliff Walk* on our first full day in Newport, Rhode Island.    
 
-We walked to a nice, cheap, small Greek diner for breakfast. On the way back to our hotel, we walked along streets with old houses, flowers, and a community garden.  
+We walked to a nice, inexpensive Greek diner for breakfast. On the way back to our hotel, we walked along streets with old houses, flowers, and a community garden.  
 
 ![Garden Sign]({{ site.pics_url }}20240709_092852.jpg)  
 
@@ -23,6 +23,8 @@ Hydrangea were very common in Newport. Linda said she read the title of an artic
 
 ![Flowers]({{ site.pics_url }}20240721_112057.jpg)  
 
+There were a few roses looking healthy. Not quite as amazing as the roses in Montreal last year, but pretty nice.  
+
 ![Rose]({{ site.pics_url }}20240721_112137.jpg)  
 
 Camilla Posed by a restaurant near our hotel.  
@@ -33,11 +35,13 @@ Whenever we walked back to the hotel, Camilla would hide along the columns.
 
 ![Camilla Hiding Returning From Breakfast]({{ site.pics_url }}20240721_111534.jpg)  
 
+And Linda would follow, walking at vacation speed ;).  
+
 ![Linda Returning From Breakfast]({{ site.pics_url }}20240721_112513.jpg)  
 
 We parked on a side street near *The Breakers* and walked to the famous house.  
 
-At first, we started to walk to a university by mistake.  
+At first, we started to walk down the driveway of a large building of (Salve Regina University)[https://salve.edu/] by mistake.  
 
 ![Linda and Cammilla At University Gate]({{ site.pics_url }}20240721_112631.jpg)  
 
@@ -49,7 +53,7 @@ Then we headed for *The Beakers* along a sidewalk near a mossy fence.
 
 ![Linda and Camilla Entering The Breakers]({{ site.pics_url }}20240721_113200.jpg)  
 
-*The Breakers* was built as a summer cottage of the Vanderbilt family.  
+*The Breakers* was built as a summer cottage by the Vanderbilt family.  
 
 ![Linda and Camilla in Front of The Breakers]({{ site.pics_url }}20240721_113308.jpg)  
 
@@ -71,7 +75,7 @@ The walls often had paintings of the family members and symbols that were meanin
 
 ![Lady Painting]({{ site.pics_url }}20240721_113958.jpg)  
 
-Acorns and oak leaves were important symbols representing strength and longevity and appear on the family crest.  
+Acorns and oak leaves were important symbols for the Vandebilts, representing strength and longevity. They appear on the family crest.  
 
 ![Acorn Symbols]({{ site.pics_url }}20240721_114126.jpg)  
 
@@ -79,7 +83,7 @@ Here is Gladys Moore Vanderbilt.
 
 ![Gladys Moore Vaderbilt]({{ site.pics_url }}20240721_114222.jpg)  
 
-The room on the right of the main room included a piano and was where someone got married.  
+The room on the right of the main room included a piano. Someone was married in that room.  
 
 ![Breakers Piano Room]({{ site.pics_url }}20240709_110842.jpg)  
 
@@ -122,7 +126,7 @@ Outside there was a herd of elephants from India like the one we saw walking bac
 
 ![Elephant Herd]({{ site.pics_url }}20240709_115944.jpg)  
 
-The backyard bordered the cliffs to the sea. On the other side of the fence was a *The Clif Walk* which extends a few miles along the coast.  
+The backyard bordered the cliffs to the sea. On the other side of the fence was an entrance to the *Cliff Walk* which extends a few miles along the coast.  
 
 ![Linda and Camilla Walking to Cliffs]({{ site.pics_url }}20240724_080758.jpg)  
 
@@ -134,7 +138,7 @@ The side of the house had a mossy railing.
 
 ![Mossy Railing]({{ site.pics_url }}20240724_081501.jpg)  
 
-We walked back around the front of the house to exit and follow the road on the right of the house down to the *Cliff Walk* so we could walk in front of *The Breakers* and eventually reach the park near our car.  
+We walked back around the front of the house to exit and follow the road on the right of the house down to the *Cliff Walk* so we could walk in front of *The Breakers* and eventually reach the *Forty Steps* park near our car.  
 
 ![Camilla and Linda Walking in The Breakers Front Yard]({{ site.pics_url }}20240724_081543.jpg)  
 
@@ -162,9 +166,9 @@ Camilla pondered many things looking down to the sea.
 
 ![Linda and Camilla at Bottom of Cliffs High Up]({{ site.pics_url }}20240724_212911.jpg)  
 
-Once we got back to our hotel, we walked to the marina to see some birds, flowers, and the *Lobster Shack*.  
+Once we got back to our hotel, we walked to the marina to see some birds, flowers, and the *Lobster Shack*. We didn't eat at the *Lobster Sack*, but did find lobster rolls at another restaurant in Newport.  
 
-The seagulls were surprisingly large compared to what we see at the beaches in Florida.  
+The seagulls were surprisingly large compared to what we see at the beaches in Florida.  There isn't anything in this picture to give a reference for the size of this seagull. Just imagine that the post in the picture the seagull is standing on is as big as the moon.  
 
 ![Seagull]({{ site.pics_url }}20240724_210959.jpg)  
 
