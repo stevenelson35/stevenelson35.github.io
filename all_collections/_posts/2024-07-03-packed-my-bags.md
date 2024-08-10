@@ -3,7 +3,7 @@ author: steve
 tags: ["2024", summer, vacation]
 categories: ["summer vacation 2024"]
 ---
-We quickly packed and headed to Winter Park to pickup Camilla early from camp to start our summer vacation.  
+We quickly packed and headed to Winter Park to pick up Camilla early from camp to start our summer vacation.  
 
 Camilla was exicted to go to camp at the Art Museum for a short week before our vacation.  
 
