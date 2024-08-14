@@ -15,7 +15,7 @@ The first animal we saw was a pheasant. Just a few feet down the trail in plain 
 
 ![Pheasant]({{ site.pics_url }}20240730_075520.jpg)  
 
-![Linda and Camilla Walking](({{ site.pics_url }}20240730_075653.jpg)
+![Linda and Camilla Walking]({{ site.pics_url }}20240730_075653.jpg)
 
 It didn't take long to see deer in the field.  
 
@@ -59,12 +59,11 @@ Linda always likes to look for creatures. She found some.
 
 ![Deer]({{ site.pics_url }}20240730_075310.jpg)  
 
-![Deer with Tail]({{ site.pics_url }}({{ site.pics_url }}.jpg)  
+![Deer with Tail]({{ site.pics_url }}({{ site.pics_url }}20240730_075754.jpg)  
 
 ![Yellow Bird]({{ site.pics_url }}20240730_075824.jpg)  
 
 ![Linda and Cammilla Walking]({{ site.pics_url }}20240730_075949.jpg)  
-
 
 ![Pink and Orange Flower]({{ site.pics_url }}20240710_122229.jpg)  
 
@@ -82,7 +81,7 @@ There were always sounds of different birds to look for in the trees.
 
 Apparently the bunnies had been busy creating more bunnies. They were abundant.  
 
-![Bunny]({{ site.pics_url }}20240731_070807.jpg)  
+![Bunny]({{ site.pics_url }}20240731_070853.jpg)  
 
 ![Linda and Camilla Seeing Bunny]({{ site.pics_url }}20240731_071028.jpg)  
 
@@ -90,7 +89,7 @@ Apparently the bunnies had been busy creating more bunnies. They were abundant.
 
 ![Purple Flower]({{ site.pics_url }}20240731_071220.jpg)  
 
-![Bunny]({{ site.pics_url }}20240731_070807.jpg)  
+![Bunny]({{ site.pics_url }}20240731_070957.jpg)  
 
 ![Camilla Seeing Bunny]({{ site.pics_url }}20240731_071353.jpg)  
 
