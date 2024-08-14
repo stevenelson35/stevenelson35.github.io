@@ -59,7 +59,7 @@ Linda always likes to look for creatures. She found some.
 
 ![Deer]({{ site.pics_url }}20240730_075310.jpg)  
 
-![Deer with Tail]({{ site.pics_url }}({{ site.pics_url }}20240730_075754.jpg)  
+![Deer with Tail]({{ site.pics_url }}20240730_075754.jpg)  
 
 ![Yellow Bird]({{ site.pics_url }}20240730_075824.jpg)  
 
