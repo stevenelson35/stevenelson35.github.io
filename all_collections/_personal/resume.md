@@ -8,7 +8,7 @@ description: A summary of my resume.
 
 <h3>Links</h3>
 
-- [LinkedIn - Steve Nelson ](https://www.linkedin.com/in/steve-john-nelson/))
+- [LinkedIn - Steve Nelson ](https://www.linkedin.com/in/steve-john-nelson/)
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="steve-john-nelson" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/steve-john-nelson?trk=profile-badge">Steve Nelson</a></div>
               
