@@ -21,7 +21,7 @@ Linda enjoyed being reminded that Iowa isn't always the cold gray state that she
 ![20210726_215247.jpg]({{site.pics_url}}/20210726_215247.jpg)
 ![20210726_215149.jpg]({{site.pics_url}}/20210726_215149.jpg)
 
-While we stopped to look around, we were passed by truck hauling an enourmous windmill blade.  
+While we stopped to look around, we were passed by a truck hauling an enourmous windmill blade.  
 
 ![20210726_214839.jpg]({{site.pics_url}}/20210726_214839.jpg)
 ![20210726_083923.jpg]({{site.pics_url}}/20210726_083923.jpg)
