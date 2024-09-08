@@ -6,7 +6,7 @@ description: A summary of my resume.
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<h3>Experience</h3>
+<h2>Experience</h2>
 
 - Luminar Technologies Inc. – Staff Software Engineer – Orlando, FL
   -	Lidar Simulation
@@ -20,15 +20,15 @@ description: A summary of my resume.
   - Systems and Controls
   - Diagnostics and Prognostics
 
-<h3>Resume</h3>
+<h2>Resume Download Links</h2>
 
 [Steve J Nelson Resume PDF]({{site.jobs_url}}/Steve_J_Nelson_Resume_2024-09-11.pdf)
 
 [![Resume]({{site.jobs_url}}/Steve_J_Nelson_Resume_2024-09-11.png)]({{site.jobs_url}}/Steve_J_Nelson_Resume_2024-09-11.pdf)
 
-[Steve J Nelson Resume PDF (detail)]({{site.jobs_url}}/Steve_J_Nelson_Resume_Detail_2024-09-17.pdf)
+[Steve J Nelson Resume PDF (detail)]({{site.jobs_url}}/Steve_J_Nelson_Resume_Detail_2024-09-07.pdf)
 
-<h3>Links</h3>
+<h2>Links</h2>
 
 - [LinkedIn - Steve Nelson ](https://www.linkedin.com/in/steve-john-nelson/)
 
