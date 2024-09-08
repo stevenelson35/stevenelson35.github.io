@@ -5,10 +5,10 @@ description: A list of actions taken and plan status.
 <h1>{{page.name}}</h1>
 
 <h3>Links</h3>
-[LeetCode](https://leetcode.com/)
-[HackerRank](https://www.hackerrank.com/)
-[Tech Interview Handbook](https://www.techinterviewhandbook.org/)
-[System Design Primer](https://github.com/donnemartin/system-design-primer)
+[LeetCode](https://leetcode.com/)  
+[HackerRank](https://www.hackerrank.com/)  
+[Tech Interview Handbook](https://www.techinterviewhandbook.org/)  
+[System Design Primer](https://github.com/donnemartin/system-design-primer)  
 
 
 |Date|Description|Status|Complete Y/N|
