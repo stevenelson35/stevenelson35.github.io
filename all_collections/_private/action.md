@@ -5,6 +5,8 @@ description: A list of actions taken and plan status.
 <h1>{{page.name}}</h1>
 
 <h3>Links</h3>
+[LinkedIn](http://www.linkedin.com)
+{indeed](https://www.indeed.com/q-c++-software-engineer-jobs.html?vjk=e47deda12be2efd5)
 [LeetCode](https://leetcode.com/)  
 [HackerRank](https://www.hackerrank.com/)  
 [Tech Interview Handbook](https://www.techinterviewhandbook.org/)  
