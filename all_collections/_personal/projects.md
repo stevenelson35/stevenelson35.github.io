@@ -8,7 +8,13 @@ description: A list of past or active projects.
 None
 
 Mermaid Test
+
+```mermaid
+  info
+```
+
 ```mermaid
 flowchart TD
     Start --> Stop
 ```
+
