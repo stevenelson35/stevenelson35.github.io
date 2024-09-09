@@ -20,6 +20,7 @@ The {{ site.title }} site:
 - Processes payments with [PayPal](https://paypal.com).
 - Adds posts sometimes using [prose.io](https://prose.io).  
 - And Embeds youtube links w/o plugin by [jekyll-embed-video](https://github.com/nathancy/jekyll-embed-video).
+- And includes diagrams using [Mermaid](https://github.com/mermaid-js/mermaid).
   
 Jekyll is a blog-aware static site builder that:
 - Performs text-to-html conversion with [Markdown](https://daringfireball.net/projects/markdown/).
