@@ -13,7 +13,7 @@ description: A list of past or active goals.
 </pre>
 
 <pre class="mermaid" >
-  xchart-beta
+  xychart-beta
     title "Weight" 
     x-axis [a, b, c] 
     y-axis "lbs" 100 --> 200
