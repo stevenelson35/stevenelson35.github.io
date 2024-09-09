@@ -9,13 +9,17 @@ description: A list of past or active goals.
 <h2>Weight</h2>
 
 <pre class="mermaid" >
-  info
-</pre>
-
-<pre class="mermaid" >
+---
+  config:
+    xyChart:
+      tickWidth: 10
+      tickLength: 10
+    themeVariables:
+      titleColor: "#00ff00" 
+---
   xychart-beta
     title "Weight" 
-    x-axis [a, b, c] 
-    y-axis "lbs" 100 --> 200
+    x-axis [1, 2, 3] 
+    y-axis "lbs" 175 --> 200
     line [196.6, 196.0, 194.6]
 </pre>
