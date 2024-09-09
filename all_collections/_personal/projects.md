@@ -18,3 +18,11 @@ flowchart TD
     Start --> Stop
 ```
 
+<pre class="mermaid" >
+  info
+</pre>
+
+<pre class="mermaid" >
+  graph LR
+  A --- B
+</pre>
