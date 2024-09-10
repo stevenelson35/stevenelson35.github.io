@@ -19,7 +19,7 @@ description: A list of past or active goals.
   
 |Day No.|Date|Weight (lbs)|
 |:---|:---:|---:|
-|1|9/7|<font color="000088"> 196.6</font>|
-|2|9/8|<font color="005888"> 196.0</font>|
-|3|9/9|<font color="#00D888">194.6</font>|
-|4|9/10|<font color="#00A888">193.6</font>|
+|1|9/7|<font color="444488"> 196.6</font>|
+|2|9/8|<font color="445888"> 196.0</font>|
+|3|9/9|<font color="#44D888">194.6</font>|
+|4|9/10|<font color="#44A888">193.6</font>|
