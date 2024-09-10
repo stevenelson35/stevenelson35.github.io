@@ -7,18 +7,19 @@ description: A list of past or active goals.
 
 
 <h2>Weight</h2>
-
+  
 <pre class="mermaid" >
   xychart-beta
     title "Weight" 
     x-axis [1, 2, 3, 4] 
     y-axis "lbs" 175 --> 200
     line [196.6, 196.0, 194.6, 193.6]
+    bar [196.6, 196.0, 194.6, 193.6]
 </pre>
   
 |Day No.|Date|Weight (lbs)|
 |:---|:---:|---:|
-|1|9/7|196.6|
-|2|9/8|196.0|
-|3|9/9|194.6|
-|4|9/10|193.6|
+|1|9/7|<font color="blue"> 196.6</font>|
+|2|9/8|<font color="green"> 196.0</font>|
+|3|9/9|<font color="#00FF00">194.6</font>|
+|4|9/10|<font color="#008800">193.6</font>|
