@@ -11,7 +11,7 @@ description: A list of past or active goals.
 <pre class="mermaid" >
   xychart-beta
     title "Weight" 
-    x-axis [1, 2, 3, 4] 
+    x-axis [1, 2, 3, 4, 5] 
     y-axis "lbs" 175 --> 200
     line [196.6, 196.0, 194.6, 193.6, 192.0]
     bar [196.6, 196.0, 194.6, 193.6, 192.0]
