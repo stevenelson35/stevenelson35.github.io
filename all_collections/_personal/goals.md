@@ -24,4 +24,4 @@ description: A list of past or active goals.
 |3|9/9|<font color="#44D888">194.6</font>|
 |4|9/10|<font color="#44A888">193.6</font>|
 |5|9/11|<font color="#44F888">192.0</font>|
-|6|9/12|<font color="#44F888">191.4</font>|
+|6|9/12|<font color="#448888">191.4</font>|
