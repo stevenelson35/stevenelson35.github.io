@@ -4,17 +4,17 @@ name: Goals
 description: A list of past or active goals.
 ---
 <h1>{{page.name}}</h1>
-
-
-<h2>Weight</h2>
+  
+  
+<h2>Weight (Goal 169lbs)</h2>
   
 <pre class="mermaid" >
   xychart-beta
     title "Weight" 
     x-axis [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] 
     y-axis "lbs" 175 --> 200
-    line [196.6, 196.0, 194.6, 193.6, 192.0, 191.4, 191.0, 190.6, 189.8, 189.2, 189.2]
-    bar [196.6, 196.0, 194.6, 193.6, 192.0, 191.4, 191.0, 190.6, 189.8, 189.2, 189.2]
+    line [196.6, 196.0, 194.6, 193.6, 192.0, 191.4, 191.0, 190.6, 189.8, 189.2, 189.2, 188.4]
+    bar [196.6, 196.0, 194.6, 193.6, 192.0, 191.4, 191.0, 190.6, 189.8, 189.2, 189.2, 188.4]
 </pre>
   
 |Day No.|Date|Weight (lbs)|
@@ -30,3 +30,4 @@ description: A list of past or active goals.
 |9|9/15|<font color="#44B888">189.8</font>|
 |10|9/16|<font color="#44A888">189.2</font>|
 |11|9/17|<font color="#444888">189.2</font>|
+|12|9/18|<font color="#44C888">188.4</font>|
