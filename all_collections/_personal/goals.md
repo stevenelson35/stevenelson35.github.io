@@ -32,4 +32,12 @@ description: A list of past or active goals.
 |11|9/17|<font color="#444888">189.2</font>|
 |12|9/18|<font color="#44C888">188.4</font>|
 |13|9/19|<font color="#44E888">187.2</font>|
-|14|9/19|<font color="#446888">187.0</font>|
+|14|9/20|<font color="#446888">187.0</font>|
+|15|9/21|<font color="#446888"></font>|
+|16|9/22|<font color="#446888"></font>|
+|17|9/23|<font color="#446888"></font>|
+|18|9/24|<font color="#446888"></font>|
+|19|9/25|<font color="#446888"></font>|
+|20|9/26|<font color="#446888"></font>|
+|21|9/27|<font color="#446888"></font>|
+|22|9/28|<font color="#446888"></font>|
