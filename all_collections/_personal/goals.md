@@ -38,6 +38,6 @@ description: A list of past or active goals.
 |17|9/23|<font color="#44F888">183.8</font>|
 |18|9/24|<font color="#444888">183.8</font>|
 |19|9/25|<font color="#446888">183.6</font>|
-|20|9/26|<font color="#4E4888">184.8</font>|
+|20|9/26|<font color="#E84888">184.8</font>|
 |21|9/27|<font color="#446888"></font>|
 |22|9/28|<font color="#446888"></font>|
