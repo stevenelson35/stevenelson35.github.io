@@ -34,3 +34,5 @@ description: Notes and references for the C++ programming language.
   
 - [CppCast](https://cppcast.com/)
 - [C++14/17/20 Key Differences](https://www.geeksforgeeks.org/cpp14-vs-cpp17-vs-cpp20/)
+
+- [pre-commit](https://pre-commit.com/)
