@@ -28,17 +28,16 @@ description: March 2025 Home Search
 [Google Maps : 17 N Shine Ave](https://maps.app.goo.gl/cXAV2YYcyswD1e5F9)  
 - Interested in seeing.
 
-[Zillow : 1800 Wycliff Dr, Orlando, FL 32803](https://www.zillow.com/homedetails/1800-Wycliff-Dr-Orlando-FL-32803/46116707_zpid/)  
-[Google Maps : 1800 Wycliff Dr](https://maps.app.goo.gl/THyMBLa7FrTf2pvV8)  
-- Open House: Sat, Mar 8 : 10:00 AM - 2:00 PM 
-- Interested in seeing.
-
 [Zillow : 1001 Nottingham St, Orlando, FL 32803](https://www.zillow.com/homedetails/1001-Nottingham-St-Orlando-FL-32803/46109138_zpid/)  
 [Google Maps : 1001 Nottingham St](https://maps.app.goo.gl/VdRJXfs4iMVmSe4KA)  
 - Open House: Sun, Mar 9: 2:00 PM - 4:00 PM 
 - Interested in seeing.
 
-# Homes Seen
+# Homes Seen (but no longer considering) 
+
+[Zillow : 1800 Wycliff Dr, Orlando, FL 32803](https://www.zillow.com/homedetails/1800-Wycliff-Dr-Orlando-FL-32803/46116707_zpid/)  
+[Google Maps : 1800 Wycliff Dr](https://maps.app.goo.gl/THyMBLa7FrTf2pvV8)  
+- Open House: Sat, Mar 8 : 10:00 AM - 2:00 PM (attended, not interested) 
 
 [Zillow : 1616 E Marks St, Orlando, FL 32803](https://www.zillow.com/homedetails/1616-E-Marks-St-Orlando-FL-32803/46156351_zpid/)  
 [Google Maps : 1616 E Marks St](https://maps.app.goo.gl/3Yrb5RRcEpwUqGmj7)  
