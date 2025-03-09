@@ -3,12 +3,12 @@ name: Orlando Homes
 description: March 2025 Home Search
 ---
 <h1>{{page.name}}</h1>
-  
-  
+</br>
+</br>
 # Homes Currently Interested In  
-  
+</br>
 ## Open Houses Sun, March 9th  
-  
+</br>
 [Zillow : 718 E. Livingston St, Orlando, FL 32803](https://www.zillow.com/homedetails/718-E-Livingston-St-Orlando-FL-32803/46196060_zpid/)  
 [Google Maps : 718 E. Livingston St](https://maps.app.goo.gl/1M5fkfZQud98v64D9)  
 - Open House: Sun, Mar 2 (attended, interested in another look) 
@@ -21,6 +21,10 @@ description: March 2025 Home Search
 [Zillow : 1001 Nottingham St, Orlando, FL 32803](https://www.zillow.com/homedetails/1001-Nottingham-St-Orlando-FL-32803/46109138_zpid/)  
 [Google Maps : 1001 Nottingham St](https://maps.app.goo.gl/VdRJXfs4iMVmSe4KA)  
 - Open House: Sun, Mar 9: 2:00 PM - 4:00 PM 
+
+</br>
+</br>
+## Interested in Seeing 
   
 [Zillow : 606 E. Amelia St, Orlando, FL 32803](https://www.zillow.com/homedetails/606-E-Amelia-St-Orlando-FL-32803/46196548_zpid/)  
 [Google Maps : 606 E. Amelia St](https://maps.app.goo.gl/ZbtgTWteA86mKDyv9)  
@@ -30,10 +34,11 @@ description: March 2025 Home Search
 [Google Maps : 528 Broadway Ave](https://maps.app.goo.gl/EqtoXnLnGSU617Yh8)
 - Interested in seeing.
   
-[Zillow : 17 N Shine Ave, Orlando, FL 32801](https://www.zillow.com/homedetails/17-N-Shine-Ave-Orlando-FL-32801/46196313_zpid/)
+[Zillow : 17 N Shine Ave, Orlando, FL 32801](https://www.zillow.com/homedetails/17-N-Shine-Ave-Orlando-FL-32801/46196313_zpid/)  
 [Google Maps : 17 N Shine Ave](https://maps.app.goo.gl/cXAV2YYcyswD1e5F9)  
 - Interested in seeing.
-
+</br>
+</br>
   
 # Homes Seen (but no longer considering) 
   
