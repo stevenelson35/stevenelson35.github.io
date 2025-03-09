@@ -12,15 +12,15 @@ description: March 2025 Home Search
 [Zillow : 718 E. Livingston St, Orlando, FL 32803](https://www.zillow.com/homedetails/718-E-Livingston-St-Orlando-FL-32803/46196060_zpid/)  
 [Google Maps : 718 E. Livingston St](https://maps.app.goo.gl/1M5fkfZQud98v64D9)  
 - Open House: Sun, Mar 2 (attended, interested in another look) 
-- Open House: Sun, Mar 9 : 11:00 AM - 1:00 PM  
+- Open House: Sun, Mar 9 : 11:00 AM - 1:00 PM  (attending...)
   
 [Zillow : 428 Highland Ave, Orlando, FL 32801](https://www.zillow.com/homedetails/428-Highland-Ave-Orlando-FL-32801/46196537_zpid/)  
 [Google Maps : 428 Highland Ave](https://maps.app.goo.gl/kVe9x2GHeBMR1PpdA)  
-- Open House: Sun, Mar 9 : 11:00 AM - 1:00 PM  
+- Open House: Sun, Mar 9 : 11:00 AM - 1:00 PM  (attending...)
   
 [Zillow : 1001 Nottingham St, Orlando, FL 32803](https://www.zillow.com/homedetails/1001-Nottingham-St-Orlando-FL-32803/46109138_zpid/)  
 [Google Maps : 1001 Nottingham St](https://maps.app.goo.gl/VdRJXfs4iMVmSe4KA)  
-- Open House: Sun, Mar 9: 2:00 PM - 4:00 PM  
+- Open House: Sun, Mar 9: 2:00 PM - 4:00 PM  (attending...)
   
 <br/>
 ## Interested in Seeing  
