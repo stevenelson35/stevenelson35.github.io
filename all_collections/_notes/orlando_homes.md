@@ -8,7 +8,8 @@ description: March 2025 Home Search
 <br/>
 ## Open Houses Sun, March 9th  
 <br/>
-[Zillow : 718 E. Livingston St, Orlando, FL 32803] (https://www.zillow.com/homedetails/718-E-Livingston-St-Orlando-FL-32803/46196060_zpid/)  
+  
+[Zillow : 718 E. Livingston St, Orlando, FL 32803](https://www.zillow.com/homedetails/718-E-Livingston-St-Orlando-FL-32803/46196060_zpid/)  
 [Google Maps : 718 E. Livingston St](https://maps.app.goo.gl/1M5fkfZQud98v64D9)  
 - Open House: Sun, Mar 2 (attended, interested in another look) 
 - Open House: Sun, Mar 9 : 11:00 AM - 1:00 PM  
@@ -37,10 +38,12 @@ description: March 2025 Home Search
 - Interested in seeing.  
 <br/>
 <br/>
+  
 # Homes Seen  
-<br/>
+<br/>  
 ## No longer Interested In  
-<br/>
+<br/>  
+  
 [Zillow : 1800 Wycliff Dr, Orlando, FL 32803](https://www.zillow.com/homedetails/1800-Wycliff-Dr-Orlando-FL-32803/46116707_zpid/)  
 [Google Maps : 1800 Wycliff Dr](https://maps.app.goo.gl/THyMBLa7FrTf2pvV8)  
 - Open House: Sat, Mar 8 : 10:00 AM - 2:00 PM (attended, not interested) 
