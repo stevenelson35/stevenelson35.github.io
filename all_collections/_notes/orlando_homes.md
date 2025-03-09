@@ -4,7 +4,6 @@ description: March 2025 Home Search
 ---
 <h1>{{page.name}}</h1>
 <br/>
-<br/>
 # Homes Currently Interested In  
 <br/>
 ## Open Houses Sun, March 9th  
@@ -21,11 +20,9 @@ description: March 2025 Home Search
 [Zillow : 1001 Nottingham St, Orlando, FL 32803](https://www.zillow.com/homedetails/1001-Nottingham-St-Orlando-FL-32803/46109138_zpid/)  
 [Google Maps : 1001 Nottingham St](https://maps.app.goo.gl/VdRJXfs4iMVmSe4KA)  
 - Open House: Sun, Mar 9: 2:00 PM - 4:00 PM 
-
-<br/>
 <br/>
 ## Interested in Seeing 
-  
+<br/>
 [Zillow : 606 E. Amelia St, Orlando, FL 32803](https://www.zillow.com/homedetails/606-E-Amelia-St-Orlando-FL-32803/46196548_zpid/)  
 [Google Maps : 606 E. Amelia St](https://maps.app.goo.gl/ZbtgTWteA86mKDyv9)  
 - Interested in seeing.
@@ -39,9 +36,10 @@ description: March 2025 Home Search
 - Interested in seeing.
 <br/>
 <br/>
-  
-# Homes Seen (but no longer considering) 
-  
+# Homes Seen 
+<br/>
+## No longer Interested In
+<br/>
 [Zillow : 1800 Wycliff Dr, Orlando, FL 32803](https://www.zillow.com/homedetails/1800-Wycliff-Dr-Orlando-FL-32803/46116707_zpid/)  
 [Google Maps : 1800 Wycliff Dr](https://maps.app.goo.gl/THyMBLa7FrTf2pvV8)  
 - Open House: Sat, Mar 8 : 10:00 AM - 2:00 PM (attended, not interested) 
