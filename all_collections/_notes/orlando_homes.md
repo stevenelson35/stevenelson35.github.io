@@ -7,8 +7,12 @@ description: March 2025 Home Search
 <br/>
 ## Homes Interested in Seeing  
 <br/>
-- TBD
-  
+- [Zillow : 1795 Walker Ave, Winter Park, FL 32789](https://www.zillow.com/homedetails/1795-Walker-Ave-Winter-Park-FL-32789/46060698_zpid/)  
+[Google Maps : 179t Walker Ave](https://maps.app.goo.gl/z1SXvdwpeJLfiE3k8)
+- 1 story. Covered breezeway. Garage. 5 bedrooms.
+- Largely new remodel and systems. 
+- Not downtown, but closer to school & activities. 
+
 <br/>
 # Homes Seen  
 <br/>  
@@ -19,16 +23,18 @@ description: March 2025 Home Search
 [Google Maps : 718 E. Livingston St](https://maps.app.goo.gl/1M5fkfZQud98v64D9)  
 - Open House: Sun, Mar 2 (attended, interested in another look) 
 - Open House: Sun, Mar 9 : 11:00 AM - 1:00 PM  (attended, considering)
+- Largely new remodel and systems. Pool. No garage. Upstairs bedrooms. 
 
 2. [Zillow : 606 E. Amelia St, Orlando, FL 32803](https://www.zillow.com/homedetails/606-E-Amelia-St-Orlando-FL-32803/46196548_zpid/)  
 [Google Maps : 606 E. Amelia St](https://maps.app.goo.gl/ZbtgTWteA86mKDyv9)  
-- Toured home on Monday, 10 March 2025 (considering) 
+- Toured home on Monday, 10 March 2025 (considering)
+- Minimal yard upkeep, no pool. Possible covered/gated car port. Upstairs bedrooms. Storage and pantry. 
 
 3. [Zillow : 428 Highland Ave, Orlando, FL 32801](https://www.zillow.com/homedetails/428-Highland-Ave-Orlando-FL-32801/46196537_zpid/)  
 [Google Maps : 428 Highland Ave](https://maps.app.goo.gl/kVe9x2GHeBMR1PpdA)  
 - Open House: Sun, Mar 9 : 11:00 AM - 1:00 PM  (attended, considering)
-- great kitchen area, nicely landscaped backyard, storage.
-- small bedrooms other than master with largest on street side.
+- Great kitchen area, nicely landscaped backyard, storage.
+- Small bedrooms other than master with largest on street side.
 
 <br/>
 ## Homes Seen and No longer Interested In  
