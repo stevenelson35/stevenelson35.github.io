@@ -7,8 +7,8 @@ description: March 2025 Home Search
 <br/>
 ## Homes Interested in Seeing  
 <br/>
-- [Zillow : 1795 Walker Ave, Winter Park, FL 32789](https://www.zillow.com/homedetails/1795-Walker-Ave-Winter-Park-FL-32789/46060698_zpid/)  
-[Google Maps : 179t Walker Ave](https://maps.app.goo.gl/z1SXvdwpeJLfiE3k8)
+1. [Zillow : 1795 Walker Ave, Winter Park, FL 32789](https://www.zillow.com/homedetails/1795-Walker-Ave-Winter-Park-FL-32789/46060698_zpid/)  
+[Google Maps : 1795 Walker Ave](https://maps.app.goo.gl/z1SXvdwpeJLfiE3k8)
 - 1 story. Covered breezeway. Garage. 5 bedrooms.
 - Largely new remodel and systems. 
 - Not downtown, but closer to school & activities. 
