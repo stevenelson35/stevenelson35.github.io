@@ -7,26 +7,27 @@ description: March 2025 Home Search
 # Homes Currently Interested In  
 <br/>
 ## Homes Seen and Considering<br/>
-  
-[Zillow : 718 E. Livingston St, Orlando, FL 32803](https://www.zillow.com/homedetails/718-E-Livingston-St-Orlando-FL-32803/46196060_zpid/)  
+
+1. [Zillow : 718 E. Livingston St, Orlando, FL 32803](https://www.zillow.com/homedetails/718-E-Livingston-St-Orlando-FL-32803/46196060_zpid/)  
 [Google Maps : 718 E. Livingston St](https://maps.app.goo.gl/1M5fkfZQud98v64D9)  
 - Open House: Sun, Mar 2 (attended, interested in another look) 
 - Open House: Sun, Mar 9 : 11:00 AM - 1:00 PM  (attended, considering)
-  
-[Zillow : 428 Highland Ave, Orlando, FL 32801](https://www.zillow.com/homedetails/428-Highland-Ave-Orlando-FL-32801/46196537_zpid/)  
+
+2. [Zillow : 606 E. Amelia St, Orlando, FL 32803](https://www.zillow.com/homedetails/606-E-Amelia-St-Orlando-FL-32803/46196548_zpid/)  
+[Google Maps : 606 E. Amelia St](https://maps.app.goo.gl/ZbtgTWteA86mKDyv9)  
+- Toured home on Monday, 10 March 2025 (considering) 
+
+3. [Zillow : 428 Highland Ave, Orlando, FL 32801](https://www.zillow.com/homedetails/428-Highland-Ave-Orlando-FL-32801/46196537_zpid/)  
 [Google Maps : 428 Highland Ave](https://maps.app.goo.gl/kVe9x2GHeBMR1PpdA)  
 - Open House: Sun, Mar 9 : 11:00 AM - 1:00 PM  (attended, considering)
+- great kitchen area, nicely landscaped backyard, storage.
+- small bedrooms outburst than master.  
   
 <br/>
 ## Homes Interested in Seeing  
 <br/>
-[Zillow : 606 E. Amelia St, Orlando, FL 32803](https://www.zillow.com/homedetails/606-E-Amelia-St-Orlando-FL-32803/46196548_zpid/)  
-[Google Maps : 606 E. Amelia St](https://maps.app.goo.gl/ZbtgTWteA86mKDyv9)  
-- Interested in seeing.  
+TBD
   
-[Zillow : 17 N Shine Ave, Orlando, FL 32801](https://www.zillow.com/homedetails/17-N-Shine-Ave-Orlando-FL-32801/46196313_zpid/)  
-[Google Maps : 17 N Shine Ave](https://maps.app.goo.gl/cXAV2YYcyswD1e5F9)  
-- Interested in seeing.  
 <br/>
 <br/>
   
@@ -34,6 +35,12 @@ description: March 2025 Home Search
 <br/>  
 ## No longer Interested In  
 <br/>  
+
+[Zillow : 17 N Shine Ave, Orlando, FL 32801](https://www.zillow.com/homedetails/17-N-Shine-Ave-Orlando-FL-32801/46196313_zpid/)  
+[Google Maps : 17 N Shine Ave](https://maps.app.goo.gl/cXAV2YYcyswD1e5F9)  
+- Toured home on Monday, 10 March 2025 (no longer considering)
+- 3 bedrooms, one smaller than expected. Probably need 4 bedrooms. 
+- Nearly entirely redone home with detached 2 car garage. 
 
 [Zillow : 1001 Nottingham St, Orlando, FL 32803](https://www.zillow.com/homedetails/1001-Nottingham-St-Orlando-FL-32803/46109138_zpid/)  
 [Google Maps : 1001 Nottingham St](https://maps.app.goo.gl/VdRJXfs4iMVmSe4KA)  
