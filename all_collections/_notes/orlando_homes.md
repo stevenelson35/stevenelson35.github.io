@@ -7,30 +7,38 @@ description: March 2025 Home Search
 <br/>
 ## Homes Interested in Seeing  
 <br/>
-1. [Zillow : 1795 Walker Ave, Winter Park, FL 32789](https://www.zillow.com/homedetails/1795-Walker-Ave-Winter-Park-FL-32789/46060698_zpid/)  
-[Google Maps : 1795 Walker Ave](https://maps.app.goo.gl/z1SXvdwpeJLfiE3k8)
-- 1 story. Covered breezeway. Garage. 5 bedrooms.
-- Largely new remodel and systems. 
-- Not downtown, but closer to school & activities. 
+TBD
 
-<br/>
+<br/>j
 # Homes Seen  
 <br/>  
 
-## Homes Seen and Considering<br/>
+## Homes Seen and Actively Considering<br/>
 
 1. [Zillow : 718 E. Livingston St, Orlando, FL 32803](https://www.zillow.com/homedetails/718-E-Livingston-St-Orlando-FL-32803/46196060_zpid/)  
 [Google Maps : 718 E. Livingston St](https://maps.app.goo.gl/1M5fkfZQud98v64D9)  
 - Open House: Sun, Mar 2 (attended, interested in another look) 
 - Open House: Sun, Mar 9 : 11:00 AM - 1:00 PM  (attended, considering)
-- Largely new remodel and systems. Pool. No garage. Upstairs bedrooms. 
+- Largely new remodel and systems. Pool. No garage. Upstairs bedrooms.
 
-2. [Zillow : 606 E. Amelia St, Orlando, FL 32803](https://www.zillow.com/homedetails/606-E-Amelia-St-Orlando-FL-32803/46196548_zpid/)  
+2. [Zillow : 1795 Walker Ave, Winter Park, FL 32789](https://www.zillow.com/homedetails/1795-Walker-Ave-Winter-Park-FL-32789/46060698_zpid/)  
+[Google Maps : 1795 Walker Ave](https://maps.app.goo.gl/z1SXvdwpeJLfiE3k8)
+- 1 story. Covered breezeway. Garage (small). 5 bedrooms.
+- Largely new remodel and systems.
+- Perfect style and coloring for bathrooms and kitchen.  
+- Not downtown, but closer to school & activities than current home.
+- Not as convenient for school as Eola Heights home, but less expensive. 
+
+3. [Zillow : 606 E. Amelia St, Orlando, FL 32803](https://www.zillow.com/homedetails/606-E-Amelia-St-Orlando-FL-32803/46196548_zpid/)  
 [Google Maps : 606 E. Amelia St](https://maps.app.goo.gl/ZbtgTWteA86mKDyv9)  
 - Toured home on Monday, 10 March 2025 (considering)
-- Minimal yard upkeep, no pool. Possible covered/gated car port. Upstairs bedrooms. Storage and pantry. 
+- Minimal yard upkeep, and no pool maintenace. Possible covered/gated car port. Upstairs bedrooms. Storage and pantry. 
 
-3. [Zillow : 428 Highland Ave, Orlando, FL 32801](https://www.zillow.com/homedetails/428-Highland-Ave-Orlando-FL-32801/46196537_zpid/)  
+<br/>
+## Homes Seen and Less Interested In (backups) 
+<br/>  
+
+A. [Zillow : 428 Highland Ave, Orlando, FL 32801](https://www.zillow.com/homedetails/428-Highland-Ave-Orlando-FL-32801/46196537_zpid/)  
 [Google Maps : 428 Highland Ave](https://maps.app.goo.gl/kVe9x2GHeBMR1PpdA)  
 - Open House: Sun, Mar 9 : 11:00 AM - 1:00 PM  (attended, considering)
 - Great kitchen area, nicely landscaped backyard, storage.
