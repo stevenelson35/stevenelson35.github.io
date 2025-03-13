@@ -8,13 +8,11 @@ description: March 2025 Home Search
 ## Homes Interested in Seeing  
 <br/>
 TBD
-
-<br/>j
+<br/>
 # Homes Seen  
 <br/>  
-
 ## Homes Seen and Actively Considering<br/>
-
+<br/>
 1. [Zillow : 718 E. Livingston St, Orlando, FL 32803](https://www.zillow.com/homedetails/718-E-Livingston-St-Orlando-FL-32803/46196060_zpid/)  
 [Google Maps : 718 E. Livingston St](https://maps.app.goo.gl/1M5fkfZQud98v64D9)  
 - Open House: Sun, Mar 2 (attended, interested in another look) 
@@ -33,21 +31,17 @@ TBD
 [Google Maps : 606 E. Amelia St](https://maps.app.goo.gl/ZbtgTWteA86mKDyv9)  
 - Toured home on Monday, 10 March 2025 (considering)
 - Minimal yard upkeep, and no pool maintenace. Possible covered/gated car port. Upstairs bedrooms. Storage and pantry. 
-
 <br/>
 ## Homes Seen and Less Interested In (backups) 
 <br/>  
-
 A. [Zillow : 428 Highland Ave, Orlando, FL 32801](https://www.zillow.com/homedetails/428-Highland-Ave-Orlando-FL-32801/46196537_zpid/)  
 [Google Maps : 428 Highland Ave](https://maps.app.goo.gl/kVe9x2GHeBMR1PpdA)  
 - Open House: Sun, Mar 9 : 11:00 AM - 1:00 PM  (attended, considering)
 - Great kitchen area, nicely landscaped backyard, storage.
 - Small bedrooms other than master with largest on street side.
-
 <br/>
 ## Homes Seen and No longer Interested In  
 <br/>  
-
 [Zillow : 17 N Shine Ave, Orlando, FL 32801](https://www.zillow.com/homedetails/17-N-Shine-Ave-Orlando-FL-32801/46196313_zpid/)  
 [Google Maps : 17 N Shine Ave](https://maps.app.goo.gl/cXAV2YYcyswD1e5F9)  
 - Toured home on Monday, 10 March 2025 (no longer considering)
@@ -69,11 +63,9 @@ A. [Zillow : 428 Highland Ave, Orlando, FL 32801](https://www.zillow.com/homedet
 [Zillow : 902 Altaloma Ave, Orlando, FL 32803](https://www.zillow.com/homedetails/902-Altaloma-Ave-Orlando-FL-32803/440582389_zpid/)  
 [Google Maps : 902 Altaloma Ave](https://maps.app.goo.gl/T7evdLpvofnTtw1V7)  
 - Open House: Sun, Mar 2 (attended, not interested)
-
 <br/>
 # Homes not seen, considered, but no longer interested in 
 <br/>
-
 [Zillow : 528 Broadway Ave, Orlando, FL 32803](https://www.zillow.com/homedetails/528-Broadway-Ave-Orlando-FL-32803/46195658_zpid/)  
 [Google Maps : 528 Broadway Ave](https://maps.app.goo.gl/EqtoXnLnGSU617Yh8)
 - Considered, but decided against seeing due to duplex-like floor plan. 
