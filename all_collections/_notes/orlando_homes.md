@@ -9,6 +9,7 @@ description: March 2025 Home Search
 <br/>
 TBD
 <br/><br/>
+  
 # Homes Seen  
 <br/>  
 ## Homes Seen and Actively Considering  
@@ -32,6 +33,7 @@ TBD
 - Toured home on Monday, 10 March 2025 (considering)
 - Minimal yard upkeep, and no pool maintenace. Possible covered/gated car port. Upstairs bedrooms. Storage and pantry. 
 <br/><br/>
+  
 ## Homes Seen and Less Interested In (backups)  
 <br/>  
 A. [Zillow : 428 Highland Ave, Orlando, FL 32801](https://www.zillow.com/homedetails/428-Highland-Ave-Orlando-FL-32801/46196537_zpid/)  
@@ -40,6 +42,7 @@ A. [Zillow : 428 Highland Ave, Orlando, FL 32801](https://www.zillow.com/homedet
 - Great kitchen area, nicely landscaped backyard, storage.
 - Small bedrooms other than master with largest on street side.
 <br/><br/>
+  
 ## Homes Seen and No longer Interested In  
 <br/>  
 [Zillow : 17 N Shine Ave, Orlando, FL 32801](https://www.zillow.com/homedetails/17-N-Shine-Ave-Orlando-FL-32801/46196313_zpid/)  
@@ -64,6 +67,7 @@ A. [Zillow : 428 Highland Ave, Orlando, FL 32801](https://www.zillow.com/homedet
 [Google Maps : 902 Altaloma Ave](https://maps.app.goo.gl/T7evdLpvofnTtw1V7)  
 - Open House: Sun, Mar 2 (attended, not interested)
 <br/><br/>
+  
 # Homes not seen, considered, but no longer interested in  
 <br/>
 [Zillow : 528 Broadway Ave, Orlando, FL 32803](https://www.zillow.com/homedetails/528-Broadway-Ave-Orlando-FL-32803/46195658_zpid/)  
