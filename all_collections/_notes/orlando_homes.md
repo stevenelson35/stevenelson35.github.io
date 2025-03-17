@@ -8,8 +8,8 @@ description: March 2025 Home Search
 ## Homes Interested in Seeing And Top Pick
 <br/>
 
-1. [Zillow : 832 N. Sumerlin Ave, Orlando, FL 32903](https://www.zillow.com/homedetails/832-N-Summerlin-Ave-Orlando-FL-32803/46189052_zpid/)  
-[Google Maps : 832 N. Sumerlin Ave](https://maps.app.goo.gl/D8y7NrJknRPE2GX58)
+1. [Zillow : 832 N. Summerlin Ave, Orlando, FL 32903](https://www.zillow.com/homedetails/832-N-Summerlin-Ave-Orlando-FL-32803/46189052_zpid/)  
+[Google Maps : 832 N. Summerlin Ave](https://maps.app.goo.gl/D8y7NrJknRPE2GX58)
 - 2 story. Walking distance to school, ballet, and downtown. Incredibly convenient location.  
 - May need some updating (kitchen / baths / painting).
 - Tax Estimate: $7,824.66 to $9,363.40 total tax @ $850k purchase price ($368/sqft - 2306sqft) [Tax Estimator](https://taxestimator.ocpafl.org/Default.aspx?pid=292224908000621).
