@@ -68,11 +68,6 @@ description: March 2025 Home Search
   - ref: at $425/sqft, 1813sqft would be about $770k.
   - ref: at $400/sqft, 1813sqft would be about $725k.
 <br/><br/>
-    
-## Homes Seen and Less Interested In (backups)  
-<br/>  
-N/A  
-<br/><br/>
   
 ## Homes Seen and No longer Interested In  
 <br/>  
