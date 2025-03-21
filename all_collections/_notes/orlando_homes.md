@@ -62,7 +62,7 @@ description: March 2025 Home Search
 - Not downtown, but closer to school & activities than current home.
 - Not as convenient for school as Eola Heights home, but less expensive.
 - Tax Estimate: $6,309.26 to $7,579.01 total tax @ $825k purchase price ($455/sqft - 1813 sqft) [Tax Estimator](https://taxestimator.ocpafl.org/Default.aspx?pid=302205646401180).
-- Initial List Price : $1mm ($/sqft - 1813sqft) on 06/27/2024.
+- Initial List Price : $1mm ($551/sqft - 1813sqft) on 06/27/2024.
   - Recent List Price : $869k ($479/sqft).
   - Price Drop $40k (4.6%).
   - Current List Price : $829k ($457/sqft) .
