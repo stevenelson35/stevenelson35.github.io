@@ -23,16 +23,12 @@ description: March 2025 Home Search
 - [Lake Highland Preparatory School](https://www.lhps.org/)  
 <br/>
 <br/>
-## Homes Interested in Seeing And Top Pick
-<br/>
-N/A  
-<br/><br/>
   
 # Homes Seen  
 <br/>  
 ## Homes Seen and Actively Considering  
 <br/>
-
+  
 1. [Zillow : 718 E. Livingston St, Orlando, FL 32803](https://www.zillow.com/homedetails/718-E-Livingston-St-Orlando-FL-32803/46196060_zpid/)  
 [Google Maps : 718 E. Livingston St](https://maps.app.goo.gl/1M5fkfZQud98v64D9)  
 - Open House: Sun, Mar 2 (attended, interested in another look) 
@@ -72,7 +68,7 @@ N/A
   - ref: at $425/sqft, 1813sqft would be about $770k.
   - ref: at $400/sqft, 1813sqft would be about $725k.
 <br/><br/>
-  
+    
 ## Homes Seen and Less Interested In (backups)  
 <br/>  
 N/A  
