@@ -20,17 +20,48 @@ description: March 2025 Home Search
 - [YMCA - Downtown](https://ymcacf.org/locations/downtown/)
 - [YMCA - Winter Park](https://ymcacf.org/locations/winterpark/)
 - [Winter Park Tennis Center](https://cityofwinterpark.org/departments/parks-recreation/tennis-center/)  
-- [Tennis Orlando](http://www.tennis-orlando.com)
+- [Tennis Orlando](http://www.tennis-orlando.com)  
 - [Lake Highland Preparatory School](https://www.lhps.org/)  
+- [Austen Historical](https://austinhistorical.com/)  
+- [CFBI: Central Florida Building Inspectors](https://cfbinspect.com/)  
+- [Core Dimensions Home Inspections](https://calendly.com/homeinspection)
+  - [Cuyler Davis](https://www.linkedin.com/in/cuyler-davis-a3914924/)
+- [Gato Guard - Termite](https://gatoguard.com/)  
 <br/>
 <br/>
   
 # Orlando Homes 
+
 <br/>  
-## Homes Seen and Actively Considering  
+## Homes Seen and Considering  
 <br/>
+[Zillow : 625 Hillcreat St, Orlando, FL 32803](https://www.zillow.com/homedetails/625-Hillcrest-St-Orlando-FL-32803/46196839_zpid/)  
+[Google Maps : 625 Hillcreat St](https://maps.app.goo.gl/TSA3hqij8q4ksv8n6)  
+- Toured home on Thursday, 27 March 2025
+  - Garage and small backyard. Shared driveway. Finished attic w/ ladder.  
+- Offered on Thursday, 27 March 2025  
+- Inspected on Tuesday, 1 April 2025  
+- Agreement on Monday, 7 April 2025  
+- Possible Closing on Wednesday, 16 April 2025  
+   - Drive to school: 4-5min.  
+   - Walk to school: 14min.
+   - Drive to work: 20min Resarch Park and 24min to Seminole Trail.
+
+<br/>  
+## Backup Homes Seen and Actively Considering  
+<br/>
+
+1. [Zillow : 606 E. Amelia St, Orlando, FL 32803](https://www.zillow.com/homedetails/606-E-Amelia-St-Orlando-FL-32803/46196548_zpid/)  
+[Google Maps : 606 E. Amelia St](https://maps.app.goo.gl/ZbtgTWteA86mKDyv9)  
+- Toured home on Monday, 10 March 2025 (considering)
+- Minimal yard upkeep, and no pool maintenace. Possible covered/gated car port. Upstairs bedrooms. Storage and pantry.
+- Initial List $$1290k ($505/sqft - 2554sqft) 09/03/2024.
+  - Price Drop $291k (22.5%).
+  - Current List Price : $925k ($363/sqft).
+  - ref: at $375/sqft 2554sqft would be about $958k.
+  - ref: at $350/sqft 2554sqft would be about $893k.
   
-1. [Zillow : 718 E. Livingston St, Orlando, FL 32803](https://www.zillow.com/homedetails/718-E-Livingston-St-Orlando-FL-32803/46196060_zpid/)  
+2. [Zillow : 718 E. Livingston St, Orlando, FL 32803](https://www.zillow.com/homedetails/718-E-Livingston-St-Orlando-FL-32803/46196060_zpid/)  
 [Google Maps : 718 E. Livingston St](https://maps.app.goo.gl/1M5fkfZQud98v64D9)  
 - Open House: Sun, Mar 2 (attended, interested in another look) 
 - Open House: Sun, Mar 9 : 11:00 AM - 1:00 PM  (attended, considering)
@@ -44,17 +75,11 @@ description: March 2025 Home Search
   - ref: at $425/sqft, 2268sqft would be about $964k.
   - ref: at $400/sqft, 2268sqft would be about $907k.
 
-2. [Zillow : 606 E. Amelia St, Orlando, FL 32803](https://www.zillow.com/homedetails/606-E-Amelia-St-Orlando-FL-32803/46196548_zpid/)  
-[Google Maps : 606 E. Amelia St](https://maps.app.goo.gl/ZbtgTWteA86mKDyv9)  
-- Toured home on Monday, 10 March 2025 (considering)
-- Minimal yard upkeep, and no pool maintenace. Possible covered/gated car port. Upstairs bedrooms. Storage and pantry.
-- Initial List $$1290k ($505/sqft - 2554sqft) 09/03/2024.
-  - Price Drop $291k (22.5%).
-  - Current List Price : $999k ($391/sqft).
-  - ref: at $375/sqft 2554sqft would be about $958k.
-  - ref: at $350/sqft 2554sqft would be about $893k.
-
-3. [Zillow : 1795 Walker Ave, Winter Park, FL 32789](https://www.zillow.com/homedetails/1795-Walker-Ave-Winter-Park-FL-32789/46060698_zpid/)  
+<br/><br/>
+  
+## Homes Seen and No longer Interested In  
+<br/>  
+[Zillow : 1795 Walker Ave, Winter Park, FL 32789](https://www.zillow.com/homedetails/1795-Walker-Ave-Winter-Park-FL-32789/46060698_zpid/)  
 [Google Maps : 1795 Walker Ave](https://maps.app.goo.gl/z1SXvdwpeJLfiE3k8)
 - 1 story. Covered breezeway. Garage (small). 5 bedrooms.
 - Largely new remodel and systems.
@@ -68,10 +93,8 @@ description: March 2025 Home Search
   - Current List Price : $829k ($457/sqft) .
   - ref: at $425/sqft, 1813sqft would be about $770k.
   - ref: at $400/sqft, 1813sqft would be about $725k.
-<br/><br/>
-  
-## Homes Seen and No longer Interested In  
-<br/>  
+- Pending.
+
 [Zillow : 428 Highland Ave, Orlando, FL 32801](https://www.zillow.com/homedetails/428-Highland-Ave-Orlando-FL-32801/46196537_zpid/)  
 [Google Maps : 428 Highland Ave](https://maps.app.goo.gl/kVe9x2GHeBMR1PpdA)  
 - Open House: Sun, Mar 9 : 11:00 AM - 1:00 PM  (attended, considering)
