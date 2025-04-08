@@ -22,11 +22,16 @@ description: March 2025 Home Search
 - [Winter Park Tennis Center](https://cityofwinterpark.org/departments/parks-recreation/tennis-center/)  
 - [Tennis Orlando](http://www.tennis-orlando.com)  
 - [Lake Highland Preparatory School](https://www.lhps.org/)  
-- [Austen Historical](https://austinhistorical.com/)  
-- [CFBI: Central Florida Building Inspectors](https://cfbinspect.com/)  
+- [Austen Historical](https://austinhistorical.com/)
+- [Electric](http://www.tennis-orlando.com)
+- [Plumbing](http://www.tennis-orlando.com)
+- [Painting](http://www.tennis-orlando.com)
+- [Screen](http://www.tennis-orlando.com)
+- [Flooring](http://www.tennis-orlando.com)  
+- [Gato Guard - Termite](https://gatoguard.com/)  
+- [CFBI: [Central Florida Building Inspectors](http://www.tennis-orlando.com)](https://cfbinspect.com/)  
 - [Core Dimensions Home Inspections](https://calendly.com/homeinspection)
   - [Cuyler Davis](https://www.linkedin.com/in/cuyler-davis-a3914924/)
-- [Gato Guard - Termite](https://gatoguard.com/)  
 <br/>
 <br/>
   
@@ -35,8 +40,8 @@ description: March 2025 Home Search
 <br/>  
 ## Homes Seen and Considering  
 <br/>
-[Zillow : 625 Hillcreat St, Orlando, FL 32803](https://www.zillow.com/homedetails/625-Hillcrest-St-Orlando-FL-32803/46196839_zpid/)  
-[Google Maps : 625 Hillcreat St](https://maps.app.goo.gl/TSA3hqij8q4ksv8n6)  
+[Zillow : 625 Hillcrest St, Orlando, FL 32803](https://www.zillow.com/homedetails/625-Hillcrest-St-Orlando-FL-32803/46196839_zpid/)  
+[Google Maps : 625 Hillcrest St](https://maps.app.goo.gl/TSA3hqij8q4ksv8n6)  
 - Toured home on Thursday, 27 March 2025
   - Garage and small backyard. Shared driveway. Finished attic w/ ladder.  
 - Offered on Thursday, 27 March 2025  
