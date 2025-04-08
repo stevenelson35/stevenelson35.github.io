@@ -43,7 +43,8 @@ description: March 2025 Home Search
 [Zillow : 625 Hillcrest St, Orlando, FL 32803](https://www.zillow.com/homedetails/625-Hillcrest-St-Orlando-FL-32803/46196839_zpid/)  
 [Google Maps : 625 Hillcrest St](https://maps.app.goo.gl/TSA3hqij8q4ksv8n6)  
 - Toured home on Thursday, 27 March 2025
-  - Garage and small backyard. Shared driveway. Finished attic w/ ladder.  
+  - Garage and small backyard. No pool.
+  - Shared driveway. Finished attic w/ ladder.  
 - Offered on Thursday, 27 March 2025  
 - Inspected on Tuesday, 1 April 2025  
 - Agreement on Monday, 7 April 2025  
@@ -51,6 +52,8 @@ description: March 2025 Home Search
    - Drive to school: 4-5min.  
    - Walk to school: 14min.
    - Drive to work: 20min Resarch Park and 24min to Seminole Trail.
+   - 3 blocks to [The Eola General](https://www.eolageneral.com)
+   - 7 blocks to [Lake Eola Park](https://www.orlando.gov/Parks-the-Environment/Directory/Lake-Eola-Park)  
 
 <br/>  
 ## Backup Homes Seen and Actively Considering  
