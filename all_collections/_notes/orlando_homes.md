@@ -28,7 +28,7 @@ description: March 2025 Home Search
 - [Austen Historical](https://austinhistorical.com/)
 - [Electric](http://www.tennis-orlando.com)
 - [Plumbing](http://www.tennis-orlando.com)
-- [Painting](http://www.tennis-orlando.com)
+- [Connelly Painting](https://connellypainting.com/)
 - [Screen](http://www.tennis-orlando.com)
 - [Flooring](http://www.tennis-orlando.com)  
 - [Gato Guard - Termite](https://gatoguard.com/)  
@@ -41,7 +41,7 @@ description: March 2025 Home Search
 # Orlando Homes 
 
 <br/>  
-## Homes Seen and Considering  
+## Homes Seen and Actively Considering  
 <br/>
 [Zillow : 625 Hillcrest St, Orlando, FL 32803](https://www.zillow.com/homedetails/625-Hillcrest-St-Orlando-FL-32803/46196839_zpid/)  
 [Google Maps : 625 Hillcrest St](https://maps.app.goo.gl/TSA3hqij8q4ksv8n6)  
@@ -59,7 +59,7 @@ description: March 2025 Home Search
    - 7 blocks to [Lake Eola Park](https://www.orlando.gov/Parks-the-Environment/Directory/Lake-Eola-Park)  
 
 <br/>  
-## Backup Homes Seen and Actively Considering  
+## Backup Homes Seen and Considering  
 <br/>
 
 1. [Zillow : 606 E. Amelia St, Orlando, FL 32803](https://www.zillow.com/homedetails/606-E-Amelia-St-Orlando-FL-32803/46196548_zpid/)  
