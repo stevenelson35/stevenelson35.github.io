@@ -10,9 +10,11 @@ description: March 2025 Home Search
 - [Orlando : Property Appraiser](https://ocpaweb.ocpafl.org/dashboard)  
 - [Orlando : Property Tax](https://www.octaxcol.com/taxes/about-property-tax/)  
 - [Orlando : Property Tax Estimator](https://taxestimator.ocpafl.org)
+  
 ### Orlando Utility Links
 - [OUC : New Customer Info](https://www.ouc.com/customer-support/for-new-customers)
 - [TECO : Peoples Gas](https://www.tecoenergy.com/)
+  
 ### Real Estate Links
 - [Google Maps : Orlando](https://maps.app.goo.gl/HE5m7VRoqEZAF3Y19)  
 - [Mortgage Calculator](http://www.mortgagecalculator.org)  
@@ -20,30 +22,33 @@ description: March 2025 Home Search
 - [Core Group : eXp Realty : Cody Palmer](https://www.thecoregroupfl.com/team/cody-palmer)  
 - [Fairway Mortgage : Mike Galante](https://www.fairway.com/lo/michael-galante-2150802)
 - [Waterford Insurance Center ; 407-704-8872](http://www.waterfordinsurancecenter.com/)
-- [Brightway : Insurance : Jim McKinney 407-512-5044](https://www.brightway.com/)  
+- [Brightway : Insurance : Jim McKinney 407-512-5044](https://www.brightway.com/)
+  
 ### Orlando City Links
 - [Lake Eola Park](https://www.orlando.gov/Parks-the-Environment/Directory/Lake-Eola-Park)
 - [Orlando Farmers Market](https://www.orlandofarmersmarket.com)
 - [Winter Park Farmers Market](https://cityofwinterpark.org/departments/parks-recreation/farmers-market/)
+  
 ### Orlando Recreation Links
 - [YMCA - Downtown](https://ymcacf.org/locations/downtown/)  
 - [YMCA - Winter Park](https://ymcacf.org/locations/winterpark/)  
 - [Winter Park Tennis Center](https://cityofwinterpark.org/departments/parks-recreation/tennis-center/)
 - [Track Shack](https://www.trackshack.com)  
-- [Tennis Orlando](http://www.tennis-orlando.com)
-
+- [Tennis Orlando](http://www.tennis-orlando.com)  
+  
 ### Orlando Service Companies
 - [Austen Historical : Windows](https://austinhistorical.com/)
 - [Cunningham Electric : 352-801-9945]([http://www.tennis-orlando.com](https://www.cunninghamelectricwy.com/))  
-- [Emerald : Electric]()  
+- [Emerald : Electric](https://www.emeraldplumbing.net) 
 - [Leahy's Repipe and Plumbing : 407-433-1850  ](http://www.tennis-orlando.com)
 - [Connelly Painting](https://connellypainting.com/)
 - [A Screen Repair : 407-550-5945](https://ascreenrepairinc.com/)
 - [Flooring](http://www.tennis-orlando.com)  
 - [Gato Guard - Termite](https://gatoguard.com/)  
-- [CFBI: [Central Florida Building Inspectors](http://www.tennis-orlando.com)](https://cfbinspect.com/)  
+- [CFBI: [Central Florida Building Inspectors](https://cfbinspect.com/)  
 - [Core Dimensions Home Inspections](https://calendly.com/homeinspection)
   - [Cuyler Davis](https://www.linkedin.com/in/cuyler-davis-a3914924/)
+  
 ### School Links
 - [Lake Highland Preparatory School](https://www.lhps.org/)
 <br/>
