@@ -46,7 +46,7 @@ description: March 2025 Home Search
 - [A Screen Repair : 407-550-5945](https://ascreenrepairinc.com/)
 - [Flooring](http://www.tennis-orlando.com)  
 - [Gato Guard - Termite](https://gatoguard.com/)  
-- [CFBI: [Central Florida Building Inspectors](https://cfbinspect.com/)  
+- [CFBI: Central Florida Building Inspectors](https://cfbinspect.com/)  
 - [Core Dimensions Home Inspections](https://calendly.com/homeinspection)
   - [Cuyler Davis](https://www.linkedin.com/in/cuyler-davis-a3914924/)
   
