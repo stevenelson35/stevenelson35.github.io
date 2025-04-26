@@ -10,6 +10,7 @@ description: March 2025 Home Search
 - [Orlando : Property Appraiser](https://ocpaweb.ocpafl.org/dashboard)  
 - [Orlando : Property Tax](https://www.octaxcol.com/taxes/about-property-tax/)  
 - [Orlando : Property Tax Estimator](https://taxestimator.ocpafl.org)
+- [Orlando : Lake Eola Heights Historic District](https://www.orlando.gov/Our-Government/History/Historic-Preservation-Districts#section-5)
   
 ### Orlando Utility Links
 - [OUC : New Customer Info](https://www.ouc.com/customer-support/for-new-customers)
