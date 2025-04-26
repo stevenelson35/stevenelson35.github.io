@@ -23,9 +23,14 @@ description: March 2025 Home Search
 - [Fairway Mortgage : Mike Galante](https://www.fairway.com/lo/michael-galante-2150802)
 - [Waterford Insurance Center ; 407-704-8872](http://www.waterfordinsurancecenter.com/)
 - [Brightway : Insurance : Jim McKinney 407-512-5044](https://www.brightway.com/)
-  
-### Orlando City Links
+
+### Lake Eola Heights
 - [Orlando : Lake Eola Heights Historic District](https://www.orlando.gov/Our-Government/History/Historic-Preservation-Districts#section-5)  
+#### Lake Eola Heights Historic Neighborhood Association (LEHHNA)
+- [LEHHNA - neighborhoodlink.com](http://www.neighborhoodlink.com/Lake_Eola_Heights_Historic)  
+- [LEHHNA : florida-hoa.net](https://florida-hoa.net/fhhoa_list.php?mastertable=fhtitle&masterkey1=N08000002372)  
+
+### Orlando City Links
 - [Lake Eola Park](https://www.orlando.gov/Parks-the-Environment/Directory/Lake-Eola-Park)
 - [Orlando Farmers Market](https://www.orlandofarmersmarket.com)
 - [Winter Park Farmers Market](https://cityofwinterpark.org/departments/parks-recreation/farmers-market/)
@@ -52,6 +57,7 @@ description: March 2025 Home Search
 
 ### Paint
 - [This Old House : Paint](https://www.thisoldhouse.com/winchester-house/21014958/how-to-strip-years-of-paint-off-a-house)
+- [EPA Certified Restoration](https://cdxapps.epa.gov/ocspp-oppt-lead/firm-location-search/distance)
 
 ### School Links
 - [Lake Highland Preparatory School](https://www.lhps.org/)
