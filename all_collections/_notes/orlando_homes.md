@@ -49,7 +49,10 @@ description: March 2025 Home Search
 - [CFBI: Central Florida Building Inspectors](https://cfbinspect.com/)  
 - [Core Dimensions Home Inspections](https://calendly.com/homeinspection)
   - [Cuyler Davis](https://www.linkedin.com/in/cuyler-davis-a3914924/)
-  
+
+### Paint
+- [This Old House : Paint](https://www.thisoldhouse.com/winchester-house/21014958/how-to-strip-years-of-paint-off-a-house)
+
 ### School Links
 - [Lake Highland Preparatory School](https://www.lhps.org/)
 <br/>
