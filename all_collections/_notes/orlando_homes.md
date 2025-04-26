@@ -10,7 +10,6 @@ description: March 2025 Home Search
 - [Orlando : Property Appraiser](https://ocpaweb.ocpafl.org/dashboard)  
 - [Orlando : Property Tax](https://www.octaxcol.com/taxes/about-property-tax/)  
 - [Orlando : Property Tax Estimator](https://taxestimator.ocpafl.org)
-- [Orlando : Lake Eola Heights Historic District](https://www.orlando.gov/Our-Government/History/Historic-Preservation-Districts#section-5)
   
 ### Orlando Utility Links
 - [OUC : New Customer Info](https://www.ouc.com/customer-support/for-new-customers)
@@ -26,6 +25,7 @@ description: March 2025 Home Search
 - [Brightway : Insurance : Jim McKinney 407-512-5044](https://www.brightway.com/)
   
 ### Orlando City Links
+- [Orlando : Lake Eola Heights Historic District](https://www.orlando.gov/Our-Government/History/Historic-Preservation-Districts#section-5)  
 - [Lake Eola Park](https://www.orlando.gov/Parks-the-Environment/Directory/Lake-Eola-Park)
 - [Orlando Farmers Market](https://www.orlandofarmersmarket.com)
 - [Winter Park Farmers Market](https://cityofwinterpark.org/departments/parks-recreation/farmers-market/)
