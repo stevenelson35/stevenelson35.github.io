@@ -27,8 +27,8 @@ description: March 2025 Home Search
 ### Lake Eola Heights
 - [Orlando : Lake Eola Heights Historic District](https://www.orlando.gov/Our-Government/History/Historic-Preservation-Districts#section-5)
 
-### Lake Eola Heights Historic Neighborhood Association LEHHNA  
-- [LEHHNA - neighborhoodlink] (http://www.neighborhoodlink.com/Lake_Eola_Heights_Historic)  
+### Lake Eola Heights Historic Neighborhood Association - LEHHNA  
+- [LEHHNA - neighborhoodlink.com](http://www.neighborhoodlink.com/Lake_Eola_Heights_Historic)  
 - [LEHHNA : florida-hoa.net](https://florida-hoa.net/fhhoa_list.php?mastertable=fhtitle&masterkey1=N08000002372)  
 
 ### Orlando City Links
