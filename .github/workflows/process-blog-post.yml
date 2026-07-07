@@ -12,31 +12,41 @@ jobs:
 
       - name: Process & Update
         run: |
-          # Define path
+          # 1. Ensure the directory exists
+          mkdir -p all_collections/_posts/
+          
+          # 2. Define the exact file path
           FILE_PATH="all_collections/_posts/${{ github.event.client_payload.filename }}"
           
-          # Prepare content
-          NEW_CONTENT=$(cat <<EOF
-          
+          # 3. Logic: Check if the file already exists
+          if [ -f "$FILE_PATH" ]; then
+            # If exists, append the new content to the end
+            cat <<EOF >> "$FILE_PATH"
+
           ${{ github.event.client_payload.text_before }}
-          
+
           ![${{ github.event.client_payload.alt }}](${{ github.event.client_payload.image_url }})
-          
+
           ${{ github.event.client_payload.text_after }}
-          
+
           > ${{ github.event.client_payload.quote }}
           EOF
-          )
-
-          # Logic: If file exists, append; otherwise, create new
-          if [ -f "$FILE_PATH" ]; then
-            echo "$NEW_CONTENT" >> "$FILE_PATH"
           else
-            echo "---" > "$FILE_PATH"
-            echo "title: '${{ github.event.client_payload.title }}'" >> "$FILE_PATH"
-            echo "author: '${{ github.event.client_payload.author }}'" >> "$FILE_PATH"
-            echo "---" >> "$FILE_PATH"
-            echo "$NEW_CONTENT" >> "$FILE_PATH"
+            # If it's a new file, create it with front matter
+            cat <<EOF > "$FILE_PATH"
+          ---
+          title: "${{ github.event.client_payload.title }}"
+          author: "${{ github.event.client_payload.author }}"
+          ---
+
+          ${{ github.event.client_payload.text_before }}
+
+          ![${{ github.event.client_payload.alt }}](${{ github.event.client_payload.image_url }})
+
+          ${{ github.event.client_payload.text_after }}
+
+          > ${{ github.event.client_payload.quote }}
+          EOF
           fi
 
       - name: Commit and Push changes
