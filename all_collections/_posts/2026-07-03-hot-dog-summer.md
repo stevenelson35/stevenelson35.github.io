@@ -1,8 +1,8 @@
 ---
 title: "Hot Dog Summer"
 author: "Steve"
-categories: ["summer vacation 2024"]
-tags: ["2024", "driving", "iowa", "summer", "vacation"]
+categories: ["summer vacation 2026", "summer 2026"]
+tags: ["2026", "driving", "iowa", "summer", "vacation"]
 ---
 
 For added excitement, we're driving to Des Moines Iowa with our two puppies for our summer vacation. 
@@ -12,7 +12,7 @@ For added excitement, we're driving to Des Moines Iowa with our two puppies for 
 What possibly could go wrong? ;) 
 
 > Again I must remind you that
-A dog's a dog
-A A Cat's A CAT
+> A dog's a dog
+> A CAT'S A CAT
 
 T. S. Eliot
