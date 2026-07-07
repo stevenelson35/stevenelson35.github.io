@@ -10,14 +10,25 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
+      - name: Install image tooling
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick optipng
+
       - name: Process & Update
         run: |
           # 1. Ensure the directory exists
           mkdir -p all_collections/_posts/
-          
+
+          mkdir -p assets/images
+          IMAGE_URL="${{ github.event.client_payload.image_url }}"
+          IMAGE_NAME="$(basename "${IMAGE_URL%%\?*}")"
+          IMAGE_PATH="assets/images/$IMAGE_NAME"
+          IMAGE_MARKDOWN="![${{ github.event.client_payload.alt }}]({{ site.pics_url }}${IMAGE_NAME})"
+
           # 2. Define the exact file path
           FILE_PATH="all_collections/_posts/${{ github.event.client_payload.filename }}"
-          
+
           # 3. Logic: Check if the file already exists
           if [ -f "$FILE_PATH" ]; then
             # If exists, append the new content to the end
@@ -25,7 +36,7 @@ jobs:
 
           ${{ github.event.client_payload.text_before }}
 
-          ![${{ github.event.client_payload.alt }}](${{ github.event.client_payload.image_url }})
+          $IMAGE_MARKDOWN
 
           ${{ github.event.client_payload.text_after }}
 
@@ -41,7 +52,7 @@ jobs:
 
           ${{ github.event.client_payload.text_before }}
 
-          ![${{ github.event.client_payload.alt }}](${{ github.event.client_payload.image_url }})
+          $IMAGE_MARKDOWN
 
           ${{ github.event.client_payload.text_after }}
 
@@ -49,13 +60,31 @@ jobs:
           EOF
           fi
 
+          curl -L "$IMAGE_URL" -o "$IMAGE_PATH"
+          if [ -f "scripts/create_responsive_images.py" ]; then
+            python3 scripts/create_responsive_images.py "$IMAGE_PATH" --sizes 2048 1920 1600 1366 1024 768 640 --output-root assets/images
+          else
+            python3 create_responsive_images.py "$IMAGE_PATH" --sizes 2048 1920 1600 1366 1024 768 640 --output-root assets/images
+          fi
+
+
+      - name: Upload to Turbify via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./assets/images/
+          server-dir: /public_html/pics/blog/
+
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated blog update from phone"
           # This tells the action to use your secret for authentication
-          file_pattern: 'all_collections/_posts/*' 
+          file_pattern: 'all_collections/_posts/* assets/images/**' 
         env:
           # This connects the secret we added to the action
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_PAT }}
+
           
