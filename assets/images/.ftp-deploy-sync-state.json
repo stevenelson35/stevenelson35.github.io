@@ -1,0 +1,575 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1783433903922,
+    "data": [
+        {
+            "type": "folder",
+            "name": "1024"
+        },
+        {
+            "type": "folder",
+            "name": "1366"
+        },
+        {
+            "type": "folder",
+            "name": "1600"
+        },
+        {
+            "type": "folder",
+            "name": "1920"
+        },
+        {
+            "type": "file",
+            "name": "20260706_175225.jpg",
+            "size": 2276989,
+            "hash": "d254a4fd35e14f972e1d9da3f1d858a3172dc4fdb43d0cd36673177a0be97c37"
+        },
+        {
+            "type": "folder",
+            "name": "2048"
+        },
+        {
+            "type": "folder",
+            "name": "640"
+        },
+        {
+            "type": "folder",
+            "name": "768"
+        },
+        {
+            "type": "file",
+            "name": "Dr._West_Profile.jpg",
+            "size": 225585,
+            "hash": "e4f7c53c3087e5aa5eca321db4e350799d5ccc069f11411725e04f1a89acc451"
+        },
+        {
+            "type": "file",
+            "name": "bullet.png",
+            "size": 139,
+            "hash": "7e1e6f6cb70bc5b1e43420e872a54c970145932c2912b282481a7a924cd703f2"
+        },
+        {
+            "type": "file",
+            "name": "camilla-profile.jpg",
+            "size": 2452441,
+            "hash": "0b2b8d9aa84f44b0ac0a81eaf0ece6a18b14d7072e3b289a699a042f833112c8"
+        },
+        {
+            "type": "file",
+            "name": "hr.gif",
+            "size": 1121,
+            "hash": "ac414d4843b7d3e4d118bfdd2b7dfe6900d4a5c5961e53ae42aa52a1da63fbf1"
+        },
+        {
+            "type": "file",
+            "name": "map-summer-2021.png",
+            "size": 431865,
+            "hash": "ef7faf50796b788133e7ed365be32d5e6aaae1e724b729ac4c0089974c92586e"
+        },
+        {
+            "type": "file",
+            "name": "map-spring-2024.png",
+            "size": 492129,
+            "hash": "506731243f0c1a7fadb98222ead8e44efebae307aa738cefcbf55ea6dfaee381"
+        },
+        {
+            "type": "file",
+            "name": "map-summer-2022.png",
+            "size": 408961,
+            "hash": "0079067137ad5182464a78de5603df36cbb23a9b71cfa43478873b4d3cfa030a"
+        },
+        {
+            "type": "file",
+            "name": "map-summer-2023.png",
+            "size": 393738,
+            "hash": "4ab966ff416257f69ff28e4e5dd85027ec9b0d96c848cef0650e04b3fafb7f2c"
+        },
+        {
+            "type": "file",
+            "name": "map-summer-2024.png",
+            "size": 528670,
+            "hash": "eb19074e0c642972d7c9365d0838ddc0bcb0703b3d6ba02f5f216abe72a7a2b7"
+        },
+        {
+            "type": "file",
+            "name": "map-winter-2023.png",
+            "size": 614516,
+            "hash": "550db54e8ea2c2abc0c095499373491c18af5d31c1e9ee577a39607fb8411060"
+        },
+        {
+            "type": "file",
+            "name": "nav-bg.gif",
+            "size": 1238,
+            "hash": "578a10f05b34ae6bb8b4566b6d5e487ee573f5bc64f095b3053f5718dc227fdc"
+        },
+        {
+            "type": "file",
+            "name": "steve-profile.jpg",
+            "size": 1161666,
+            "hash": "7a6369ae6417909fae03c14a6fd4e89aaf8120a5249bdd2ed2d9437c618e1c55"
+        },
+        {
+            "type": "file",
+            "name": "1024/20260706_175225-1024.jpg",
+            "size": 117339,
+            "hash": "419829dadb4c87d9dd06166f8bb40e86949b87fc4d643d3fbc495c126eb7ad7d"
+        },
+        {
+            "type": "file",
+            "name": "1024/Dr._West_Profile-1024.jpg",
+            "size": 130961,
+            "hash": "2ac7dac3dd32a54c477710596d5e56ca8b935ecf12f34a173e5ac0191a886c75"
+        },
+        {
+            "type": "file",
+            "name": "1024/bullet-1024.png",
+            "size": 139,
+            "hash": "7e1e6f6cb70bc5b1e43420e872a54c970145932c2912b282481a7a924cd703f2"
+        },
+        {
+            "type": "file",
+            "name": "1024/camilla-profile-1024.jpg",
+            "size": 143280,
+            "hash": "b1892855798d49efae731daf7f244f82ed1075ae6016a7e35a7dd984167d52cd"
+        },
+        {
+            "type": "file",
+            "name": "1024/map-spring-2024-1024.png",
+            "size": 99067,
+            "hash": "3f2917983fbf9d28fb866fae9bac6cc3a7528897b133d96d3bea53cfcde20bb7"
+        },
+        {
+            "type": "file",
+            "name": "1024/map-summer-2021-1024.png",
+            "size": 89220,
+            "hash": "60d9397d8ac17618635a09d6ed036b888129c5789712acbe865cfafbec299557"
+        },
+        {
+            "type": "file",
+            "name": "1024/map-summer-2022-1024.png",
+            "size": 74481,
+            "hash": "cd6c9e419f743d202de85788f58b876de97de2992e0d48396ae1b17e40b75276"
+        },
+        {
+            "type": "file",
+            "name": "1024/map-summer-2023-1024.png",
+            "size": 72428,
+            "hash": "226be9a6d5f2700275ce6697ee5c4bf6133e415cd9e59279ac65371bf15104a7"
+        },
+        {
+            "type": "file",
+            "name": "1024/map-summer-2024-1024.png",
+            "size": 106612,
+            "hash": "8c058143a0e4ba64d24da1b304d71290d5a8d6f3c8d48ea0dbffcd63199142ee"
+        },
+        {
+            "type": "file",
+            "name": "1024/map-winter-2023-1024.png",
+            "size": 122431,
+            "hash": "68dac7a65859e2ba040e9ba870dbe9c34ef2cdc34783d8a6657d99bc47428e77"
+        },
+        {
+            "type": "file",
+            "name": "1024/steve-profile-1024.jpg",
+            "size": 227374,
+            "hash": "c7c9ce4030becafa01cde399d6606470dc66b5ce8ac95c8e46e6d39af5b435b0"
+        },
+        {
+            "type": "file",
+            "name": "1366/20260706_175225-1366.jpg",
+            "size": 196706,
+            "hash": "ebecfb5c386c6b417c7f43acec3b4812ee398d2d0556e512795d688e037fc17b"
+        },
+        {
+            "type": "file",
+            "name": "1366/Dr._West_Profile-1366.jpg",
+            "size": 130961,
+            "hash": "2ac7dac3dd32a54c477710596d5e56ca8b935ecf12f34a173e5ac0191a886c75"
+        },
+        {
+            "type": "file",
+            "name": "1366/bullet-1366.png",
+            "size": 139,
+            "hash": "7e1e6f6cb70bc5b1e43420e872a54c970145932c2912b282481a7a924cd703f2"
+        },
+        {
+            "type": "file",
+            "name": "1366/camilla-profile-1366.jpg",
+            "size": 233902,
+            "hash": "42adb6a6ac0a8ba096a61c6ad16383f0358a76ee9865fe3bafb86be584d273ff"
+        },
+        {
+            "type": "file",
+            "name": "1366/map-spring-2024-1366.png",
+            "size": 155862,
+            "hash": "65361f9463e3c1be2bc409167494dba3a7433f6a5da023ed417586c9a20e6cc3"
+        },
+        {
+            "type": "file",
+            "name": "1366/map-summer-2021-1366.png",
+            "size": 137747,
+            "hash": "485b198528af7a24cccd03b811d10100ea23297d97bd1da7e1b05d0626c0346d"
+        },
+        {
+            "type": "file",
+            "name": "1366/map-summer-2022-1366.png",
+            "size": 113933,
+            "hash": "d87d474038d604bcff68ea0031669504ad0287ed8902cc7d5fd13859da45a94e"
+        },
+        {
+            "type": "file",
+            "name": "1366/map-summer-2023-1366.png",
+            "size": 109923,
+            "hash": "00fd4d784cc30609ee59c4031a4952b35bd2e03aba2f2f37ebaaef687e09b468"
+        },
+        {
+            "type": "file",
+            "name": "1366/map-winter-2023-1366.png",
+            "size": 191017,
+            "hash": "43e0317508d6888d19a641634e339b7cddf6cedb4048f4b19285339067837265"
+        },
+        {
+            "type": "file",
+            "name": "1366/map-summer-2024-1366.png",
+            "size": 167901,
+            "hash": "a867536a058b7a1bbaf272bb73fb6eb7e94aea7c203f8a6854bd137fb3c8f991"
+        },
+        {
+            "type": "file",
+            "name": "1366/steve-profile-1366.jpg",
+            "size": 383538,
+            "hash": "5ff18ef9b51961ab9dd354615a64070c091daae207ec55ee17f14359d3b72e75"
+        },
+        {
+            "type": "file",
+            "name": "1600/20260706_175225-1600.jpg",
+            "size": 258993,
+            "hash": "65f080c081d2638185edb05399313caf29f95c7c0fc33d17717e99732a0bbbbe"
+        },
+        {
+            "type": "file",
+            "name": "1600/Dr._West_Profile-1600.jpg",
+            "size": 130961,
+            "hash": "2ac7dac3dd32a54c477710596d5e56ca8b935ecf12f34a173e5ac0191a886c75"
+        },
+        {
+            "type": "file",
+            "name": "1600/bullet-1600.png",
+            "size": 139,
+            "hash": "7e1e6f6cb70bc5b1e43420e872a54c970145932c2912b282481a7a924cd703f2"
+        },
+        {
+            "type": "file",
+            "name": "1600/camilla-profile-1600.jpg",
+            "size": 302054,
+            "hash": "e939843bb1b26e391aab982a0f785bffdce44e66225a4eedf796afc574b94e84"
+        },
+        {
+            "type": "file",
+            "name": "1600/map-spring-2024-1600.png",
+            "size": 199652,
+            "hash": "2cb94db97fa83ca953faffd39c447b64fde7fd1f7c32cfeb43ee1f116a4022f1"
+        },
+        {
+            "type": "file",
+            "name": "1600/map-summer-2022-1600.png",
+            "size": 141209,
+            "hash": "0fcb32fa636ec976114a437a09ef4529e79c9dae9afcf3f6092e12263140ae5d"
+        },
+        {
+            "type": "file",
+            "name": "1600/map-summer-2021-1600.png",
+            "size": 170326,
+            "hash": "b851b333d48c66cc73c77c0735b71bcae978650692373cac9f07e74e12e9b227"
+        },
+        {
+            "type": "file",
+            "name": "1600/map-summer-2023-1600.png",
+            "size": 136221,
+            "hash": "828fa364365c546e6f033780f6c9432c348e2718cf4bb5c5e349131ce2bc5f56"
+        },
+        {
+            "type": "file",
+            "name": "1600/map-winter-2023-1600.png",
+            "size": 243671,
+            "hash": "e386a358cb7c68e0735a05b0c27b837a51f524f090290ebec62b84c821fd189f"
+        },
+        {
+            "type": "file",
+            "name": "1600/map-summer-2024-1600.png",
+            "size": 214899,
+            "hash": "0b3782b11c136b65b25bb83b32899e0dde88cd075717a2286836a557146709c1"
+        },
+        {
+            "type": "file",
+            "name": "1600/steve-profile-1600.jpg",
+            "size": 509011,
+            "hash": "3cd54355c9a24a285a3285ba1e48e7e8674a530b1d64ea1a651f8615da38892c"
+        },
+        {
+            "type": "file",
+            "name": "1920/20260706_175225-1920.jpg",
+            "size": 356944,
+            "hash": "cad8775fb03ecb2b1af6c1415ca8cfd6ace0dd1312f292ff93d7e340aae1324a"
+        },
+        {
+            "type": "file",
+            "name": "1920/Dr._West_Profile-1920.jpg",
+            "size": 130961,
+            "hash": "2ac7dac3dd32a54c477710596d5e56ca8b935ecf12f34a173e5ac0191a886c75"
+        },
+        {
+            "type": "file",
+            "name": "1920/bullet-1920.png",
+            "size": 139,
+            "hash": "7e1e6f6cb70bc5b1e43420e872a54c970145932c2912b282481a7a924cd703f2"
+        },
+        {
+            "type": "file",
+            "name": "1920/camilla-profile-1920.jpg",
+            "size": 410613,
+            "hash": "31dacff7c972f21cd586e5fef04a2e678266b38368d4e4782339c9e322c39897"
+        },
+        {
+            "type": "file",
+            "name": "1920/map-spring-2024-1920.png",
+            "size": 258580,
+            "hash": "168d44faa9096bc74295dce01d9d07c8b41700a942c2528bb0204a05fbe86d7c"
+        },
+        {
+            "type": "file",
+            "name": "1920/map-summer-2021-1920.png",
+            "size": 220759,
+            "hash": "2d4a2f0c34dcc38d02b51aa487fde8de7e111007e63a22cca4dd81ca06c938c7"
+        },
+        {
+            "type": "file",
+            "name": "1920/map-summer-2022-1920.png",
+            "size": 183324,
+            "hash": "18f06ceaed280d5594ef6f8a11fe948c8ba2e9d4734358f19096fa9b4cfdbb71"
+        },
+        {
+            "type": "file",
+            "name": "1920/map-summer-2023-1920.png",
+            "size": 176629,
+            "hash": "0645e52d3877f98c12f8ce861509593927d944ae484de3c2574cde6a4248851b"
+        },
+        {
+            "type": "file",
+            "name": "1920/map-summer-2024-1920.png",
+            "size": 279821,
+            "hash": "7e93458aba773efa8efd7bb19727be5852b78911e8d2500d1354fbb83334829c"
+        },
+        {
+            "type": "file",
+            "name": "1920/map-winter-2023-1920.png",
+            "size": 317611,
+            "hash": "43e1f2bf30be189548e8ea62c1058be6921bb8e03d0aa72f2da85f1e76782d11"
+        },
+        {
+            "type": "file",
+            "name": "1920/steve-profile-1920.jpg",
+            "size": 643279,
+            "hash": "1648fcec3e8accf365c4dfbc515c53b05f7730fd810634b7daaabefdb255a98e"
+        },
+        {
+            "type": "file",
+            "name": "2048/20260706_175225-2048.jpg",
+            "size": 399990,
+            "hash": "f304ece6f4103998b4796850d90ea116c47bd42b250100045c402d7e8ba3d7c9"
+        },
+        {
+            "type": "file",
+            "name": "2048/Dr._West_Profile-2048.jpg",
+            "size": 130961,
+            "hash": "2ac7dac3dd32a54c477710596d5e56ca8b935ecf12f34a173e5ac0191a886c75"
+        },
+        {
+            "type": "file",
+            "name": "2048/bullet-2048.png",
+            "size": 139,
+            "hash": "7e1e6f6cb70bc5b1e43420e872a54c970145932c2912b282481a7a924cd703f2"
+        },
+        {
+            "type": "file",
+            "name": "2048/camilla-profile-2048.jpg",
+            "size": 457789,
+            "hash": "29a1f0ad77ca00dfa0224c44052af76642c0d72f75685476519966cc188e9fa7"
+        },
+        {
+            "type": "file",
+            "name": "2048/map-spring-2024-2048.png",
+            "size": 287548,
+            "hash": "e6d50960b5df23a7dfe499302d444f5c495295b8951bbdee3bb7cbfaaf1bd983"
+        },
+        {
+            "type": "file",
+            "name": "2048/map-summer-2021-2048.png",
+            "size": 245873,
+            "hash": "6187f112ef18b91276fe6885fe1153b0f836d5007a2b392bd8b014a57677976a"
+        },
+        {
+            "type": "file",
+            "name": "2048/map-summer-2022-2048.png",
+            "size": 203734,
+            "hash": "e5ad94aa452d960c825e32be3702aa11a2ccb799e28cc5261c37636e752530ac"
+        },
+        {
+            "type": "file",
+            "name": "2048/map-summer-2023-2048.png",
+            "size": 196756,
+            "hash": "e4d37fc009c7ff3bf0d26250b9bac709d9b6f5303e1177f4b038e80de2e10e79"
+        },
+        {
+            "type": "file",
+            "name": "2048/map-summer-2024-2048.png",
+            "size": 310565,
+            "hash": "cb99619cdba1c0b4cd0deb51682801b266337e5546598a94601a4bf5ab2a2869"
+        },
+        {
+            "type": "file",
+            "name": "2048/map-winter-2023-2048.png",
+            "size": 352823,
+            "hash": "1ad72d43dbe8740c6ff1f597a572d791a31ac2e28e1f6ff8512e879b92659d92"
+        },
+        {
+            "type": "file",
+            "name": "2048/steve-profile-2048.jpg",
+            "size": 643279,
+            "hash": "1648fcec3e8accf365c4dfbc515c53b05f7730fd810634b7daaabefdb255a98e"
+        },
+        {
+            "type": "file",
+            "name": "640/20260706_175225-640.jpg",
+            "size": 51083,
+            "hash": "f8b40ae090224a8e53f2f80f7d58d989ea81f89e23f388b17fd22a22f87bac69"
+        },
+        {
+            "type": "file",
+            "name": "640/Dr._West_Profile-640.jpg",
+            "size": 88460,
+            "hash": "9cc1ef8351b515b314c58cf419df817e60cf1bf26664f8e0b3720941aacef3aa"
+        },
+        {
+            "type": "file",
+            "name": "640/bullet-640.png",
+            "size": 139,
+            "hash": "7e1e6f6cb70bc5b1e43420e872a54c970145932c2912b282481a7a924cd703f2"
+        },
+        {
+            "type": "file",
+            "name": "640/camilla-profile-640.jpg",
+            "size": 66384,
+            "hash": "cc9f63b704350b7ef4eccde811d47a6b1a4e4cebf346e4964c326cba0ec949df"
+        },
+        {
+            "type": "file",
+            "name": "640/map-spring-2024-640.png",
+            "size": 46769,
+            "hash": "a08220c3d2c5dfbb160173f2d9d82126d27c0bba47ea0fba8d6694d8a0231d7e"
+        },
+        {
+            "type": "file",
+            "name": "640/map-summer-2021-640.png",
+            "size": 45286,
+            "hash": "7c244bb1289979707c85185e53a63633e7e35a63faf9a5061ee0802fdd9dc1a1"
+        },
+        {
+            "type": "file",
+            "name": "640/map-summer-2022-640.png",
+            "size": 37800,
+            "hash": "ed023e4fae70b1d6963019f8643564c7d89ea1d06b98d50ce2d17d0cdc5c298e"
+        },
+        {
+            "type": "file",
+            "name": "640/map-summer-2023-640.png",
+            "size": 37731,
+            "hash": "1c5f831324b320b3570761415df3ab6ab071ee559c11172a7ab156ba5addf569"
+        },
+        {
+            "type": "file",
+            "name": "640/map-summer-2024-640.png",
+            "size": 50464,
+            "hash": "3c390f7d8182e04893497f6e89babf2b4a6164ed453ffa1ee2f6dfda1f27da5b"
+        },
+        {
+            "type": "file",
+            "name": "640/map-winter-2023-640.png",
+            "size": 58939,
+            "hash": "f5fe72514140a62e85e74cc89f694ca4cd11b35c6da88d2b1072488fb8ee0ec1"
+        },
+        {
+            "type": "file",
+            "name": "640/steve-profile-640.jpg",
+            "size": 101034,
+            "hash": "fdc34dec3988d98898479a39559b1a28aa622076c2a6a8f6db33310a4943bf07"
+        },
+        {
+            "type": "file",
+            "name": "768/20260706_175225-768.jpg",
+            "size": 70517,
+            "hash": "9186cd4f8a04b384a975c34d27b8079c26a3cb9772623a8724e1a664aad6ab82"
+        },
+        {
+            "type": "file",
+            "name": "768/Dr._West_Profile-768.jpg",
+            "size": 116932,
+            "hash": "fa8df03e0e53dfd6a0ffd2115c39818fb8bcf8d93484d22daae2b33f8354dc97"
+        },
+        {
+            "type": "file",
+            "name": "768/bullet-768.png",
+            "size": 139,
+            "hash": "7e1e6f6cb70bc5b1e43420e872a54c970145932c2912b282481a7a924cd703f2"
+        },
+        {
+            "type": "file",
+            "name": "768/camilla-profile-768.jpg",
+            "size": 89287,
+            "hash": "02e1546e33f04ba59128ee5e1f331dc35d6446266a3067eb1abb913bfbd08ed8"
+        },
+        {
+            "type": "file",
+            "name": "768/map-spring-2024-768.png",
+            "size": 63984,
+            "hash": "524688f2d1f6a8cb427e53dd39514c95959ec350d96f70db5a2eaeb933fad127"
+        },
+        {
+            "type": "file",
+            "name": "768/map-summer-2021-768.png",
+            "size": 58748,
+            "hash": "51798658741012feb9d3d3cdc0ebea9276c1562e6bb369ac314ccf05f7a6e32d"
+        },
+        {
+            "type": "file",
+            "name": "768/map-summer-2022-768.png",
+            "size": 48985,
+            "hash": "03cb28c0d22d9795e54a71902e2869a9f922ebe26b2e673f0cabb9d6fe6bda3a"
+        },
+        {
+            "type": "file",
+            "name": "768/map-summer-2023-768.png",
+            "size": 48300,
+            "hash": "05853e849e7ad2f0cfb5f2d902e087388d366cbf9d1e89719720a0cb85623339"
+        },
+        {
+            "type": "file",
+            "name": "768/map-summer-2024-768.png",
+            "size": 68698,
+            "hash": "5cd5d72a835f2403e307562285b8e9a9fc9e733cc182d6913823583c259d0ce5"
+        },
+        {
+            "type": "file",
+            "name": "768/map-winter-2023-768.png",
+            "size": 79838,
+            "hash": "63c49c9222665dbf4de11a25a583c34061a55c97e4d78dcd90d751ef95209fbe"
+        },
+        {
+            "type": "file",
+            "name": "768/steve-profile-768.jpg",
+            "size": 137410,
+            "hash": "b3b14f14053faf89b6d3a25fabe37c766d1b69db5ef0a9ebf4c6141c6a9fa9c6"
+        }
+    ]
+}
