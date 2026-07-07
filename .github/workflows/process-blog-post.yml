@@ -69,7 +69,7 @@ jobs:
 
 
       - name: Upload to Turbify via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.0
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
