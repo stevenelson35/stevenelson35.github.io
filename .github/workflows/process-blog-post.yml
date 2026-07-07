@@ -16,75 +16,116 @@ jobs:
           sudo apt-get install -y imagemagick optipng
 
       - name: Process & Update
+        env:
+          IMAGE_URL: ${{ github.event.client_payload.image_url }}
+          IMAGE_ALT: ${{ github.event.client_payload.alt }}
+          IMAGE_STAGING_DIR: ${{ runner.temp }}/blog-image-uploads
+          BLOG_FILENAME: ${{ github.event.client_payload.filename }}
+          BLOG_TITLE: ${{ github.event.client_payload.title }}
+          BLOG_AUTHOR: ${{ github.event.client_payload.author }}
+          BLOG_TOP_TEXT: ${{ github.event.client_payload.top_text }}
+          BLOG_BOTTOM_TEXT: ${{ github.event.client_payload.bottom_text }}
+          BLOG_QUOTE: ${{ github.event.client_payload.quote }}
+          BLOG_CATEGORIES: ${{ github.event.client_payload.categories }}
+          BLOG_TAGS: ${{ github.event.client_payload.tags }}
         run: |
-          # 1. Ensure the directory exists
+          set -e
+
           mkdir -p all_collections/_posts/
+          rm -rf "$IMAGE_STAGING_DIR"
+          mkdir -p "$IMAGE_STAGING_DIR"
 
-          mkdir -p assets/images
-          IMAGE_URL="${{ github.event.client_payload.image_url }}"
-          IMAGE_NAME="$(basename "${IMAGE_URL%%\?*}")"
-          IMAGE_PATH="assets/images/$IMAGE_NAME"
-          IMAGE_MARKDOWN="![${{ github.event.client_payload.alt }}]({{ site.pics_url }}${IMAGE_NAME})"
+          format_yaml_list() {
+            local input="$1"
+            local items=()
+            IFS=',' read -r -a items <<< "$input"
+            local result=""
+            for item in "${items[@]}"; do
+              item="$(echo "$item" | xargs)"
+              if [ -n "$item" ]; then
+                if [ -n "$result" ]; then
+                  result="${result}, "
+                fi
+                result="${result}\"${item}\""
+              fi
+            done
+            echo "[$result]"
+          }
 
-          # 2. Define the exact file path
-          FILE_PATH="all_collections/_posts/${{ github.event.client_payload.filename }}"
+          IMAGE_MARKDOWN=""
+          if [ -n "$IMAGE_URL" ]; then
+            IMAGE_NAME="$(basename "${IMAGE_URL%%\?*}")"
+            IMAGE_PATH="$IMAGE_STAGING_DIR/$IMAGE_NAME"
+            IMAGE_MARKDOWN="![${IMAGE_ALT}]({{ site.pics_url }}${IMAGE_NAME})"
+          fi
 
-          # 3. Logic: Check if the file already exists
+          FILE_PATH="all_collections/_posts/${BLOG_FILENAME}"
+
           if [ -f "$FILE_PATH" ]; then
-            # If exists, append the new content to the end
             cat <<EOF >> "$FILE_PATH"
 
-          ${{ github.event.client_payload.text_before }}
+          $BLOG_TOP_TEXT
 
           $IMAGE_MARKDOWN
 
-          ${{ github.event.client_payload.text_after }}
+          $BLOG_BOTTOM_TEXT
 
-          > ${{ github.event.client_payload.quote }}
+          > $BLOG_QUOTE
           EOF
           else
-            # If it's a new file, create it with front matter
-            cat <<EOF > "$FILE_PATH"
-          ---
-          title: "${{ github.event.client_payload.title }}"
-          author: "${{ github.event.client_payload.author }}"
-          ---
-
-          ${{ github.event.client_payload.text_before }}
-
-          $IMAGE_MARKDOWN
-
-          ${{ github.event.client_payload.text_after }}
-
-          > ${{ github.event.client_payload.quote }}
-          EOF
+            {
+              echo '---'
+              echo "title: \"${BLOG_TITLE}\""
+              echo "author: \"${BLOG_AUTHOR}\""
+              if [ -n "$BLOG_CATEGORIES" ]; then
+                echo "categories: $(format_yaml_list "$BLOG_CATEGORIES")"
+              fi
+              if [ -n "$BLOG_TAGS" ]; then
+                echo "tags: $(format_yaml_list "$BLOG_TAGS")"
+              fi
+              echo '---'
+              echo
+              echo "$BLOG_TOP_TEXT"
+              echo
+              if [ -n "$IMAGE_MARKDOWN" ]; then
+                echo "$IMAGE_MARKDOWN"
+                echo
+              fi
+              echo "$BLOG_BOTTOM_TEXT"
+              echo
+              echo "> $BLOG_QUOTE"
+            } > "$FILE_PATH"
           fi
 
-          curl -L "$IMAGE_URL" -o "$IMAGE_PATH"
-          if [ -f "scripts/create_responsive_images.py" ]; then
-            python3 scripts/create_responsive_images.py "$IMAGE_PATH" --sizes 2048 1920 1600 1366 1024 768 640 --output-root assets/images
-          else
-            python3 create_responsive_images.py "$IMAGE_PATH" --sizes 2048 1920 1600 1366 1024 768 640 --output-root assets/images
+          if [ -n "$IMAGE_URL" ]; then
+            curl -L "$IMAGE_URL" -o "$IMAGE_PATH"
+            if [ -f "scripts/create_responsive_images.py" ]; then
+              python3 scripts/create_responsive_images.py "$IMAGE_PATH" --sizes 2048 1920 1600 1366 1024 768 640 --output-root "$IMAGE_STAGING_DIR"
+            else
+              python3 create_responsive_images.py "$IMAGE_PATH" --sizes 2048 1920 1600 1366 1024 768 640 --output-root "$IMAGE_STAGING_DIR"
+            fi
           fi
-
 
       - name: Upload to Turbify via FTP
+        if: ${{ github.event.client_payload.image_url != '' }}
         uses: SamKirkland/FTP-Deploy-Action@v4.3.0
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./assets/images/
-          server-dir: /public_html/pics/blog/
+          local-dir: ${{ runner.temp }}/blog-image-uploads/
+          server-dir: public_html/pics/blog/
+
+      - name: Remove staged image files
+        if: always()
+        run: rm -rf "${{ runner.temp }}/blog-image-uploads"
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated blog update from phone"
-          # This tells the action to use your secret for authentication
-          file_pattern: 'all_collections/_posts/* assets/images/**' 
+          file_pattern: 'all_collections/_posts/*'
         env:
-          # This connects the secret we added to the action
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_PAT }}
 
           
