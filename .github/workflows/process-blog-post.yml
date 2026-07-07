@@ -39,10 +39,13 @@ jobs:
             echo "$NEW_CONTENT" >> "$FILE_PATH"
           fi
 
-      - name: Commit and Push
-        run: |
-          git config user.name "Blog Bot"
-          git config user.email "bot@example.com"
-          git add .
-          git commit -m "Update blog: ${{ github.event.client_payload.filename }}"
-          git push
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated blog update from phone"
+          # This tells the action to use your secret for authentication
+          file_pattern: 'all_collections/_posts/*' 
+        env:
+          # This connects the secret we added to the action
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_PAT }}
+          
