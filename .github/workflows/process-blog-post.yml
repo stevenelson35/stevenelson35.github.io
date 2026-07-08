@@ -81,18 +81,22 @@ jobs:
           FILE_PATH="all_collections/_posts/${BLOG_FILENAME}"
 
           if [ -f "$FILE_PATH" ]; then
-            cat <<EOF >> "$FILE_PATH"
+            {
+              echo
+              echo "$BLOG_TOP_TEXT"
+              echo
+              if [ -n "$IMAGE_MARKDOWN" ]; then
+                echo "$IMAGE_MARKDOWN"
+                echo
+              fi
+              if [ -n "$BLOG_YOUTUBE_ID" ]; then
+                echo "{% include youtubePlayer.html id=\"${BLOG_YOUTUBE_ID}\" %}"
+                echo
+              fi
+              echo "$BLOG_BOTTOM_TEXT"
+              echo
+            } >> "$FILE_PATH"
 
-          $BLOG_TOP_TEXT
-
-          $IMAGE_MARKDOWN
-
-          $BLOG_BOTTOM_TEXT
-
-          EOF
-            if [ -n "$BLOG_YOUTUBE_ID" ]; then
-              printf '\n{% include youtubePlayer.html id=page.youtubeId %}\n' >> "$FILE_PATH"
-            fi
             if [ -n "$BLOG_QUOTE" ] || [ -n "$BLOG_QUOTE_ATTRIBUTION" ]; then
               printf '\n' >> "$FILE_PATH"
               if [ -n "$BLOG_QUOTE" ]; then
