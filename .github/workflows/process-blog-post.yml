@@ -88,7 +88,7 @@ jobs:
               if [ -z "$line" ]; then
                 result="${result}>"
               else
-                result="${result}> ${line}</br>"
+                result="${result}> ${line}  "
               fi
             done <<< "$input"
             printf '%s' "$result"
