@@ -80,18 +80,25 @@ jobs:
           format_blockquote() {
             local input="$1"
             local line
-            local result=""
+            local lines=()
             while IFS= read -r line || [ -n "$line" ]; do
-              if [ -n "$result" ]; then
-                result="${result}"$'\n'
-              fi
-              if [ -z "$line" ]; then
-                result="${result}>"
-              else
-                result="${result}> ${line}  "
-              fi
+              lines+=("$line")
             done <<< "$input"
-            printf '%s' "$result"
+
+            if [ "${#lines[@]}" -eq 0 ]; then
+              return
+            fi
+
+            printf '<blockquote>\n'
+            printf '  <p>'
+            for i in "${!lines[@]}"; do
+              if [ "$i" -gt 0 ]; then
+                printf '<br />'
+              fi
+              printf '%s' "${lines[$i]}"
+            done
+            printf '</p>\n'
+            printf '</blockquote>\n'
           }
 
           IMAGE_MARKDOWN=""
