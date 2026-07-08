@@ -26,20 +26,35 @@ jobs:
       - name: Process & Update
         env:
           IMAGE_URL: ${{ github.event.client_payload.image_url }}
-          IMAGE_ALT: ${{ github.event.client_payload.alt }}
           IMAGE_STAGING_DIR: ${{ runner.temp }}/blog-image-uploads
           BLOG_FILENAME: ${{ github.event.client_payload.filename }}
-          BLOG_TITLE: ${{ github.event.client_payload.title }}
-          BLOG_AUTHOR: ${{ github.event.client_payload.author }}
-          BLOG_TOP_TEXT: ${{ github.event.client_payload.top_text }}
-          BLOG_BOTTOM_TEXT: ${{ github.event.client_payload.bottom_text }}
-          BLOG_QUOTE: ${{ github.event.client_payload.quote }}
-          BLOG_QUOTE_ATTRIBUTION: ${{ github.event.client_payload.quote_attribution }}
-          BLOG_YOUTUBE_ID: ${{ github.event.client_payload.youtube_id }}
-          BLOG_CATEGORIES: ${{ github.event.client_payload.categories }}
-          BLOG_TAGS: ${{ github.event.client_payload.tags }}
+          BLOG_POST_DATA: ${{ github.event.client_payload.post_data }}
         run: |
           set -e
+
+          python3 - <<'PY' > /tmp/blog_env.sh
+          import json
+          import os
+          import shlex
+
+          payload = json.loads(os.environ.get('BLOG_POST_DATA', '{}') or '{}')
+          mapping = {
+              'IMAGE_ALT': payload.get('alt', ''),
+              'BLOG_TITLE': payload.get('title', ''),
+              'BLOG_AUTHOR': payload.get('author', ''),
+              'BLOG_TOP_TEXT': payload.get('top_text', ''),
+              'BLOG_BOTTOM_TEXT': payload.get('bottom_text', ''),
+              'BLOG_QUOTE': payload.get('quote', ''),
+              'BLOG_QUOTE_ATTRIBUTION': payload.get('quote_attribution', ''),
+              'BLOG_YOUTUBE_ID': payload.get('youtube_id', ''),
+              'BLOG_CATEGORIES': payload.get('categories', ''),
+              'BLOG_TAGS': payload.get('tags', ''),
+          }
+
+          for key, value in mapping.items():
+              print(f"{key}={shlex.quote(str(value))}")
+          PY
+          source /tmp/blog_env.sh
 
           mkdir -p all_collections/_posts/
           rm -rf "$IMAGE_STAGING_DIR"
