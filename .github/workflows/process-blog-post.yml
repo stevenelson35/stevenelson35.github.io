@@ -7,6 +7,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Show trigger details
+        run: |
+          echo "Repository: ${{ github.repository }}"
+          echo "Event name: ${{ github.event_name }}"
+          echo "Event action: ${{ github.event.action }}"
+          echo "Client payload:"
+          echo '${{ toJson(github.event.client_payload) }}'
+
       - name: Checkout Repo
         uses: actions/checkout@v4
 
