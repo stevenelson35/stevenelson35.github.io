@@ -26,6 +26,8 @@ jobs:
           BLOG_TOP_TEXT: ${{ github.event.client_payload.top_text }}
           BLOG_BOTTOM_TEXT: ${{ github.event.client_payload.bottom_text }}
           BLOG_QUOTE: ${{ github.event.client_payload.quote }}
+          BLOG_QUOTE_ATTRIBUTION: ${{ github.event.client_payload.quote_attribution }}
+          BLOG_YOUTUBE_ID: ${{ github.event.client_payload.youtube_id }}
           BLOG_CATEGORIES: ${{ github.event.client_payload.categories }}
           BLOG_TAGS: ${{ github.event.client_payload.tags }}
         run: |
@@ -52,6 +54,23 @@ jobs:
             echo "[$result]"
           }
 
+          format_blockquote() {
+            local input="$1"
+            local line
+            local result=""
+            while IFS= read -r line || [ -n "$line" ]; do
+              if [ -n "$result" ]; then
+                result="${result}"$'\n'
+              fi
+              if [ -z "$line" ]; then
+                result="${result}>"
+              else
+                result="${result}> ${line}</br>"
+              fi
+            done <<< "$input"
+            printf '%s' "$result"
+          }
+
           IMAGE_MARKDOWN=""
           if [ -n "$IMAGE_URL" ]; then
             IMAGE_NAME="$(basename "${IMAGE_URL%%\?*}")"
@@ -70,18 +89,33 @@ jobs:
 
           $BLOG_BOTTOM_TEXT
 
-          > $BLOG_QUOTE
           EOF
+            if [ -n "$BLOG_YOUTUBE_ID" ]; then
+              printf '\n{% include youtubePlayer.html id=page.youtubeId %}\n' >> "$FILE_PATH"
+            fi
+            if [ -n "$BLOG_QUOTE" ] || [ -n "$BLOG_QUOTE_ATTRIBUTION" ]; then
+              printf '\n' >> "$FILE_PATH"
+              if [ -n "$BLOG_QUOTE" ]; then
+                format_blockquote "$BLOG_QUOTE" >> "$FILE_PATH"
+                printf '\n' >> "$FILE_PATH"
+              fi
+              if [ -n "$BLOG_QUOTE_ATTRIBUTION" ]; then
+                printf -- '- %s\n' "$BLOG_QUOTE_ATTRIBUTION" >> "$FILE_PATH"
+              fi
+            fi
           else
             {
               echo '---'
               echo "title: \"${BLOG_TITLE}\""
-              echo "author: \"${BLOG_AUTHOR}\""
+              echo "author: ${BLOG_AUTHOR}"
               if [ -n "$BLOG_CATEGORIES" ]; then
                 echo "categories: $(format_yaml_list "$BLOG_CATEGORIES")"
               fi
               if [ -n "$BLOG_TAGS" ]; then
                 echo "tags: $(format_yaml_list "$BLOG_TAGS")"
+              fi
+              if [ -n "$BLOG_YOUTUBE_ID" ]; then
+                echo "youtubeId: ${BLOG_YOUTUBE_ID}"
               fi
               echo '---'
               echo
@@ -91,9 +125,20 @@ jobs:
                 echo "$IMAGE_MARKDOWN"
                 echo
               fi
+              if [ -n "$BLOG_YOUTUBE_ID" ]; then
+                echo "{% include youtubePlayer.html id=page.youtubeId %}"
+                echo
+              fi
               echo "$BLOG_BOTTOM_TEXT"
               echo
-              echo "> $BLOG_QUOTE"
+              if [ -n "$BLOG_QUOTE" ] || [ -n "$BLOG_QUOTE_ATTRIBUTION" ]; then
+                if [ -n "$BLOG_QUOTE" ]; then
+                  format_blockquote "$BLOG_QUOTE"
+                fi
+                if [ -n "$BLOG_QUOTE_ATTRIBUTION" ]; then
+                  echo "- $BLOG_QUOTE_ATTRIBUTION"
+                fi
+              fi
             } > "$FILE_PATH"
           fi
 

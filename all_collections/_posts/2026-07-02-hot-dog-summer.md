@@ -1,7 +1,7 @@
 ---
 title: "Hot Dog Summer"
-author: "Steve"
-categories: ["summer vacation 2026", "summer 2026"]
+author: steve
+categories: ["summer vacation 2026"]
 tags: ["2026", "driving", "iowa", "summer", "vacation"]
 ---
 
@@ -15,4 +15,4 @@ What possibly could go wrong? ;)
 > A dog's a dog
 > A CAT'S A CAT
 
-T. S. Eliot
+- T. S. Eliot

@@ -22,7 +22,7 @@ Camilla and Grandma took Mia for a walk while Camilla was still in her PJs.
 
 For lunch we went to a traditional favorite restaurant - The Mucky Duck.  Although parking was difficult, we got in quickly even though it was a busy spring break weekend on the islands.  
 
-![Camillaa Jerry Sharon at Mucky Duck]({{ site.pics_url }}20240323_101150.jpg)  
+![Camilla Jerry Sharon at Mucky Duck]({{ site.pics_url }}20240323_101150.jpg)  
 
 
 ![Jerry Linda Camilla at Mucky Duck]({{ site.pics_url }}20240323_101310.jpg)  
