@@ -19,3 +19,8 @@ We passed the St. Louis arch again. Always wanted to stop there and check it out
 
 ![]({{ site.pics_url }}20260704_105237.jpg)
 
+
+We passed some hay bales again. Always wanted to stop there and check it out. Maybe next time ;)!
+
+![]({{ site.pics_url }}20260704_135037.jpg)
+
