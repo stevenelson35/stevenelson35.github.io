@@ -32,10 +32,18 @@ jobs:
         run: |
           set -e
 
-          python3 - <<'PY' > /tmp/blog_env.sh
+          mkdir -p all_collections/_posts/
+          rm -rf "$IMAGE_STAGING_DIR"
+          mkdir -p "$IMAGE_STAGING_DIR"
+
+          python3 - <<'PY'
           import json
           import os
-          import shlex
+          import shutil
+          import subprocess
+          import sys
+          import urllib.request
+          from pathlib import Path
 
           payload = json.loads(os.environ.get('BLOG_POST_DATA', '{}') or '{}')
 
@@ -48,8 +56,42 @@ jobs:
                   value = str(value).strip()
               return value if value else default
 
+          def format_yaml_list(items):
+              values = [item.strip() for item in items.split(',') if item.strip()]
+              if not values:
+                  return '[]'
+              return '[' + ', '.join(f'"{item}"' for item in values) + ']'
+
+          def format_blockquote(text):
+              lines = text.splitlines() or ['']
+              output = []
+              for line in lines:
+                  if line:
+                      output.append(f'> {line}  ')
+                  else:
+                      output.append('>  ')
+                  output.append('')
+              return '\n'.join(output).rstrip()
+
+          def process_image(image_url, image_name, staging_dir):
+              image_path = os.path.join(staging_dir, image_name)
+              if image_url:
+                  urllib.request.urlretrieve(image_url, image_path)
+              if os.path.exists('scripts/create_responsive_images.py'):
+                  subprocess.run([
+                      'python3', 'scripts/create_responsive_images.py', image_path,
+                      '--sizes', '2048', '1920', '1600', '1366', '1024', '768', '640',
+                      '--output-root', staging_dir
+                  ], check=True)
+              else:
+                  subprocess.run([
+                      'python3', 'create_responsive_images.py', image_path,
+                      '--sizes', '2048', '1920', '1600', '1366', '1024', '768', '640',
+                      '--output-root', staging_dir
+                  ], check=True)
+              return image_path
+
           clean_payload = {
-              'alt': clean_value(payload.get('alt', ''), ''),
               'title': clean_value(payload.get('title', ''), ''),
               'author': clean_value(payload.get('author', 'steve'), 'steve'),
               'top_text': clean_value(payload.get('top_text', ''), ''),
@@ -61,164 +103,102 @@ jobs:
               'tags': clean_value(payload.get('tags', ''), ''),
           }
 
-          mapping = {
-              'IMAGE_ALT': clean_payload['alt'],
-              'BLOG_TITLE': clean_payload['title'],
-              'BLOG_AUTHOR': clean_payload['author'],
-              'BLOG_TOP_TEXT': clean_payload['top_text'],
-              'BLOG_BOTTOM_TEXT': clean_payload['bottom_text'],
-              'BLOG_QUOTE': clean_payload['quote'],
-              'BLOG_QUOTE_ATTRIBUTION': clean_payload['quote_attribution'],
-              'BLOG_YOUTUBE_ID': clean_payload['youtube_id'],
-              'BLOG_CATEGORIES': clean_payload['categories'],
-              'BLOG_TAGS': clean_payload['tags'],
-          }
+          images = payload.get('images', [])
+          if isinstance(images, list):
+              cleaned_images = []
+              for entry in images:
+                  if not isinstance(entry, dict):
+                      continue
+                  image_url = clean_value(entry.get('image_url', ''), '')
+                  text_before = clean_value(entry.get('text_before', ''), '')
+                  alt_text = clean_value(entry.get('alt', ''), '')
+                  file_name = clean_value(entry.get('file_name', ''), '')
+                  if image_url or text_before or alt_text:
+                      cleaned_images.append({
+                          'text_before': text_before,
+                          'image_url': image_url,
+                          'alt': alt_text,
+                          'file_name': file_name,
+                      })
+          else:
+              cleaned_images = []
 
-          for key, value in mapping.items():
-              print(f"{key}={shlex.quote(str(value))}")
+          if not cleaned_images and clean_value(os.environ.get('IMAGE_URL', ''), ''):
+              cleaned_images.append({
+                  'text_before': clean_payload['top_text'],
+                  'image_url': clean_value(os.environ.get('IMAGE_URL', ''), ''),
+                  'alt': clean_payload.get('alt', ''),
+                  'file_name': '',
+              })
+
+          clean_payload['images'] = cleaned_images
+
+          blog_filename = clean_value(os.environ.get('BLOG_FILENAME', ''), '')
+          if not blog_filename:
+              raise SystemExit('No blog filename provided')
+
+          blog_filename = os.path.basename(blog_filename)
+          file_path = os.path.join('all_collections/_posts', blog_filename)
+          staging_dir = os.environ.get('IMAGE_STAGING_DIR', '')
+
+          body_parts = []
+          if clean_payload['top_text']:
+              body_parts.append(clean_payload['top_text'])
+
+          for index, image in enumerate(clean_payload['images'], start=1):
+              if image.get('text_before'):
+                  body_parts.append(image['text_before'])
+              if image.get('image_url'):
+                  image_name = image.get('file_name') or os.path.basename(image['image_url'].split('?', 1)[0])
+                  if not os.path.splitext(image_name)[1]:
+                      image_name += '.jpg'
+                  process_image(image['image_url'], image_name, staging_dir)
+                  image_markdown = f"![{image.get('alt', '')}]({{ site.pics_url }}{image_name})"
+                  body_parts.append(image_markdown)
+
+          if clean_payload['youtube_id']:
+              body_parts.append(f'{{% include youtubePlayer.html id="{clean_payload["youtube_id"]}" %}}')
+
+          if clean_payload['bottom_text']:
+              body_parts.append(clean_payload['bottom_text'])
+
+          body = '\n\n'.join(part for part in body_parts if part)
+
+          if os.path.exists(file_path):
+              with open(file_path, 'a', encoding='utf-8') as handle:
+                  if body:
+                      handle.write('\n\n')
+                      handle.write(body)
+                      handle.write('\n')
+          else:
+              front_matter_lines = ['---', f'title: "{clean_payload["title"]}"', f'author: {clean_payload["author"]}']
+              if clean_payload['categories']:
+                  front_matter_lines.append(f'categories: {format_yaml_list(clean_payload["categories"])}')
+              if clean_payload['tags']:
+                  front_matter_lines.append(f'tags: {format_yaml_list(clean_payload["tags"])}')
+              if clean_payload['youtube_id']:
+                  front_matter_lines.append(f'youtubeId: {clean_payload["youtube_id"]}')
+              front_matter_lines.append('---')
+              front_matter_text = '\n'.join(front_matter_lines) + '\n\n'
+              if body:
+                  front_matter_text += body + '\n'
+              with open(file_path, 'w', encoding='utf-8') as handle:
+                  handle.write(front_matter_text)
+
+          if clean_payload['quote'] or clean_payload['quote_attribution']:
+              with open(file_path, 'a', encoding='utf-8') as handle:
+                  handle.write('\n')
+                  if clean_payload['quote']:
+                      for line in clean_payload['quote'].splitlines() or ['']:
+                          if line:
+                              handle.write(f'> {line}  \n')
+                          else:
+                              handle.write('>  \n')
+                          handle.write('  \n')
+                      handle.write('\n')
+                  if clean_payload['quote_attribution']:
+                      handle.write(f'- {clean_payload["quote_attribution"]}\n')
           PY
-          source /tmp/blog_env.sh
-
-          mkdir -p all_collections/_posts/
-          rm -rf "$IMAGE_STAGING_DIR"
-          mkdir -p "$IMAGE_STAGING_DIR"
-
-          format_yaml_list() {
-            local input="$1"
-            local items=()
-            IFS=',' read -r -a items <<< "$input"
-            local result=""
-            for item in "${items[@]}"; do
-              item="$(echo "$item" | xargs)"
-              if [ -n "$item" ]; then
-                if [ -n "$result" ]; then
-                  result="${result}, "
-                fi
-                result="${result}\"${item}\""
-              fi
-            done
-            echo "[$result]"
-          }
-
-          format_blockquote() {
-            local input="$1"
-            local line
-            local lines=()
-            while IFS= read -r line || [ -n "$line" ]; do
-              lines+=("$line")
-            done <<< "$input"
-
-            if [ "${#lines[@]}" -eq 0 ]; then
-              return
-            fi
-
-            for i in "${!lines[@]}"; do
-              if [ -n "${lines[$i]}" ]; then
-                printf '> %s  \n' "${lines[$i]}"
-              else
-                printf '>  \n'
-              fi
-              printf '  \n'
-            done
-          }
-
-          IMAGE_MARKDOWN=""
-          if [ -n "$IMAGE_URL" ]; then
-            IMAGE_NAME="$(basename "${IMAGE_URL%%\?*}")"
-            IMAGE_PATH="$IMAGE_STAGING_DIR/$IMAGE_NAME"
-            IMAGE_MARKDOWN="![${IMAGE_ALT}]({{ site.pics_url }}${IMAGE_NAME})"
-          fi
-
-          if [ -z "$BLOG_FILENAME" ]; then
-            echo "No blog filename provided" >&2
-            exit 1
-          fi
-
-          BLOG_FILENAME="$(basename "$BLOG_FILENAME")"
-          FILE_PATH="all_collections/_posts/${BLOG_FILENAME}"
-
-          if [ -f "$FILE_PATH" ]; then
-            {
-              echo
-              if [ -n "$BLOG_TOP_TEXT" ]; then
-                echo "$BLOG_TOP_TEXT"
-                echo
-              fi
-              if [ -n "$IMAGE_MARKDOWN" ]; then
-                echo "$IMAGE_MARKDOWN"
-                echo
-              fi
-              if [ -n "$BLOG_YOUTUBE_ID" ]; then
-                echo "{% include youtubePlayer.html id=\"${BLOG_YOUTUBE_ID}\" %}"
-                echo
-              fi
-              if [ -n "$BLOG_BOTTOM_TEXT" ]; then
-                echo "$BLOG_BOTTOM_TEXT"
-                echo
-              fi
-            } >> "$FILE_PATH"
-
-            if [ -n "$BLOG_QUOTE" ] || [ -n "$BLOG_QUOTE_ATTRIBUTION" ]; then
-              printf '\n' >> "$FILE_PATH"
-              if [ -n "$BLOG_QUOTE" ]; then
-                format_blockquote "$BLOG_QUOTE" >> "$FILE_PATH"
-                printf '\n' >> "$FILE_PATH"
-              fi
-              if [ -n "$BLOG_QUOTE_ATTRIBUTION" ]; then
-                printf -- '- %s\n' "$BLOG_QUOTE_ATTRIBUTION" >> "$FILE_PATH"
-              fi
-            fi
-          else
-            {
-              echo '---'
-              echo "title: \"${BLOG_TITLE}\""
-              echo "author: ${BLOG_AUTHOR}"
-              if [ -n "$BLOG_CATEGORIES" ]; then
-                echo "categories: $(format_yaml_list "$BLOG_CATEGORIES")"
-              fi
-              if [ -n "$BLOG_TAGS" ]; then
-                echo "tags: $(format_yaml_list "$BLOG_TAGS")"
-              fi
-              if [ -n "$BLOG_YOUTUBE_ID" ]; then
-                echo "youtubeId: ${BLOG_YOUTUBE_ID}"
-              fi
-              echo '---'
-              echo
-              if [ -n "$BLOG_TOP_TEXT" ]; then
-                echo "$BLOG_TOP_TEXT"
-                echo
-              fi
-              if [ -n "$IMAGE_MARKDOWN" ]; then
-                echo "$IMAGE_MARKDOWN"
-                echo
-              fi
-              if [ -n "$BLOG_YOUTUBE_ID" ]; then
-                echo "{% include youtubePlayer.html id=page.youtubeId %}"
-                echo
-              fi
-              if [ -n "$BLOG_BOTTOM_TEXT" ]; then
-                echo "$BLOG_BOTTOM_TEXT"
-                echo
-              fi
-              if [ -n "$BLOG_QUOTE" ] || [ -n "$BLOG_QUOTE_ATTRIBUTION" ]; then
-                if [ -n "$BLOG_QUOTE" ]; then
-                  format_blockquote "$BLOG_QUOTE"
-                fi
-                if [ -n "$BLOG_QUOTE_ATTRIBUTION" ]; then
-                  echo "- $BLOG_QUOTE_ATTRIBUTION"
-                fi
-              fi
-            } > "$FILE_PATH"
-          fi
-
-          if [ -n "$IMAGE_URL" ]; then
-            curl -L "$IMAGE_URL" -o "$IMAGE_PATH"
-            if [ -f "scripts/create_responsive_images.py" ]; then
-              python3 scripts/create_responsive_images.py "$IMAGE_PATH" --sizes 2048 1920 1600 1366 1024 768 640 --output-root "$IMAGE_STAGING_DIR"
-            else
-              python3 create_responsive_images.py "$IMAGE_PATH" --sizes 2048 1920 1600 1366 1024 768 640 --output-root "$IMAGE_STAGING_DIR"
-            fi
-          fi
 
       - name: Upload to Turbify via FTP
         if: ${{ github.event.client_payload.image_url != '' }}
