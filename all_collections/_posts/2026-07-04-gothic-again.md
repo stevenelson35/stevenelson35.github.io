@@ -7,7 +7,7 @@ tags: ["2026", "driving", "summer", "vacation"]
 
 On the third leg of the route to Iowa, the dogs knew the routine and mostly behaved. 
 
-![Camilla and Two Pups in car]({{ site.pics_url }}20260704_082733_1.jpg)
+![Camilla and Two Pups in car]({{ site.pics_url }}20260706_175225.jpg)
 
 
 
@@ -17,17 +17,17 @@ On the third leg of the route to Iowa, the dogs knew the routine and mostly beha
 
 We passed the St. Louis arch again. Always wanted to stop there and check it out. Maybe next time ;)!
 
-![Arch]({{ site.pics_url }}20260704_105237.jpg)
+![Arch]({{ site.pics_url }}20260708_225542.jpg)
 
 
 We passed some hay bales again. Always wanted to stop there and check it out. Maybe next time ;)!
 
-![Hay]({{ site.pics_url }}20260704_135037.jpg)
+![Hay]({{ site.pics_url }}20260706_175225.jpg)
 
 
 We arrived in Iowa!
 
-![Iowa Road Sign]({{ site.pics_url }}20260704_144747.jpg)
+![Iowa Road Sign]({{ site.pics_url }}20260708_225542.jpg)
 
 
 > Iowa  
