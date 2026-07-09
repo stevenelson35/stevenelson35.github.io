@@ -38,17 +38,40 @@ jobs:
           import shlex
 
           payload = json.loads(os.environ.get('BLOG_POST_DATA', '{}') or '{}')
+
+          def clean_value(value, default=''):
+              if value is None:
+                  return default
+              if isinstance(value, str):
+                  value = value.strip()
+              else:
+                  value = str(value).strip()
+              return value if value else default
+
+          clean_payload = {
+              'alt': clean_value(payload.get('alt', ''), ''),
+              'title': clean_value(payload.get('title', ''), ''),
+              'author': clean_value(payload.get('author', 'steve'), 'steve'),
+              'top_text': clean_value(payload.get('top_text', ''), ''),
+              'bottom_text': clean_value(payload.get('bottom_text', ''), ''),
+              'quote': clean_value(payload.get('quote', ''), ''),
+              'quote_attribution': clean_value(payload.get('quote_attribution', ''), ''),
+              'youtube_id': clean_value(payload.get('youtube_id', ''), ''),
+              'categories': clean_value(payload.get('categories', ''), ''),
+              'tags': clean_value(payload.get('tags', ''), ''),
+          }
+
           mapping = {
-              'IMAGE_ALT': payload.get('alt', ''),
-              'BLOG_TITLE': payload.get('title', ''),
-              'BLOG_AUTHOR': payload.get('author', ''),
-              'BLOG_TOP_TEXT': payload.get('top_text', ''),
-              'BLOG_BOTTOM_TEXT': payload.get('bottom_text', ''),
-              'BLOG_QUOTE': payload.get('quote', ''),
-              'BLOG_QUOTE_ATTRIBUTION': payload.get('quote_attribution', ''),
-              'BLOG_YOUTUBE_ID': payload.get('youtube_id', ''),
-              'BLOG_CATEGORIES': payload.get('categories', ''),
-              'BLOG_TAGS': payload.get('tags', ''),
+              'IMAGE_ALT': clean_payload['alt'],
+              'BLOG_TITLE': clean_payload['title'],
+              'BLOG_AUTHOR': clean_payload['author'],
+              'BLOG_TOP_TEXT': clean_payload['top_text'],
+              'BLOG_BOTTOM_TEXT': clean_payload['bottom_text'],
+              'BLOG_QUOTE': clean_payload['quote'],
+              'BLOG_QUOTE_ATTRIBUTION': clean_payload['quote_attribution'],
+              'BLOG_YOUTUBE_ID': clean_payload['youtube_id'],
+              'BLOG_CATEGORIES': clean_payload['categories'],
+              'BLOG_TAGS': clean_payload['tags'],
           }
 
           for key, value in mapping.items():
@@ -117,8 +140,10 @@ jobs:
           if [ -f "$FILE_PATH" ]; then
             {
               echo
-              echo "$BLOG_TOP_TEXT"
-              echo
+              if [ -n "$BLOG_TOP_TEXT" ]; then
+                echo "$BLOG_TOP_TEXT"
+                echo
+              fi
               if [ -n "$IMAGE_MARKDOWN" ]; then
                 echo "$IMAGE_MARKDOWN"
                 echo
@@ -127,8 +152,10 @@ jobs:
                 echo "{% include youtubePlayer.html id=\"${BLOG_YOUTUBE_ID}\" %}"
                 echo
               fi
-              echo "$BLOG_BOTTOM_TEXT"
-              echo
+              if [ -n "$BLOG_BOTTOM_TEXT" ]; then
+                echo "$BLOG_BOTTOM_TEXT"
+                echo
+              fi
             } >> "$FILE_PATH"
 
             if [ -n "$BLOG_QUOTE" ] || [ -n "$BLOG_QUOTE_ATTRIBUTION" ]; then
@@ -157,8 +184,10 @@ jobs:
               fi
               echo '---'
               echo
-              echo "$BLOG_TOP_TEXT"
-              echo
+              if [ -n "$BLOG_TOP_TEXT" ]; then
+                echo "$BLOG_TOP_TEXT"
+                echo
+              fi
               if [ -n "$IMAGE_MARKDOWN" ]; then
                 echo "$IMAGE_MARKDOWN"
                 echo
@@ -167,8 +196,10 @@ jobs:
                 echo "{% include youtubePlayer.html id=page.youtubeId %}"
                 echo
               fi
-              echo "$BLOG_BOTTOM_TEXT"
-              echo
+              if [ -n "$BLOG_BOTTOM_TEXT" ]; then
+                echo "$BLOG_BOTTOM_TEXT"
+                echo
+              fi
               if [ -n "$BLOG_QUOTE" ] || [ -n "$BLOG_QUOTE_ATTRIBUTION" ]; then
                 if [ -n "$BLOG_QUOTE" ]; then
                   format_blockquote "$BLOG_QUOTE"
