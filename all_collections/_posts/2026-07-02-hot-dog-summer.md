@@ -12,7 +12,9 @@ For added excitement, we're driving to Des Moines Iowa with our two puppies for 
 What possibly could go wrong? ;) 
 
 > Again I must remind you that
+   
 > A dog's a dog
-> A CAT'S A CAT
-
+  
+> A CAT'S A CAT  
+  
 - T. S. Eliot
