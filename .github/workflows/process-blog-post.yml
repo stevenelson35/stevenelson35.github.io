@@ -106,6 +106,12 @@ jobs:
             IMAGE_MARKDOWN="![${IMAGE_ALT}]({{ site.pics_url }}${IMAGE_NAME})"
           fi
 
+          if [ -z "$BLOG_FILENAME" ]; then
+            echo "No blog filename provided" >&2
+            exit 1
+          fi
+
+          BLOG_FILENAME="$(basename "$BLOG_FILENAME")"
           FILE_PATH="all_collections/_posts/${BLOG_FILENAME}"
 
           if [ -f "$FILE_PATH" ]; then
