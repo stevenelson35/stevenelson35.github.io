@@ -90,14 +90,13 @@ jobs:
             fi
 
             printf '<blockquote>\n'
-            printf '  <p>'
             for i in "${!lines[@]}"; do
-              if [ "$i" -gt 0 ]; then
-                printf '<br />'
+              if [ -n "${lines[$i]}" ]; then
+                printf '%s<br />\n' "${lines[$i]}"
+              else
+                printf '<br />\n'
               fi
-              printf '%s' "${lines[$i]}"
             done
-            printf '</p>\n'
             printf '</blockquote>\n'
           }
 
