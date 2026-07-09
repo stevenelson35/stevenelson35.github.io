@@ -70,8 +70,10 @@ jobs:
                       output.append(f'> {line}  ')
                   else:
                       output.append('>  ')
-                  output.append('')
-              return '\n'.join(output).rstrip()
+                  # Keep a literal two-space separator line between quote lines
+                  # so each line renders as its own blockquote in the final HTML.
+                  output.append('  ')
+              return '\n'.join(output)
 
           def process_image(image_url, image_name, staging_dir):
               image_path = os.path.join(staging_dir, image_name)
@@ -189,14 +191,10 @@ jobs:
               with open(file_path, 'a', encoding='utf-8') as handle:
                   handle.write('\n')
                   if clean_payload['quote']:
-                      for line in clean_payload['quote'].splitlines() or ['']:
-                          if line:
-                              handle.write(f'> {line}  \n')
-                          else:
-                              handle.write('>  \n')
-                          handle.write('  \n')
-                      handle.write('\n')
+                      handle.write(format_blockquote(clean_payload['quote']))
+                      handle.write('\n\n')
                   if clean_payload['quote_attribution']:
+                      handle.write('\n')
                       handle.write(f'- {clean_payload["quote_attribution"]}\n')
           PY
 
