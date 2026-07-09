@@ -24,3 +24,17 @@ We passed some hay bales again. Always wanted to stop there and check it out. Ma
 
 ![]({{ site.pics_url }}20260704_135037.jpg)
 
+
+We arrived in Iowa!
+
+![Iowa Road Sign]({{ site.pics_url }}20260704_144747.jpg)
+
+
+> Iowa  
+  
+> 75% Vowels  
+  
+> 100% Awesome!  
+  
+
+- As seen on a Raygun T-Shirt
