@@ -91,7 +91,7 @@ jobs:
 
             for i in "${!lines[@]}"; do
               if [ -n "${lines[$i]}" ]; then
-                printf '> %s\n' "${lines[$i]}"
+                printf '> %s  \n' "${lines[$i]}"
               else
                 printf '>\n'
               fi
