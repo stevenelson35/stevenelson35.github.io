@@ -51,3 +51,16 @@ We arrived in Iowa!
 ![American Gothic House]({{ site.pics_url }}20260704_155109.jpg)
 
 ![Famiky at American Gothic house]({{ site.pics_url }}20260704_155703(1)(1).jpg)
+
+
+![Linda Camilla and Two Pups at American Gothic house]({{ site.pics_url }}20260704_155714.jpg)
+
+![Linda Camilla and Two Pups at American Gothic house]({{ site.pics_url }}20260704_155720.jpg)
+
+![Camilla posing with statues]({{ site.pics_url }}20260704_160042(1).jpg)
+
+![Wild flowers]({{ site.pics_url }}20260704_160053(1).jpg)
+
+![Camilla Dandelion]({{ site.pics_url }}20260704_160138.jpg)
+
+![Car at Hyvee]({{ site.pics_url }}20260704_175036(1).jpg)
