@@ -198,35 +198,35 @@ jobs:
                       handle.write(f'- {clean_payload["quote_attribution"]}\n')
           PY
 
-            - name: Upload to Turbify via FTP (upload only)
-                env:
-                    FTP_SERVER: ${{ secrets.FTP_SERVER }}
-                    FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
-                    FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
-                run: |
-                    set -euo pipefail
+      - name: Upload to Turbify via FTP (upload only)
+        env:
+          FTP_SERVER: ${{ secrets.FTP_SERVER }}
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        run: |
+          set -euo pipefail
 
-                    STAGING_DIR="${{ runner.temp }}/blog-image-uploads"
-                    if [[ ! -d "$STAGING_DIR" ]] || [[ -z "$(find "$STAGING_DIR" -type f -print -quit)" ]]; then
-                        echo "No staged image files found; skipping FTP upload."
-                        exit 0
-                    fi
+          STAGING_DIR="${{ runner.temp }}/blog-image-uploads"
+          if [[ ! -d "$STAGING_DIR" ]] || [[ -z "$(find "$STAGING_DIR" -type f -print -quit)" ]]; then
+              echo "No staged image files found; skipping FTP upload."
+              exit 0
+          fi
 
-                    BASE_URL="$FTP_SERVER"
-                    if [[ "$BASE_URL" != ftp://* && "$BASE_URL" != ftps://* ]]; then
-                        BASE_URL="ftp://$BASE_URL"
-                    fi
-                    BASE_URL="${BASE_URL%/}"
+          BASE_URL="$FTP_SERVER"
+          if [[ "$BASE_URL" != ftp://* && "$BASE_URL" != ftps://* ]]; then
+              BASE_URL="ftp://$BASE_URL"
+          fi
+          BASE_URL="${BASE_URL%/}"
 
-                    while IFS= read -r -d '' file; do
-                        rel_path="${file#"$STAGING_DIR"/}"
-                        remote_path="pics/blog/$rel_path"
-                        echo "Uploading $rel_path"
-                        curl --fail --silent --show-error --ftp-create-dirs \
-                            --user "$FTP_USERNAME:$FTP_PASSWORD" \
-                            -T "$file" \
-                            "$BASE_URL/$remote_path"
-                    done < <(find "$STAGING_DIR" -type f -print0)
+          while IFS= read -r -d '' file; do
+              rel_path="${file#"$STAGING_DIR"/}"
+              remote_path="pics/blog/$rel_path"
+              echo "Uploading $rel_path"
+              curl --fail --silent --show-error --ftp-create-dirs \
+                  --user "$FTP_USERNAME:$FTP_PASSWORD" \
+                  -T "$file" \
+                  "$BASE_URL/$remote_path"
+          done < <(find "$STAGING_DIR" -type f -print0)
 
       - name: Remove staged image files
         if: always()
