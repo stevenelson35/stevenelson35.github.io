@@ -38,3 +38,16 @@ We arrived in Iowa!
   
 
 - As seen on a Raygun T-Shirt
+
+
+![Camilla and Two Pups in Car]({{ site.pics_url }}20260704_082733_1.jpg)
+
+![St. Louis Arch]({{ site.pics_url }}20260704_105237.jpg)
+
+![Hay Bales in Field]({{ site.pics_url }}20260704_135037.jpg)
+
+![Welcome to Iowa sign]({{ site.pics_url }}20260704_144747.jpg)
+
+![American Gothic House]({{ site.pics_url }}20260704_155109.jpg)
+
+![Famiky at American Gothic house]({{ site.pics_url }}20260704_155703(1)(1).jpg)
