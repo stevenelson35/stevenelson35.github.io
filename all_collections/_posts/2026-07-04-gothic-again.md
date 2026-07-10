@@ -67,3 +67,10 @@ We arrived in Iowa!
 
 
 {% include youtubePlayer.html id="Dpc4FwT-Z_k" %}
+
+
+![Hyvee]({{ site.pics_url }}20260704_175109.jpg)
+
+![Camilla Running]({{ site.pics_url }}20260704_181901(1).jpg)
+
+{% include youtubePlayer.html id="4wOg0CXz1KM" %}
