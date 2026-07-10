@@ -18,3 +18,6 @@ What possibly could go wrong? ;)
 > A CAT'S A CAT  
   
 - T. S. Eliot
+
+
+![Camilla and Two Pups in Car]({ site.pics_url }20260702_174935_1.jpg)
