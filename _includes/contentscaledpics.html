@@ -13,7 +13,11 @@
 			{%- assign alt = attrs | split: ' alt="' | shift | join: ' alt="' | split: '"' | first -%}
 		{%- endif -%}
 		{%- assign extension = url | split: '.' | last | downcase -%}
-		{%- if url contains site.pics_url and extension != 'gif' -%}
+		{%- assign is_responsive_image = false -%}
+		{%- if url contains site.pics_url or url contains '/assets/images/' or url contains '../assets/images/' -%}
+			{%- assign is_responsive_image = true -%}
+		{%- endif -%}
+		{%- if is_responsive_image and extension != 'gif' -%}
 			{%- assign base_url = url | split: '.' | pop | join: '.' -%}
 			{%- assign pathparts = base_url | split: '/' -%}
 			{%- assign filename = pathparts | last -%}
