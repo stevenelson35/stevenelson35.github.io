@@ -64,3 +64,6 @@ We arrived in Iowa!
 ![Camilla Dandelion]({{ site.pics_url }}20260704_160138.jpg)
 
 ![Car at Hyvee]({{ site.pics_url }}20260704_175036(1).jpg)
+
+
+{% include youtubePlayer.html id="Dpc4FwT-Z_k" %}
