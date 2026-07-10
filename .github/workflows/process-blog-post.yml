@@ -155,7 +155,7 @@ jobs:
                   if not os.path.splitext(image_name)[1]:
                       image_name += '.jpg'
                   process_image(image['image_url'], image_name, staging_dir)
-                  image_markdown = f"![{image.get('alt', '')}]({{ site.pics_url }}{image_name})"
+                  image_markdown = f"![{image.get('alt', '')}]({{{{ site.pics_url }}}}{image_name})"
                   body_parts.append(image_markdown)
 
           if clean_payload['youtube_id']:

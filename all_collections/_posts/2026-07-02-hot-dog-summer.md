@@ -20,4 +20,4 @@ What possibly could go wrong? ;)
 - T. S. Eliot
 
 
-![Camilla and Two Pups in Car]({ site.pics_url }20260702_174935_1.jpg)
+![Camilla and Two Pups in Car]({{ site.pics_url }}20260702_174935_1.jpg)
