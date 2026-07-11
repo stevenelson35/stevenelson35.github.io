@@ -40,7 +40,7 @@ We stopped at the American Gothic house to walk the dogs.  It was closed for the
 
 ![American Gothic House]({{ site.pics_url }}20260704_155109.jpg)
 
-![Famiky at American Gothic house]({{ site.pics_url }}20260704_155703(1)(1).jpg)
+![Family at American Gothic house]({{ site.pics_url }}20260704_155703(1)(1).jpg)
 
 ![Linda Camilla and Two Pups at American Gothic house]({{ site.pics_url }}20260704_155714.jpg)
 
