@@ -1,0 +1,144 @@
+name: Process Image Rotation
+
+"on":
+  repository_dispatch:
+    types: [rotate-image]
+
+jobs:
+  rotate-image:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Show trigger details
+        run: |
+          echo "Repository: ${{ github.repository }}"
+          echo "Event name: ${{ github.event_name }}"
+          echo "Event action: ${{ github.event.action }}"
+          echo "Client payload:"
+          echo '${{ toJson(github.event.client_payload) }}'
+
+      - name: Install image tooling
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+      - name: Download, rotate, and upload image variants
+        env:
+          FTP_SERVER: ${{ secrets.FTP_SERVER }}
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          IMAGE_PATH: ${{ github.event.client_payload.image_path }}
+          ROTATE_DEGREES: ${{ github.event.client_payload.rotate_degrees }}
+        run: |
+          set -euo pipefail
+
+          if [[ -z "${IMAGE_PATH:-}" ]]; then
+            echo "IMAGE_PATH is required (example: pics/blog/20260704_175109.jpg)."
+            exit 1
+          fi
+
+          if [[ -z "${ROTATE_DEGREES:-}" ]]; then
+            echo "ROTATE_DEGREES is required (allowed: 90, 180, 270, -90)."
+            exit 1
+          fi
+
+          case "$ROTATE_DEGREES" in
+            90|180|270|-90)
+              ;;
+            *)
+              echo "Invalid rotation angle: $ROTATE_DEGREES"
+              echo "Allowed values: 90, 180, 270, -90"
+              exit 1
+              ;;
+          esac
+
+          if [[ "$IMAGE_PATH" != pics/blog/* ]]; then
+            echo "IMAGE_PATH must start with pics/blog/"
+            exit 1
+          fi
+
+          basename_with_ext="$(basename "$IMAGE_PATH")"
+          filename_no_ext="${basename_with_ext%.*}"
+          extension="${basename_with_ext##*.}"
+          extension_lc="$(echo "$extension" | tr '[:upper:]' '[:lower:]')"
+
+          if [[ "$filename_no_ext" == "$basename_with_ext" ]]; then
+            echo "IMAGE_PATH must include a file extension."
+            exit 1
+          fi
+
+          if [[ "$extension_lc" != "jpg" && "$extension_lc" != "jpeg" && "$extension_lc" != "png" ]]; then
+            echo "Only .jpg, .jpeg, and .png are supported."
+            exit 1
+          fi
+
+          BASE_URL="$FTP_SERVER"
+          if [[ "$BASE_URL" != ftp://* && "$BASE_URL" != ftps://* ]]; then
+            BASE_URL="ftp://$BASE_URL"
+          fi
+          BASE_URL="${BASE_URL%/}"
+
+          STAGING_DIR="${{ runner.temp }}/image-rotation"
+          rm -rf "$STAGING_DIR"
+          mkdir -p "$STAGING_DIR"
+
+          sizes=(640 768 1024 1366 1600 1920 2048)
+
+          fetch_file() {
+            local remote_path="$1"
+            local local_path="$2"
+            mkdir -p "$(dirname "$local_path")"
+            echo "Downloading $remote_path"
+            curl --fail --silent --show-error \
+              --user "$FTP_USERNAME:$FTP_PASSWORD" \
+              -o "$local_path" \
+              "$BASE_URL/$remote_path"
+          }
+
+          upload_file() {
+            local local_path="$1"
+            local remote_path="$2"
+            echo "Uploading $remote_path"
+            curl --fail --silent --show-error --ftp-create-dirs \
+              --user "$FTP_USERNAME:$FTP_PASSWORD" \
+              -T "$local_path" \
+              "$BASE_URL/$remote_path"
+          }
+
+          rotate_file() {
+            local file_path="$1"
+            local temp_file="$file_path.rotated"
+            convert "$file_path" -rotate "$ROTATE_DEGREES" "$temp_file"
+            mv "$temp_file" "$file_path"
+          }
+
+          root_local="$STAGING_DIR/$basename_with_ext"
+          fetch_file "$IMAGE_PATH" "$root_local"
+
+          root_dir="$(dirname "$IMAGE_PATH")"
+          for size in "${sizes[@]}"; do
+            variant_name="${filename_no_ext}-${size}.${extension_lc}"
+            remote_variant="$root_dir/$size/$variant_name"
+            local_variant="$STAGING_DIR/$size/$variant_name"
+            fetch_file "$remote_variant" "$local_variant"
+          done
+
+          rotate_file "$root_local"
+          for size in "${sizes[@]}"; do
+            variant_name="${filename_no_ext}-${size}.${extension_lc}"
+            local_variant="$STAGING_DIR/$size/$variant_name"
+            rotate_file "$local_variant"
+          done
+
+          upload_file "$root_local" "$IMAGE_PATH"
+          for size in "${sizes[@]}"; do
+            variant_name="${filename_no_ext}-${size}.${extension_lc}"
+            remote_variant="$root_dir/$size/$variant_name"
+            local_variant="$STAGING_DIR/$size/$variant_name"
+            upload_file "$local_variant" "$remote_variant"
+          done
+
+          echo "Rotation complete for $IMAGE_PATH ($ROTATE_DEGREES degrees)."
+
+      - name: Remove staged image files
+        if: always()
+        run: rm -rf "${{ runner.temp }}/image-rotation"
