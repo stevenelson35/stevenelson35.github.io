@@ -35,3 +35,14 @@ She also liked the food.
 {% include youtubePlayer.html id="mRg0_q4siqQ" %}
 
 Here's a video of the hotdog gun in action. We never caught a hotdog or a T-shirt.
+
+
+Near the end Russ WA able to get a fan to through a foul ball from the game to him to give to Camilla, so she got a game ball. The first 10 game balls caught by fans get a free case, but this was way past that point.
+
+Near the end Russ WA able to get a fan to through a foul ball from the game to him to give to Camilla, so she got a game ball. The first 10 game balls caught by fans get a free case, but this was way past that point.
+
+![Camilla with Game Ball]({{ site.pics_url }}20260707_212310.jpg)
+
+The Iowa Cubs lost 4 to 7 in this game. But later in the series they won the next 4 games.
+
+![Cubs scores.]({{ site.pics_url }}Screenshot_20260711_231150_Chrome.jpg)
