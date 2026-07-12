@@ -10,10 +10,6 @@ Shopping before an evening Iowa Cubs game against the St. Paul Saints.
 
 Camilla got her haircut and some new jeans for casual days at school next year.
 
-Shopping before an evening Iowa Cubs game against the St. Paul Saints. 
-
-Camilla got her haircut and some new jeans for casual days at school next year.
-
 ![Camilla Haircut]({{ site.pics_url }}20260707_143601.jpg)
 
 Patrick likes baseball and has had season tickets in the past. We caught an evening game that was the first in a series against the St. Paul Saints (from my home state).
