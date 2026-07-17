@@ -5,6 +5,8 @@ categories: ["summer vacation 2026"]
 tags: ["2026", "iowa", "summer", "vacation"]
 ---
 
+Breakfast at Brueggar's before heading to shops downtown Des Moines. 
+
 ![Brueggar's]({{ site.pics_url }}20260708_103812.jpg)
 
 ![Linda and Camilla Leaving Brueggar's]({{ site.pics_url }}20260708_103900(1).jpg)
