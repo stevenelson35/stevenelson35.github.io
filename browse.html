@@ -1,0 +1,75 @@
+---
+title: Best of the Best
+---
+<style>
+  #browse-app { max-width: 900px; margin: 0 auto; color: #e8e8e8; }
+  #browse-viewer { position: relative; text-align: center; background: #191919; padding: 0.5rem; }
+  #browse-viewer img { max-width: 100%; max-height: 70vh; }
+  #browse-caption { margin: 0.5rem 0; color: #b6b6b6; font-size: 0.9rem; }
+  #browse-position { color: #666; font-size: 0.85rem; }
+  .browse-nav { display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 0.75rem 0; }
+  .browse-nav button {
+    background: #252525; color: #f0e7d5; border: 1px solid #434343; border-radius: 4px;
+    padding: 0.4rem 0.8rem; cursor: pointer; font-size: 0.9rem;
+  }
+  .browse-nav button:hover { border-color: #ffcc00; }
+  #browse-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; justify-content: center; margin: 0.75rem 0; }
+  .browse-chip {
+    background: #252525; color: #b6b6b6; border: 1px solid #434343; border-radius: 999px;
+    padding: 0.3rem 0.8rem; cursor: pointer; font-size: 0.85rem;
+  }
+  .browse-chip.on { background: #659e10; color: white; border-color: #527f0e; }
+  #browse-add-person {
+    background: #252525; color: #e8e8e8; border: 1px solid #434343; border-radius: 999px; padding: 0.3rem 0.6rem;
+  }
+  #browse-timeline { margin: 1rem 0; }
+  #browse-timeline-track {
+    position: relative; height: 28px; background: #121212; border: 1px solid #434343; border-radius: 4px;
+  }
+  .browse-tick {
+    position: absolute; top: 4px; width: 2px; height: 20px; background: #696969; cursor: pointer;
+  }
+  .browse-tick.current { background: #ffcc00; width: 3px; }
+  .browse-event-band { position: absolute; top: 0; height: 28px; background: rgba(255, 204, 0, 0.12); }
+  #browse-events { list-style: none; padding: 0; margin: 0.5rem 0 0; text-align: center; font-size: 0.9rem; }
+  #browse-events a { color: #ffcc00; }
+  .browse-muted { color: #666; }
+</style>
+
+<div id="browse-app">
+  <p>Browse favorites by who's in them and when they were taken. Toggle people below, or drag the
+  timeline; ← and → move to the next matching photo in time.</p>
+
+  <div id="browse-viewer">
+    <img id="browse-image" alt="">
+  </div>
+  <p id="browse-caption"></p>
+
+  <div class="browse-nav">
+    <button id="browse-first" title="Furthest back with this filter">⏮ Furthest back</button>
+    <button id="browse-prev" title="Previous match">‹ Prev</button>
+    <span id="browse-position">0 / 0</span>
+    <button id="browse-next" title="Next match">Next ›</button>
+    <button id="browse-last" title="Most recent with this filter">Most recent ⏭</button>
+  </div>
+  <div class="browse-nav">
+    <button id="browse-group-back" title="Same exact group, back in time">⏪ Same group</button>
+    <button id="browse-group-furthest" title="Same exact group, furthest back">Same group, furthest back</button>
+    <button id="browse-group-next" title="Same exact group, forward in time">Same group ⏩</button>
+  </div>
+
+  <div id="browse-chips"></div>
+  <div style="text-align:center;">
+    <select id="browse-add-person"><option value="">+ add person…</option></select>
+  </div>
+
+  <div id="browse-timeline">
+    <div id="browse-timeline-track"></div>
+  </div>
+
+  <h3 style="text-align:center;">Events</h3>
+  <ul id="browse-events"></ul>
+</div>
+
+<script>window.BROWSE_PICS_URL = "{{ site.browse_pics_url }}";</script>
+<script src="{{ '/assets/js/browse.js' | relative_url }}" defer></script>
