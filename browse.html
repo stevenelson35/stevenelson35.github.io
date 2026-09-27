@@ -34,9 +34,27 @@ title: Best of the Best
   #browse-events { list-style: none; padding: 0; margin: 0.5rem 0 0; text-align: center; font-size: 0.9rem; }
   #browse-events a { color: #ffcc00; }
   .browse-muted { color: #666; }
+  #browse-gate { max-width: 360px; margin: 3rem auto; text-align: center; color: #e8e8e8; }
+  #browse-gate input {
+    background: #252525; color: #e8e8e8; border: 1px solid #434343; border-radius: 4px;
+    padding: 0.4rem 0.6rem; font-size: 1rem; width: 100%; box-sizing: border-box; margin: 0.5rem 0;
+  }
+  #browse-gate button {
+    background: #252525; color: #f0e7d5; border: 1px solid #434343; border-radius: 4px;
+    padding: 0.4rem 1.2rem; cursor: pointer; font-size: 0.95rem;
+  }
+  #browse-gate button:hover { border-color: #ffcc00; }
+  #browse-gate-error { color: #ff8080; }
 </style>
 
-<div id="browse-app">
+<div id="browse-gate">
+  <p>This page isn't public. Enter the passphrase to continue.</p>
+  <input type="password" id="browse-gate-input" autocomplete="off">
+  <div><button id="browse-gate-submit">Enter</button></div>
+  <p id="browse-gate-error" style="display:none;">Wrong passphrase.</p>
+</div>
+
+<div id="browse-app" style="display:none;">
   <p>Browse favorites by who's in them and when they were taken. Toggle people below, or drag the
   timeline; ← and → move to the next matching photo in time.</p>
 
@@ -72,4 +90,48 @@ title: Best of the Best
 </div>
 
 <script>window.BROWSE_PICS_URL = "{{ site.browse_pics_url }}";</script>
-<script src="{{ '/assets/js/browse.js' | relative_url }}" defer></script>
+<script>
+/* A light deterrent, not real security: this is a static site, so there's no server-side login
+ * available. The passphrase is never sent anywhere; it's just hashed and compared in-browser.
+ * Set your own passphrase with: printf '%s' 'your passphrase' | sha256sum
+ */
+(function () {
+  var PASSPHRASE_SHA256 = "742875640f787c77813648aa6c430306c129c2bfa802786ce47c2145fdf24cc1";
+  var STORAGE_KEY = "browse-unlocked-v1";
+
+  function sha256Hex(text) {
+    return crypto.subtle.digest("SHA-256", new TextEncoder().encode(text)).then(function (buf) {
+      return Array.prototype.map.call(new Uint8Array(buf), function (b) {
+        return b.toString(16).padStart(2, "0");
+      }).join("");
+    });
+  }
+
+  function unlock() {
+    document.getElementById("browse-gate").style.display = "none";
+    document.getElementById("browse-app").style.display = "";
+    var s = document.createElement("script");
+    s.src = "{{ '/assets/js/browse.js' | relative_url }}";
+    s.defer = true;
+    document.body.appendChild(s);
+  }
+
+  if (localStorage.getItem(STORAGE_KEY) === "1") { unlock(); return; }
+
+  function tryUnlock() {
+    sha256Hex(document.getElementById("browse-gate-input").value).then(function (hex) {
+      if (hex === PASSPHRASE_SHA256) {
+        localStorage.setItem(STORAGE_KEY, "1");
+        unlock();
+      } else {
+        document.getElementById("browse-gate-error").style.display = "";
+      }
+    });
+  }
+
+  document.getElementById("browse-gate-submit").addEventListener("click", tryUnlock);
+  document.getElementById("browse-gate-input").addEventListener("keydown", function (e) {
+    if (e.key === "Enter") tryUnlock();
+  });
+})();
+</script>
