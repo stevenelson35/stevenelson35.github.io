@@ -4,7 +4,10 @@ title: Travelin' On Photos
 <style>
   #browse-app { max-width: 900px; margin: 0 auto; color: #e8e8e8; }
   #browse-viewer { position: relative; text-align: center; background: #191919; padding: 0.5rem; }
-  #browse-viewer img { max-width: 100%; max-height: 70vh; }
+  #browse-viewer img {
+    display: block; width: auto; height: auto; min-width: 0; max-width: 100%; max-height: 70vh;
+    object-fit: contain; border: 0; outline: 0; box-shadow: none; margin: 0 auto;
+  }
   #browse-caption { margin: 0.5rem 0; color: #b6b6b6; font-size: 0.9rem; }
   #browse-position { color: #666; font-size: 0.85rem; }
   .browse-nav { display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 0.75rem 0; }
