@@ -3,13 +3,14 @@ title: Travelin' On Photos
 ---
 <style>
   #browse-app { max-width: 900px; margin: 0 auto; color: #e8e8e8; }
-  #browse-viewer { position: relative; text-align: center; background: transparent; padding: 0; }
+  #browse-viewer { position: relative; text-align: center; background: transparent; padding: 0; touch-action: pan-y; }
   #browse-viewer img {
     display: block; width: auto; height: auto; min-width: 0; max-width: 100%; max-height: 70vh;
     object-fit: contain; border: 0; outline: 0; box-shadow: none; margin: 0 auto;
   }
   #browse-caption { margin: 0.5rem 0; color: #b6b6b6; font-size: 0.9rem; }
   #browse-position { color: #666; font-size: 0.85rem; }
+  #browse-exact-label { margin-left: 0.75rem; color: #b6b6b6; font-size: 0.85rem; cursor: pointer; }
   .browse-nav { display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin: 0.75rem 0; }
   .browse-nav button {
     background: #252525; color: #f0e7d5; border: 1px solid #434343; border-radius: 4px;
@@ -58,8 +59,8 @@ title: Travelin' On Photos
 </div>
 
 <div id="browse-app" style="display:none;">
-  <p>Browse favorites by who's in them and when they were taken. Toggle people below, or drag the
-  timeline; ← and → move to the next matching photo in time.</p>
+  <p style="text-align:center;">Browse favorites by who's in them and when they were taken.<br>
+  Toggle people below, or drag the timeline; ← and → (or swiping the photo) move to the next matching photo in time.</p>
 
   <div id="browse-viewer">
     <img id="browse-image" alt="">
@@ -73,15 +74,12 @@ title: Travelin' On Photos
     <button id="browse-next" title="Next match">Next ›</button>
     <button id="browse-last" title="Most recent with this filter">Most recent ⏭</button>
   </div>
-  <div class="browse-nav">
-    <button id="browse-group-back" title="Same exact group, back in time">⏪ Same group</button>
-    <button id="browse-group-furthest" title="Same exact group, furthest back">Same group, furthest back</button>
-    <button id="browse-group-next" title="Same exact group, forward in time">Same group ⏩</button>
-  </div>
 
   <div id="browse-chips"></div>
   <div style="text-align:center;">
     <select id="browse-add-person"><option value="">+ add person…</option></select>
+    <label id="browse-exact-label" title="Match photos with exactly the selected people and no one else">
+      <input type="checkbox" id="browse-exact"> Only these people</label>
   </div>
 
   <div id="browse-timeline">

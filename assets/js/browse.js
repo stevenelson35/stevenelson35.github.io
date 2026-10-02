@@ -12,9 +12,10 @@
   var state = {
     photos: [],       // all favorites, sorted by taken_at ascending
     events: [],
-    active: [],       // person names currently required (AND)
+    active: [],       // person names currently selected
+    exact: false,     // true: photos with exactly `active`; false: photos with at least `active`
     knownPeople: [],  // every name that appears on any favorite
-    filtered: [],      // photos matching `active`, ascending
+    filtered: [],      // photos matching the filter, ascending
     index: -1          // position of the current photo within `filtered`
   };
 
@@ -24,15 +25,13 @@
     return size ? picsUrl + size + "/" + photo.id + "-" + size + ".jpg" : picsUrl + photo.id + ".jpg";
   }
 
-  function sameGroup(a, b) {
-    var pa = a.people.slice().sort(), pb = b.people.slice().sort();
-    return pa.length === pb.length && pa.every(function (n, i) { return n === pb[i]; });
+  function matches(p) {
+    var hasAll = state.active.every(function (name) { return p.people.indexOf(name) !== -1; });
+    return hasAll && (!state.exact || p.people.length === state.active.length);
   }
 
   function recompute() {
-    state.filtered = state.photos.filter(function (p) {
-      return state.active.every(function (name) { return p.people.indexOf(name) !== -1; });
-    });
+    state.filtered = state.photos.filter(matches);
     if (state.filtered.length === 0) { state.index = -1; return; }
     var pos = state.currentPhotoId
       ? state.filtered.findIndex(function (p) { return p.id === state.currentPhotoId; })
@@ -57,25 +56,6 @@
   function recomputeKeepingCurrent(id) {
     state.currentPhotoId = id;
     recompute();
-  }
-
-  // ---- Same-exact-group navigation (requirements 1 & 3: jump in time among identical groups) ----
-  function sameGroupMatches() {
-    var c = current();
-    if (!c) return [];
-    return state.photos.filter(function (p) { return sameGroup(p, c); });
-  }
-
-  function jumpSameGroup(direction) {
-    var c = current();
-    if (!c) return;
-    var matches = sameGroupMatches();
-    var pos = matches.findIndex(function (p) { return p.id === c.id; });
-    var target;
-    if (direction === "furthest") target = matches[0];
-    else if (direction === "next") target = matches[Math.min(pos + 1, matches.length - 1)];
-    else target = matches[Math.max(pos - 1, 0)];
-    if (target) jumpToPhoto(target);
   }
 
   // ---- Chips ----
@@ -189,9 +169,11 @@
     $("browse-next").onclick = function () { jumpTo(state.index + 1); };
     $("browse-first").onclick = function () { jumpTo(0); };
     $("browse-last").onclick = function () { jumpTo(state.filtered.length - 1); };
-    $("browse-group-back").onclick = function () { jumpSameGroup("back"); };
-    $("browse-group-next").onclick = function () { jumpSameGroup("next"); };
-    $("browse-group-furthest").onclick = function () { jumpSameGroup("furthest"); };
+    $("browse-exact").onchange = function (e) {
+      state.exact = e.target.checked;
+      recomputeKeepingCurrent(state.currentPhotoId);
+      render();
+    };
     $("browse-add-person").onchange = function (e) {
       if (!e.target.value) return;
       state.active.push(e.target.value);
@@ -204,6 +186,19 @@
       if (e.key === "ArrowLeft") jumpTo(state.index - 1);
       if (e.key === "ArrowRight") jumpTo(state.index + 1);
     });
+    var viewer = $("browse-viewer"), startX = null, startY = null;
+    viewer.addEventListener("touchstart", function (e) {
+      if (e.touches.length !== 1) { startX = null; return; }
+      startX = e.touches[0].clientX;
+      startY = e.touches[0].clientY;
+    }, { passive: true });
+    viewer.addEventListener("touchend", function (e) {
+      if (startX === null) return;
+      var dx = e.changedTouches[0].clientX - startX, dy = e.changedTouches[0].clientY - startY;
+      startX = null;
+      if (Math.abs(dx) < 50 || Math.abs(dx) < Math.abs(dy) * 1.5) return;  // a tap or a mostly-vertical scroll
+      jumpTo(dx < 0 ? state.index + 1 : state.index - 1);
+    }, { passive: true });
   }
 
   function boot(manifest) {
