@@ -14,6 +14,7 @@
     events: [],
     active: [],       // person names currently selected
     exact: false,     // true: photos with exactly `active`; false: photos with at least `active`
+    topOnly: false,   // true: only photos flagged `top` (psort's ◆ top picks)
     knownPeople: [],  // every name that appears on any favorite
     filtered: [],      // photos matching the filter, ascending
     index: -1          // position of the current photo within `filtered`
@@ -27,7 +28,7 @@
 
   function matches(p) {
     var hasAll = state.active.every(function (name) { return p.people.indexOf(name) !== -1; });
-    return hasAll && (!state.exact || p.people.length === state.active.length);
+    return hasAll && (!state.exact || p.people.length === state.active.length) && (!state.topOnly || !!p.top);
   }
 
   function recompute() {
@@ -144,7 +145,7 @@
     var caption = $("browse-caption");
     if (!c) {
       img.removeAttribute("src");
-      caption.textContent = state.photos.length ? "No favorites match the selected people." :
+      caption.textContent = state.photos.length ? "No favorites match the current filter." :
         "No favorites published yet.";
     } else {
       img.src = imgUrl(c, VIEW_SIZE);
@@ -152,7 +153,7 @@
         return imgUrl(c, s) + " " + s + "w";
       }).join(", ");
       img.alt = c.people.join(", ");
-      caption.textContent = new Date(c.taken_at).toLocaleString() +
+      caption.textContent = (c.top ? "◆ " : "") + new Date(c.taken_at).toLocaleString() +
         (c.people.length ? "  ·  " + c.people.join(", ") : "") +
         (c.event ? "  ·  " + c.event.replace(/-/g, " ") : "");
     }
@@ -171,6 +172,11 @@
     $("browse-last").onclick = function () { jumpTo(state.filtered.length - 1); };
     $("browse-exact").onchange = function (e) {
       state.exact = e.target.checked;
+      recomputeKeepingCurrent(state.currentPhotoId);
+      render();
+    };
+    $("browse-top").onchange = function (e) {
+      state.topOnly = e.target.checked;
       recomputeKeepingCurrent(state.currentPhotoId);
       render();
     };
@@ -207,6 +213,8 @@
     var names = {};
     state.photos.forEach(function (p) { p.people.forEach(function (n) { names[n] = true; }); });
     state.knownPeople = Object.keys(names).sort();
+    // Only offered once psort has published at least one top pick (older manifests have none).
+    $("browse-top-label").style.display = state.photos.some(function (p) { return p.top; }) ? "" : "none";
     var last = state.photos[state.photos.length - 1];
     state.active = last ? last.people.slice() : [];
     state.currentPhotoId = last ? last.id : null;
