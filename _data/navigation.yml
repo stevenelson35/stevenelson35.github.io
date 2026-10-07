@@ -7,6 +7,9 @@
 - name: Tags
   link: /tags/
   side: left
+- name: Align
+  link: https://align.itsallonesong.com
+  side: right
 - name: Photos
   link: /browse.html
   side: right
