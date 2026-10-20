@@ -146,7 +146,9 @@ jobs:
           staging_dir = os.environ.get('IMAGE_STAGING_DIR', '')
 
           body_parts = []
-          if clean_payload['top_text']:
+          # The page also sends the first block's text as top_text; don't write it twice.
+          first_block_text = clean_payload['images'][0]['text_before'] if clean_payload['images'] else ''
+          if clean_payload['top_text'] and clean_payload['top_text'] != first_block_text:
               body_parts.append(clean_payload['top_text'])
 
           for index, image in enumerate(clean_payload['images'], start=1):
