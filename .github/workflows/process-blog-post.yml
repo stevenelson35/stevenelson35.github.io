@@ -200,7 +200,7 @@ jobs:
                       handle.write(f'- {clean_payload["quote_attribution"]}\n')
           PY
 
-      - name: Upload to Turbify via FTP (upload only)
+      - name: Upload to Turbify via FTPS (upload only)
         env:
           FTP_SERVER: ${{ secrets.FTP_SERVER }}
           FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
@@ -214,20 +214,31 @@ jobs:
               exit 0
           fi
 
-          BASE_URL="$FTP_SERVER"
-          if [[ "$BASE_URL" != ftp://* && "$BASE_URL" != ftps://* ]]; then
-              BASE_URL="ftp://$BASE_URL"
-          fi
-          BASE_URL="${BASE_URL%/}"
+          # Explicit FTPS (AUTH TLS on port 21) so the password is never sent in the clear. Turbify only opens
+          # port 21, and its certificate names cpanel292.turbify.biz, so FTP_SERVER should be that host.
+          # Whatever scheme the secret has, connect with ftp:// + --ssl-reqd (ftps:// would mean implicit TLS on 990).
+          HOST="${FTP_SERVER#ftp://}"
+          HOST="${HOST#ftps://}"
+          HOST="${HOST%/}"
+          BASE_URL="ftp://$HOST"
 
           while IFS= read -r -d '' file; do
               rel_path="${file#"$STAGING_DIR"/}"
               remote_path="pics/blog/$rel_path"
               echo "Uploading $rel_path"
-              curl --fail --silent --show-error --ftp-create-dirs \
+              status=0
+              curl --fail --silent --show-error --ssl-reqd --ftp-create-dirs \
                   --user "$FTP_USERNAME:$FTP_PASSWORD" \
                   -T "$file" \
-                  "$BASE_URL/$remote_path"
+                  "$BASE_URL/$remote_path" || status=$?
+              if [[ $status -ne 0 ]]; then
+                  case $status in
+                      67) echo "::error::Turbify refused the FTP login. Check the FTP_USERNAME and FTP_PASSWORD repository secrets." ;;
+                      60|35) echo "::error::The TLS connection to $HOST failed (exit $status). FTP_SERVER should be cpanel292.turbify.biz, the name on Turbify's certificate." ;;
+                      *) echo "::error::Uploading $rel_path to $HOST failed (curl exit $status)." ;;
+                  esac
+                  exit "$status"
+              fi
           done < <(find "$STAGING_DIR" -type f -print0)
 
       - name: Remove staged image files
