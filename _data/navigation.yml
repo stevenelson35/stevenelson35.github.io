@@ -10,6 +10,9 @@
 - name: Align
   link: https://align.itsallonesong.com
   side: right
+- name: "✍ Post"
+  link: https://align.itsallonesong.com/#/blog
+  side: right
 - name: Photos
   link: /browse.html
   side: right
