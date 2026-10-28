@@ -37,6 +37,10 @@ title: Travelin' On Photos
   .browse-event-band { position: absolute; top: 0; height: 28px; background: rgba(255, 204, 0, 0.12); }
   #browse-events { list-style: none; padding: 0; margin: 0.5rem 0 0; text-align: center; font-size: 0.9rem; }
   #browse-events a { color: #ffcc00; }
+  #browse-events li { margin: 0.15rem 0; }
+  #browse-events li.browse-event-within { font-size: 0.85rem; }
+  #browse-events li.on a { font-weight: bold; text-decoration: underline; }
+  .browse-chip.browse-event-chip { background: #5a4a00; border-color: #ffcc00; color: #fff3c4; }
   .browse-muted { color: #666; }
   #browse-gate { max-width: 360px; margin: 3rem auto; text-align: center; color: #e8e8e8; }
   #browse-gate input {
@@ -89,6 +93,7 @@ title: Travelin' On Photos
   </div>
 
   <h3 style="text-align:center;">Events</h3>
+  <p class="browse-muted" style="text-align:center;font-size:0.85rem;margin:0;">Tap an event to show only its photos (a trip includes the events within it); tap it again to show all.</p>
   <ul id="browse-events"></ul>
 </div>
 

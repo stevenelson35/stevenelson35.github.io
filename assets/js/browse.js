@@ -15,6 +15,7 @@
     active: [],       // person names currently selected
     exact: false,     // true: photos with exactly `active`; false: photos with at least `active`
     topOnly: false,   // true: only photos flagged `top` (psort's ◆ top picks)
+    event: null,      // an event slug to show only its photos; 'trip/museum' is an event within 'trip'
     knownPeople: [],  // every name that appears on any favorite
     filtered: [],      // photos matching the filter, ascending
     index: -1          // position of the current photo within `filtered`
@@ -26,9 +27,32 @@
     return size ? picsUrl + size + "/" + photo.id + "-" + size + ".jpg" : picsUrl + photo.id + ".jpg";
   }
 
-  function matches(p) {
+  // People and top-pick filters (the events list is built from these, so it never empties itself).
+  function matchesPeople(p) {
     var hasAll = state.active.every(function (name) { return p.people.indexOf(name) !== -1; });
     return hasAll && (!state.exact || p.people.length === state.active.length) && (!state.topOnly || !!p.top);
+  }
+
+  // A photo is in an event by its `event` (always the top-level one, so a trip includes the events within it) or,
+  // for an event within another, its `sub_event` (psort adds that only when nested).
+  function inEvent(p, slug) {
+    return slug.indexOf("/") === -1 ? p.event === slug : p.sub_event === slug;
+  }
+
+  function matches(p) {
+    return matchesPeople(p) && (!state.event || inEvent(p, state.event));
+  }
+
+  // 'spring-vacation-2026/museum-trip' → 'spring vacation 2026 › museum trip'.
+  function eventLabel(slug) {
+    return slug.split("/").map(function (s) { return s.replace(/-/g, " "); }).join(" › ");
+  }
+
+  function setEvent(slug) {
+    state.event = slug;
+    var first = slug ? state.photos.filter(matches)[0] : null;  // start at the event's beginning
+    recomputeKeepingCurrent(first ? first.id : state.currentPhotoId);
+    render();
   }
 
   function recompute() {
@@ -49,11 +73,6 @@
     render();
   }
 
-  function jumpToPhoto(photo) {
-    recomputeKeepingCurrent(photo.id);
-    render();
-  }
-
   function recomputeKeepingCurrent(id) {
     state.currentPhotoId = id;
     recompute();
@@ -66,6 +85,14 @@
     state.active.forEach(function (n) { if (candidates.indexOf(n) === -1) candidates.push(n); });
     var box = $("browse-chips");
     box.innerHTML = "";
+    if (state.event) {
+      var ev = document.createElement("button");
+      ev.className = "browse-chip on browse-event-chip";
+      ev.textContent = "Event: " + eventLabel(state.event) + " ✕";
+      ev.title = "Show all events again";
+      ev.onclick = function () { setEvent(null); };
+      box.appendChild(ev);
+    }
     candidates.forEach(function (name) {
       var chip = document.createElement("button");
       chip.className = "browse-chip" + (state.active.indexOf(name) !== -1 ? " on" : "");
@@ -117,23 +144,32 @@
     });
   }
 
-  // ---- Events list (requirement 7) ----
+  // ---- Events list (requirement 7): tap one to show only its photos; events within a trip sit under it ----
   function renderEvents() {
     var list = $("browse-events");
-    var matching = state.events.filter(function (e) {
-      return state.filtered.some(function (p) { return p.taken_at >= e.start && p.taken_at <= e.end; });
+    var people = state.photos.filter(matchesPeople);
+    var count = function (slug) { return people.filter(function (p) { return inEvent(p, slug); }).length; };
+    var items = [];
+    state.events.filter(function (e) { return !e.parent; }).forEach(function (e) {
+      var n = count(e.slug);
+      if (!n) return;
+      items.push({ e: e, n: n, within: false });
+      state.events.filter(function (c) { return c.parent === e.slug; }).forEach(function (c) {
+        var m = count(c.slug);
+        if (m) items.push({ e: c, n: m, within: true });
+      });
     });
-    list.innerHTML = matching.length
-      ? matching.map(function (e) {
-          return "<li><a href='#' data-slug='" + e.slug + "'>" + e.name + "</a></li>";
+    list.innerHTML = items.length
+      ? items.map(function (it) {
+          var on = state.event === it.e.slug;
+          return "<li class='" + (it.within ? "browse-event-within" : "") + (on ? " on" : "") + "'><a href='#' data-slug='" +
+            it.e.slug + "'>" + (it.within ? "› " : "") + it.e.name + "</a> <span class='browse-muted'>" + it.n + "</span></li>";
         }).join("")
       : "<li class='browse-muted'>No named events for the current filter.</li>";
     list.querySelectorAll("a").forEach(function (a) {
       a.onclick = function (ev) {
         ev.preventDefault();
-        var e = state.events.filter(function (x) { return x.slug === a.dataset.slug; })[0];
-        var first = state.filtered.filter(function (p) { return p.taken_at >= e.start && p.taken_at <= e.end; })[0];
-        if (first) jumpToPhoto(first);
+        setEvent(state.event === a.dataset.slug ? null : a.dataset.slug);  // tap again to show all
       };
     });
   }
@@ -155,7 +191,7 @@
       img.alt = c.people.join(", ");
       caption.textContent = (c.top ? "◆ " : "") + new Date(c.taken_at).toLocaleString() +
         (c.people.length ? "  ·  " + c.people.join(", ") : "") +
-        (c.event ? "  ·  " + c.event.replace(/-/g, " ") : "");
+        (c.sub_event || c.event ? "  ·  " + eventLabel(c.sub_event || c.event) : "");
     }
     $("browse-position").textContent = state.filtered.length
       ? (state.index + 1) + " / " + state.filtered.length : "0 / 0";
