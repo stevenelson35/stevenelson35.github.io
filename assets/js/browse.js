@@ -16,6 +16,7 @@
     exact: false,     // true: photos with exactly `active`; false: photos with at least `active`
     topOnly: false,   // true: only photos flagged `top` (psort's ◆ top picks)
     event: null,      // an event slug to show only its photos; 'trip/museum' is an event within 'trip'
+    tag: null,        // a tag to show only photos with it (psort's tags, e.g. 'christmas card')
     knownPeople: [],  // every name that appears on any favorite
     filtered: [],      // photos matching the filter, ascending
     index: -1          // position of the current photo within `filtered`
@@ -39,8 +40,10 @@
     return slug.indexOf("/") === -1 ? p.event === slug : p.sub_event === slug;
   }
 
+  function hasTag(p, tag) { return (p.tags || []).indexOf(tag) !== -1; }
+
   function matches(p) {
-    return matchesPeople(p) && (!state.event || inEvent(p, state.event));
+    return matchesPeople(p) && (!state.event || inEvent(p, state.event)) && (!state.tag || hasTag(p, state.tag));
   }
 
   // 'spring-vacation-2026/museum-trip' → 'spring vacation 2026 › museum trip'.
@@ -52,6 +55,14 @@
     state.event = slug;
     var first = slug ? state.photos.filter(matches)[0] : null;  // start at the event's beginning
     recomputeKeepingCurrent(first ? first.id : state.currentPhotoId);
+    render();
+  }
+
+  function setTag(tag) {
+    state.tag = tag;
+    var cur = current();
+    // Stay on the current photo if it has the tag; otherwise go to the most recent one that does.
+    recomputeKeepingCurrent(cur && (!tag || hasTag(cur, tag)) ? cur.id : null);
     render();
   }
 
@@ -85,6 +96,14 @@
     state.active.forEach(function (n) { if (candidates.indexOf(n) === -1) candidates.push(n); });
     var box = $("browse-chips");
     box.innerHTML = "";
+    if (state.tag) {
+      var tg = document.createElement("button");
+      tg.className = "browse-chip on browse-event-chip";
+      tg.textContent = "Tag: " + state.tag + " ✕";
+      tg.title = "Show all tags again";
+      tg.onclick = function () { setTag(null); };
+      box.appendChild(tg);
+    }
     if (state.event) {
       var ev = document.createElement("button");
       ev.className = "browse-chip on browse-event-chip";
@@ -174,6 +193,26 @@
     });
   }
 
+  // ---- Tags list: tap one to show only photos with it (with the people and event filters); tap again for all ----
+  function renderTags() {
+    var list = $("browse-tags");
+    if (!list) return;
+    var base = state.photos.filter(function (p) { return matchesPeople(p) && (!state.event || inEvent(p, state.event)); });
+    var counts = {};
+    base.forEach(function (p) { (p.tags || []).forEach(function (t) { counts[t] = (counts[t] || 0) + 1; }); });
+    var tags = Object.keys(counts).sort();
+    $("browse-tags-section").style.display = state.photos.some(function (p) { return p.tags && p.tags.length; }) ? "" : "none";
+    list.innerHTML = tags.length
+      ? tags.map(function (t) {
+          return "<button class='browse-chip" + (state.tag === t ? " on" : "") + "' data-tag='" + t.replace(/'/g, "&#39;") +
+            "'>" + t + " <span class='browse-muted'>" + counts[t] + "</span></button>";
+        }).join("")
+      : "<span class='browse-muted'>No tags for the current filter.</span>";
+    list.querySelectorAll("button").forEach(function (b) {
+      b.onclick = function () { setTag(state.tag === b.dataset.tag ? null : b.dataset.tag); };
+    });
+  }
+
   // ---- Main viewer ----
   function render() {
     var c = current();
@@ -191,13 +230,15 @@
       img.alt = c.people.join(", ");
       caption.textContent = (c.top ? "◆ " : "") + new Date(c.taken_at).toLocaleString() +
         (c.people.length ? "  ·  " + c.people.join(", ") : "") +
-        (c.sub_event || c.event ? "  ·  " + eventLabel(c.sub_event || c.event) : "");
+        (c.sub_event || c.event ? "  ·  " + eventLabel(c.sub_event || c.event) : "") +
+        (c.tags && c.tags.length ? "  ·  #" + c.tags.join(" #") : "");
     }
     $("browse-position").textContent = state.filtered.length
       ? (state.index + 1) + " / " + state.filtered.length : "0 / 0";
     renderChips();
     renderTimeline();
     renderEvents();
+    renderTags();
   }
 
   // ---- Wiring ----
